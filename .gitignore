@@ -1,0 +1,6 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Never commit real config
+shopkeepr_config.yaml
