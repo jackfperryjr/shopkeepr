@@ -11,102 +11,116 @@
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --ink:        #1a1410;
-    --ink-mid:    #4a3f35;
-    --ink-faint:  #8a7b6e;
-    --parchment:  #f5f0e8;
-    --parchment2: #ede5d4;
-    --parchment3: #e2d9c6;
-    --gold:       #9a7c3a;
-    --gold-light: #c9a84c;
-    --gold-dim:   #6b5526;
-    --red:        #7a2020;
-    --teal:       #1d5c4e;
-    --border:     rgba(90, 70, 40, 0.2);
-    --border-mid: rgba(90, 70, 40, 0.35);
+    --bg-deep:    #0f0d0a;
+    --bg-surface: #181410;
+    --bg-raised:  #221d17;
+    --bg-hover:   #2a2318;
+    --bg-input:   #1c1812;
+
+    --text:       #e8dfc8;
+    --text-mid:   #b0a080;
+    --text-dim:   #6a5f48;
+
+    --gold:       #c9a84c;
+    --gold-bright:#e8c96a;
+    --gold-dim:   #7a6030;
+    --gold-faint: rgba(201,168,76,0.12);
+
+    --teal:       #4db89a;
+    --teal-dim:   #1d5c4e;
+
+    --border:     rgba(180,150,80,0.12);
+    --border-mid: rgba(180,150,80,0.22);
+    --border-hi:  rgba(180,150,80,0.4);
   }
 
   html { font-size: 16px; }
 
   body {
     font-family: 'Crimson Pro', Georgia, serif;
-    background: var(--parchment);
-    color: var(--ink);
+    background: var(--bg-deep);
+    color: var(--text);
     min-height: 100vh;
-    background-image:
-      radial-gradient(ellipse at 20% 10%, rgba(180,150,80,0.07) 0%, transparent 60%),
-      radial-gradient(ellipse at 80% 90%, rgba(120,90,40,0.06) 0%, transparent 60%);
   }
 
-  /* ── Header ── */
   header {
-    background: var(--ink);
-    color: var(--parchment);
+    background: var(--bg-surface);
     padding: 2.5rem 2rem 2rem;
     text-align: center;
-    border-bottom: 3px solid var(--gold);
+    border-bottom: 1px solid var(--border-mid);
     position: relative;
-    overflow: hidden;
   }
 
-  header::before {
+  header::after {
     content: '';
+    display: block;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--gold-dim), var(--gold), var(--gold-dim), transparent);
     position: absolute;
-    inset: 0;
-    background:
-      repeating-linear-gradient(
-        90deg,
-        transparent,
-        transparent 60px,
-        rgba(180,150,80,0.03) 60px,
-        rgba(180,150,80,0.03) 61px
-      );
+    bottom: -2px;
+    left: 0; right: 0;
   }
 
   .header-ornament {
-    font-size: 1rem;
-    color: var(--gold-light);
-    letter-spacing: 0.4em;
+    font-size: 0.75rem;
+    color: var(--gold-dim);
+    letter-spacing: 0.5em;
     text-transform: uppercase;
-    font-family: 'Crimson Pro', serif;
-    font-weight: 300;
-    margin-bottom: 0.5rem;
-    position: relative;
+    font-family: 'Cinzel', serif;
+    font-weight: 400;
+    margin-bottom: 0.6rem;
   }
 
   h1 {
     font-family: 'Cinzel', serif;
     font-size: clamp(2rem, 5vw, 3.2rem);
     font-weight: 600;
-    color: var(--gold-light);
-    letter-spacing: 0.05em;
+    color: var(--gold-bright);
+    letter-spacing: 0.06em;
     line-height: 1.1;
-    position: relative;
   }
 
   .header-sub {
     font-size: 1.1rem;
-    color: rgba(245,240,232,0.6);
+    color: var(--text-mid);
     margin-top: 0.5rem;
     font-weight: 300;
     font-style: italic;
-    position: relative;
+  }
+
+  .rule {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin: 0.8rem auto 0;
+    max-width: 320px;
+    opacity: 0.35;
+  }
+  .rule::before, .rule::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--gold);
+  }
+  .rule-diamond {
+    width: 5px; height: 5px;
+    background: var(--gold);
+    transform: rotate(45deg);
+    flex-shrink: 0;
   }
 
   .last-updated {
-    margin-top: 1rem;
-    font-size: 0.85rem;
-    color: rgba(245,240,232,0.4);
+    margin-top: 0.9rem;
+    font-size: 0.75rem;
+    color: var(--text-dim);
     font-family: 'Cinzel', serif;
-    letter-spacing: 0.05em;
-    position: relative;
+    letter-spacing: 0.06em;
   }
 
-  /* ── Controls ── */
   .controls {
-    background: var(--parchment2);
+    background: var(--bg-surface);
     border-bottom: 1px solid var(--border-mid);
-    padding: 1.25rem 2rem;
+    padding: 1.1rem 2rem;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
@@ -114,7 +128,6 @@
     position: sticky;
     top: 0;
     z-index: 100;
-    box-shadow: 0 2px 8px rgba(30,20,10,0.08);
   }
 
   .control-group {
@@ -122,14 +135,14 @@
     align-items: center;
     gap: 0.5rem;
     flex: 1;
-    min-width: 180px;
+    min-width: 160px;
   }
 
   .control-group label {
     font-family: 'Cinzel', serif;
-    font-size: 0.7rem;
-    letter-spacing: 0.08em;
-    color: var(--ink-faint);
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    color: var(--text-dim);
     white-space: nowrap;
     text-transform: uppercase;
   }
@@ -137,47 +150,49 @@
   input[type="search"], select {
     font-family: 'Crimson Pro', serif;
     font-size: 1rem;
-    background: var(--parchment);
-    color: var(--ink);
+    background: var(--bg-input);
+    color: var(--text);
     border: 1px solid var(--border-mid);
     border-radius: 3px;
     padding: 0.4rem 0.75rem;
     width: 100%;
     outline: none;
-    transition: border-color 0.15s;
+    transition: border-color 0.15s, background 0.15s;
     -webkit-appearance: none;
     appearance: none;
   }
 
   input[type="search"]:focus, select:focus {
-    border-color: var(--gold);
+    border-color: var(--gold-dim);
+    background: var(--bg-raised);
   }
 
+  input[type="search"]::placeholder { color: var(--text-dim); }
+
   select {
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%238a7b6e'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%236a5f48'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: right 0.75rem center;
     padding-right: 2rem;
+    cursor: pointer;
   }
+
+  select option { background: var(--bg-raised); color: var(--text); }
 
   .stats-bar {
     font-family: 'Cinzel', serif;
-    font-size: 0.7rem;
-    letter-spacing: 0.05em;
-    color: var(--ink-faint);
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    color: var(--text-dim);
     white-space: nowrap;
-    padding: 0.4rem 0.75rem;
-    background: var(--parchment3);
+    padding: 0.4rem 0.9rem;
+    background: var(--bg-raised);
     border: 1px solid var(--border);
     border-radius: 3px;
   }
 
-  .stats-bar span {
-    color: var(--gold-dim);
-    font-weight: 600;
-  }
+  .stats-bar span { color: var(--gold); font-weight: 600; }
 
-  /* ── Table ── */
   .table-wrap {
     padding: 1.5rem 2rem 4rem;
     overflow-x: auto;
@@ -189,30 +204,26 @@
     font-size: 0.95rem;
   }
 
-  thead {
-    position: sticky;
-    top: 72px;
-    z-index: 50;
-  }
+  thead { position: sticky; top: 60px; z-index: 50; }
 
   thead th {
     font-family: 'Cinzel', serif;
-    font-size: 0.68rem;
+    font-size: 0.64rem;
     font-weight: 600;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: var(--ink-faint);
-    background: var(--parchment2);
+    color: var(--text-dim);
+    background: var(--bg-surface);
     padding: 0.75rem 1rem;
     text-align: left;
-    border-bottom: 2px solid var(--border-mid);
+    border-bottom: 1px solid var(--border-mid);
     cursor: pointer;
     user-select: none;
     white-space: nowrap;
+    transition: color 0.1s;
   }
 
-  thead th:hover { color: var(--gold-dim); }
-
+  thead th:hover { color: var(--gold); }
   thead th.sorted-asc::after  { content: ' ↑'; color: var(--gold); }
   thead th.sorted-desc::after { content: ' ↓'; color: var(--gold); }
 
@@ -221,54 +232,39 @@
     transition: background 0.1s;
   }
 
-  tbody tr:hover { background: var(--parchment2); }
+  tbody tr:hover { background: var(--bg-hover); }
 
   tbody td {
-    padding: 0.75rem 1rem;
+    padding: 0.8rem 1rem;
     vertical-align: top;
     line-height: 1.5;
   }
 
-  .cell-name {
-    font-weight: 600;
-    color: var(--ink);
-    min-width: 180px;
-  }
-
-  .cell-price {
-    font-family: 'Cinzel', serif;
-    font-size: 0.85rem;
-    color: var(--teal);
-    white-space: nowrap;
-    font-weight: 600;
-  }
-
-  .cell-shop {
-    color: var(--ink-mid);
-    white-space: nowrap;
-  }
+  .cell-name  { font-weight: 600; color: var(--text); min-width: 180px; }
+  .cell-price { font-family: 'Cinzel', serif; font-size: 0.82rem; color: var(--teal); white-space: nowrap; font-weight: 600; letter-spacing: 0.02em; }
+  .cell-shop  { color: var(--text-mid); white-space: nowrap; }
 
   .town-badge {
     display: inline-block;
     font-family: 'Cinzel', serif;
-    font-size: 0.62rem;
-    letter-spacing: 0.06em;
+    font-size: 0.6rem;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
-    padding: 0.2rem 0.5rem;
+    padding: 0.2rem 0.55rem;
     border-radius: 2px;
     border: 1px solid;
     white-space: nowrap;
   }
 
-  .town-crossing     { background: #f0e6d3; color: #7a4a10; border-color: #c8963a; }
-  .town-riverhaven   { background: #d8eaf0; color: #0f4a6a; border-color: #3a8ab4; }
-  .town-shard        { background: #e8d8f0; color: #4a1a7a; border-color: #8a4ab4; }
-  .town-therenborough{ background: #d8f0e0; color: #1a5a30; border-color: #3a9a5a; }
-  .town-other        { background: var(--parchment3); color: var(--ink-mid); border-color: var(--border-mid); }
+  .town-crossing      { background: rgba(180,110,20,0.15); color: #c9883a; border-color: rgba(180,110,20,0.3); }
+  .town-riverhaven    { background: rgba(30,100,180,0.15);  color: #6aafdf; border-color: rgba(30,100,180,0.3); }
+  .town-shard         { background: rgba(120,60,200,0.15);  color: #b080e8; border-color: rgba(120,60,200,0.3); }
+  .town-therenborough { background: rgba(30,140,80,0.15);   color: #5dba88; border-color: rgba(30,140,80,0.3); }
+  .town-other         { background: var(--bg-raised); color: var(--text-mid); border-color: var(--border-mid); }
 
   .cell-desc {
     font-size: 0.88rem;
-    color: var(--ink-mid);
+    color: var(--text-mid);
     font-style: italic;
     max-width: 360px;
     min-width: 200px;
@@ -276,50 +272,50 @@
 
   .cell-date {
     font-family: 'Cinzel', serif;
-    font-size: 0.7rem;
-    color: var(--ink-faint);
+    font-size: 0.65rem;
+    color: var(--text-dim);
     white-space: nowrap;
+    letter-spacing: 0.04em;
   }
 
-  /* ── Empty / loading states ── */
   .state-msg {
     text-align: center;
     padding: 5rem 2rem;
-    color: var(--ink-faint);
+    color: var(--text-dim);
   }
 
-  .state-msg .icon {
-    font-size: 3rem;
+  .state-msg .glyph {
+    font-family: 'Cinzel', serif;
+    font-size: 2.5rem;
     display: block;
     margin-bottom: 1rem;
-    opacity: 0.4;
+    color: var(--gold-dim);
+    opacity: 0.5;
   }
 
   .state-msg p {
     font-family: 'Cinzel', serif;
-    font-size: 0.85rem;
-    letter-spacing: 0.08em;
+    font-size: 0.78rem;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
   }
 
-  /* ── Footer ── */
   footer {
     text-align: center;
     padding: 2rem;
-    font-size: 0.8rem;
-    color: var(--ink-faint);
+    font-size: 0.82rem;
+    color: var(--text-dim);
     border-top: 1px solid var(--border);
     font-style: italic;
   }
 
   footer a { color: var(--gold-dim); text-decoration: none; }
-  footer a:hover { text-decoration: underline; }
+  footer a:hover { color: var(--gold); }
 
-  /* ── Responsive ── */
   @media (max-width: 640px) {
-    .controls { padding: 1rem; }
+    .controls { padding: 0.9rem 1rem; }
     .table-wrap { padding: 1rem 0.75rem 3rem; }
-    tbody td { padding: 0.6rem 0.75rem; }
+    tbody td { padding: 0.6rem 0.6rem; }
     .cell-desc { display: none; }
   }
 </style>
@@ -330,16 +326,16 @@
   <p class="header-ornament">DragonRealms Prime</p>
   <h1>shopkeepr</h1>
   <p class="header-sub">A browser for player-owned plaza shops across Elanthia</p>
+  <div class="rule"><div class="rule-diamond"></div></div>
   <p class="last-updated" id="last-updated">Loading…</p>
 </header>
 
 <div class="controls">
-  <div class="control-group" style="max-width: 320px;">
+  <div class="control-group" style="max-width:320px;">
     <label for="search">Search</label>
     <input type="search" id="search" placeholder="item name or description…">
   </div>
-
-  <div class="control-group" style="max-width: 200px;">
+  <div class="control-group" style="max-width:200px;">
     <label for="filter-town">Town</label>
     <select id="filter-town">
       <option value="">All towns</option>
@@ -349,20 +345,16 @@
       <option value="Therenborough">Therenborough</option>
     </select>
   </div>
-
-  <div class="control-group" style="max-width: 220px;">
+  <div class="control-group" style="max-width:220px;">
     <label for="filter-shop">Shop</label>
     <select id="filter-shop"><option value="">All shops</option></select>
   </div>
-
-  <div class="stats-bar" id="stats-bar">
-    Loading…
-  </div>
+  <div class="stats-bar" id="stats-bar">Loading…</div>
 </div>
 
 <div class="table-wrap">
   <div id="loading" class="state-msg">
-    <span class="icon">⚖</span>
+    <span class="glyph">⚖</span>
     <p>Consulting the merchant guilds…</p>
   </div>
 
@@ -381,7 +373,7 @@
   </table>
 
   <div id="empty" class="state-msg" style="display:none;">
-    <span class="icon">🕯</span>
+    <span class="glyph">✦</span>
     <p>No items match your search</p>
   </div>
 </div>
@@ -393,17 +385,16 @@
 
 <script>
 const DATA_URL = 'data/plaza_items.json';
-
 let allItems = [];
 let sortCol  = 'name';
 let sortDir  = 'asc';
 
 function townClass(town) {
   const t = (town || '').toLowerCase();
-  if (t === 'crossing')      return 'town-crossing';
-  if (t === 'riverhaven')    return 'town-riverhaven';
-  if (t === 'shard')         return 'town-shard';
-  if (t === 'therenborough') return 'town-therenborough';
+  if (t === 'crossing')       return 'town-crossing';
+  if (t === 'riverhaven')     return 'town-riverhaven';
+  if (t === 'shard')          return 'town-shard';
+  if (t === 'therenborough')  return 'town-therenborough';
   return 'town-other';
 }
 
@@ -412,14 +403,12 @@ function escHtml(s) {
 }
 
 function buildShopOptions(items) {
-  const town   = document.getElementById('filter-town').value;
-  const shops  = [...new Set(
-    items
-      .filter(i => !town || i.town === town)
-      .map(i => i.shop)
+  const town  = document.getElementById('filter-town').value;
+  const shops = [...new Set(
+    items.filter(i => !town || i.town === town).map(i => i.shop)
   )].sort();
-  const sel    = document.getElementById('filter-shop');
-  const cur    = sel.value;
+  const sel = document.getElementById('filter-shop');
+  const cur = sel.value;
   sel.innerHTML = '<option value="">All shops</option>' +
     shops.map(s => `<option value="${escHtml(s)}"${s===cur?' selected':''}>${escHtml(s)}</option>`).join('');
 }
@@ -433,20 +422,20 @@ function filterAndSort() {
     if (town && i.town !== town) return false;
     if (shop && i.shop !== shop) return false;
     if (query) {
-      const haystack = `${i.name} ${i.description || ''} ${i.shop}`.toLowerCase();
-      if (!haystack.includes(query)) return false;
+      const hay = `${i.name} ${i.description || ''} ${i.shop}`.toLowerCase();
+      if (!hay.includes(query)) return false;
     }
     return true;
   });
 
   rows.sort((a, b) => {
-    let av = (a[sortCol] || '').toString().toLowerCase();
-    let bv = (b[sortCol] || '').toString().toLowerCase();
     if (sortCol === 'price') {
-      av = parseFloat((a.price || '').replace(/[^\d.]/g, '')) || 0;
-      bv = parseFloat((b.price || '').replace(/[^\d.]/g, '')) || 0;
+      const av = parseFloat((a.price || '').replace(/[^\d.]/g,'')) || 0;
+      const bv = parseFloat((b.price || '').replace(/[^\d.]/g,'')) || 0;
       return sortDir === 'asc' ? av - bv : bv - av;
     }
+    const av = (a[sortCol] || '').toString().toLowerCase();
+    const bv = (b[sortCol] || '').toString().toLowerCase();
     if (av < bv) return sortDir === 'asc' ? -1 :  1;
     if (av > bv) return sortDir === 'asc' ?  1 : -1;
     return 0;
@@ -469,7 +458,6 @@ function render(rows) {
 
   table.style.display = 'table';
   empty.style.display = 'none';
-
   document.getElementById('stats-bar').innerHTML =
     `Showing <span>${rows.length.toLocaleString()}</span> of <span>${allItems.length.toLocaleString()}</span> items`;
 
@@ -489,12 +477,8 @@ function initSortHeaders() {
   document.querySelectorAll('thead th[data-col]').forEach(th => {
     th.addEventListener('click', () => {
       const col = th.dataset.col;
-      if (sortCol === col) {
-        sortDir = sortDir === 'asc' ? 'desc' : 'asc';
-      } else {
-        sortCol = col;
-        sortDir = 'asc';
-      }
+      sortDir = (sortCol === col && sortDir === 'asc') ? 'desc' : 'asc';
+      sortCol = col;
       document.querySelectorAll('thead th').forEach(t => t.className = '');
       th.className = sortDir === 'asc' ? 'sorted-asc' : 'sorted-desc';
       filterAndSort();
@@ -507,8 +491,7 @@ async function loadData() {
   try {
     const res  = await fetch(DATA_URL + '?t=' + Date.now());
     const data = await res.json();
-
-    allItems = data.items || [];
+    allItems   = data.items || [];
 
     const ts = data.updated_at && data.updated_at !== 'never'
       ? new Date(data.updated_at).toLocaleString('en-US', {
@@ -518,17 +501,16 @@ async function loadData() {
       : 'never';
 
     document.getElementById('last-updated').textContent =
-      allItems.length === 0 ? 'No data yet — run the Lich script to populate.'
-      : `Last updated: ${ts}`;
+      allItems.length === 0
+        ? 'No data yet — run the Lich script to populate.'
+        : `Last updated: ${ts}`;
 
     document.getElementById('loading').style.display = 'none';
-
     buildShopOptions(allItems);
     filterAndSort();
-
   } catch (e) {
     document.getElementById('loading').innerHTML =
-      '<span class="icon">⚠</span><p>Could not load plaza_items.json</p>';
+      '<span class="glyph">✦</span><p>Could not load plaza_items.json</p>';
     console.error(e);
   }
 }
