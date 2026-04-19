@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:15:55Z",
-  "item_count": 417,
+  "updated_at": "2026-04-19T17:16:24Z",
+  "item_count": 420,
   "items": [
     {
       "town": "Crossing",
@@ -1595,6 +1595,27 @@
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "some trollkin-hide leather",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "From Here To Antiquity",
+      "name": "a lightly colored silk fan with twin beaded ribbons hanging from the grip",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "From Here To Antiquity",
+      "name": "a small abyssal black jar",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "From Here To Antiquity",
+      "name": "a viscous golden potion",
       "price": " ",
       "last_seen": "2026-04-19"
     },
