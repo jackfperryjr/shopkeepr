@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:16:24Z",
-  "item_count": 420,
+  "updated_at": "2026-04-19T17:17:12Z",
+  "item_count": 467,
   "items": [
     {
       "town": "Crossing",
@@ -1616,6 +1616,335 @@
       "town": "Crossing",
       "shop": "From Here To Antiquity",
       "name": "a viscous golden potion",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a Kirmhara doll with scarred ebony skin and pale silver eyes",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a ceremonial stag's skull mask",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a curved mistwood warhorn trimmed with orichalcum",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a delicate breccia warhorn embellished with bands of copper",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a double-sided quelium ball and chain",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a fire maiden topaz and silver ring",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a furred mask",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a haon arbalest with a series of small notches cut into the stock",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a heavily faceted blood ruby rose",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a large cougar-hide tome patterned with stylized jade sigils",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a large deer-hide tome patterned with stylized periwinkle sigils",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a mammoth tusk warhorn engraved with a volley of arrows",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a massive pair of thunder ram horns",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a mechanical sledgehammer bearing a spent ilmenite core slotted mechanism",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a miniature Tieheq doll dressed in azure robes",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a nacre-coated thrusting sword",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a pale grey steelsilk gown with a flower-embellished bodice",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a pink leather harness with a labyrinthine tin clasp",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a polished scimitar with a leather-wrapped hilt bearing a circular cambrinth medallion",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a porcelain toy Alamhif clothed in whisperlayne vestments",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a porcelain toy Asketi clothed in uzil vestments",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a purpleheart pilgrim's badge sculpted with the emblem of Eylhaar",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a red bowtie with various faces swirling across its surface",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a resplendent robe of frost-white whisperlayne beset by vela'tohr tourmalines",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a rockwood tanbo with polished darkstone tips",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a rusty dual-pronged blade set into a grip of charred bone",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a sanguine-hued recurve bow inlaid with intricate golden scrollwork",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a shiny icesteel armband inlaid with snowflake-shaped cloud turquoises",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a silver circlet of intricately wrought icicles dripping druzy quartz",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a silversteel warhorn wrapped in lava-drake hide",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a sinuous asini ritual knife with a hexwood hilt",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a smooth porcelain mask with artfully painted features",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a sparkling diamondique warhorn adorned with platinum bells",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a spiked cambrinth circlet inlaid with cinnabar seastars",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a spooky scarecrow mask with bits of straw sticking out haphazardly",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "a steel knife with a braided twine tether",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "an Anmuva doll wearing a stag skull mask carved with crimson channels",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "an Elide doll with slightly pointed ears nearly hidden by bright curly white hair",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "an Issendar doll wearing watersilk robes arranged to reveal a sword hilt",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "an Unaka doll wearing ox-horn pauldrons and a crossbody weapon harness",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "an acenite circlet of intricately wrought icicles dripping damilyo pearls",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "an anlora-avtoma circlet of intricately wrought icicles dripping winter opals",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "an icesteel shield emblazoned in gold with a roaring lion",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "an iridescent black fathomstone",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "an oily sea-green potion",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "some feathery rencate seaweed fronds dappled with sapphire swirls",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Gnome Depot",
+      "name": "some glaes throwing nightingales",
       "price": " ",
       "last_seen": "2026-04-19"
     },
