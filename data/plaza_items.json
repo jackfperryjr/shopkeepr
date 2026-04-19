@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:44:01Z",
-  "item_count": 920,
+  "updated_at": "2026-04-19T17:44:49Z",
+  "item_count": 925,
   "items": [
     {
       "town": "Crossing",
@@ -349,441 +349,476 @@
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a basalt bobcat rod",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a battered wooden spatula",
-      "price": " ",
+      "price": "200",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a beige sailcloth thigh bag with leather straps",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a boxy ebon canvas tote with cougar-hide handles",
-      "price": " ",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a braided gold ring set with a large faceted sapphire",
-      "price": " ",
+      "price": "75",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a brass-handled katar with a gleaming undulate blade",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a bright pink paintstick",
-      "price": " ",
+      "price": "1",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a bright white notecard with a message that reads: \"grandmasters 30, master 15, rod is a returner\"",
+      "price": "1316134911",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a brushed gold signet ring cradling an aurora tourmaline",
-      "price": " ",
+      "price": "10",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a charcoal and puce plaid kilt",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a chocolate and cream toy goat with sparkling blue sea-glass eyes",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a concealer's permit",
-      "price": " ",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a copper Dokora coin",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a copper Lirum coin",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a cream-colored linen shirt that drapes low in the front",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a darkstone great helm crafted from tempered plates",
-      "price": " ",
+      "price": "35",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a diamond ring",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a dwelling voucher",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a fine burlap carryall",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a fire-scorched leather hat",
-      "price": " ",
+      "price": "200",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a footman's arbalest with blackened tel'athi fittings",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a gladiator's battle kit fabricated from dark leather and asini fittings",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a gleaming agonite warrior's shield studded with blood rubies",
-      "price": " ",
+      "price": "300",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a gold lapel pin shaped like a seven-pointed star inset with a ruby moon",
-      "price": " ",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a heart-shaped golden locket wrapped in asini filigree",
-      "price": " ",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a heavy windsteel chainmail wristband woven with crystal bells",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a hexwood planter",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a liquid-filled crystal sunburst displayed upon braided titanese",
-      "price": " ",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a long-sleeved khaddar shirt with simple threading",
-      "price": " ",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a mess of dead darkspine leaves",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a miniature Elven gold caravan with burnished spoked wheels",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a pair of crossed swords",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a patchwork burlap wrist pouch",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a plain flame-orange wool carryall with gold buckles",
-      "price": " ",
+      "price": "35",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a plain wheat-colored linen sash",
-      "price": " ",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a polished acorn pendant",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a pygmy three-toed sloth covered in mottled dark brown fur",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a quality black leather bank book cover",
-      "price": " ",
+      "price": "1",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a rugged backpack",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a scaly anteater covered in burnished copper plates",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a simple focused burin",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a small doeskin pouch covered in basalt beading",
-      "price": " ",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a small enchanter's brazier",
-      "price": " ",
+      "price": "300",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel claymore",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel cutlass",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel cutlass with a balanced blade",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel footman's flail",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel gavel",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel greataxe",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel heavy sledgehammer",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel horseman's flail",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel horseman's flail with a balanced design",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel hunthsleg with a balanced blade",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel ring balaclava with trimmed links",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel round axe",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a steel round sipar with a trimmed face",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a thin gold token",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a veiny bloodshot eye",
-      "price": " ",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a wide-bottom mistwood guti'adar with ivory-tipped tuning pins",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "a worn and patched gearbag with thickly padded shoulder straps",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "an iron lockpick ring",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "some dusty dark grey armwraps dangling lengths of coiled rope",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "some glaes chisels decorated with crushed gemstones",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "some glass spheres",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "some niniam mail gloves crafted from tempered links",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "some obsidian stone spikes",
-      "price": " ",
+      "price": "15",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "some polished silver lenses",
-      "price": " ",
+      "price": "35",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Almost Famous",
       "name": "some tarnished silver lenses",
-      "price": " ",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
