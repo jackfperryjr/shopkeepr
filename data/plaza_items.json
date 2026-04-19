@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:19:09Z",
-  "item_count": 542,
+  "updated_at": "2026-04-19T17:19:58Z",
+  "item_count": 553,
   "items": [
     {
       "town": "Crossing",
@@ -2330,6 +2330,83 @@
       "town": "Crossing",
       "shop": "Kythe And Cauldron",
       "name": "a silvered scroll labeled with Innocence",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a Drogor's Wrath sapphire",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a brass-inlaid mace with an ironwood haft",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a classic Yavash-red smoking jacket with black satin lapels",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a copper-inlaid mace with an ironwood haft",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a cracked granite heavy mallet with a wire-bound black ironwood handle",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a hooded cloak of rose-hued silk with a gold embroidered hem",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a jagged sandstone shard with a lump of soulstone embedded in one end",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a long gilt-edged dagger with a central blood channel",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a rough leather war belt with a razaksel-crow's head belt buckle",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "a wispy whisperlayne uaro's'sugi trimmed with midnight onyx",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "name": "an insulated robe",
       "price": " ",
       "last_seen": "2026-04-19"
     },
