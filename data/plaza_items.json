@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:40:53Z",
-  "item_count": 1241,
+  "updated_at": "2026-04-19T18:41:41Z",
+  "item_count": 1288,
   "items": [
     {
       "town": "Crossing",
@@ -8435,6 +8435,335 @@
       "shop": "Tears Of The World Dragon",
       "name": "some glaes throwing nightingales",
       "price": "250",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a baby blue dergatine cloak trimmed with gold braid",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a bright white notecard with a message that reads: \"All item prices are negotiable! Feel free to send me a personal thought if you see something you like!\"",
+      "price": "45094837 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a brown fur otter marionette",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a chartreuse sanowret crystal set in an enameled bird",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Blood Burst",
+      "price": "400 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Divine Guidance",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Echoes of Aether",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Fluoresce",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Iron Constitution",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Petrifying Visions",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Platinum Hands of Kertigen",
+      "price": "450 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Rising Mists",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Soldier's Prayer",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a crumpled paper scroll labeled with Visions of Darkness",
+      "price": "5 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a dark burgundy leather cowl embossed with raven feathers",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a discolored whiskey keg",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a firesilk baldric clad in agonite plates",
+      "price": "750 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a full-length brilliantine cloak of deep vermilion accented with dark silver embroidery",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a glittery-pink scroll labeled with Crystal Dart",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a heavy muracite hurling axe with a polished haft",
+      "price": "60 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a jagged demonbone mace with a wrought iron haft",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a large white towel of fluffy cotton embroidered with a buttercup border",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a long bearskin cloak",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a low cut black velvet gown cinched at the waist with a tasseled red leather cord",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a pair of silk wings decorated with overlapping ice crystals",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a pair of velvet slippers",
+      "price": "5 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a platinum-hued scroll labeled with Innocence",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a russet suede falconer's vest trimmed with black leather",
+      "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a sanguine-hued gutting knife with a punka-wrapped handle",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a sanguine-hued recurve bow inlaid with intricate golden scrollwork",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a short auburn zibeline jacket with bronze-embroidered lapels",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a slender gold choker strung with diamond beads",
+      "price": "5 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a slender quarterstaff carved from smokewood and reinforced with audrualm tips",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a small voile gem pouch with scalloped edges",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a soft doeskin pouch with a cast iron clasp",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a spidersilk clutch shaped like a spider's eggsac",
+      "price": "250 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a steel mace with icesteel spikes",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a violet sanowret crystal set in an enameled rat",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "a wyndwood crossbow with a wolf-shaped stock",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "an aldamdin mirror",
+      "price": "250 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "an ebony handled greathammer with a blackened steel head",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "an elegant navy jacquard scholar's robe with embroidered cuffs",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "some dark steel hand claws with razor-thin blades",
+      "price": "250 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "some flowing chainsil robes flecked with tiny spectrolite droplets",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "some fuzzy malachite dolphin slippers with large citrine eyes",
+      "price": "5 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "some purple gold goggles with darkly tinted lenses",
+      "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "'The Cramus Collection'",
+      "name": "some soft kidskin gloves patterned with blue-green iolite chips",
+      "price": "5 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
