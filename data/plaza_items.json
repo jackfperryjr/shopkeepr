@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:41:41Z",
-  "item_count": 1288,
+  "updated_at": "2026-04-19T18:42:30Z",
+  "item_count": 1385,
   "items": [
     {
       "town": "Crossing",
@@ -8862,6 +8862,685 @@
       "shop": "Brim's Bits And Bobs",
       "name": "some blue dye",
       "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a flanged steel mace",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a grooved covellite mixing stick",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a light lumium plate cuirass",
+      "price": "97 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a light lumium plate mask",
+      "price": "17 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a light steel throwing axe",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium ceremonial shield",
+      "price": "40 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium jousting shield",
+      "price": "62 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium kite shield",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium medium shield",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium ring balaclava",
+      "price": "40 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium ring hauberk",
+      "price": "175 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium ring helm",
+      "price": "30 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium ring lorica",
+      "price": "65 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium ring robe",
+      "price": "95 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium ring shirt",
+      "price": "105 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium round sipar",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium sallet",
+      "price": "87 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium scale balaclava",
+      "price": "65 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium scale helm",
+      "price": "52 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium scale lorica",
+      "price": "85 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium scale mask",
+      "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium target shield",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium tower shield",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a lumium triangular sipar",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a padded burlap hauberk sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a padded burlap hood sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a padded burlap mask sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a padded burlap robe sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a padded burlap shirt sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a padded burlap tabard sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a quilted burlap hauberk sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a serrated steel hide scraper",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a sharpened steel drawknife",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a silk backpack",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a silk carryall",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a silk duffel bag",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a silk haversack",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a silk rucksack",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a simple steel parry stick",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel akabo",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel ball-peen hammer",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel broadsword",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel carving knife",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel claymore",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel cutlass",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel dire mace",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel falcata",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel flamberge",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel garz",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel gladius",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel grooved pestle",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel hurling axe",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel jagged wood shaper",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel javelin",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel military fork",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel robe sword",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel serrated bone saw",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel slender awl",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel telek",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel throwing club",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel throwing hammer",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel thrusting blade",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel ukabi",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a steel wide shovel",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a tapered steel rasp",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a trapezoidal steel wire sieve",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "a weighted steel pickaxe",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "an insulated burlap hauberk sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some covellite box-jaw tongs",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some elongated steel rifflers",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some fang-painted arrows",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some light lumium field plate",
+      "price": "145 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some light lumium full plate",
+      "price": "250 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some light lumium half plate",
+      "price": "162 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some light lumium plate gauntlets",
+      "price": "32 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium light plate greaves",
+      "price": "47 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium light plate sleeves",
+      "price": "97 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium light plate vambraces",
+      "price": "65 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium ring gloves",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium ring greaves",
+      "price": "30 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium ring sleeves",
+      "price": "52 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium ring vambraces",
+      "price": "42 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium scale gloves",
+      "price": "20 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium scale greaves",
+      "price": "37 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium scale sleeves",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some lumium scale vambraces",
+      "price": "55 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some padded burlap gloves sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some padded burlap pants sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some padded burlap sleeves sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some padded burlap vambraces sealed with protective wax",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some polished steel knitting needles",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some scale-painted quadrellos",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some sharpened steel chisels",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some snake-painted pulzones",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some steel hooked pliers",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some steel serrated scissors",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Fertin Store",
+      "name": "some thin steel sewing needles",
+      "price": "10 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
