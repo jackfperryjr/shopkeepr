@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:42:30Z",
-  "item_count": 1385,
+  "updated_at": "2026-04-19T18:43:09Z",
+  "item_count": 1391,
   "items": [
     {
       "town": "Crossing",
@@ -9639,6 +9639,48 @@
       "shop": "Krazeil's Troop Supply And Arms",
       "name": "some Syrin's heart rings attached to thin diacan chains",
       "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Ravens Repo, South",
+      "name": "a diacan-bladed avia fan dangling sprawled kraken charms",
+      "price": "2000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Ravens Repo, South",
+      "name": "a farmer's hand sickle composed of iron",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Ravens Repo, South",
+      "name": "a tursa military fork",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Ravens Repo, South",
+      "name": "an animite war hammer with a polished head",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Ravens Repo, South",
+      "name": "an improvised parry stick made from assorted construction materials",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Ravens Repo, South",
+      "name": "some natural suede ice skates with brown laces",
+      "price": "100 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
