@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:51:09Z",
-  "item_count": 1080,
+  "updated_at": "2026-04-19T17:51:40Z",
+  "item_count": 1116,
   "items": [
     {
       "town": "Crossing",
@@ -6986,6 +6986,258 @@
       "shop": "Yrs' Greatest Deals",
       "name": "an iron lockpick ring",
       "price": "175000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a bright white notecard with a message that reads: \"Crowfeet crafted leathers and accessories. Tarnished lockpick rings are grandmasters, metallic are masters.\"",
+      "price": "5000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a ceremonial shield engraved with shesegri etchings",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a coarse onyx-hide cowl with fitted seams",
+      "price": "40",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a collection of ivory bones",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a dainty white wrist purse composed of kirmiko",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a dark blue knee-length coat trimmed with white snowbeast fur",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a dusk spinel ring wrapped in a web of tomiek filaments",
+      "price": "20",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a fine satin pouch embroidered with colors representing the elements",
+      "price": "10",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a fringed leather purse strung with skull-shaped bone beads",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a gwethdesuan",
+      "price": "210007",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a light lumium plate mask crafted from tempered plates",
+      "price": "35",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a lumium sallet crafted from tempered plates",
+      "price": "75",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a mess of dead darkspine leaves",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a misshapen bloodmarrow ring crudely carved with heavy notching",
+      "price": "150",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a nightsilk brocade kimono with a pale moonsilk under-robe",
+      "price": "150",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a pair of black tactical thigh straps reinforced with thick leather",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a series of discolored bone fragments strung together with rusted wire",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a smooth acenite ring shaped like a kraken with knotted tentacles",
+      "price": "5",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a stoneskin tweed miner's rucksack",
+      "price": "10",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a striped cambrinth seasnake with iniskim banding",
+      "price": "2500108",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a tapered steel shovel with a tempered finish",
+      "price": "20",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a tarnished lockpick ring",
+      "price": "24",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a thin cambrinth crown inlaid with strands of puka shells",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a thin loimic tiara decorated with faceted merlot rubies",
+      "price": "250",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a thin mistglass tiara set with small iahja stones",
+      "price": "250",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "a trio of purple gold anklets threaded with lightning amethysts",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "some coarse onyx-hide gloves with fitted seams",
+      "price": "30",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "some curved steel tinker's tools with a tempered finish",
+      "price": "20",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "some faceted clear crystals",
+      "price": "20",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "some fire whirl ruby drakes",
+      "price": "250",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "some icy-white geshi pearls accented by winter opals",
+      "price": "400",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "some iridescent camel filaments strung with green diamond stars",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "some strands of snow opals",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "some talan pearl earrings carved into a skull and crossbones",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "some tapered steel knitting needles with a tempered finish",
+      "price": "15",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "East Kermoria Trading Company",
+      "name": "sprigs of Urrem'tier bloodvines mingled with sparkling vermilion garnets",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
