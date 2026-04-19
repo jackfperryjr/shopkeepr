@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:44:43Z",
-  "item_count": 1460,
+  "updated_at": "2026-04-19T18:45:39Z",
+  "item_count": 1544,
   "items": [
     {
       "town": "Crossing",
@@ -9569,6 +9569,594 @@
       "shop": "General Dokora",
       "name": "a tamboti pilgrim's badge sculpted with the emblem of Xosiurion",
       "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a blackened steel badge etched with \"Keep it up and you'll become a strange smell in the attic\"",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a blue-grey steel staff acid-etched with geometric runes",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a broad iron staff weighted with alternating panels of black and blue gold",
+      "price": "96 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a buckler mosaicked with a gold-white temple amid lush gardens",
+      "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a cambrinth sea urchin with purple chalcedony spines",
+      "price": "30 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a cambrinth tailband inlaid with jade",
+      "price": "185 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a cambrinth tailband inlaid with metallic phofe flowers",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a carved zingana staff topped with a sunstar jasper scorpion",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a chestnut sailcloth dress",
+      "price": "85 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a copper-roofed cupola",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a cracked pewter badge painted with \"I have a stick and you look like a pinata\"",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a dark brown wool gown with a jewel neckline",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a delicate silversteel bracelet of interlocking striped seaperch",
+      "price": "65 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a diaphanous amber gauze skirt",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a dirt-covered wheelbarrow",
+      "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a dusky olivaceous battle cassock with spiny iron pauldrons",
+      "price": "135 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a felted wool skull stitched with a pair of thick black X's",
+      "price": "250 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a flirty flamingo-pink sundress featuring off-the-shoulder sleeves",
+      "price": "650 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a garnet wool skirt",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a gilded scroll labeled with Contingency",
+      "price": "38 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a gilded scroll labeled with Rite of Grace",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a gilded scroll labeled with Shear",
+      "price": "46 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a gilded scroll labeled with Soldier's Prayer",
+      "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a gilded scroll labeled with Visions of Darkness",
+      "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a gleaming brass badge etched with \"I was going to give you a nasty look, but I see you already have one\"",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a graceful thornweave fan painted with swirling calla lily blossoms",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a heavily patched muslin cloak with a thick agonite gargoyle-shaped clasp",
+      "price": "24 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a honey-hued scroll labeled with Dispel",
+      "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a honey-hued scroll labeled with Hypnotize",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a honey-hued scroll labeled with Shape Moonblade",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a honey-hued scroll labeled with Vigil",
+      "price": "40 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a leaping cambrinth puppy with oversized paws",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a leather crupper pyrographed with a map of the Blasted Plains",
+      "price": "135 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a long brocade gown adorned with miniscule seed pearls",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a long purple cloak stitched with the image of a golden closed eye",
+      "price": "24 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a lustrous iera vine heavy with velvet blossoms tinted the color of fresh blood",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a mahogany walking cane with a platinum ox handle",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a miniature Ilithi peach tree set in a large clay pot",
+      "price": "80 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a nest of cambrinth mice",
+      "price": "84 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a pair of sanguine wings attached to a skeleton of witchclaw",
+      "price": "650 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a petite bodice dagger with a gladiolus-shaped hilt",
+      "price": "425 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a platinum shark-shaped bracelet",
+      "price": "34 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a polished brass badge engraved with \"I'm trying to avoid you and yet here you are\"",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a polished bronze badge embossed with \"I'm not weird, I'm gifted\"",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a quartz-eyed cambrinth coyote with its hackles raised",
+      "price": "24 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a red jar painted with black mustaches",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a ring-pommeled throwing dagger with an oblong-shaped blade",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a rough sandstone slab incised with odd symbols",
+      "price": "300 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a seated cambrinth cat with tiger's eye inlay",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a sleeping cambrinth dog with a bright pink coral tongue",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a slender rosewood quarterstaff with covellite tips",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a smokewood pelletbow with tarts painted along the stock",
+      "price": "650 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a spiked rabbit-shaped club with a crystal hilt",
+      "price": "325 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a spiked steel shalhliwa",
+      "price": "155 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a steel arzfilt",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a steel parry stick with engraved with a fighting rat",
+      "price": "95 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a tarnished copper badge stamped with \"Underestimate me.  That'll be fun\"",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a tarnished gold badge painted with \"Apparently my pest repellant isn't working\"",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a tarnished pewter badge engraved with \"You just can't heal stupid\"",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a verdant dolphin vine sprouting clusters of delicate tubular flowers",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a verdigris copper weathervane",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a vibrant turquoise sanowret crystal set in a tel'athi wildling spider",
+      "price": "1265 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a white wool saddle pad trimmed with cushion-cut emeralds",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "a woven kokona reed doormat shaped like a blooming lotus flower",
+      "price": "30 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "an amber silk dress with short sleeves",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "an animite war hammer with a polished head",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "an iridescent covellite vine intertwined with colorful clematis flowers",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "an ivory cloak decorated with shadowy grey spirits",
+      "price": "65 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "an off white Elven wool gown with a jewel neckline",
+      "price": "70 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some animite wire-framed spectacles with star-shaped lenses",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some barghest bone footwraps",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some bubbly rat serum",
+      "price": "20 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some gold-tinted wire spectacles with oak leaf-shaped lenses",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some graceful wyvern-hide wings spanning a frame of dragonwood",
+      "price": "3000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some light plate greaves engraved with wispy cobwebs",
+      "price": "8 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some matte black gauntlets elaborately embellished with overlays of golden filigree",
+      "price": "65 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some painted red shutters",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some painted white windowboxes",
+      "price": "80 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some pale ivory hose accented at the ankles with golden dragonflies",
+      "price": "65 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some red-scale mules with broad cocobolo heels",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some stinky rat pomade",
+      "price": "20 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some tarnished diras",
+      "price": "650 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some umbral nightsilk wings with joints concealing damite claws",
+      "price": "900 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Jep's Jems",
+      "name": "some wine-red hose accented at the ankles with silvery boars",
+      "price": "65 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
