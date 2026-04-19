@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:47:15Z",
-  "item_count": 987,
+  "updated_at": "2026-04-19T17:48:10Z",
+  "item_count": 996,
   "items": [
     {
       "town": "Crossing",
@@ -5019,6 +5019,69 @@
       "shop": "Mister Purr's Purrfect Paw-nshop",
       "name": "an insulated robe",
       "price": "50000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Muleie's Mercantile",
+      "name": "a bright lime-green sarong embroidered with azure poison dart frogs",
+      "price": "135",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Muleie's Mercantile",
+      "name": "a large emerald gift box topped with a golden bow",
+      "price": "4865",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Muleie's Mercantile",
+      "name": "a lustrous fuchsia seasilk sarong fringed with white silk",
+      "price": "750",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Muleie's Mercantile",
+      "name": "a midnight-purple dergatine ribbon strung with diacan shrike charms",
+      "price": "670",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Muleie's Mercantile",
+      "name": "a pair of lava samite gloves trimmed with golden feathers",
+      "price": "275",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Muleie's Mercantile",
+      "name": "a pair of pearlescent gloves composed of petalette",
+      "price": "775",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Muleie's Mercantile",
+      "name": "a pair of sunkissed chiffon gloves clasped with summer's heart sapphires",
+      "price": "900",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Muleie's Mercantile",
+      "name": "a shrunken orc head",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Muleie's Mercantile",
+      "name": "a smokey glass globe suspended within a delicate lumium cage",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
