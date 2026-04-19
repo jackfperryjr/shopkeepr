@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:53:55Z",
-  "item_count": 1205,
+  "updated_at": "2026-04-19T18:39:51Z",
+  "item_count": 1213,
   "items": [
     {
       "town": "Crossing",
@@ -8435,6 +8435,62 @@
       "shop": "Tears Of The World Dragon",
       "name": "some glaes throwing nightingales",
       "price": "250",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Silvyandril's Shop",
+      "name": "a small gaethzen sphere mounted on a tower-shaped base",
+      "price": "300 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Silvyandril's Shop",
+      "name": "a steel hanger embellished with engraved sharks along the blade",
+      "price": "800 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Silvyandril's Shop",
+      "name": "a tursa military fork",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Silvyandril's Shop",
+      "name": "a verdigris paintstick",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Silvyandril's Shop",
+      "name": "an intricate pumice cameo of Caduan set in a frame of gold",
+      "price": "300 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Silvyandril's Shop",
+      "name": "some silversteel mail gloves traced with a labyrinthine pattern",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Silvyandril's Shop",
+      "name": "some steel hinged chicken wings with variegated white and grey feathers",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Silvyandril's Shop",
+      "name": "some svidaw sis instructions",
+      "price": "1000 platinum Kronars",
       "last_seen": "2026-04-19"
     }
   ]
