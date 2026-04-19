@@ -242,6 +242,7 @@
 
   .cell-name  { font-weight: 600; color: var(--text); min-width: 180px; }
   .cell-price { font-family: 'Cinzel', serif; font-size: 0.82rem; color: var(--teal); white-space: nowrap; font-weight: 600; letter-spacing: 0.02em; }
+  .price-denom { font-size: 0.65rem; color: var(--gold); font-weight: 400; letter-spacing: 0.08em; vertical-align: middle; }
   .cell-shop  { color: var(--text-mid); white-space: nowrap; }
 
   .town-badge {
@@ -386,12 +387,16 @@
 <script>
 const DATA_URL = 'data/plaza_items.json';
 
-function setControlsHeight() {
-  const h = document.querySelector('.controls').offsetHeight;
-  document.documentElement.style.setProperty('--controls-h', h + 'px');
+function formatPrice(price) {
+  if (!price) return '';
+  const m = price.match(/([\d,]+)\s*(platinum|copper|gold|silver)?\s*(Kronars?|Lirums?|Dokoras?)/i);
+  if (!m) return escHtml(price);
+  const num  = parseInt(m[1].replace(/,/g, '')).toLocaleString();
+  const curr = m[3] || '';
+  const denom = (m[2] || 'platinum').toLowerCase();
+  const label = denom === 'platinum' ? 'plat' : denom;
+  return `${num} <span class="price-denom">${label}</span> ${curr}`;
 }
-setControlsHeight();
-window.addEventListener('resize', setControlsHeight);
 let allItems = [];
 let sortCol  = 'name';
 let sortDir  = 'asc';
@@ -471,7 +476,7 @@ function render(rows) {
   tbody.innerHTML = rows.map(i => `
     <tr>
       <td class="cell-name">${escHtml(i.name)}</td>
-      <td class="cell-price">${escHtml(i.price)}</td>
+      <td class="cell-price">${formatPrice(i.price)}</td>
       <td class="cell-shop">${escHtml(i.shop)}</td>
       <td><span class="town-badge ${townClass(i.town)}">${escHtml(i.town)}</span></td>
       <td class="cell-desc">${escHtml(i.description)}</td>
