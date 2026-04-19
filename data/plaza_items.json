@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:40:39Z",
-  "item_count": 1227,
+  "updated_at": "2026-04-19T18:40:53Z",
+  "item_count": 1241,
   "items": [
     {
       "town": "Crossing",
@@ -8435,6 +8435,104 @@
       "shop": "Tears Of The World Dragon",
       "name": "some glaes throwing nightingales",
       "price": "250",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a death-black termite voucher",
+      "price": "420 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a ferocious chakrel boar with sharp tusks",
+      "price": "350 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a heavy hamster-headed hammer with a hefty hexwood handle",
+      "price": "900 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a laminated Nisha shortbow with cable-backed limbs",
+      "price": "300 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a short-sleeved jaspe gown with an elongated bodice",
+      "price": "2000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a silversteel elongated teardrop bracelet strung with jet and ebony dangles",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a steel parry stick made to resemble the ulna and radius bones of the arm",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a steel scimitar with a tempered blade",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a tiny mechanical Haramorlam horse",
+      "price": "420 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a velvety white spectral mask set with a godsmarked turquoise",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a warrior's duffel bag",
+      "price": "1350 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "a woven girdle formed from platinum wire with blackwater jet beads",
+      "price": "70 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "an unembellished ring",
+      "price": "700 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Brim's Bits And Bobs",
+      "name": "some blue dye",
+      "price": "35 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
