@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:44:05Z",
-  "item_count": 1431,
+  "updated_at": "2026-04-19T18:44:20Z",
+  "item_count": 1435,
   "items": [
     {
       "town": "Crossing",
@@ -9541,6 +9541,34 @@
       "shop": "Fertin Store",
       "name": "some thin steel sewing needles",
       "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "General Dokora",
+      "name": "a Be'ort tear rose",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "General Dokora",
+      "name": "a bright white notecard with a message that reads: \"Rods=Cam Retuners, last number=charges. Sunstone Rings=Grandmasters, other=Masters. Horses by Henil.\"",
+      "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "General Dokora",
+      "name": "a crystalline fibril",
+      "price": "6 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "General Dokora",
+      "name": "a tamboti pilgrim's badge sculpted with the emblem of Xosiurion",
+      "price": "25 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
