@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:31:28Z",
-  "item_count": 876,
+  "updated_at": "2026-04-19T17:32:17Z",
+  "item_count": 897,
   "items": [
     {
       "town": "Crossing",
@@ -5368,399 +5368,546 @@
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a abyssal-black scroll labeled with Sidasas Sedra",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a baby blue dergatine cloak trimmed with gold braid",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a black leather armband tooled with a kraken",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a black-purple gloamstone sphere",
-      "price": " ",
+      "price": "15000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a blood-red sanowret crystal",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a bloodwood stick",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a braided songsilk ring delicately threaded with rikar crystal spires",
-      "price": " ",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a broad iron staff weighted with alternating panels of black and blue gold",
+      "price": "500050",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a brushed gold signet ring cradling an aurora tourmaline",
-      "price": " ",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a bulky war hammer firestained in the hues of a burning forge",
+      "price": "1000048",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a cambrinth torch with a blood-red dragonfire amber flame and a demonbone handle",
-      "price": " ",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a ceremonial shield engraved with the image of Andreshlew",
+      "price": "1000080",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a curved cobwood crossbow cradling a chaos chalcedony crown",
+      "price": "5000075",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a dark grey steelsilk quiver with black embroidery",
-      "price": " ",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a darkened steel greathammer with a sharkskin-covered handle",
+      "price": "1000050",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a demon gaze agate pendant",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a distressed thornweave gown pierced by wraithheart spikes",
-      "price": " ",
+      "price": "15000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a dusky rose damask ascot fastened with a silver pin",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a fey-bone stack",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a fire maiden topaz and silver ring",
-      "price": " ",
+      "price": "10",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a firestained dragon's tail flail streaked with channels of bright gold",
+      "price": "1000091",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a flowing midnight black steelsilk battle scarf decorated with war icons",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a fulginode boulder",
-      "price": " ",
+      "price": "3000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a glaes wrist blade etched with a triple-tined claw",
-      "price": " ",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a gleaming steel dagesse with an intricately inlaid fuller",
+      "price": "500040",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a golden key with an elaborately sculpted \"D\"",
-      "price": " ",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a goldwood battle longbow with a kau leather-wrapped riser",
+      "price": "2000035",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a hammered silversteel moon",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a heavily patched muslin cloak with a thick agonite gargoyle-shaped clasp",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a heavy dergatine witch's hat covered in intricate spiderwebs",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a hide scraper of burnished ebony",
-      "price": " ",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a knife shaped from a serrated aglyphous tooth",
+      "price": "10006",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a lacquered iroko cane capped with a spectrolite orb",
+      "price": "10000048",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a large orichalcum bar",
-      "price": " ",
+      "price": "2000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a lustrous silver prayer mat embroidered with an idyllic grove of khor'vela trees",
-      "price": " ",
+      "price": "5000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a midnight-green nightsilk cape with a high collar of ominously barbed widowglass",
-      "price": " ",
+      "price": "10000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a mistwood log",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a morgawr scale",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a nightfire opal charm inscribed with a simple moon",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a niniam wand sprouting leaf stalks and topped with a small pink tulip",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a pale-green sanowret crystal",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a partitioned diacan case swirled with a watery iridescence",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a partitioned felwood case traced with silver sigils",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a plain firesilk quiver with braided black silk straps",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a polished zingana hourglass",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a punka piece",
-      "price": " ",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a rugged felwood recurve longbow",
+      "price": "5000035",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a rugged leather archer's armguard lined with emerald silk",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a short fractalline dress with uneven hemline",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a short tamboti plank",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a side-laced crimson corset hand sewn from supple kidskin beaded in black onyx",
-      "price": " ",
+      "price": "10",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a silversteel jousting shield with glaes spikes",
+      "price": "1000100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a sleek ebony leather bodice beaded with silver and moonstone",
-      "price": " ",
+      "price": "10",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a slender ironrot quarterstaff surmounted with a princess-cut temptress beryl",
+      "price": "1000070",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a smokewood latchbow with a carved stock",
+      "price": "2000085",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a spiked vardite axe with a silver-inlaid blade",
+      "price": "5000045",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a tapered icesteel spear that glistens with twisted rivulets of silvery iron",
+      "price": "10000050",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a thin black wicker basket with leather straps",
-      "price": " ",
+      "price": "150",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a tiny coralite lump",
-      "price": " ",
+      "price": "8000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a tiny indurium shard",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a tiny kelpzyte shard",
-      "price": " ",
+      "price": "8000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a tranquil sea turtle with a glossy kelpzyte shell",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a viridian-edged map",
-      "price": " ",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "a watered steel cutlass with a sailcloth-wrapped grip",
+      "price": "1000050",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "a webbed araneium bracer",
-      "price": " ",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "an ironwood glaive edged with diacan and bound in electroweave",
+      "price": "10000065",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "an ornate audrualm ring",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "an ornate darkstone ring",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "an ornate glitvire ring",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "an ornate haralun ring",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "some colorful glass head pins",
-      "price": " ",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "some darkened mesh handguards interwoven with gold along the wrists",
+      "price": "100050",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "some diamondwood lumber",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "some ebonwood horns",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "some fine zenganne cloth",
-      "price": " ",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "some rugged demonsbane leather gloves dangling a pair of binding straps",
+      "price": "10000030",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Starkeeper Alley",
+      "name": "some stylish black diamond-hide leather pants belted with a swathe of dreamweave",
+      "price": "10000048",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Starkeeper Alley",
       "name": "some thick khaddar cloth",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
