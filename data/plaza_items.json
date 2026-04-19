@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:47:14Z",
-  "item_count": 1583,
+  "updated_at": "2026-04-19T18:48:10Z",
+  "item_count": 1639,
   "items": [
     {
       "town": "Crossing",
@@ -9569,6 +9569,398 @@
       "shop": "General Dokora",
       "name": "a tamboti pilgrim's badge sculpted with the emblem of Xosiurion",
       "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a blued steel trident with a salt-encrusted copperwood haft",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a bright white notecard with a message that reads: \"Everything on the Stand is a Treasure Map Find!\"",
+      "price": "100000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a bright white notecard with a message that reads: \"The backpack contains a full set of forged starter melee weapons\"",
+      "price": "99999999 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a burnished scimitar with a gem-encrusted gold hilt",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a cherrywood bangle inlaid with a citrine mosaic",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a deed for a blackened-bone stack",
+      "price": "55000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a deed for a diamondique stone",
+      "price": "5000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a deed for a huge vardite bar",
+      "price": "15000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a deed for a medium loimic shard",
+      "price": "45000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a deed for a wraith-bone stack",
+      "price": "20000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a deed for some fine zenganne cloth",
+      "price": "16000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a deed for some heavy arzumodine cloth",
+      "price": "24000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a deed for some heavy titanese cloth",
+      "price": "28000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a firestained agonite mask covered in an intricate asini reticulation",
+      "price": "4000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a flask carved from a single huge absinthe emerald",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a furniture voucher illustrated with a forest-green wall displaying a lush woodland of verdant moonsilver trees",
+      "price": "80000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a gold-stippled scroll labeled with Harawep's Bonds",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a gold-stippled scroll labeled with Siphon Vitality",
+      "price": "125 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a gold-stippled scroll labeled with Soul Shield",
+      "price": "300 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a goldwood-hafted horseman's flail with a cubic striking head",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a grimwood cudgel with a scarlet-dyed leather-wrapped grip",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a heavy ring of hammer green-gold set with a polished agate",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a hooded cloak of rose-hued silk with a gold embroidered hem",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a light kertig throwing axe",
+      "price": "2000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a long gold hairpin etched with diagonal lines",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a midnight-blue nightsilk fan painted with magenta oleander blossoms",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pair of shield-shaped cufflinks",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pink gold bangle inlaid with a trio of tiny yellow quartz buttterflies",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pulped bamboo scroll labeled with Artificer's Eye",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pulped bamboo scroll labeled with Bless",
+      "price": "5000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pulped bamboo scroll labeled with Cage of Light",
+      "price": "5000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pulped bamboo scroll labeled with Harm Evil",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pulped bamboo scroll labeled with Rend",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pulped bamboo scroll labeled with Sanctify Pattern",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pulped bamboo scroll labeled with Tailwind",
+      "price": "10000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a pulped bamboo scroll labeled with Trabe Chalice",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a sandy hued Velakan linen aventail reinforced with steelsilk",
+      "price": "4000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a sandy hued Velakan linen vest reinforced with steelsilk",
+      "price": "4000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a sanguine-hued recurve bow inlaid with intricate golden scrollwork",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a silverweave gown trimmed with Albarian lace",
+      "price": "2000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a sleek sailfish carved from Drogor's Wrath sapphire",
+      "price": "5000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a striped pink valise with a silver-buckled shoulder strap",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a thin steel blade reinforced with glaes",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a triple-fullered haralun broadsword bearing a nacre hilt",
+      "price": "2000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a violet hooded cloak with a silver fox clasp",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a viridian hooded cloak stitched with a leaf pattern",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "a vortex of polychromatic stura atulave suspended from a ribbon of spun rainbow",
+      "price": "3000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "an austere judge's robe sewn from somber black steelsilk",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "an engraved steel war hammer with a spiraled golden handle",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "an icesteel mace with a flanged head",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "an ocean-blue silk tunic trimmed with frothy white lace",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "an ornate audrualm ring",
+      "price": "5000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "an ornate darkstone ring",
+      "price": "5000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "some audrualm scale gloves",
+      "price": "8000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "some svidaw sis instructions",
+      "price": "5000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inabelle's Exotics",
+      "name": "some umbral nightsilk wings with joints concealing damite claws",
+      "price": "2000 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
