@@ -2,7 +2,7 @@
 
 > *A live browser for player-owned plaza shops across Elanthia — DragonRealms Prime.*
 
-👉 **[your-username.github.io/shopkeepr](https://jackfperryjr.github.io/shopkeepr)**
+👉 **[jackfperryjr.github.io/shopkeepr](https://jackfperryjr.github.io/shopkeepr)**
 
 ---
 
