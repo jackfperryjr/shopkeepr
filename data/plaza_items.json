@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:49:05Z",
-  "item_count": 1690,
+  "updated_at": "2026-04-19T18:49:52Z",
+  "item_count": 1731,
   "items": [
     {
       "town": "Crossing",
@@ -11312,6 +11312,293 @@
       "shop": "Starcanth Forge And Mercantile",
       "name": "some steel hooked pliers",
       "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a cambrinth savannah bull gazing over tall grass",
+      "price": "300 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Adaptive Curing",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Aggressive Stance",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Air Lash",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Demrris' Resolve",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Fists of Faenella",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Halt",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Heroic Strength",
+      "price": "700 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Mental Focus",
+      "price": "800 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Paralysis",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Stun Foe",
+      "price": "600 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a crumpled paper scroll labeled with Turmar Illumination",
+      "price": "400 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a darkstone foil tied with an ornamental winterweave sword knot",
+      "price": "600 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a deed for a large haralun lump",
+      "price": "40000004 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a deed for a mistwood limb",
+      "price": "30000003 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a deed for a rockwood branch",
+      "price": "80000002 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a diacan-bladed avia fan dangling sprawled kraken charms",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a flame-hued scroll labeled with Gar Zeng",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a gold-edged onyx scroll labeled with Aethrolysis",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a grimwood cudgel with a scarlet-dyed leather-wrapped grip",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a heavy dragonwood throwing club with a braided leather grip",
+      "price": "550 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a long nightsilk cloak with various faces swirling across its surface",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a mongoose-shaped tablet",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a plumed agate censer with black gold fittings",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a rainbow-hued scroll labeled with Compost",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a scoundrel's diamond",
+      "price": "2000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a soulstone wildling spider surrounded by a web of nightsilk",
+      "price": "400 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a spotted white hobbyhorse",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a stained leather mask trimmed with grey fur",
+      "price": "300 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a tarnished sigil",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a textured scroll labeled with Iyqaromos Fire-Lens",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a tursa military fork",
+      "price": "300 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a verdant scroll labeled with Artificer's Eye",
+      "price": "400 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a warrior's tower shield",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a white-streaked soulstone surrounded by a cage of niello chains",
+      "price": "400 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "a wide leather war belt with an agonite-inlaid gargoyle buckle",
+      "price": "20000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "an Elamiri sapphire",
+      "price": "2000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "an icesteel cutlass with an azurite hilt",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "some blunt-tipped arrows with ebon stripes",
+      "price": "6000030 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "some crude coarse leathers fashioned from roughly stitched cave bear hides",
+      "price": "800 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sundries, Sunset",
+      "name": "some watery blue bitterweave robes spangled with crystalline teardrops",
+      "price": "300 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
