@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:45:39Z",
-  "item_count": 1544,
+  "updated_at": "2026-04-19T18:46:03Z",
+  "item_count": 1548,
   "items": [
     {
       "town": "Crossing",
@@ -9569,6 +9569,34 @@
       "shop": "General Dokora",
       "name": "a tamboti pilgrim's badge sculpted with the emblem of Xosiurion",
       "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inver Brass",
+      "name": "a furniture voucher",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inver Brass",
+      "name": "a glaes carving knife",
+      "price": "2000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inver Brass",
+      "name": "a lelori footman's bow",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Inver Brass",
+      "name": "a lelori horseman's bow",
+      "price": "1000 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
