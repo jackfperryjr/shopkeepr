@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:44:20Z",
-  "item_count": 1435,
+  "updated_at": "2026-04-19T18:44:43Z",
+  "item_count": 1460,
   "items": [
     {
       "town": "Crossing",
@@ -10044,6 +10044,181 @@
       "town": "Shard",
       "shop": "Starcanth Forge And Mercantile",
       "name": "some steel hooked pliers",
+      "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a black leather weapons belt inlaid with ivory scrollwork",
+      "price": "8 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a black onyx ring wrapped with platinum leaves",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a blue-grey knarn fur headband with a silver pin",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a bone saw with a blade edged in audrualm",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a braided gold ring cradling tiny fire opals within its folds",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a braided thigh quiver of fine leather adorned with silver medallions",
+      "price": "8 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a chestnut cashmere hooded cloak lined with soft dark sable",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a dark iron flask shaped like a bone wyvern skull",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a dark suede weapons belt wrapped with shreds of leucro hide",
+      "price": "8 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a demonbone cudgel with a handle wrapped in crude strips of rawhide",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a design codex bound with grey sharkskin leather",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a hooded cloak of brown suede clasped with a bronze wolf-shaped medallion",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a large diacan bowl atop an umbral-bone base",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a leathery mask",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a long black hooded cloak fastened with a dragon-shaped pewter clasp",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a mongoose-shaped tablet",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a segmented bone mask reinforced with a vardite bridge",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a silver medallion etched with the image of a firefly",
+      "price": "3 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a sky blue thigh quiver embroidered with silvery stars and moons",
+      "price": "8 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a sleeveless gown of shimmering white gossamer with a plunging neckline",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a smooth monotone acenite mask",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a softly flowing gown of rich ebony spidersilk with a tightly-laced leather bodice",
+      "price": "30 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "a thick platinum band embedded with a huge draconic opal",
+      "price": "30 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "an off-the-shoulder gown of pale golden velvet trimmed in white ermine",
+      "price": "20 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Worth The Weight",
+      "name": "an ornate weapons belt studded with silver and gold coins",
       "price": "12 platinum Kronars",
       "last_seen": "2026-04-19"
     }
