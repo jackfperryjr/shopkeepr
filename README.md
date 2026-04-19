@@ -2,7 +2,7 @@
 
 > *A live browser for player-owned plaza shops across Elanthia — DragonRealms Prime.*
 
-👉 **[jackfperryjr.github.io/shopkeepr](https://jackfperryjr.github.io/shopkeepr)**
+👉 **[your-username.github.io/shopkeepr](https://your-username.github.io/shopkeepr)**
 
 ---
 
@@ -10,7 +10,7 @@
 
 DragonRealms has player-owned shops scattered across plazas in Crossing, Riverhaven, Shard, and Therenborough. Finding what's for sale means wandering from shop to shop, typing `LIST` in each one, and hoping something catches your eye. That gets old fast.
 
-shopkeepr solves that. It's a searchable, filterable web page that shows every item currently for sale across all four plazas — item name, price, shop, town, and description — updated regularly by a [Lich](https://lichproject.org/) script that walks the plazas and pushes the data here automatically.
+shopkeepr solves that. It's a searchable, filterable web page that shows every item currently for sale across all four plazas — item name, price, shop, town, and description — updated regularly by a script that walks the plazas and pushes the data here automatically.
 
 ---
 
@@ -25,7 +25,7 @@ shopkeepr solves that. It's a searchable, filterable web page that shows every i
 
 ## How is the data collected?
 
-A Lich script navigates each plaza shop, issues `LIST` and `LOOK` commands to capture sale items and their descriptions, then pushes the results to this repo via the GitHub API. The page loads the JSON directly — no server, no database.
+A script navigates each plaza shop, issues `SHOP` commands to capture sale items and prices, then pushes the results to this repo via the GitHub API. The page loads the JSON directly — no server, no database.
 
 Data is **merged across runs**, so items from shops that couldn't be visited on a given pass are retained until the next successful visit. Each item shows the date it was last confirmed on sale.
 

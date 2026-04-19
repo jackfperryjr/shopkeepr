@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Shopkeepr — Elanthian Plaza Browser</title>
+<title>shopkeepr — Elanthian Plaza Browser</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
@@ -263,13 +263,6 @@
   .town-therenborough { background: rgba(30,140,80,0.15);   color: #5dba88; border-color: rgba(30,140,80,0.3); }
   .town-other         { background: var(--bg-raised); color: var(--text-mid); border-color: var(--border-mid); }
 
-  .cell-desc {
-    font-size: 0.88rem;
-    color: var(--text-mid);
-    font-style: italic;
-    max-width: 360px;
-    min-width: 200px;
-  }
 
   .cell-date {
     font-family: 'Cinzel', serif;
@@ -317,7 +310,6 @@
     .controls { padding: 0.9rem 1rem; }
     .table-wrap { padding: 1rem 0.75rem 3rem; }
     tbody td { padding: 0.6rem 0.6rem; }
-    .cell-desc { display: none; }
   }
 </style>
 </head>
@@ -325,7 +317,7 @@
 
 <header>
   <p class="header-ornament">DragonRealms Prime</p>
-  <h1>Shopkeepr</h1>
+  <h1>shopkeepr</h1>
   <p class="header-sub">A browser for player-owned plaza shops across Elanthia</p>
   <div class="rule"><div class="rule-diamond"></div></div>
   <p class="last-updated" id="last-updated">Loading…</p>
@@ -366,7 +358,6 @@
         <th data-col="price">Price</th>
         <th data-col="shop">Shop</th>
         <th data-col="town">Town</th>
-        <th data-col="description">Description</th>
         <th data-col="last_seen">Last Seen</th>
       </tr>
     </thead>
@@ -380,7 +371,7 @@
 </div>
 
 <footer>
-  Data collected by <strong>Shopkeepr</strong> — a Lich script for DragonRealms Prime.
+  Data collected by <strong>shopkeepr</strong> for DragonRealms Prime.
   Not affiliated with <a href="https://www.play.net/dr/" target="_blank">Simutronics</a>.
 </footer>
 
@@ -479,7 +470,6 @@ function render(rows) {
       <td class="cell-price">${formatPrice(i.price)}</td>
       <td class="cell-shop">${escHtml(i.shop)}</td>
       <td><span class="town-badge ${townClass(i.town)}">${escHtml(i.town)}</span></td>
-      <td class="cell-desc">${escHtml(i.description)}</td>
       <td class="cell-date">${escHtml(i.last_seen)}</td>
     </tr>
   `).join('');
@@ -514,7 +504,7 @@ async function loadData() {
 
     document.getElementById('last-updated').textContent =
       allItems.length === 0
-        ? 'No data yet — run the Lich script to populate.'
+        ? 'No data yet — run the scraper to populate.'
         : `Last updated: ${ts}`;
 
     document.getElementById('loading').style.display = 'none';
