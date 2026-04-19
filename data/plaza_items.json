@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:28:57Z",
-  "item_count": 874,
+  "updated_at": "2026-04-19T17:29:37Z",
+  "item_count": 876,
   "items": [
     {
       "town": "Crossing",
@@ -657,98 +657,112 @@
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a black lockpick ring",
-      "price": " ",
+      "price": "35",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a bright white notecard with a message that reads: \"CAUTION The nightmare black robe here appears to be a dangerous item to be seen in possession of\"",
+      "price": "98989898",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a bright white notecard with a message that reads: \"lockpick rings: 25 plat = Masters, 35 plat = Grandmasters\"",
+      "price": "999999999",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a cambrinth tailband shaped like a Harawep's web rose with sapphire petals",
-      "price": " ",
+      "price": "150",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a cooking pot lid painted a clutch of kumquats",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a gold-stippled scroll labeled with Petrifying Visions",
-      "price": " ",
+      "price": "600",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a large sign that reads \"CAUTION: SNIPERS\"",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a metallic lockpick ring",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a mistsilk necktie with various faces swirling across its surface",
-      "price": " ",
+      "price": "200",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a nightmare black robe emblazed with a flaming skull",
-      "price": " ",
+      "price": "2000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a partitioned felwood case traced with silver sigils",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a pot of strong scale polish",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a quartz-eyed cambrinth coyote with its hackles raised",
-      "price": " ",
+      "price": "30",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a wrist sheath",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a yellowed scroll",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "some rugged worker's gloves",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
