@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:39:54Z",
-  "item_count": 898,
+  "updated_at": "2026-04-19T17:40:43Z",
+  "item_count": 900,
   "items": [
     {
       "town": "Crossing",
@@ -6215,77 +6215,91 @@
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a banker's note",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a carrier's permit",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a colorfully illuminated parchment",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a concealer's permit",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a fashionista's license",
-      "price": " ",
+      "price": "5",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Yrs' Greatest Deals",
+      "name": "a gwethdesuan",
+      "price": "120004",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a papyrus parchment",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a personality profile",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a sealed writ",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a speaker's pass",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a steel lockpick ring",
-      "price": " ",
+      "price": "35",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Yrs' Greatest Deals",
       "name": "a title scroll",
-      "price": " ",
+      "price": "5",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Yrs' Greatest Deals",
+      "name": "an iron lockpick ring",
+      "price": "175000",
       "last_seen": "2026-04-19"
     }
   ]
