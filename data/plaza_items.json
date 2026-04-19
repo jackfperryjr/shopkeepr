@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:43:09Z",
-  "item_count": 1391,
+  "updated_at": "2026-04-19T18:44:05Z",
+  "item_count": 1431,
   "items": [
     {
       "town": "Crossing",
@@ -9737,6 +9737,286 @@
       "shop": "Silvyandril's Shop",
       "name": "some svidaw sis instructions",
       "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a bright white notecard with a message that reads: \"Ask me about forged maker marks, steel tools/weapons/armor, and rare metal tools/weapons/armor.\"",
+      "price": "530071391 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a bright white notecard with a message that reads: \"Iron/black rings are masters, steel rings are grandmasters\"",
+      "price": "1410065407 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a buckler mosaicked with a gold-white temple amid lush gardens",
+      "price": "27 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a cambrinth statue of Crossing Observatory showing a defenestration in progress",
+      "price": "20 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a cambrinth tailband shaped like a Harawep's web rose with sapphire petals",
+      "price": "110 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a coral-hilted carving knife set with a large freshwater pearl",
+      "price": "20 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a curved handle",
+      "price": "75 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a damaska boar-hide chest harness",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a detailed felwood nose charm complete with a bristly brown mustache",
+      "price": "3 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a drake's heart amber",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a face-shaped tablet",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a gloaming leather chanfron with a closed golden eye on the brow",
+      "price": "20 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a grey sharkskin backsheath",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a heavy agonite throwing hammer with a smokewood haft",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a horn-rimmed silver monocle with a short chain",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a huge scorpion diamond",
+      "price": "180 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a necklace suspending an eventide moonstone pendant rimmed in blackened silver",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a petrified piece of mantrap stalk",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a red-scaled wyvern with firestained indurium and blood ruby eyes",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a scoundrel's diamond",
+      "price": "900 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a segmented bone mask reinforced with a vardite bridge",
+      "price": "120 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a silver necklace strung with onyx feathers",
+      "price": "8 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a silvery fish-scaled parchment with a ship's profile in one corner",
+      "price": "5 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a simple silver ring",
+      "price": "36 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a slim iron bodice dagger with an engraved zulnatha hilt",
+      "price": "5 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a stained leather mask trimmed with grey fur",
+      "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a stained pouch of mahogany-brown leather",
+      "price": "250 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a steel double-headed hammer engraved with flying bats",
+      "price": "1000050 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a subterranean ratcatcher's braided training cord",
+      "price": "1 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a tapered steel rasp",
+      "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a viperscale alexandrite",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a watersilk bota edged in sea-green avia cord with golden fringe",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a white-painted cambrinth cumulonimbus cloud",
+      "price": "20 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "a woven girdle formed from golden wire",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "an agonite forging hammer firestained with knotwork ravens",
+      "price": "2000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "an ornately swagged rose-shaped parcel of vermilion brocade",
+      "price": "1 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "some carnivorous plants",
+      "price": "85 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "some elongated steel rifflers",
+      "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "some sharpened steel chisels",
+      "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Starcanth Forge And Mercantile",
+      "name": "some steel hooked pliers",
+      "price": "12 platinum Kronars",
       "last_seen": "2026-04-19"
     }
   ]
