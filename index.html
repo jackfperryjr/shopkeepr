@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>shopkeepr — Elanthian Plaza Browser</title>
+<title>Shopkeepr — Elanthian Plaza Browser</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
@@ -204,7 +204,7 @@
     font-size: 0.95rem;
   }
 
-  thead { position: sticky; top: 60px; z-index: 50; }
+  thead { position: sticky; top: var(--controls-h, 60px); z-index: 50; }
 
   thead th {
     font-family: 'Cinzel', serif;
@@ -324,7 +324,7 @@
 
 <header>
   <p class="header-ornament">DragonRealms Prime</p>
-  <h1>shopkeepr</h1>
+  <h1>Shopkeepr</h1>
   <p class="header-sub">A browser for player-owned plaza shops across Elanthia</p>
   <div class="rule"><div class="rule-diamond"></div></div>
   <p class="last-updated" id="last-updated">Loading…</p>
@@ -379,12 +379,19 @@
 </div>
 
 <footer>
-  Data collected by <strong>shopkeepr</strong> for DragonRealms Prime.
+  Data collected by <strong>Shopkeepr</strong> — a Lich script for DragonRealms Prime.
   Not affiliated with <a href="https://www.play.net/dr/" target="_blank">Simutronics</a>.
 </footer>
 
 <script>
 const DATA_URL = 'data/plaza_items.json';
+
+function setControlsHeight() {
+  const h = document.querySelector('.controls').offsetHeight;
+  document.documentElement.style.setProperty('--controls-h', h + 'px');
+}
+setControlsHeight();
+window.addEventListener('resize', setControlsHeight);
 let allItems = [];
 let sortCol  = 'name';
 let sortDir  = 'asc';
@@ -502,7 +509,7 @@ async function loadData() {
 
     document.getElementById('last-updated').textContent =
       allItems.length === 0
-        ? 'No data yet.'
+        ? 'No data yet — run the Lich script to populate.'
         : `Last updated: ${ts}`;
 
     document.getElementById('loading').style.display = 'none';
