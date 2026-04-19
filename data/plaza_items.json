@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:08:57Z",
-  "item_count": 24,
+  "updated_at": "2026-04-19T17:09:53Z",
+  "item_count": 39,
   "items": [
     {
       "town": "Crossing",
@@ -104,6 +104,111 @@
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "an onyx-dusted cambrinth orb etched with the strutting image of a preening heron",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a bright white notecard with a message that reads: \"BALDRIC IS ALSO 60 MANA CAMBRINTH\"",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a bright white notecard with a message that reads: \"DULL LOCKPICK RINGS ARE IRON MASTERS~METALLIC ARE IRON GRANDMASTERS~GWETHS ARE 4 PLAT/CHARGE\"",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a cerulean scroll labeled with Dispel",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a cerulean scroll labeled with Sure Footing",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a dirty forging apron",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a double-wrapped leather sword belt embossed with charging thunder rams",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a heavy grimwood book etched with the title \"It'll Be Fine!\"",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a lightweight leather cowl embellished with a fan of murder crow feathers",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a polished agonite ceremonial shield embellished with eventide moonstone chips",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a ponderous leather-bound book with \"Trust Me!\" branded upon the cover",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a slim book wrapped in fractalline stitched with the title \"What Could Go Wrong?\"",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a stormy grey scroll labeled with Obfuscation",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "a stormy grey scroll labeled with Stone Strike",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "an excavator's mattock with a silversteel head",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Dragon's Cache",
+      "name": "some trollkin-hide leather",
       "price": " ",
       "last_seen": "2026-04-19"
     },
