@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:15:15Z",
-  "item_count": 390,
+  "updated_at": "2026-04-19T17:15:55Z",
+  "item_count": 417,
   "items": [
     {
       "town": "Crossing",
@@ -1686,6 +1686,195 @@
       "town": "Crossing",
       "shop": "Kythe And Cauldron",
       "name": "a silvered scroll labeled with Innocence",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a blue gold Damaris emblem hung from a string of Katamba's spires",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a blue gold haircomb inset with rivertears",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a blue gold torque with Idon's sapphire finials",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a clockwork electroweave engineer's toolbelt with copper mechanisms",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a cobalt-striped grass-green seasilk mra'sin",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a cobalt-striped grass-green seasilk sarrak",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a competition miniature Merelew soldier wielding a tiny kertig trident",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a competition miniature coral Andreshlew studded with tiny ice sapphire tents",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a cracked granite heavy mallet with a wire-bound black ironwood handle",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a crimson firesilk sarrak trimmed with gold braid",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a crimson firesilk wool mra'sin trimmed with gold braid",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a deed for a gold ingot",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a dergatine locksmith's strand fastened with a black diamond solitaire",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a diamondique lockpick ring",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a luxurious baudekin mra'sin figured with a floral design",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a luxurious baudekin sarrak figured with a floral design",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a mistsilk necktie with various faces swirling across its surface",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a misty-grey mistsilk mra'sin trimmed with darker grey trim",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a misty-grey mistsilk sarrak trimmed with darker grey trim",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a pitch-black cotton sarrak vertically striped with narrow gray streaks",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a polished tamarak cane entangled by a sprawling palladium kraken",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a rufous deathfiber mra'sin with black piping",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a rufous deathfiber sarrak with black piping",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "a soulstone-set armband shaped like a weasel protecting an egg",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "an oversized pajama shirt composed of midnight-black marblesilk",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "some crude coarse leathers fashioned from roughly stitched cave bear hides",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Pack And Pryde",
+      "name": "some interlocking miniature covellite tridents",
       "price": " ",
       "last_seen": "2026-04-19"
     },
