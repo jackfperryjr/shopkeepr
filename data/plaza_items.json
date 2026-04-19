@@ -1,215 +1,348 @@
 {
-  "updated_at": "2026-04-19T17:43:06Z",
-  "item_count": 901,
+  "updated_at": "2026-04-19T17:44:01Z",
+  "item_count": 920,
   "items": [
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
+      "name": "a bright white notecard with a message that reads: \"Gweths lers twer price num er there num er charge. Copper lockpick rings pirite, zinc master, brass grand master lockpicks in em\"",
+      "price": "276447231",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
       "name": "a brown sailcloth odaj",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a buffed leather pouch decorated with a border of stylized shield handles",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a cambrinth brain coral with brown diamond encrusted grooves",
-      "price": " ",
+      "price": "150",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a cambrinth flamboyant cuttlefish with a rainbow hematite mantle",
-      "price": " ",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a cobalt-blue muslin belt",
+      "price": "56820",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a crumpled paper scroll labeled with Divine Guidance",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a crumpled paper scroll labeled with Innocence",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a crumpled paper scroll labeled with Paralysis",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a crumpled paper scroll labeled with Platinum Hands of Kertigen",
-      "price": " ",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a crumpled paper scroll labeled with Strange Arrow",
+      "price": "5",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a dull electrum armband",
+      "price": "36800",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a fluttering crimson riband with a tentacled kraken charm on the end",
-      "price": " ",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a green sailcloth robe",
+      "price": "5050",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a jagged sandstone shard with a lump of soulstone embedded in one end",
-      "price": " ",
+      "price": "20",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a light blue sackcloth scarf",
-      "price": " ",
+      "price": "100",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a light green oilcloth headband",
+      "price": "1620",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a light yellow hat",
+      "price": "9020",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a long diamondwood cane topped with a carved wolf's head",
-      "price": " ",
+      "price": "15000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a meteoric iron greatsword flickering with a fracture pattern inlay of burning goldfyre",
-      "price": " ",
+      "price": "80000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a mistsilk necktie with various faces swirling across its surface",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a murder crow puppet",
-      "price": " ",
+      "price": "18",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a pair of yellow quartz cufflinks shaped like kernels of corn",
+      "price": "24800",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a palladium anklet",
+      "price": "148830",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a piece of oceanic-blue foil",
+      "price": "1",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a piece of scaled foil",
+      "price": "1",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a piece of sparkling foil",
+      "price": "1",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a piece of twinkling foil",
+      "price": "1",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a platinum-inlaid wood shaper set with a large diamond",
+      "price": "10282800",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a red cotton sarong",
+      "price": "90200",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a rich emerald witchweft cloak fixed with an absinthe emerald teardrop",
-      "price": " ",
+      "price": "150000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a shell-pink snakeskin scarf",
-      "price": " ",
+      "price": "150",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a silvered scroll labeled with Hypnotize",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a small featherstone bound by wire coils",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a small featherstone with jagged cracks",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a spiked axe inlaid along the blade with corroded zinc",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a square glass inkpot painted with indigo swirls",
-      "price": " ",
+      "price": "5000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a vault prowler's braided training cord",
+      "price": "7",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "a wide leather Therengian war belt riveted with decorative pewter plates",
-      "price": " ",
+      "price": "10000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a woven girdle formed from golden wire",
+      "price": "90200",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "an azure silk jousting pennant ostentatiously embroidered with a golden shield",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "an enveloping web-patterned pall of lace layered with gauze",
-      "price": " ",
+      "price": "450",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "an oceanmist satin kimono dyed a variety of blues clasped with a golden broodling",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "some bear-pelt leather",
-      "price": " ",
+      "price": "9",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "some canvas socks",
+      "price": "1260",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "some miniature chestnut turtles",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "some pivuh-skin leather",
-      "price": " ",
+      "price": "16",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Affordable Treasures",
       "name": "some reaver-pelt leather",
-      "price": " ",
+      "price": "3",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "some taffeta trousers",
+      "price": "4050",
       "last_seen": "2026-04-19"
     },
     {
