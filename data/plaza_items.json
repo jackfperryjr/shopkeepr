@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:46:03Z",
-  "item_count": 1548,
+  "updated_at": "2026-04-19T18:46:33Z",
+  "item_count": 1553,
   "items": [
     {
       "town": "Crossing",
@@ -10283,6 +10283,41 @@
       "shop": "Krazeil's Troop Supply And Arms",
       "name": "some Syrin's heart rings attached to thin diacan chains",
       "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Miss Gnomer's",
+      "name": "a dark thigh bag painted with the image of a gallant knight bathed in a soft glow kneeling before a holy sword",
+      "price": "100000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Miss Gnomer's",
+      "name": "a dusky-rose kimono with a spring-green sash",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Miss Gnomer's",
+      "name": "a finely-woven woolen doublet embroidered with a band of shimmering gold symbols written in the ancient language of Ilithi on a deep black background",
+      "price": "200000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Miss Gnomer's",
+      "name": "a lacquered white ironwood nightstick wrought in the form of a vertebral column",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Miss Gnomer's",
+      "name": "a steel broadsword",
+      "price": "12 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
