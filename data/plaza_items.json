@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:48:50Z",
-  "item_count": 1688,
+  "updated_at": "2026-04-19T18:49:05Z",
+  "item_count": 1690,
   "items": [
     {
       "town": "Crossing",
@@ -10962,6 +10962,20 @@
       "shop": "Ravens Repo, South",
       "name": "some natural suede ice skates with brown laces",
       "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sellatia's Shop",
+      "name": "a cardinal-red velvet robe belted with a bright golden cord",
+      "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sellatia's Shop",
+      "name": "a pale green fan trimmed in glittered lace",
+      "price": "3 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
