@@ -1,103 +1,768 @@
 {
-  "updated_at": "2026-04-19T17:23:10Z",
-  "item_count": 738,
+  "updated_at": "2026-04-19T17:30:33Z",
+  "item_count": 876,
   "items": [
     {
       "town": "Crossing",
-      "shop": "Another Man's Treasure",
-      "name": "a black lockpick ring",
+      "shop": "Affordable Treasures",
+      "name": "a brown sailcloth odaj",
       "price": " ",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
-      "shop": "Another Man's Treasure",
-      "name": "a cambrinth tailband shaped like a Harawep's web rose with sapphire petals",
+      "shop": "Affordable Treasures",
+      "name": "a buffed leather pouch decorated with a border of stylized shield handles",
       "price": " ",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
-      "shop": "Another Man's Treasure",
-      "name": "a cooking pot lid painted a clutch of kumquats",
+      "shop": "Affordable Treasures",
+      "name": "a cambrinth brain coral with brown diamond encrusted grooves",
       "price": " ",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
-      "shop": "Another Man's Treasure",
-      "name": "a gold-stippled scroll labeled with Petrifying Visions",
+      "shop": "Affordable Treasures",
+      "name": "a cambrinth flamboyant cuttlefish with a rainbow hematite mantle",
       "price": " ",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
-      "shop": "Another Man's Treasure",
-      "name": "a large sign that reads \"CAUTION: SNIPERS\"",
+      "shop": "Affordable Treasures",
+      "name": "a crumpled paper scroll labeled with Divine Guidance",
       "price": " ",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
-      "shop": "Another Man's Treasure",
-      "name": "a metallic lockpick ring",
+      "shop": "Affordable Treasures",
+      "name": "a crumpled paper scroll labeled with Innocence",
       "price": " ",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
-      "shop": "Another Man's Treasure",
+      "shop": "Affordable Treasures",
+      "name": "a crumpled paper scroll labeled with Paralysis",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a crumpled paper scroll labeled with Platinum Hands of Kertigen",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a fluttering crimson riband with a tentacled kraken charm on the end",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a jagged sandstone shard with a lump of soulstone embedded in one end",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a light blue sackcloth scarf",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a long diamondwood cane topped with a carved wolf's head",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a meteoric iron greatsword flickering with a fracture pattern inlay of burning goldfyre",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
       "name": "a mistsilk necktie with various faces swirling across its surface",
       "price": " ",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a murder crow puppet",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a rich emerald witchweft cloak fixed with an absinthe emerald teardrop",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a shell-pink snakeskin scarf",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a silvered scroll labeled with Hypnotize",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a small featherstone bound by wire coils",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a small featherstone with jagged cracks",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a spiked axe inlaid along the blade with corroded zinc",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a square glass inkpot painted with indigo swirls",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "a wide leather Therengian war belt riveted with decorative pewter plates",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "an azure silk jousting pennant ostentatiously embroidered with a golden shield",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "an enveloping web-patterned pall of lace layered with gauze",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "an oceanmist satin kimono dyed a variety of blues clasped with a golden broodling",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "some bear-pelt leather",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "some miniature chestnut turtles",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "some pivuh-skin leather",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Affordable Treasures",
+      "name": "some reaver-pelt leather",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a basalt bobcat rod",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a battered wooden spatula",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a beige sailcloth thigh bag with leather straps",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a boxy ebon canvas tote with cougar-hide handles",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a braided gold ring set with a large faceted sapphire",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a brass-handled katar with a gleaming undulate blade",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a bright pink paintstick",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a brushed gold signet ring cradling an aurora tourmaline",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a chocolate and cream toy goat with sparkling blue sea-glass eyes",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a concealer's permit",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a copper Dokora coin",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a copper Lirum coin",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a cream-colored linen shirt that drapes low in the front",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a darkstone great helm crafted from tempered plates",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a diamond ring",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a dwelling voucher",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a fine burlap carryall",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a fire-scorched leather hat",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a footman's arbalest with blackened tel'athi fittings",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a gladiator's battle kit fabricated from dark leather and asini fittings",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a gleaming agonite warrior's shield studded with blood rubies",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a gold lapel pin shaped like a seven-pointed star inset with a ruby moon",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a heart-shaped golden locket wrapped in asini filigree",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a heavy windsteel chainmail wristband woven with crystal bells",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a hexwood planter",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a liquid-filled crystal sunburst displayed upon braided titanese",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a long-sleeved khaddar shirt with simple threading",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a mess of dead darkspine leaves",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a miniature Elven gold caravan with burnished spoked wheels",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a pair of crossed swords",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a patchwork burlap wrist pouch",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a plain flame-orange wool carryall with gold buckles",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a plain wheat-colored linen sash",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a pygmy three-toed sloth covered in mottled dark brown fur",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a quality black leather bank book cover",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a scaly anteater covered in burnished copper plates",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a simple focused burin",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a small doeskin pouch covered in basalt beading",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a small enchanter's brazier",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel claymore",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel cutlass",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel cutlass with a balanced blade",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel footman's flail",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel gavel",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel greataxe",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel heavy sledgehammer",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel horseman's flail",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel horseman's flail with a balanced design",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel hunthsleg with a balanced blade",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel ring balaclava with trimmed links",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel round axe",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a steel round sipar with a trimmed face",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a thin gold token",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a veiny bloodshot eye",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "a worn and patched gearbag with thickly padded shoulder straps",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "an iron lockpick ring",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "some dusty dark grey armwraps dangling lengths of coiled rope",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "some glaes chisels decorated with crushed gemstones",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "some glass spheres",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "some niniam mail gloves crafted from tempered links",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "some obsidian stone spikes",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "some polished silver lenses",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Almost Famous",
+      "name": "some tarnished silver lenses",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a black lockpick ring",
+      "price": "35",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a bright white notecard with a message that reads: \"CAUTION The nightmare black robe here appears to be a dangerous item to be seen in possession of\"",
+      "price": "98989898",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a bright white notecard with a message that reads: \"lockpick rings: 25 plat = Masters, 35 plat = Grandmasters\"",
+      "price": "999999999",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a cambrinth tailband shaped like a Harawep's web rose with sapphire petals",
+      "price": "150",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a cooking pot lid painted a clutch of kumquats",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a gold-stippled scroll labeled with Petrifying Visions",
+      "price": "600",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a large sign that reads \"CAUTION: SNIPERS\"",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a metallic lockpick ring",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Another Man's Treasure",
+      "name": "a mistsilk necktie with various faces swirling across its surface",
+      "price": "200",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a nightmare black robe emblazed with a flaming skull",
-      "price": " ",
+      "price": "2000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a partitioned felwood case traced with silver sigils",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a pot of strong scale polish",
-      "price": " ",
+      "price": "5",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a quartz-eyed cambrinth coyote with its hackles raised",
-      "price": " ",
+      "price": "30",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a wrist sheath",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "a yellowed scroll",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Another Man's Treasure",
       "name": "some rugged worker's gloves",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
@@ -1497,819 +2162,819 @@
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a blackened smoi leather ashcloak mantled with scarlet rhodochrosites",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a bleached bone amulet carved into a stylized black pard",
-      "price": " ",
+      "price": "25000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a bottle of naphtha",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a cambrinth rimewolf with glaes jaws and eyes of Elven gold",
-      "price": " ",
+      "price": "400",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a carved tulvora eye",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a cherry blossom-pink valise clasped by a filigreed verdanite fairy wing",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a choker made of interlocking onyx spiders embellished with ruby accents",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a conical red velvet hat trimmed with white fur",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a conical witch's hat wrapped in misiumosette and topped with ghost orchids",
-      "price": " ",
+      "price": "200",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a dark sepia cloak of soft doegan wool",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a dark watersilk bag bearing a detailed cambrinth medallion",
-      "price": " ",
+      "price": "60000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a darkened steel greathammer with a sharkskin-covered handle",
-      "price": " ",
+      "price": "75",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a delicate wooden fife inlaid with ebony",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a dergatine dancing skirt",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a diamond-hide weaponsmith's toolbelt rigged with buckles of forgeheart iron",
-      "price": " ",
+      "price": "600",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a double-sided grey whetstone",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a durable darkstone dagger displaying a dwalgim die",
-      "price": " ",
+      "price": "900",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a faceted vengeance ruby",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a faded leather hood camaflouged with leaves and moss",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a firestorm samite coat shimmering with pale hues reminiscent of white-hot flames",
-      "price": " ",
+      "price": "6000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a fitted heretic black satin shirt with silversteel buttons",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a glossy red apple pin with a bright tel'athi leaf sprouted from its stem",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a glossy white storage book covered in strands of spiderweb turquoise",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a grimwood cudgel with a scarlet-dyed leather-wrapped grip",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a huge firesilk firecat with curved asini claws",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a lacquered tamboti scroll tube with two steelsilk arm straps",
-      "price": " ",
+      "price": "3000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a lightweight javelin crafted from brinewood",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a lush green headdress adorned with moonstained wildflowers",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a mechanical Aldauth's Howl moth",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a murky absinthe emerald",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a pair of beaded ocean blue satin slippers",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a pair of wool riding breeches reinforced with dusky purple suede",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a pale foxglove-purple apron with a scalloped white lace ruffle",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a partitioned felwood case traced with silver sigils",
-      "price": " ",
+      "price": "75",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a phthalo-blue oceanic orichalcum piccolo adorned with azure sirenstone keys",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a polished pouch of glossy leather with a small jar toggle",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a refined oxblood silk shirt trimmed at the cuffs with shadow emerald studs",
-      "price": " ",
+      "price": "350",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a rosy loveglass apple blossom with delicate stamens of lemon quartz",
-      "price": " ",
+      "price": "200",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a saffron vardite morning star",
-      "price": " ",
+      "price": "5000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a sapphire blue velvet frock coat embellished with complex silver filigree on the stand collar and down the sleeves",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a scrimshaw-handled claymore",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a shiny icesteel armband inlaid with snowflake-shaped cloud turquoises",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a short blade",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a silk batiste skirt in blended shades of cornflower and sky blue",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a silver-winged pixie pin clad in a red and white candysatin tutu",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a simple brinewood crossbow with a matching stock",
-      "price": " ",
+      "price": "350",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a slender ironrot quarterstaff surmounted with a princess-cut temptress beryl",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a slender purple gold anklet adorned with carved lightning amethyst charms",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a slick bogbirch stein with several chisled dancing figures along the base",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a soft white winter coat of finely brushed snowbeast fur",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a square cambrinth pendant set in a gold choker",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a stained wheat-colored rag with smudged images of sweet and savory foods",
-      "price": " ",
+      "price": "200",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a steel stiletto with a diamondwood handle",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a stud of polished glaes",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a sunshine yellow backpack",
-      "price": " ",
+      "price": "3",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a thunder of pewter dragons displaying multihued wings",
-      "price": " ",
+      "price": "400",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a traditional Gorbesh sishav tashahai wrapped in thick ice-veined leather",
-      "price": " ",
+      "price": "900",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a triple-stitched twill duffel bag",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a twilight-blue sanowret crystal",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a viperscale alexandrite",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a weathered leather backpack",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a whimsical greeting card painted with a roly-poly tabby cat sitting in a box",
-      "price": " ",
+      "price": "1",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a wide candysatin scarf with wine-red and white stripes",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a wide ivory scarf of doegan wool woven with a trail of cloven hooves",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a winterweave greatcloak shrouded in a hazy layer of misiumosette",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a wizened Life Dragon carved from verdant e'erdream",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "a wooden fletching box carved with a rustic Ranger's crest",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an anloral star of thirteen points",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an aurulent sanowret crystal gracing a chain of goldenglow glaes",
-      "price": " ",
+      "price": "5000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an ebony ledger case set with white topazes and a silver clasp and hinges",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an electric-blue sanowret crystal captured by a firestained icesteel chain",
-      "price": " ",
+      "price": "5000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an elegant gold-on-ivory damask wrap",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an emerald ivymere apron stitched with \"Ingredients\" in silver lettering",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an ice-veined leather kilt fastened with an icesteel pin",
-      "price": " ",
+      "price": "150",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an ivorene hairstick candy-striped with glossy red enamel",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an oceanic orichalcum hairstick striated with red-gold inclusions",
-      "price": " ",
+      "price": "2000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an oilcloth moneybelt with leather straps",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an orange silk blouse with tiny black pumpkins delicately embroidered on the cuffs",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "an oversized straw sun hat pinned with a crystalline heart",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "some blunt-tipped arrows with viridian stripes",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "some blunt-tipped bolts with silvery blue chevrons",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "some elegant dancing shoes with smooth soles",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "some exquisitely tailored firestorm samite trousers",
-      "price": " ",
+      "price": "6000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "some polished black leather loafers",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "some polished thin-edged zills with silvered esoteric filigree",
-      "price": " ",
+      "price": "20",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "some stinky rat pomade",
-      "price": " ",
+      "price": "25",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Clematis Crossing",
       "name": "some tel'athi elbow spikes bound with strips of Velakan linen",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a Dwarven iron skirmisher's shield embellished with asini crows",
-      "price": " ",
+      "price": "900",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a buckler mosaicked with a gold-white temple amid lush gardens",
-      "price": " ",
+      "price": "98",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a cambrinth brain coral with brown diamond encrusted grooves",
-      "price": " ",
+      "price": "100",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a chakrel gear attached to a curving metal band",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a dark watersilk bag bearing a detailed cambrinth medallion",
-      "price": " ",
+      "price": "180000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a farmer's hand sickle composed of iron",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a golden warrior's shield embossed with massive dragon's head design",
-      "price": " ",
+      "price": "800",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a jagged sandstone shard with a lump of soulstone embedded in one end",
-      "price": " ",
+      "price": "200",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a long gilt-edged dagger with a central blood channel",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a metal breastplate etched with a storm cloud at one shoulder",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a polished battle shield engraved with shesegri etchings",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a small featherstone with jagged cracks",
-      "price": " ",
+      "price": "10",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a soulstone-set armband shaped like a weasel protecting an egg",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "a thigh strap for a crafting instruction book",
-      "price": " ",
+      "price": "5000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Cloudberry",
       "name": "an onyx-dusted cambrinth orb etched with the strutting image of a preening heron",
-      "price": " ",
+      "price": "1000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a bright white notecard with a message that reads: \"BALDRIC IS ALSO 60 MANA CAMBRINTH\"",
-      "price": " ",
+      "price": "10000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a bright white notecard with a message that reads: \"DULL LOCKPICK RINGS ARE IRON MASTERS~METALLIC ARE IRON GRANDMASTERS~GWETHS ARE 4 PLAT/CHARGE\"",
-      "price": " ",
+      "price": "10000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a cerulean scroll labeled with Dispel",
-      "price": " ",
+      "price": "50",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a cerulean scroll labeled with Sure Footing",
-      "price": " ",
+      "price": "1850",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a dirty forging apron",
-      "price": " ",
+      "price": "350",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a double-wrapped leather sword belt embossed with charging thunder rams",
-      "price": " ",
+      "price": "3000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a heavy grimwood book etched with the title \"It'll Be Fine!\"",
-      "price": " ",
+      "price": "12250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a lightweight leather cowl embellished with a fan of murder crow feathers",
-      "price": " ",
+      "price": "150",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a polished agonite ceremonial shield embellished with eventide moonstone chips",
-      "price": " ",
+      "price": "550",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a ponderous leather-bound book with \"Trust Me!\" branded upon the cover",
-      "price": " ",
+      "price": "12250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a slim book wrapped in fractalline stitched with the title \"What Could Go Wrong?\"",
-      "price": " ",
+      "price": "12250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a stormy grey scroll labeled with Obfuscation",
-      "price": " ",
+      "price": "135",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "a stormy grey scroll labeled with Stone Strike",
-      "price": " ",
+      "price": "1250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "an excavator's mattock with a silversteel head",
-      "price": " ",
+      "price": "750",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "some trollkin-hide leather",
-      "price": " ",
+      "price": "170",
       "last_seen": "2026-04-19"
     },
     {
@@ -2519,6 +3184,97 @@
       "town": "Crossing",
       "shop": "Dumana's Scrolls",
       "name": "an umber funeral cassock pinned with a single crimson Perdition rose",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a brilliant ultramarine blue umbrella painted with leaping dolphins",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a cranberry velvet riding cloak lined with white silk",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a crimson glaes flamberge with a viperine hilt",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a formal black dreamweave kimono embroidered with swirling phofe flowers",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a gleaming steel dagesse with an intricately inlaid fuller",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a mint-green wrist purse dangling from an emerald-beaded strap",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a planter of geraniums",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a shimmering storm grey nightshade graced by a miniature silver dagger",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a smokewood-hafted ranseur with a haralun tip and cross-hilt",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a trio of rose beryl beads strung on rose gold wire",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "a wide-sleeved red samite robe trimmed with cloth-of-gold",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "an emerald velvet coat with ivory buttons",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Erzo's Illicit Imports",
+      "name": "an excavator's mattock with a silversteel head",
       "price": " ",
       "last_seen": "2026-04-19"
     },
@@ -3275,6 +4031,216 @@
       "town": "Crossing",
       "shop": "Gnome Depot",
       "name": "some glaes throwing nightingales",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a Dwarven iron fife with bands of luminous moonsilver knotwork",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a collared white linen shirt patterned with palm leaves",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a cream-colored steelsilk gown with a forest-green overskirt",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a deed for a tiny kelpzyte shard",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a diminutive flower charm delicately carved from silver maplewood",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a diminutive flower charm expertly whittled from polished oak",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a divided riding skirt with oak leaf buttons along the front",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a dusky blue velvet bodice slashed to reveal the nightsilk lining beneath",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a firesilk bodice embroidered with jagged flames",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a fitted petalette shirt embroidered with flowers",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a front-laced bodice of crimson silk adorned with gold star charms",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a heavy cauldron with twisted Dwarven iron handles",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a lilac mirror",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a long white silk skirt embroidered with a row of morning glories along its hem",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a nacreous rainbow-handled thrusting blade shaped like a spiraling unicorn horn",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a pair of fitted coveralls hued slate grey",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a pair of short-legged silver overalls with blue straps",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a pale blue cotton dress with an underskirt of ruffled white cotton",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a pale blue mistglass ferroniere bearing a luminous rivertear",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a punka leather corset adorned with a beaded design",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a sleek ebony leather bodice beaded with silver and moonstone",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a sprinkle of fireflies made of scintillating gold-backed opal",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a sungold sunburst with fiery rays of crimson glaes",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a vela'tohr briar charm exuding a hazy mist",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "a white cotton painter's smock smeared with rainbow glitter",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "an applewood short spear with a viridescent silk-wrapped grip",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "an icy blue satin bodice overlaid with embroidered white chiffon",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "an open-necked seasilk shirt embroidered with a skull and crossbones",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "some dusk-hued artisan's overalls covered in stars",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Klausette Full Of Things",
+      "name": "some slouched knee pants with skull and crossbone patterned patches",
       "price": " ",
       "last_seen": "2026-04-19"
     },
@@ -4801,63 +5767,63 @@
       "town": "Crossing",
       "shop": "Teh Black Market",
       "name": "a bright white notecard with a message that reads: \"dirty inkpot is bless\"",
-      "price": " ",
+      "price": "10000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Teh Black Market",
       "name": "a coal-black tool catalog with singed pages peeking out",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Teh Black Market",
       "name": "a golden paint bucket with a stencil of a large golden key",
-      "price": " ",
+      "price": "500",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Teh Black Market",
       "name": "a partitioned felwood case traced with silver sigils",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Teh Black Market",
       "name": "a small mirror-sided box",
-      "price": " ",
+      "price": "250",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Teh Black Market",
       "name": "a steel throwing spike",
-      "price": " ",
+      "price": "35",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Teh Black Market",
       "name": "an engraved silver censer suspended from a sturdy chain",
-      "price": " ",
+      "price": "50000",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Teh Black Market",
       "name": "some steel box-jaw tongs",
-      "price": " ",
+      "price": "35",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Crossing",
       "shop": "Teh Black Market",
       "name": "some steel hooked pliers",
-      "price": " ",
+      "price": "35",
       "last_seen": "2026-04-19"
     },
     {
