@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:13:10Z",
-  "item_count": 280,
+  "updated_at": "2026-04-19T17:13:40Z",
+  "item_count": 293,
   "items": [
     {
       "town": "Crossing",
@@ -916,6 +916,97 @@
       "town": "Crossing",
       "shop": "Dragon's Cache",
       "name": "some trollkin-hide leather",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a gold-stippled scroll labeled with Resonance",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a inky-black scroll labeled with Harm Evil",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a inky-black scroll labeled with Misdirection",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a moldering scroll",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a papyrus roll",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a silvered scroll labeled with Auspice",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a silvered scroll labeled with Burn",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a silvered scroll labeled with Carrion Call",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a silvered scroll labeled with Dazzle",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a silvered scroll labeled with Echoes of Aether",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a silvered scroll labeled with Grizzly Claws",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a silvered scroll labeled with Ignite",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Kythe And Cauldron",
+      "name": "a silvered scroll labeled with Innocence",
       "price": " ",
       "last_seen": "2026-04-19"
     },
