@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:48:10Z",
-  "item_count": 996,
+  "updated_at": "2026-04-19T17:48:50Z",
+  "item_count": 998,
   "items": [
     {
       "town": "Crossing",
@@ -4942,6 +4942,20 @@
       "shop": "Lozan's Retail Therapy",
       "name": "some lightweight void-black gauntlets chased in quelium flames",
       "price": "5000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Martyka's Secret Room",
+      "name": "a mistwood gem display case with gold leaf accents",
+      "price": "150",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Martyka's Secret Room",
+      "name": "a sturdy iron-studded black leather spellbook case",
+      "price": "12000",
       "last_seen": "2026-04-19"
     },
     {
