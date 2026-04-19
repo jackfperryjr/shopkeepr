@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:45:52Z",
-  "item_count": 941,
+  "updated_at": "2026-04-19T17:46:13Z",
+  "item_count": 947,
   "items": [
     {
       "town": "Crossing",
@@ -4207,6 +4207,48 @@
       "shop": "Gnome Depot",
       "name": "some glaes throwing nightingales",
       "price": "450",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Jelayna From The Block",
+      "name": "a bright green sign that reads \"STARTING PLACE\"",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Jelayna From The Block",
+      "name": "a broken bottle etched with a geometric symbol",
+      "price": "120",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Jelayna From The Block",
+      "name": "a fortune teller's toolbelt of onyx-hide spangled with nightfire opals",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Jelayna From The Block",
+      "name": "a starry black quiver stamped with a golden key",
+      "price": "150",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Jelayna From The Block",
+      "name": "a steel foil with a sandalwood hilt",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Jelayna From The Block",
+      "name": "some chartreuse blueprints depicting a softly lit dressing room",
+      "price": "2000",
       "last_seen": "2026-04-19"
     },
     {
