@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:48:10Z",
-  "item_count": 1639,
+  "updated_at": "2026-04-19T18:48:50Z",
+  "item_count": 1688,
   "items": [
     {
       "town": "Crossing",
@@ -11298,6 +11298,349 @@
       "shop": "Starcanth Forge And Mercantile",
       "name": "some steel hooked pliers",
       "price": "12 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a bronze lockpick ring",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a bronze nightstick with a series of notches crudely engraved along its length",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a chakrel badge clumsily carved with the words \"Work Harder, Not Smarter\"",
+      "price": "250 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a circular shield engraved with shesegri etchings",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a clockwork electroweave engineer's toolbelt with copper mechanisms",
+      "price": "400 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a crystal-pommeled arm knife",
+      "price": "250 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a curved handle",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a dainty cowbell fit with a polished bloodwood handle",
+      "price": "10 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a damascened scimitar with a polished demonbone handle",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a firestained pruning knife with a polished flamewood handle",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a flammeous scarlet battle cassock with spiny iron pauldrons",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a formal black dreamweave kimono embroidered with swirling phofe flowers",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a formal black jaspe odaj engulfed by a kaleidoscope of sky opal butterflies",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a gleaming agonite warrior's shield studded with blood rubies",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a goldwood battle longbow with a kau leather-wrapped riser",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a heavily patched morgawr leather shirt laced with jute",
+      "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a kau leather bota resembling a desiccated ghoul",
+      "price": "45 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a lacquered wooden shield adorned with a brass hound's head",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a large cover",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a large rim",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a long black cassock",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a lumium ring balaclava",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a pair of fragile jade lenses depicting a fractal pattern",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a polished agonite ceremonial shield embellished with eventide moonstone chips",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a pristine sigil binder with a darkstone-riveted cover",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a rainbow-bladed scalpel with a pitch-black unicorn handle",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a rich emerald witchweft cloak fixed with an absinthe emerald teardrop",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a sleek steel knife with a bone-carved hilt",
+      "price": "30 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a small armure ankle pouch with a simple knotted drawstring",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a small rim",
+      "price": "15 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a small silver-bound spellbook case engraved with the Ranger Guild crest",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a soft brown leather book cover splotched with waterstains",
+      "price": "40 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a softly tanned leather arm tote embossed with blossoms",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a stained leather targe painted with a fierce rat",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a steel ball-peen hammer",
+      "price": "25 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a sturdy canvas apron depicting a trio of puppies frolicking in a grassy meadow",
+      "price": "35 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a sturdy leather saddlebag painted with stylized horses",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "a vibrant red indurium cowbell delicately engraved with amaranth blossoms",
+      "price": "60 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "an hourglass-shaped pilgrim's badge carved from demon gaze agate",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "an ice-veined leather kilt fastened with an icesteel pin",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "an icethorn battle crossbow with a blood-red whipcord",
+      "price": "250 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "an indurium lockpick tailband etched with a shrew",
+      "price": "1000 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "an iron shield painted with a fluffy cloud",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "an ivory-hilted outdoors knife inlaid with jade briars",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "an unadorned platinum snuffbox",
+      "price": "5 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "some fizzy rat serum",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "some lumium ring gloves",
+      "price": "150 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "some polished silver lenses",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Shard",
+      "shop": "Wolf Den",
+      "name": "some tarnished silver lenses",
+      "price": "100 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
