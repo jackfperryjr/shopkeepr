@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:21:35Z",
-  "item_count": 590,
+  "updated_at": "2026-04-19T17:22:14Z",
+  "item_count": 648,
   "items": [
     {
       "town": "Crossing",
@@ -1910,6 +1910,412 @@
       "town": "Crossing",
       "shop": "From Here To Antiquity",
       "name": "a viscous golden potion",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a braided songsilk ring delicately threaded with rikar crystal spires",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a bronze nightstick with a series of notches crudely engraved along its length",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a brushed gold signet ring cradling an aurora tourmaline",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a demonbone grimoire inlaid with abyssal quartz",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a flamethorn shortbow intricately engraved with a pattern of coiled dragons",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a flowing white gown belted with a thin cord of twisted silver satin",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a fluffy tortoiseshell cat adorned with a glittery tiara",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Aethrolysis",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Frostbite",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Harm Evil",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Instinct",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Petrifying Visions",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Psychic Shield",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Researcher's Insight",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Thoughtcast",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a gold-stippled scroll labeled with Vertigo",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a heavy Dwarven iron codex enriched by uthamar knotwork",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a jet-hilted shriike with a jagged obsidian blade embellished with stars",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a khaddar thigh pouch secured with a glass Aluna charm",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a lacquered modwir band set with a tiny talan pearl clownfish",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a large foraging basket made with interwoven strips of goldweave and silverweave",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a meteoric iron skinning knife bound to a cambrinth hilt",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a midnight-blue velvet cloak with a storm-filled sky embroidered across the back",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a misshapen bloodmarrow ring crudely carved with heavy notching",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a nacreous rainbow-handled thrusting blade shaped like a spiraling unicorn horn",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a nightfire opal charm inscribed with a simple moon",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a pale cream wool arm tote with a brass clasp",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a pale grey steelsilk gown with a flower-embellished bodice",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a partitioned diacan case swirled with a watery iridescence",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a potency crystal",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a pristine sigil binder with a darkstone-riveted cover",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a scorched lockpick case with an etched swing-hook clasp of firestained electrum",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a segmented blade-bone vest shrouded in layers of shredded gravecloth",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a sleek ice-veined leather thigh quiver wrapped in silversteel mesh",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a slick bogbirch stein with several chisled dancing figures along the base",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a starry black quiver stamped with a golden key",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a tempestuous dusky blue featherlette ballgown laced with moonsilk ribbons",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a vardite parry stick engraved with a unicorn",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a vela'tohr plant charm with leaves as black as the night sky",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a white wicker basket trimmed with black ribbons",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a windsteel awl with a wooden grip",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a windsteel throwing hammer augmented with cambrinth",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a wizard's codex bound with thick smokewhorl leather",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "a wooden camp stool with an padded barkcloth seat",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an acenite sea unicorn with a glittering tail of coralite",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an apricot-hued glass lollipop with a glossy sheen",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an ebony nightstick inlaid with lightning bolts",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an ornate alerce ring",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an ornate audrualm ring",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an ornate darkstone ring",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an ornate iroko ring",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an oversized ironrot earring carved into a clown atop a ball",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an umbral-bone-reinforced thigh quiver with thick gravecloth panels",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "an undulating baldric plated in ropy cambrinth",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "some pale cerise leathers tooled with unfurled witch moth wings",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "some snowflake obsidian cufflinks mounted in silver",
+      "price": " ",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Glimmering Goodies Galore",
+      "name": "some stylish black diamond-hide leather pants belted with a swathe of dreamweave",
       "price": " ",
       "last_seen": "2026-04-19"
     },
