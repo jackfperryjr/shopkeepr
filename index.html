@@ -335,7 +335,6 @@
       <option value="Crossing">Crossing</option>
       <option value="Riverhaven">Riverhaven</option>
       <option value="Shard">Shard</option>
-      <option value="Therenborough">Therenborough</option>
     </select>
   </div>
   <div class="control-group" style="max-width:220px;">
@@ -380,10 +379,11 @@ const DATA_URL = 'data/plaza_items.json';
 
 function formatPrice(price) {
   if (!price) return '';
+  // Match: <number> [denomination] <currency>
   const m = price.match(/([\d,]+)\s*(platinum|copper|gold|silver)?\s*(Kronars?|Lirums?|Dokoras?)/i);
   if (!m) return escHtml(price);
-  const num  = parseInt(m[1].replace(/,/g, '')).toLocaleString();
-  const curr = m[3] || '';
+  const num   = parseInt(m[1].replace(/,/g, '')).toLocaleString();
+  const curr  = m[3] || '';
   const denom = (m[2] || 'platinum').toLowerCase();
   const label = denom === 'platinum' ? 'plat' : denom;
   return `${num} <span class="price-denom">${label}</span> ${curr}`;
