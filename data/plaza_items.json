@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T17:48:50Z",
-  "item_count": 998,
+  "updated_at": "2026-04-19T17:50:29Z",
+  "item_count": 1032,
   "items": [
     {
       "town": "Crossing",
@@ -6986,6 +6986,244 @@
       "shop": "Yrs' Greatest Deals",
       "name": "an iron lockpick ring",
       "price": "175000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a black voucher illustrated with a voidfrost velveteen-lined coffin",
+      "price": "15000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a blackened steel axe harness",
+      "price": "4000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a bright yellow warhorn painted with a pair of crossed swords",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a broad-bladed Dwarven iron voulge with a stout hickory haft",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a chakrel maze hung from a braided leather loop",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a cherry-red candysatin corset trimmed with dainty black lace",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a curved handle",
+      "price": "200",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a dainty blue gold anklet adorned with carved Alavern charms",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a dark navy book cover decorated with a pink-striped donkey",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a door-shaped voucher",
+      "price": "200",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a dreamweave tailor's toolbelt strung with kaleidoscopic wildling spiders",
+      "price": "250",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a goldweave phoenix with fire whirl ruby eyes",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a hammered ka'hurst shield of abyssal black",
+      "price": "25000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a heavy blue-black kau leather overcoat with an embroidered golden wolf",
+      "price": "200",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a jadeleaf artisan's satchel displaying sophisticated dragonvein agate fastenings",
+      "price": "10000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a kertig warhorn engraved with the Barbarians' Guild crest",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a lacquered wooden shield adorned with a brass hound's head",
+      "price": "750",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a lustrous goldenglow glaes ring crowned with an immaculate sun coral sphere",
+      "price": "20000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a lustrous ice-veined leather bodice edged in frost opals",
+      "price": "300",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a mammoth tusk warhorn engraved with a volley of arrows",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a marquetry lockpick case handcrafted with an inlaid design of a mariner's compass",
+      "price": "5000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a medium cover",
+      "price": "250",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a medium rim",
+      "price": "200",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a misshapen bloodmarrow ring crudely carved with heavy notching",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a platinum chain",
+      "price": "400",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a sanguine paintstick",
+      "price": "50",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a silversteel warhorn wrapped in lava-drake hide",
+      "price": "500",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a stained leather cowl with a braid of rat tails affixed to the back",
+      "price": "20",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a tailored camlet cassock with appliqued cardinals along the hem",
+      "price": "200",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "a winterweave snow hawk with frostflare opal eyes",
+      "price": "1000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "an ebony handled greathammer with a blackened steel head",
+      "price": "25",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "an ornate glitvire ring",
+      "price": "300",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "some bark-like sardonyx scales",
+      "price": "25000",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Riverhaven",
+      "shop": "Stalwart Gearworks Inc.",
+      "name": "some darkened smokewhorl gloves with angled firesilk cuffs",
+      "price": "10000",
       "last_seen": "2026-04-19"
     }
   ]
