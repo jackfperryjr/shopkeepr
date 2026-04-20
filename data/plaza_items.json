@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T19:11:41Z",
-  "item_count": 1814,
+  "updated_at": "2026-04-19T19:13:05Z",
+  "item_count": 1850,
   "items": [
     {
       "town": "Crossing",
@@ -7182,6 +7182,258 @@
       "shop": "Starkeeper Alley",
       "name": "some thick khaddar cloth",
       "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a Dwarven iron pilgrim's badge cradling a dwalgim mountain",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a banded grass spider with long spinnerets",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a battered windsteel pilgrim's badge shaped like a Gorbesh warship",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a cinereous barn spider with a plump abdomen",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a darkly painted lockpick case depicting a pair of emerald-eyed panthers",
+      "price": "60 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a gleaming goldenoak pilgrim's badge",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a haon arbalest with a series of small notches cut into the stock",
+      "price": "200 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a lustrous white ironwood pilgrim's badge",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a palladium pilgrim's badge hammered into a Therengian rose",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a palladium pilgrim's badge wrought into the scales of justice",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a pilgrim's badge resembling a goshawk mantling its wings",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a selatila pilgrim's badge inlaid with an archipelago of Reshalian tourmalines",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a silversteel pilgrim's badge shaped like a Zoluren gladiolus",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "a stained leather cowl with a braid of rat tails affixed to the back",
+      "price": "300 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an Elven silver pilgrim's badge formed into a tower beneath an Ilithi emerald",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an amber cave spider with spindly legs",
+      "price": "50 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral adder pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral centaur pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral cow pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral goshawk pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral horned owl pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral panther pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral raccoon pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral ram pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral raven pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral shark pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral shrew pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral tabby cat pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral unicorn pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral viper pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral vulture pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral weasel pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral wolverine pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an anloral wren pin",
+      "price": "100 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "an unsullied gold pilgrim's badge forged into an Imperial star",
+      "price": "500 platinum Kronars",
+      "last_seen": "2026-04-19"
+    },
+    {
+      "town": "Crossing",
+      "shop": "Tayria's Trader Tables",
+      "name": "some coarse lava drake-hide gloves with a reinforced design",
+      "price": "35 platinum Kronars",
       "last_seen": "2026-04-19"
     },
     {
