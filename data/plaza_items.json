@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T21:39:31Z",
+  "updated_at": "2026-04-19T21:39:49Z",
   "item_count": 1852,
   "items": [
     {
@@ -14502,15 +14502,31 @@
     {
       "town": "Shard",
       "shop": "Sellatia's Shop",
+      "owner": null,
+      "hours": "2pm and 12am",
+      "status": "open",
       "name": "a cardinal-red velvet robe belted with a bright golden cord",
-      "price": "25 platinum Kronars",
+      "short": "a cardinal-red velvet robe\\nTap: a cardinal-red velvet robe belted with a bright golden cord\\nWorn: Shirt-worn with armor.\\nCost: 250000\\nLook: A row of intricately cast gold buttons and twisted silken cord keep the generous folds of this robe closed, making it ideal for cold winter nights.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "25 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Shard",
       "shop": "Sellatia's Shop",
+      "owner": null,
+      "hours": "2pm and 12am",
+      "status": "open",
       "name": "a pale green fan trimmed in glittered lace",
-      "price": "3 platinum Kronars",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "3 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
