@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T14:13:16Z",
+  "updated_at": "2026-04-20T14:14:26Z",
   "item_count": 2342,
   "items": [
     {
@@ -27677,7 +27677,7 @@
       "cost_copper": null,
       "price": "2000 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27686,13 +27686,13 @@
       "hours": "3pm and 11pm",
       "status": "open",
       "name": "a crested blue jay with a silvery-blue beak",
-      "short": "a crested blue jay\\nTap: a crested blue jay with a silvery-blue beak\\nWorn: Generally worn.\\nCost: 5000000\\nLook: Predominantly lavender-blue feathers cover the bird's small body, though its chest and belly are covered in white.  A small black u-shaped collar around its neck matches the black banding along its narrow sky-blue tail.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "500 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a crested blue jay",
+      "tap": "a crested blue jay with a silvery-blue beak",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "5,000 platinum Dokoras",
+      "description": "Predominantly lavender-blue feathers cover the bird's small body, though its chest and belly are covered in white.  A small black u-shaped collar around its neck matches the black banding along its narrow sky-blue tail.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27701,13 +27701,13 @@
       "hours": "3pm and 11pm",
       "status": "open",
       "name": "a heavy diacan cutlass with a lotusweave-wrapped grip",
-      "short": "a heavy diacan cutlass\\nTap: a heavy diacan cutlass with a lotusweave-wrapped grip\\nCost: 5000000\\nLook: Delicate green gold shimmers against the inky black blade like motes of moonlight penetrating the bayou canopy.  Dyed a lurid green, lotusweave provides a secure grip.\\nRead: \"Sibo Dernaka\"\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a heavy diacan cutlass",
+      "tap": "a heavy diacan cutlass with a lotusweave-wrapped grip",
       "worn": null,
-      "cost_copper": null,
-      "price": "500 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 5000000,
+      "price": "5,000 platinum Dokoras",
+      "description": "Delicate green gold shimmers against the inky black blade like motes of moonlight penetrating the bayou canopy.  Dyed a lurid green, lotusweave provides a secure grip. | \"Sibo Dernaka\"",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27716,13 +27716,13 @@
       "hours": "3pm and 11pm",
       "status": "open",
       "name": "a leathery mask",
-      "short": "a leathery mask\\nWorn: Head-worn with armor.\\nCost: 4000000\\nLook: A handful of shark-skin scraps are sewn together to form the menacing replica.  The skin appears scarred where the scraps meet, adding to the illusion.\\nRead: There is nothing written on a leathery mask.\\nYou can buy this item if you like.",
+      "short": "a leathery mask",
       "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "400 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "worn": "Head-worn with armor.",
+      "cost_copper": 4000000,
+      "price": "4,000 platinum Dokoras",
+      "description": "A handful of shark-skin scraps are sewn together to form the menacing replica.  The skin appears scarred where the scraps meet, adding to the illusion. | There is nothing written on a leathery mask.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27737,7 +27737,7 @@
       "cost_copper": null,
       "price": "400 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27752,7 +27752,7 @@
       "cost_copper": null,
       "price": "2000 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27767,7 +27767,7 @@
       "cost_copper": null,
       "price": "30 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27776,13 +27776,13 @@
       "hours": "3pm and 11pm",
       "status": "open",
       "name": "a rockwood tanbo with polished darkstone tips",
-      "short": "a rockwood tanbo\\nTap: a rockwood tanbo with polished darkstone tips\\nCost: 2000000\\nLook: Corrugated veins of absorbed minerals line the smooth surface of the wood.  A small disc of darkstone caps each end, reinforcing the wood's already potent striking capability.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a rockwood tanbo",
+      "tap": "a rockwood tanbo with polished darkstone tips",
       "worn": null,
-      "cost_copper": null,
-      "price": "200 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 2000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "Corrugated veins of absorbed minerals line the smooth surface of the wood.  A small disc of darkstone caps each end, reinforcing the wood's already potent striking capability.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27791,13 +27791,13 @@
       "hours": "3pm and 11pm",
       "status": "open",
       "name": "a sanowret crystal",
-      "short": "a sanowret crystal\\nCost: 2000000\\nLook: Shaped into a perfect cube and reinforced by thin lines of silver in a complex lattice, the pure crystal glows a soft silver.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "short": "a sanowret crystal",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
-      "price": "200 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 2000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "Shaped into a perfect cube and reinforced by thin lines of silver in a complex lattice, the pure crystal glows a soft silver.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27806,13 +27806,13 @@
       "hours": "3pm and 11pm",
       "status": "open",
       "name": "a sharkskin leather wrist sheath branded with an image of a mermaid",
-      "short": "a leather wrist sheath\\nTap: a sharkskin leather wrist sheath branded with an image of a mermaid\\nWorn: Wrist-worn.\\nCost: 5000000\\nLook: Fastening the edges of the sharkskin together, small bits of bone have been worked through the shiny, grey leather.  Upon closer inspection, the mermaid appears to be in trouble, surrounded by several circling sharks.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "500 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a leather wrist sheath",
+      "tap": "a sharkskin leather wrist sheath branded with an image of a mermaid",
+      "worn": "Wrist-worn.",
+      "cost_copper": 5000000,
+      "price": "5,000 platinum Dokoras",
+      "description": "Fastening the edges of the sharkskin together, small bits of bone have been worked through the shiny, grey leather.  Upon closer inspection, the mermaid appears to be in trouble, surrounded by several circling sharks.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27821,13 +27821,13 @@
       "hours": "3pm and 11pm",
       "status": "open",
       "name": "a steel akabo tied with ornamental zibeline tassels",
-      "short": "a steel akabo\\nTap: a steel akabo tied with ornamental zibeline tassels\\nCost: 5000000\\nLook: Dark brown fur-like cords trail from the heavy weapon and inlaid reaver-bone grips cover the haft.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a steel akabo",
+      "tap": "a steel akabo tied with ornamental zibeline tassels",
       "worn": null,
-      "cost_copper": null,
-      "price": "500 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 5000000,
+      "price": "5,000 platinum Dokoras",
+      "description": "Dark brown fur-like cords trail from the heavy weapon and inlaid reaver-bone grips cover the haft.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27836,13 +27836,13 @@
       "hours": "3pm and 11pm",
       "status": "open",
       "name": "a striking kuwinite-plated dome helm embellished with baroque silverwork",
-      "short": "a kuwinite dome helm\\nTap: a striking kuwinite-plated dome helm embellished with baroque silverwork\\nWorn: Helm-worn.\\nCost: 1500000\\nLook: While its base is crafted from solid steel, this helm has been conspicuously covered in thin sheets of raspberry pink metal.  Between the ostentatious plates, masterful silver scrollwork creates a freeform pattern that appears to playfully mimic the natural folds and creases of a brain.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "150 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a kuwinite dome helm",
+      "tap": "a striking kuwinite-plated dome helm embellished with baroque silverwork",
+      "worn": "Helm-worn.",
+      "cost_copper": 1500000,
+      "price": "1,500 platinum Dokoras",
+      "description": "While its base is crafted from solid steel, this helm has been conspicuously covered in thin sheets of raspberry pink metal.  Between the ostentatious plates, masterful silver scrollwork creates a freeform pattern that appears to playfully mimic the natural folds and creases of a brain.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27851,13 +27851,13 @@
       "hours": "3pm and 11pm",
       "status": "open",
       "name": "a tyrium Elemental Dragon with eyes of lightning amethyst",
-      "short": "a tyrium Elemental Dragon\\nTap: a tyrium Elemental Dragon with eyes of lightning amethyst\\nWorn: Generally worn.\\nCost: 20000000\\nLook: Inlaid in blue gold, spectral flames trail the wing tips, horns, and talons, resembling the oshu'k'et observed by mariners during thunderstorms.  The gloaming depths of each eye are sundered by a golden pupil shaped like a jagged lightning bolt.  A matching chain allows it to be worn.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "2000 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a tyrium Elemental Dragon",
+      "tap": "a tyrium Elemental Dragon with eyes of lightning amethyst",
+      "worn": "Generally worn.",
+      "cost_copper": 20000000,
+      "price": "20,000 platinum Dokoras",
+      "description": "Inlaid in blue gold, spectral flames trail the wing tips, horns, and talons, resembling the oshu'k'et observed by mariners during thunderstorms.  The gloaming depths of each eye are sundered by a golden pupil shaped like a jagged lightning bolt.  A matching chain allows it to be worn.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -27872,7 +27872,7 @@
       "cost_copper": null,
       "price": "200 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
