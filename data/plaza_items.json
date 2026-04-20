@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-20T13:30:03Z",
-  "item_count": 2133,
+  "updated_at": "2026-04-20T13:31:58Z",
+  "item_count": 2132,
   "items": [
     {
       "town": "Crossing",
@@ -7118,21 +7118,6 @@
       "cost_copper": 3000000,
       "price": "3,000 platinum Kronars",
       "description": "The short statement is superimposed over a simple engraving of a large boot kicking a distinctly masculine figure down a flight of stairs.",
-      "last_seen": "2026-04-20"
-    },
-    {
-      "town": "Crossing",
-      "shop": "Infamous",
-      "owner": "Selasious",
-      "hours": "6am and 4pm",
-      "status": "open",
-      "name": "a curved wood shaper with an osage grip",
-      "short": "a curved wood shaper",
-      "tap": "a curved wood shaper with an osage grip",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "1,000 platinum Kronars",
-      "description": "Designed with smooth ridges to ensure a secure grip, the highly polished wood carries swirls of deep purple within a paler orange background.  A disc of bright blue sapphire is inlaid just where the wood forks to allow placement of the blade.",
       "last_seen": "2026-04-20"
     },
     {
