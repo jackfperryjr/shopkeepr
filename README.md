@@ -8,9 +8,9 @@
 
 ## What is this?
 
-DragonRealms has player-owned shops scattered across plazas in Crossing, Riverhaven, Shard, and Therenborough. Finding what's for sale means wandering from shop to shop, typing `LIST` in each one, and hoping something catches your eye. That gets old fast.
+DragonRealms has player-owned shops scattered across plazas in Crossing, Riverhaven, Shard, and Therenborough. Finding what's for sale means wandering from shop to shop, typing `SHOP` in each one, and hoping something catches your eye. That gets old fast.
 
-shopkeepr solves that. It's a searchable, filterable web page that shows every item currently for sale across all four plazas — item name, price, shop, town, and description — updated regularly by a script that walks the plazas and pushes the data here automatically.
+shopkeepr solves that. It's a searchable, filterable web page that shows every item currently for sale across all three plazas — item name, price, shop, town, and description — updated regularly by a script that walks the plazas and pushes the data here automatically.
 
 ---
 
@@ -38,7 +38,6 @@ Data is **merged across runs**, so items from shops that couldn't be visited on 
 | Crossing | The Crossing Plaza |
 | Riverhaven | Riverhaven Plaza |
 | Shard | The Shard Plaza |
-| Therenborough | Therenborough Plaza |
 
 ---
 
