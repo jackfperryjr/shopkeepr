@@ -241,16 +241,14 @@
   }
 
   .cell-name  { font-weight: 600; color: var(--text); min-width: 180px; }
-  .cell-price { font-family: 'Cinzel', serif; font-size: 0.82rem; color: var(--teal); white-space: nowrap; font-weight: 600; letter-spacing: 0.02em; }
-  .price-denom { font-size: 0.65rem; color: var(--gold); font-weight: 400; letter-spacing: 0.08em; vertical-align: middle; }
-  .cell-shop  { color: var(--text-mid); white-space: nowrap; }
-  .shop-tip {
+  .cell-desc  { font-size: 0.88rem; color: var(--text-mid); font-style: italic; max-width: 340px; min-width: 160px; line-height: 1.4; }
+  .has-tip {
     display: inline-block;
     border-bottom: 1px dashed var(--text-dim);
     cursor: default;
     position: relative;
   }
-  .shop-tip:hover::after {
+  .has-tip:hover::after {
     content: attr(data-tip);
     position: absolute;
     left: 0;
@@ -259,14 +257,22 @@
     color: var(--text);
     border: 1px solid var(--border-mid);
     border-radius: 3px;
-    padding: 0.4rem 0.65rem;
-    font-size: 0.8rem;
-    white-space: nowrap;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.78rem;
+    white-space: pre;
     z-index: 200;
     pointer-events: none;
-    font-family: 'Cinzel', serif;
-    letter-spacing: 0.04em;
+    font-family: 'Crimson Pro', serif;
+    font-style: normal;
+    letter-spacing: 0.01em;
+    line-height: 1.6;
+    max-width: 380px;
+    min-width: 200px;
   }
+  .cell-price { font-family: 'Cinzel', serif; font-size: 0.82rem; color: var(--teal); white-space: nowrap; font-weight: 600; letter-spacing: 0.02em; }
+  .price-denom { font-size: 0.65rem; color: var(--gold); font-weight: 400; letter-spacing: 0.08em; vertical-align: middle; }
+  .cell-shop  { color: var(--text-mid); white-space: nowrap; }
+  .shop-tip { } /* uses .has-tip */
 
   .town-badge {
     display: inline-block;
@@ -380,6 +386,7 @@
         <th data-col="price">Price</th>
         <th data-col="shop">Shop</th>
         <th data-col="town">Town</th>
+        <th data-col="description">Description</th>
         <th data-col="last_seen">Last Seen</th>
       </tr>
     </thead>
@@ -400,14 +407,31 @@
 <script>
 const DATA_URL = 'data/plaza_items.json';
 
+function itemCell(i) {
+  const name = escHtml(i.tap || i.name);
+  const lines = [];
+  if (i.short) lines.push(`Short: ${escHtml(i.short)}`);
+  if (i.worn)  lines.push(`Worn:  ${escHtml(i.worn)}`);
+  const tip = lines.join('\n');
+  if (!tip) return name;
+  return `<span class="has-tip" data-tip="${tip}">${name}</span>`;
+}
+
 function shopCell(i) {
   const name   = escHtml(i.shop);
-  const owner  = i.owner  ? `Owner: ${escHtml(i.owner)}` : null;
-  const hours  = i.hours  ? `Hours: ${escHtml(i.hours)} Eastern` : null;
-  const status = i.status ? `Status: ${escHtml(i.status)}` : null;
-  const tip    = [owner, hours, status].filter(Boolean).join(' · ');
+  const lines  = [];
+  if (i.owner)  lines.push(`Owner:  ${escHtml(i.owner)}`);
+  if (i.hours)  lines.push(`Hours:  ${escHtml(i.hours)} Eastern`);
+  if (i.status) lines.push(`Status: ${escHtml(i.status)}`);
+  const tip = lines.join('\n');
   if (!tip) return name;
-  return `<span class="shop-tip" data-tip="${tip}">${name}</span>`;
+  return `<span class="has-tip" data-tip="${tip}">${name}</span>`;
+}
+
+function descCell(i) {
+  const parts = [];
+  if (i.description) parts.push(escHtml(i.description));
+  return parts.join(' ');
 }
 
 function formatPrice(price) {
@@ -461,7 +485,7 @@ function filterAndSort() {
     if (town && i.town !== town) return false;
     if (shop && i.shop !== shop) return false;
     if (query) {
-      const hay = `${i.name} ${i.description || ''} ${i.shop}`.toLowerCase();
+      const hay = `${i.name} ${i.tap || ''} ${i.short || ''} ${i.description || ''} ${i.shop}`.toLowerCase();
       if (!hay.includes(query)) return false;
     }
     return true;
@@ -502,10 +526,11 @@ function render(rows) {
 
   tbody.innerHTML = rows.map(i => `
     <tr>
-      <td class="cell-name">${escHtml(i.name)}</td>
+      <td class="cell-name">${itemCell(i)}</td>
       <td class="cell-price">${formatPrice(i.price)}</td>
       <td class="cell-shop">${shopCell(i)}</td>
       <td><span class="town-badge ${townClass(i.town)}">${escHtml(i.town)}</span></td>
+      <td class="cell-desc">${descCell(i)}</td>
       <td class="cell-date">${escHtml(i.last_seen)}</td>
     </tr>
   `).join('');
