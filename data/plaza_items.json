@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T14:09:31Z",
+  "updated_at": "2026-04-20T14:13:16Z",
   "item_count": 2342,
   "items": [
     {
@@ -28492,7 +28492,7 @@
       "cost_copper": null,
       "price": "300 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -28501,13 +28501,13 @@
       "hours": "2pm and 1am",
       "status": "open",
       "name": "a steel hanger embellished with engraved sharks along the blade",
-      "short": "a steel hanger\\nTap: a steel hanger embellished with engraved sharks along the blade\\nCost: 8000000\\nLook: A blackwood handle is set within the chased brass hilt and a cast brass shark forms the pommel.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a steel hanger",
+      "tap": "a steel hanger embellished with engraved sharks along the blade",
       "worn": null,
-      "cost_copper": null,
-      "price": "800 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 8000000,
+      "price": "8,000 platinum Dokoras",
+      "description": "A blackwood handle is set within the chased brass hilt and a cast brass shark forms the pommel.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -28516,13 +28516,13 @@
       "hours": "2pm and 1am",
       "status": "open",
       "name": "a tursa military fork",
-      "short": "a tursa military fork\\nCost: 2000000\\nLook: Similar in nature to a pitchfork, this surprisingly effective weapon features two parallel tines of black metal protruding from a polished shaft of felwood.  An unkindness of ravens carved down the length of purple wood adds a touch of mystery, their obsidian eyes glistening ominously in the light.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "short": "a tursa military fork",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
-      "price": "200 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 2000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "Similar in nature to a pitchfork, this surprisingly effective weapon features two parallel tines of black metal protruding from a polished shaft of felwood.  An unkindness of ravens carved down the length of purple wood adds a touch of mystery, their obsidian eyes glistening ominously in the light.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -28531,13 +28531,13 @@
       "hours": "2pm and 1am",
       "status": "open",
       "name": "a verdigris paintstick",
-      "short": "a verdigris paintstick\\nCost: 10000000\\nLook: This oily semi-solid mass of paint is roughly formed into a small brick.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "short": "a verdigris paintstick",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 10000000,
+      "price": "10,000 platinum Dokoras",
+      "description": "This oily semi-solid mass of paint is roughly formed into a small brick.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -28546,13 +28546,13 @@
       "hours": "2pm and 1am",
       "status": "open",
       "name": "an intricate pumice cameo of Caduan set in a frame of gold",
-      "short": "an intricate pumice cameo\\nTap: an intricate pumice cameo of Caduan set in a frame of gold\\nCost: 3000000\\nLook: Delicate chips of frost opal are set at regular intervals along the narrow frame.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "an intricate pumice cameo",
+      "tap": "an intricate pumice cameo of Caduan set in a frame of gold",
       "worn": null,
-      "cost_copper": null,
-      "price": "300 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 3000000,
+      "price": "3,000 platinum Dokoras",
+      "description": "Delicate chips of frost opal are set at regular intervals along the narrow frame.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -28561,13 +28561,13 @@
       "hours": "2pm and 1am",
       "status": "open",
       "name": "some silversteel mail gloves traced with a labyrinthine pattern",
-      "short": "some mail gloves\\nTap: some silversteel mail gloves traced with a labyrinthine pattern\\nWorn: Glove-worn.\\nCost: 10000000\\nLook: The surface of each glove has an unusual sheen, and embedded somehow within the material on the back of each hand is a large, dull sigil.  The sigil has a slight opalescent cast, but the actual material is a mystery.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some mail gloves",
+      "tap": "some silversteel mail gloves traced with a labyrinthine pattern",
+      "worn": "Glove-worn.",
+      "cost_copper": 10000000,
+      "price": "10,000 platinum Dokoras",
+      "description": "The surface of each glove has an unusual sheen, and embedded somehow within the material on the back of each hand is a large, dull sigil.  The sigil has a slight opalescent cast, but the actual material is a mystery.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -28576,13 +28576,13 @@
       "hours": "2pm and 1am",
       "status": "open",
       "name": "some steel hinged chicken wings with variegated white and grey feathers",
-      "short": "some hinged chicken wings\\nTap: some steel hinged chicken wings with variegated white and grey feathers\\nWorn: Back-worn.\\nCost: 1000000\\nLook: Strung along a frame of polished silver wire, a multitude of white, grey and speckled chicken feathers have been strung on articulated and bent steel frames to give the appearance of chicken wings.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "100 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some hinged chicken wings",
+      "tap": "some steel hinged chicken wings with variegated white and grey feathers",
+      "worn": "Back-worn.",
+      "cost_copper": 1000000,
+      "price": "1,000 platinum Dokoras",
+      "description": "Strung along a frame of polished silver wire, a multitude of white, grey and speckled chicken feathers have been strung on articulated and bent steel frames to give the appearance of chicken wings.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -28591,13 +28591,13 @@
       "hours": "2pm and 1am",
       "status": "open",
       "name": "some svidaw sis instructions",
-      "short": "some svidvaw sis instructions\\nTap: some svidaw sis instructions\\nCost: 10000000\\nLook: You see nothing unusual.\\nRead: These instructions appear to be very fragile and will wear out quickly when studied.  They have only 1 uses remaining.\\n-=   Instructions for crafting a metal svidaw sis    =-\\nA metal svidaw sis is a craftable item in the Forging society under the Weaponsmithing crafting discipline.  This is considered to be a complicated piece to make, though knowledge of the Expert Blunt Weapon Design technique will be beneficial to the crafter.\\nThis item is listed as a \"finished large metal blunt weapon\" ingredient type and is created using a forging hammer, some tongs, some metalworking oil, a grindstone and a metal anvil with forge.  A crafter may also find it helpful to have a shovel and a bellows on hand.\\nA list of ingredients is provided:\\n(1) refined metal ingot (12 volume)\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "some svidvaw sis instructions",
+      "tap": "some svidaw sis instructions",
       "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 10000000,
+      "price": "10,000 platinum Dokoras",
+      "description": "You see nothing unusual. | These instructions appear to be very fragile and will wear out quickly when studied.  They have only 1 uses remaining.\n-=   Instructions for crafting a metal svidaw sis    =-\nA metal svidaw sis is a craftable item in the Forging society under the Weaponsmithing crafting discipline.  This is considered to be a complicated piece to make, though knowledge of the Expert Blunt Weapon Design technique will be beneficial to the crafter.\nThis item is listed as a \"finished large metal blunt weapon\" ingredient type and is created using a forging hammer, some tongs, some metalworking oil, a grindstone and a metal anvil with forge.  A crafter may also find it helpful to have a shovel and a bellows on hand.\nA list of ingredients is provided:\n(1) refined metal ingot (12 volume)",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
