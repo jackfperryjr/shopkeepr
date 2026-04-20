@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T13:45:45Z",
+  "updated_at": "2026-04-20T13:46:50Z",
   "item_count": 2120,
   "items": [
     {
@@ -11315,65 +11315,137 @@
     {
       "town": "Crossing",
       "shop": "Muleie's Mercantile",
+      "owner": "Muleie",
+      "hours": "2pm and 5am",
+      "status": "open",
       "name": "a bright lime-green sarong embroidered with azure poison dart frogs",
-      "price": "135 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": "a bright lime-green sarong",
+      "tap": "a bright lime-green sarong embroidered with azure poison dart frogs",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 1350000,
+      "price": "1,350 platinum Kronars",
+      "description": "The colorful blue frogs starkly contrast the vibrant green hue of the shimmery uzil used to create this loose-fitting garment.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Crossing",
       "shop": "Muleie's Mercantile",
+      "owner": "Muleie",
+      "hours": "2pm and 5am",
+      "status": "open",
       "name": "a large emerald gift box topped with a golden bow",
-      "price": "4865 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": "an emerald gift box",
+      "tap": "a large emerald gift box topped with a golden bow",
+      "worn": null,
+      "cost_copper": 48650000,
+      "price": "48,650 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Crossing",
       "shop": "Muleie's Mercantile",
+      "owner": "Muleie",
+      "hours": "2pm and 5am",
+      "status": "open",
       "name": "a lustrous fuchsia seasilk sarong fringed with white silk",
-      "price": "750 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": "a fuchsia seasilk sarong",
+      "tap": "a lustrous fuchsia seasilk sarong fringed with white silk",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 7500000,
+      "price": "7,500 platinum Kronars",
+      "description": "The brightly-hued fabric is cut to hug the body comfortably and allow freedom of movement, its vivid pink hue contrasting the pristine white threads embellishing its hemline.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Crossing",
       "shop": "Muleie's Mercantile",
+      "owner": "Muleie",
+      "hours": "2pm and 5am",
+      "status": "open",
       "name": "a midnight-purple dergatine ribbon strung with diacan shrike charms",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
       "price": "670 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "description": "",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Crossing",
       "shop": "Muleie's Mercantile",
+      "owner": "Muleie",
+      "hours": "2pm and 5am",
+      "status": "open",
       "name": "a pair of lava samite gloves trimmed with golden feathers",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
       "price": "275 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "description": "",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Crossing",
       "shop": "Muleie's Mercantile",
+      "owner": "Muleie",
+      "hours": "2pm and 5am",
+      "status": "open",
       "name": "a pair of pearlescent gloves composed of petalette",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
       "price": "775 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "description": "",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Crossing",
       "shop": "Muleie's Mercantile",
+      "owner": "Muleie",
+      "hours": "2pm and 5am",
+      "status": "open",
       "name": "a pair of sunkissed chiffon gloves clasped with summer's heart sapphires",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
       "price": "900 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "description": "",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Crossing",
       "shop": "Muleie's Mercantile",
+      "owner": "Muleie",
+      "hours": "2pm and 5am",
+      "status": "open",
       "name": "a shrunken orc head",
-      "price": "100 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": "a shrunken orc head",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "1,000 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Crossing",
       "shop": "Muleie's Mercantile",
+      "owner": "Muleie",
+      "hours": "2pm and 5am",
+      "status": "open",
       "name": "a smokey glass globe suspended within a delicate lumium cage",
-      "price": "100 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": "a glass globe",
+      "tap": "a smokey glass globe suspended within a delicate lumium cage",
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "1,000 platinum Kronars",
+      "description": "As you move your globe, you see a horde of mindless automaton swirling in an ever-shifting pattern about an abandoned artificer's workshop.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Crossing",
