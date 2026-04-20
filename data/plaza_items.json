@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T14:14:26Z",
+  "updated_at": "2026-04-20T14:16:44Z",
   "item_count": 2342,
   "items": [
     {
@@ -24002,7 +24002,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24011,13 +24011,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a grooved covellite mixing stick",
-      "short": "a grooved mixing stick\\nTap: a grooved covellite mixing stick\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a grooved mixing stick",
+      "tap": "a grooved covellite mixing stick",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24026,13 +24026,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a light lumium plate cuirass",
-      "short": "a light plate cuirass\\nTap: a light lumium plate cuirass\\nWorn: Shirt-worn, but not with armor.\\nCost: 970000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "97 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a light plate cuirass",
+      "tap": "a light lumium plate cuirass",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 970000,
+      "price": "970 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24041,13 +24041,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a light lumium plate mask",
-      "short": "a light plate mask\\nTap: a light lumium plate mask\\nWorn: Nose-worn.\\nCost: 170000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "17 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a light plate mask",
+      "tap": "a light lumium plate mask",
+      "worn": "Nose-worn.",
+      "cost_copper": 170000,
+      "price": "170 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24056,13 +24056,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a light steel throwing axe",
-      "short": "a light throwing axe\\nTap: a light steel throwing axe\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a light throwing axe",
+      "tap": "a light steel throwing axe",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24071,13 +24071,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium ceremonial shield",
-      "short": "a ceremonial shield\\nTap: a lumium ceremonial shield\\nWorn: Shoulder-worn.\\nCost: 400000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "40 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a ceremonial shield",
+      "tap": "a lumium ceremonial shield",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 400000,
+      "price": "400 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24086,13 +24086,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium jousting shield",
-      "short": "a jousting shield\\nTap: a lumium jousting shield\\nWorn: Shoulder-worn.\\nCost: 620000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "62 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a jousting shield",
+      "tap": "a lumium jousting shield",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 620000,
+      "price": "620 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24101,13 +24101,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium kite shield",
-      "short": "a kite shield\\nTap: a lumium kite shield\\nWorn: Shoulder-worn.\\nCost: 500000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "50 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a kite shield",
+      "tap": "a lumium kite shield",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 500000,
+      "price": "500 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24116,13 +24116,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium medium shield",
-      "short": "a medium shield\\nTap: a lumium medium shield\\nWorn: Shoulder-worn.\\nCost: 750000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "75 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a medium shield",
+      "tap": "a lumium medium shield",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 750000,
+      "price": "750 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24131,13 +24131,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium ring balaclava",
-      "short": "a ring balaclava\\nTap: a lumium ring balaclava\\nWorn: Helm-worn.\\nCost: 400000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "40 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a ring balaclava",
+      "tap": "a lumium ring balaclava",
+      "worn": "Helm-worn.",
+      "cost_copper": 400000,
+      "price": "400 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24146,13 +24146,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium ring hauberk",
-      "short": "a ring hauberk\\nTap: a lumium ring hauberk\\nWorn: Shirt-worn, but not with armor.\\nCost: 1750000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "175 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a ring hauberk",
+      "tap": "a lumium ring hauberk",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 1750000,
+      "price": "1,750 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24161,13 +24161,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium ring helm",
-      "short": "a ring helm\\nTap: a lumium ring helm\\nWorn: Helm-worn.\\nCost: 300000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "30 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a ring helm",
+      "tap": "a lumium ring helm",
+      "worn": "Helm-worn.",
+      "cost_copper": 300000,
+      "price": "300 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24176,13 +24176,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium ring lorica",
-      "short": "a ring lorica\\nTap: a lumium ring lorica\\nWorn: Shirt-worn, but not with armor.\\nCost: 650000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "65 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a ring lorica",
+      "tap": "a lumium ring lorica",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 650000,
+      "price": "650 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24191,13 +24191,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium ring robe",
-      "short": "a ring robe\\nTap: a lumium ring robe\\nWorn: Shirt-worn, but not with armor.\\nCost: 950000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "95 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a ring robe",
+      "tap": "a lumium ring robe",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 950000,
+      "price": "950 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24206,13 +24206,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium ring shirt",
-      "short": "a ring shirt\\nTap: a lumium ring shirt\\nWorn: Shirt-worn, but not with armor.\\nCost: 1050000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "105 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a ring shirt",
+      "tap": "a lumium ring shirt",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 1050000,
+      "price": "1,050 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24221,13 +24221,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium round sipar",
-      "short": "a round sipar\\nTap: a lumium round sipar\\nWorn: Shoulder-worn.\\nCost: 350000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "35 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a round sipar",
+      "tap": "a lumium round sipar",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 350000,
+      "price": "350 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24242,7 +24242,7 @@
       "cost_copper": null,
       "price": "87 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24251,13 +24251,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium scale balaclava",
-      "short": "a scale balaclava\\nTap: a lumium scale balaclava\\nWorn: Helm-worn.\\nCost: 650000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "65 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a scale balaclava",
+      "tap": "a lumium scale balaclava",
+      "worn": "Helm-worn.",
+      "cost_copper": 650000,
+      "price": "650 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24266,13 +24266,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium scale helm",
-      "short": "a scale helm\\nTap: a lumium scale helm\\nWorn: Helm-worn.\\nCost: 520000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "52 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a scale helm",
+      "tap": "a lumium scale helm",
+      "worn": "Helm-worn.",
+      "cost_copper": 520000,
+      "price": "520 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24281,13 +24281,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium scale lorica",
-      "short": "a scale lorica\\nTap: a lumium scale lorica\\nWorn: Shirt-worn, but not with armor.\\nCost: 850000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "85 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a scale lorica",
+      "tap": "a lumium scale lorica",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 850000,
+      "price": "850 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24296,13 +24296,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium scale mask",
-      "short": "a scale mask\\nTap: a lumium scale mask\\nWorn: Nose-worn.\\nCost: 120000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "12 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a scale mask",
+      "tap": "a lumium scale mask",
+      "worn": "Nose-worn.",
+      "cost_copper": 120000,
+      "price": "120 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24311,13 +24311,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium target shield",
-      "short": "a target shield\\nTap: a lumium target shield\\nWorn: Shoulder-worn.\\nCost: 350000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "35 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a target shield",
+      "tap": "a lumium target shield",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 350000,
+      "price": "350 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24326,13 +24326,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium tower shield",
-      "short": "a tower shield\\nTap: a lumium tower shield\\nWorn: Shoulder-worn.\\nCost: 1000000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "100 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a tower shield",
+      "tap": "a lumium tower shield",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 1000000,
+      "price": "1,000 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24341,13 +24341,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a lumium triangular sipar",
-      "short": "a triangular sipar\\nTap: a lumium triangular sipar\\nWorn: Shoulder-worn.\\nCost: 350000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "35 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a triangular sipar",
+      "tap": "a lumium triangular sipar",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 350000,
+      "price": "350 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24362,7 +24362,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24377,7 +24377,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24392,7 +24392,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24407,7 +24407,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24422,7 +24422,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24437,7 +24437,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24452,7 +24452,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24461,13 +24461,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a serrated steel hide scraper",
-      "short": "a serrated hide scraper\\nTap: a serrated steel hide scraper\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a serrated hide scraper",
+      "tap": "a serrated steel hide scraper",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24482,7 +24482,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24497,7 +24497,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24512,7 +24512,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24521,13 +24521,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a silk duffel bag",
-      "short": "a duffel bag\\nTap: a silk duffel bag\\nWorn: Shoulder-worn.\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a duffel bag",
+      "tap": "a silk duffel bag",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24542,7 +24542,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24557,7 +24557,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24566,13 +24566,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a simple steel parry stick",
-      "short": "a simple parry stick\\nTap: a simple steel parry stick\\nWorn: Right-arm shield (or parry stick).\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a simple parry stick",
+      "tap": "a simple steel parry stick",
+      "worn": "Right-arm shield (or parry stick).",
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24587,7 +24587,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24596,13 +24596,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel ball-peen hammer",
-      "short": "a ball-peen hammer\\nTap: a steel ball-peen hammer\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a ball-peen hammer",
+      "tap": "a steel ball-peen hammer",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24617,7 +24617,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24626,13 +24626,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel carving knife",
-      "short": "a carving knife\\nTap: a steel carving knife\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a carving knife",
+      "tap": "a steel carving knife",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24647,7 +24647,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24662,7 +24662,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24671,13 +24671,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel dire mace",
-      "short": "a dire mace\\nTap: a steel dire mace\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a dire mace",
+      "tap": "a steel dire mace",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24692,7 +24692,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24707,7 +24707,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24722,7 +24722,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24737,7 +24737,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24746,13 +24746,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel grooved pestle",
-      "short": "a grooved pestle\\nTap: a steel grooved pestle\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a grooved pestle",
+      "tap": "a steel grooved pestle",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24761,13 +24761,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel hurling axe",
-      "short": "a hurling axe\\nTap: a steel hurling axe\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a hurling axe",
+      "tap": "a steel hurling axe",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24782,7 +24782,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24797,7 +24797,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24806,13 +24806,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel military fork",
-      "short": "a military fork\\nTap: a steel military fork\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a military fork",
+      "tap": "a steel military fork",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24821,13 +24821,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel robe sword",
-      "short": "a robe sword\\nTap: a steel robe sword\\nCost: 100000\\nLook: You see the initials 'F. U.' impressed into the surface of the metal.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a robe sword",
+      "tap": "a steel robe sword",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see the initials 'F. U.' impressed into the surface of the metal.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24842,7 +24842,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24851,13 +24851,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel slender awl",
-      "short": "a slender awl\\nTap: a steel slender awl\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a slender awl",
+      "tap": "a steel slender awl",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24872,7 +24872,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24881,13 +24881,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel throwing club",
-      "short": "a throwing club\\nTap: a steel throwing club\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a throwing club",
+      "tap": "a steel throwing club",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24896,13 +24896,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel throwing hammer",
-      "short": "a throwing hammer\\nTap: a steel throwing hammer\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a throwing hammer",
+      "tap": "a steel throwing hammer",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24911,13 +24911,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel thrusting blade",
-      "short": "a thrusting blade\\nTap: a steel thrusting blade\\nCost: 100000\\nLook: You see the initials 'F. U.' impressed into the surface of the metal.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a thrusting blade",
+      "tap": "a steel thrusting blade",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see the initials 'F. U.' impressed into the surface of the metal.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24932,7 +24932,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24941,13 +24941,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a steel wide shovel",
-      "short": "a wide shovel\\nTap: a steel wide shovel\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a wide shovel",
+      "tap": "a steel wide shovel",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24962,7 +24962,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24971,13 +24971,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "a trapezoidal steel wire sieve",
-      "short": "a trapezoidal wire sieve\\nTap: a trapezoidal steel wire sieve\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "a trapezoidal wire sieve",
+      "tap": "a trapezoidal steel wire sieve",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -24992,7 +24992,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25007,7 +25007,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25016,13 +25016,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some covellite box-jaw tongs",
-      "short": "some box-jaw tongs\\nTap: some covellite box-jaw tongs\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "some box-jaw tongs",
+      "tap": "some covellite box-jaw tongs",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25037,7 +25037,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25046,13 +25046,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some fang-painted arrows",
-      "short": "some fang-painted arrows\\nTap: some fang-painted arrows\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "some fang-painted arrows",
+      "tap": "some fang-painted arrows",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25061,13 +25061,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some light lumium field plate",
-      "short": "some light field plate\\nTap: some light lumium field plate\\nWorn: Shirt-worn, but not with armor.\\nCost: 1450000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "145 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some light field plate",
+      "tap": "some light lumium field plate",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 1450000,
+      "price": "1,450 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25076,13 +25076,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some light lumium full plate",
-      "short": "some light full plate\\nTap: some light lumium full plate\\nWorn: Shirt-worn, but not with armor.\\nCost: 2500000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "250 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some light full plate",
+      "tap": "some light lumium full plate",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 2500000,
+      "price": "2,500 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25091,13 +25091,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some light lumium half plate",
-      "short": "some light half plate\\nTap: some light lumium half plate\\nWorn: Shirt-worn, but not with armor.\\nCost: 1620000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "162 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some light half plate",
+      "tap": "some light lumium half plate",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 1620000,
+      "price": "1,620 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25106,13 +25106,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some light lumium plate gauntlets",
-      "short": "some light plate gauntlets\\nTap: some light lumium plate gauntlets\\nWorn: Glove-worn.\\nCost: 320000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "32 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some light plate gauntlets",
+      "tap": "some light lumium plate gauntlets",
+      "worn": "Glove-worn.",
+      "cost_copper": 320000,
+      "price": "320 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25127,7 +25127,7 @@
       "cost_copper": null,
       "price": "47 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25142,7 +25142,7 @@
       "cost_copper": null,
       "price": "97 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25157,7 +25157,7 @@
       "cost_copper": null,
       "price": "65 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25166,13 +25166,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some lumium ring gloves",
-      "short": "some ring gloves\\nTap: some lumium ring gloves\\nWorn: Glove-worn.\\nCost: 150000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "15 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some ring gloves",
+      "tap": "some lumium ring gloves",
+      "worn": "Glove-worn.",
+      "cost_copper": 150000,
+      "price": "150 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25181,13 +25181,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some lumium ring greaves",
-      "short": "some ring greaves\\nTap: some lumium ring greaves\\nWorn: Worn as leg greaves.\\nCost: 300000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "30 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some ring greaves",
+      "tap": "some lumium ring greaves",
+      "worn": "Worn as leg greaves.",
+      "cost_copper": 300000,
+      "price": "300 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25196,13 +25196,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some lumium ring sleeves",
-      "short": "some ring sleeves\\nTap: some lumium ring sleeves\\nWorn: Worn as arm greaves.\\nCost: 520000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "52 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some ring sleeves",
+      "tap": "some lumium ring sleeves",
+      "worn": "Worn as arm greaves.",
+      "cost_copper": 520000,
+      "price": "520 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25211,13 +25211,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some lumium ring vambraces",
-      "short": "some ring vambraces\\nTap: some lumium ring vambraces\\nWorn: Worn as arm greaves.\\nCost: 420000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "42 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some ring vambraces",
+      "tap": "some lumium ring vambraces",
+      "worn": "Worn as arm greaves.",
+      "cost_copper": 420000,
+      "price": "420 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25226,13 +25226,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some lumium scale gloves",
-      "short": "some scale gloves\\nTap: some lumium scale gloves\\nWorn: Glove-worn.\\nCost: 200000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "20 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some scale gloves",
+      "tap": "some lumium scale gloves",
+      "worn": "Glove-worn.",
+      "cost_copper": 200000,
+      "price": "200 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25241,13 +25241,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some lumium scale greaves",
-      "short": "some scale greaves\\nTap: some lumium scale greaves\\nWorn: Worn as leg greaves.\\nCost: 370000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "37 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some scale greaves",
+      "tap": "some lumium scale greaves",
+      "worn": "Worn as leg greaves.",
+      "cost_copper": 370000,
+      "price": "370 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25256,13 +25256,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some lumium scale sleeves",
-      "short": "some scale sleeves\\nTap: some lumium scale sleeves\\nWorn: Glove-worn.\\nCost: 750000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "75 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some scale sleeves",
+      "tap": "some lumium scale sleeves",
+      "worn": "Glove-worn.",
+      "cost_copper": 750000,
+      "price": "750 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25271,13 +25271,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some lumium scale vambraces",
-      "short": "some scale vambraces\\nTap: some lumium scale vambraces\\nWorn: Worn as arm greaves.\\nCost: 550000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "55 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "some scale vambraces",
+      "tap": "some lumium scale vambraces",
+      "worn": "Worn as arm greaves.",
+      "cost_copper": 550000,
+      "price": "550 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25292,7 +25292,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25307,7 +25307,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25322,7 +25322,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25337,7 +25337,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25346,13 +25346,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some polished steel knitting needles",
-      "short": "some polished knitting needles\\nTap: some polished steel knitting needles\\nCost: 100000\\nLook: The knitting needles are not in the process of knitting any yarn.\\nYou see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "some polished knitting needles",
+      "tap": "some polished steel knitting needles",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "The knitting needles are not in the process of knitting any yarn.\nYou see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25361,13 +25361,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some scale-painted quadrellos",
-      "short": "some scale-painted quadrellos\\nTap: some scale-painted quadrellos\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "some scale-painted quadrellos",
+      "tap": "some scale-painted quadrellos",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25382,7 +25382,7 @@
       "cost_copper": null,
       "price": "10 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25391,13 +25391,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some snake-painted pulzones",
-      "short": "some snake-painted pulzones\\nTap: some snake-painted pulzones\\nCost: 100000\\nLook: The pulzone is a large, heavy bolt with a blunted tip, primarily used with the hopes of stunning a target.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "some snake-painted pulzones",
+      "tap": "some snake-painted pulzones",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "The pulzone is a large, heavy bolt with a blunted tip, primarily used with the hopes of stunning a target.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25406,13 +25406,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some steel hooked pliers",
-      "short": "some hooked pliers\\nTap: some steel hooked pliers\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "some hooked pliers",
+      "tap": "some steel hooked pliers",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25421,13 +25421,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some steel serrated scissors",
-      "short": "some serrated scissors\\nTap: some steel serrated scissors\\nCost: 100000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "some serrated scissors",
+      "tap": "some steel serrated scissors",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -25436,13 +25436,13 @@
       "hours": "12pm and 8am",
       "status": "open",
       "name": "some thin steel sewing needles",
-      "short": "some thin sewing needles\\nTap: some thin steel sewing needles\\nCost: 100000\\nLook: The needles appear to be missing thread.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
+      "short": "some thin sewing needles",
+      "tap": "some thin steel sewing needles",
       "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "cost_copper": 100000,
+      "price": "100 platinum Dokoras",
+      "description": "The needles appear to be missing thread.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
