@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T21:30:52Z",
+  "updated_at": "2026-04-19T21:31:12Z",
   "item_count": 1852,
   "items": [
     {
@@ -11545,29 +11545,61 @@
     {
       "town": "Shard",
       "shop": "General Dokora",
+      "owner": "Toviah",
+      "hours": "3pm and 12am",
+      "status": "open",
       "name": "a Be'ort tear rose",
-      "price": "45 platinum Kronars",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "45 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Shard",
       "shop": "General Dokora",
+      "owner": "Toviah",
+      "hours": "3pm and 12am",
+      "status": "open",
       "name": "a bright white notecard with a message that reads: \"Rods=Cam Retuners, last number=charges. Sunstone Rings=Grandmasters, other=Masters. Horses by Henil.\"",
-      "price": "25 platinum Kronars",
+      "short": "a bright white notecard\\nTap: a bright white notecard with a message that reads: \"Rods=Cam Retuners, last number=charges. Sunstone Rings=Grandmasters, other=Masters. Horses by Henil.\"\\nCost: 250000\\nLook: Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "25 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Shard",
       "shop": "General Dokora",
+      "owner": "Toviah",
+      "hours": "3pm and 12am",
+      "status": "open",
       "name": "a crystalline fibril",
-      "price": "6 platinum Kronars",
+      "short": "a crystalline fibril\\nCost: 60000\\nLook: Needle-thin and pale white, the springy material traces a conchospiral one-inch wide, viciously sharp at the spiral's origin.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "6 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Shard",
       "shop": "General Dokora",
+      "owner": "Toviah",
+      "hours": "3pm and 12am",
+      "status": "open",
       "name": "a tamboti pilgrim's badge sculpted with the emblem of Xosiurion",
-      "price": "25 platinum Kronars",
+      "short": "a tamboti pilgrim's badge\\nTap: a tamboti pilgrim's badge sculpted with the emblem of Xosiurion\\nWorn: Generally worn.\\nCost: 250000\\nLook: This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "25 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
