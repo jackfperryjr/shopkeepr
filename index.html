@@ -383,10 +383,10 @@
     <thead>
       <tr>
         <th data-col="name">Item</th>
+        <th data-col="description">Description</th>
         <th data-col="price">Price</th>
         <th data-col="shop">Shop</th>
         <th data-col="town">Town</th>
-        <th data-col="description">Description</th>
         <th data-col="last_seen">Last Seen</th>
       </tr>
     </thead>
@@ -531,10 +531,10 @@ function render(rows) {
   tbody.innerHTML = rows.map(i => `
     <tr>
       <td class="cell-name">${itemCell(i)}</td>
+      <td class="cell-desc">${descCell(i)}</td>
       <td class="cell-price">${formatPrice(i.price)}</td>
       <td class="cell-shop">${shopCell(i)}</td>
       <td><span class="town-badge ${townClass(i.town)}">${escHtml(i.town)}</span></td>
-      <td class="cell-desc">${descCell(i)}</td>
       <td class="cell-date">${escHtml(i.last_seen)}</td>
     </tr>
   `).join('');
