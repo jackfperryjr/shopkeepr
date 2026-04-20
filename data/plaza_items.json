@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T21:34:17Z",
+  "updated_at": "2026-04-19T21:34:44Z",
   "item_count": 1852,
   "items": [
     {
@@ -11997,29 +11997,61 @@
     {
       "town": "Shard",
       "shop": "Inver Brass",
+      "owner": "Jondac",
+      "hours": "6pm and 3am",
+      "status": "open",
       "name": "a furniture voucher",
-      "price": "100 platinum Kronars",
+      "short": "a furniture voucher\\nCost: 1000000\\nLook: You recognize this as the documentation needed to exchange furniture.\\nRead: \"This document is valid for a lelori refectory table, which occupies the table (misc1) space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"\\nYou can buy this item if you like.",
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "100 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Shard",
       "shop": "Inver Brass",
+      "owner": "Jondac",
+      "hours": "6pm and 3am",
+      "status": "open",
       "name": "a glaes carving knife",
-      "price": "2000 platinum Kronars",
+      "short": "a carving knife\\nTap: a glaes carving knife\\nCost: 20000000\\nLook: You see the initials \"P. D.\" impressed into the surface of the metal.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "2000 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Shard",
       "shop": "Inver Brass",
+      "owner": "Jondac",
+      "hours": "6pm and 3am",
+      "status": "open",
       "name": "a lelori footman's bow",
-      "price": "1000 platinum Kronars",
+      "short": "a footman's bow\\nTap: a lelori footman's bow\\nWorn: Shoulder-worn.\\nCost: 10000000\\nLook: You see nothing unusual.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "1000 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
       "town": "Shard",
       "shop": "Inver Brass",
+      "owner": "Jondac",
+      "hours": "6pm and 3am",
+      "status": "open",
       "name": "a lelori horseman's bow",
-      "price": "1000 platinum Kronars",
+      "short": "a horseman's bow\\nTap: a lelori horseman's bow\\nWorn: Shoulder-worn.\\nCost: 10000000\\nLook: You see the initials \"P. D.\" impressed into the surface of the wood.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "1000 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-19"
     },
     {
