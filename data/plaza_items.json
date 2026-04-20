@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T08:03:12Z",
+  "updated_at": "2026-04-20T08:06:41Z",
   "item_count": 2108,
   "items": [
     {
@@ -19476,44 +19476,92 @@
     {
       "town": "Shard",
       "shop": "Ravens Repo, South",
+      "owner": "Zayreal",
+      "hours": "8am and 9pm",
+      "status": "open",
       "name": "a diacan-bladed avia fan dangling sprawled kraken charms",
-      "price": "2000 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "2000 platinum Dokoras",
+      "description": "",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
       "shop": "Ravens Repo, South",
+      "owner": "Zayreal",
+      "hours": "8am and 9pm",
+      "status": "open",
       "name": "a farmer's hand sickle composed of iron",
-      "price": "150 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": "a farmer's hand sickle",
+      "tap": "a farmer's hand sickle composed of iron",
+      "worn": null,
+      "cost_copper": 1500000,
+      "price": "1,500 platinum Dokoras",
+      "description": "Sharpened along its inside edge, the curved blade is designed for harvesting crops and cutting through hay bales.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
       "shop": "Ravens Repo, South",
+      "owner": "Zayreal",
+      "hours": "8am and 9pm",
+      "status": "open",
       "name": "a tursa military fork",
-      "price": "200 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": "a tursa military fork",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 2000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "Similar in nature to a pitchfork, this surprisingly effective weapon features two parallel tines of black metal protruding from a polished shaft of felwood.  An unkindness of ravens carved down the length of purple wood adds a touch of mystery, their obsidian eyes glistening ominously in the light.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
       "shop": "Ravens Repo, South",
+      "owner": "Zayreal",
+      "hours": "8am and 9pm",
+      "status": "open",
       "name": "an animite war hammer with a polished head",
-      "price": "200 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": "an animite war hammer",
+      "tap": "an animite war hammer with a polished head",
+      "worn": null,
+      "cost_copper": 2000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "Leather strips are wound around the handle to provide a good grip while wielding this weapon.  The dark metal of the rest of the haft flows into the polished dark silver head.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
       "shop": "Ravens Repo, South",
+      "owner": "Zayreal",
+      "hours": "8am and 9pm",
+      "status": "open",
       "name": "an improvised parry stick made from assorted construction materials",
-      "price": "200 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "200 platinum Dokoras",
+      "description": "",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
       "shop": "Ravens Repo, South",
+      "owner": "Zayreal",
+      "hours": "8am and 9pm",
+      "status": "open",
       "name": "some natural suede ice skates with brown laces",
-      "price": "100 platinum Kronars",
-      "last_seen": "2026-04-19"
+      "short": "some suede ice skates",
+      "tap": "some natural suede ice skates with brown laces",
+      "worn": "Foot-worn.",
+      "cost_copper": 1000000,
+      "price": "1,000 platinum Dokoras",
+      "description": "The ice skates are ready to be worn for skating.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
