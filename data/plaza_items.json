@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-20T16:05:18Z",
-  "item_count": 2032,
+  "updated_at": "2026-04-20T16:05:36Z",
+  "item_count": 2034,
   "items": [
     {
       "town": "Crossing",
@@ -28650,6 +28650,36 @@
       "cost_copper": 1000000,
       "price": "1,000 platinum Dokoras",
       "description": "The ice skates are ready to be worn for skating.",
+      "last_seen": "2026-04-20"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sellatia's Shop",
+      "owner": null,
+      "hours": "2pm and 12am",
+      "status": "open",
+      "name": "a cardinal-red velvet robe belted with a bright golden cord",
+      "short": "a cardinal-red velvet robe",
+      "tap": "a cardinal-red velvet robe belted with a bright golden cord",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 250000,
+      "price": "250 platinum Dokoras",
+      "description": "A row of intricately cast gold buttons and twisted silken cord keep the generous folds of this robe closed, making it ideal for cold winter nights.",
+      "last_seen": "2026-04-20"
+    },
+    {
+      "town": "Shard",
+      "shop": "Sellatia's Shop",
+      "owner": null,
+      "hours": "2pm and 12am",
+      "status": "open",
+      "name": "a pale green fan trimmed in glittered lace",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "3 platinum Dokoras",
+      "description": "",
       "last_seen": "2026-04-20"
     },
     {
