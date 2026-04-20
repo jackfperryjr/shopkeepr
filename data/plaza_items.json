@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T14:25:58Z",
+  "updated_at": "2026-04-20T14:26:16Z",
   "item_count": 2342,
   "items": [
     {
@@ -28456,13 +28456,13 @@
       "hours": "2pm and 12am",
       "status": "open",
       "name": "a cardinal-red velvet robe belted with a bright golden cord",
-      "short": "a cardinal-red velvet robe\\nTap: a cardinal-red velvet robe belted with a bright golden cord\\nWorn: Shirt-worn with armor.\\nCost: 250000\\nLook: A row of intricately cast gold buttons and twisted silken cord keep the generous folds of this robe closed, making it ideal for cold winter nights.\\nRead: There is nothing there to read.\\nYou can buy this item if you like.",
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "25 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-19"
+      "short": "a cardinal-red velvet robe",
+      "tap": "a cardinal-red velvet robe belted with a bright golden cord",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 250000,
+      "price": "250 platinum Dokoras",
+      "description": "A row of intricately cast gold buttons and twisted silken cord keep the generous folds of this robe closed, making it ideal for cold winter nights.",
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
@@ -28477,7 +28477,7 @@
       "cost_copper": null,
       "price": "3 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-19"
+      "last_seen": "2026-04-20"
     },
     {
       "town": "Shard",
