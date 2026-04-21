@@ -8,6 +8,7 @@
     --bg-input:   #111320;
 
     --text:       #d8dce8;
+    --text-header:#d4af37;
     --text-mid:   #8890b0;
     --text-dim:   #404860;
 
@@ -71,6 +72,10 @@
     color: var(--gold-bright);
     letter-spacing: 0.08em;
     line-height: 1.1;
+  }
+
+  .h1-ornament {
+    color: var(--text-header)
   }
 
   .header-sub {
