@@ -17,9 +17,10 @@ function itemCell(i) {
 function shopCell(i) {
   const name = escHtml(i.shop);
   const tip  = makeTip([
-    i.owner  ? `Owner:  ${escHtml(i.owner)}`            : null,
-    i.hours  ? `Hours:  ${escHtml(i.hours)} Eastern`    : null,
-    i.status ? `Status: ${escHtml(i.status)}`           : null,
+    i.hub_room ? `Room:   ${escHtml(i.hub_room)}`          : null,
+    i.owner    ? `Owner:  ${escHtml(i.owner)}`             : null,
+    i.hours    ? `Hours:  ${escHtml(i.hours)} Eastern`     : null,
+    i.status   ? `Status: ${escHtml(i.status)}`            : null,
   ]);
   if (!tip) return name;
   return `<span class="has-tip" data-tip="${tip}">${name}</span>`;
