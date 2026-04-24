@@ -1,0 +1,289 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --ff-bg:       #000020;
+  --ff-win:      #08205e;
+  --ff-win-deep: #050f38;
+  --ff-white:    #ffffff;
+  --ff-label:    #a0bcd8;
+  --ff-dim:      #3a5270;
+  --ff-orange:   #e88840;
+  --ff-hover:    rgba(120,170,255,0.12);
+}
+
+html { font-size: 16px; }
+
+body {
+  font-family: 'Titillium Web', 'Segoe UI', sans-serif;
+  background: var(--ff-bg);
+  color: var(--ff-white);
+  min-height: 100vh;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+/* ─── FF7-STYLE WINDOW PANEL ─── */
+/*
+  Gradient panel (lighter blue top → deeper blue bottom), thin blue border,
+  inset highlight top/left + shadow bottom/right for the raised-slab look.
+*/
+header,
+.controls,
+.table-wrap,
+footer {
+  background: linear-gradient(160deg, #0e2870 0%, #082060 55%, #061848 100%);
+  border: 1px solid rgba(100,150,255,0.45);
+  box-shadow:
+    inset 1px 1px 0 rgba(160,200,255,0.3),
+    inset -1px -1px 0 rgba(0,5,50,0.85),
+    0 0 0 1px rgba(0,0,20,0.9);
+}
+
+/* ─── HEADER ─── */
+header {
+  text-align: center;
+  padding: 1.5rem 1rem 1.25rem;
+}
+
+.header-ornament {
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: var(--ff-label);
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  margin-bottom: 0.75rem;
+}
+
+h1 {
+  font-size: clamp(1.6rem, 5vw, 2.6rem);
+  font-weight: 700;
+  color: var(--ff-white);
+  letter-spacing: 0.18em;
+  line-height: 1.2;
+  text-shadow: 0 2px 16px rgba(100,150,255,0.45);
+}
+
+.h1-ornament { color: var(--ff-white); }
+
+.header-sub {
+  font-size: 1rem;
+  color: var(--ff-label);
+  margin-top: 0.5rem;
+}
+
+.rule { display: none; }
+
+.last-updated {
+  margin-top: 0.5rem;
+  font-size: 0.78rem;
+  color: var(--ff-dim);
+}
+
+/* ─── CONTROLS ─── */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  align-items: center;
+  padding: 0.75rem;
+  position: sticky;
+  top: 0.75rem;
+  z-index: 100;
+}
+
+.control-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex: 1;
+  min-width: 150px;
+}
+
+.control-group label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  color: var(--ff-label);
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+input[type="search"], select {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 0.95rem;
+  background: var(--ff-win-deep);
+  color: var(--ff-white);
+  border: 1px solid rgba(100,150,255,0.35);
+  box-shadow:
+    inset 1px 1px 0 rgba(0,5,50,0.9),
+    inset -1px -1px 0 rgba(140,190,255,0.12);
+  padding: 0.3rem 0.6rem;
+  width: 100%;
+  outline: none;
+  border-radius: 0;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+input[type="search"]:focus, select:focus {
+  border-color: rgba(180,210,255,0.7);
+}
+
+input[type="search"]::placeholder { color: var(--ff-dim); }
+
+select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='6'%3E%3Cpath d='M0 0l4 6 4-6z' fill='%23ffffff'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.5rem center;
+  padding-right: 1.75rem;
+  cursor: pointer;
+}
+
+select option { background: #08205e; color: var(--ff-white); }
+
+.stats-bar {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--ff-label);
+  white-space: nowrap;
+  padding: 0.3rem 0.65rem;
+  background: var(--ff-win-deep);
+  border: 1px solid rgba(100,150,255,0.3);
+  box-shadow: inset 1px 1px 0 rgba(0,5,50,0.9);
+}
+
+.stats-bar span { color: var(--ff-white); }
+
+/* ─── TABLE WRAP ─── */
+.table-wrap { padding: 0; overflow-x: auto; }
+
+table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+
+thead { position: sticky; z-index: 50; top: 0; }
+
+thead th {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ff-label);
+  background: var(--ff-win-deep);
+  padding: 0.6rem 0.9rem;
+  text-align: left;
+  border-bottom: 1px solid rgba(100,150,255,0.45);
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+thead th:hover { color: var(--ff-white); }
+thead th.sorted-asc::after  { content: ' ▲'; color: var(--ff-white); }
+thead th.sorted-desc::after { content: ' ▼'; color: var(--ff-white); }
+
+tbody tr { border-bottom: 1px solid rgba(80,120,220,0.18); }
+tbody tr:hover { background: var(--ff-hover); }
+
+/* FF7 menu cursor */
+tbody tr:hover td.cell-name::before {
+  content: '► ';
+  color: var(--ff-white);
+}
+
+tbody td { padding: 0.5rem 0.9rem; vertical-align: top; line-height: 1.45; }
+
+.cell-name  { color: var(--ff-white); min-width: 160px; }
+.cell-desc  { font-size: 0.85rem; color: var(--ff-label); max-width: 300px; min-width: 140px; line-height: 1.4; }
+.cell-price { font-size: 0.92rem; color: var(--ff-white); white-space: nowrap; font-weight: 600; }
+.price-denom { font-size: 0.72rem; color: var(--ff-label); vertical-align: middle; }
+.cell-shop  { color: var(--ff-label); white-space: nowrap; }
+
+.has-tip {
+  display: inline-block;
+  border-bottom: 1px dashed var(--ff-dim);
+  cursor: default;
+  position: relative;
+}
+.has-tip:hover::after {
+  content: attr(data-tip);
+  position: absolute;
+  left: 0;
+  top: calc(100% + 4px);
+  background: linear-gradient(160deg, #0e2870, #08205e);
+  color: var(--ff-white);
+  border: 1px solid rgba(100,150,255,0.45);
+  box-shadow:
+    inset 1px 1px 0 rgba(160,200,255,0.2),
+    0 0 0 1px rgba(0,0,20,0.9);
+  padding: 0.45rem 0.7rem;
+  font-size: 0.85rem;
+  white-space: pre;
+  z-index: 200;
+  pointer-events: none;
+  line-height: 1.5;
+  max-width: 340px;
+  min-width: 180px;
+}
+
+/* Town labels */
+.town-badge {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  background: none;
+  border: none;
+  padding: 0;
+  display: inline;
+  white-space: nowrap;
+}
+
+.town-crossing      { color: var(--ff-orange); }
+.town-riverhaven    { color: #88ccff; }
+.town-shard         { color: #cc99ff; }
+.town-therenborough { color: #88ffcc; }
+.town-other         { color: var(--ff-label); }
+
+.cell-date {
+  font-size: 0.75rem;
+  color: var(--ff-dim);
+  white-space: nowrap;
+}
+
+/* ─── STATE MESSAGES ─── */
+.state-msg { text-align: center; padding: 4rem 2rem; }
+.state-msg .glyph {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 1.25rem;
+  color: var(--ff-label);
+}
+.state-msg p {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ff-label);
+}
+
+/* ─── FOOTER ─── */
+footer {
+  text-align: center;
+  padding: 0.75rem 1rem;
+  font-size: 0.82rem;
+  color: var(--ff-dim);
+}
+footer a { color: var(--ff-label); text-decoration: none; }
+footer a:hover { color: var(--ff-white); }
+
+/* ─── RESPONSIVE ─── */
+@media (max-width: 640px) {
+  body { padding: 0.4rem; gap: 0.4rem; }
+  .controls { position: static; padding: 0.6rem; }
+  tbody td { padding: 0.35rem 0.5rem; }
+  .cell-desc { display: none; }
+}
