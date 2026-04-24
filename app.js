@@ -11,7 +11,7 @@ function itemCell(i) {
     i.worn  ? `Worn:  ${escHtml(i.worn)}`  : null,
   ]);
   if (!tip) return name;
-  return `<span class="has-tip" data-tip="${tip}">${name}</span>`;
+  return `<span class="has-tip" tabindex="0" data-tip="${tip}">${name}</span>`;
 }
 
 function shopCell(i) {
@@ -22,7 +22,7 @@ function shopCell(i) {
     i.hours    ? `Hours:  ${escHtml(i.hours)} Eastern`     : null,
   ]);
   if (!tip) return name;
-  return `<span class="has-tip" data-tip="${tip}">${name}</span>`;
+  return `<span class="has-tip" tabindex="0" data-tip="${tip}">${name}</span>`;
 }
 
 function descCell(i) {
@@ -116,7 +116,7 @@ function render(rows) {
     return;
   }
 
-  table.style.display = 'table';
+  table.style.removeProperty('display');
   empty.style.display = 'none';
   document.getElementById('stats-bar').innerHTML =
     `Showing <span>${rows.length.toLocaleString()}</span> of <span>${allItems.length.toLocaleString()}</span> items`;
@@ -127,7 +127,7 @@ function render(rows) {
       <td class="cell-desc">${descCell(i)}</td>
       <td class="cell-price">${formatPrice(i.price)}</td>
       <td class="cell-shop">${shopCell(i)}</td>
-      <td><span class="town-badge ${townClass(i.town)}">${escHtml(i.town)}</span></td>
+      <td class="cell-town"><span class="town-badge ${townClass(i.town)}">${escHtml(i.town)}</span></td>
       <td class="cell-date">${escHtml(i.last_seen)}</td>
     </tr>
   `).join('');
@@ -184,3 +184,5 @@ document.getElementById('filter-shop').addEventListener('change', filterAndSort)
 
 initSortHeaders();
 loadData();
+
+setInterval(() => location.reload(), 10 * 60 * 1000);
