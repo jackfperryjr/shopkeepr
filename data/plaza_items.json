@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T23:43:56Z",
-  "item_count": 300,
+  "updated_at": "2026-04-24T23:44:57Z",
+  "item_count": 304,
   "items": [
     {
       "town": "Crossing",
@@ -1965,6 +1965,66 @@
       "cost_copper": null,
       "price": "250 platinum Kronars",
       "description": "",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Stomping Room",
+      "shop": "Martyka's Secret Room",
+      "owner": "Martyka",
+      "hours": "5pm and 3am",
+      "name": "a bearclaw emerald",
+      "short": "a bearclaw emerald",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 500000,
+      "price": "50 platinum Kronars",
+      "description": "The stone is a vibrant lime color with a gleaming silver inclusion that resembles a majestic bear claw at its core.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Stomping Room",
+      "shop": "Martyka's Secret Room",
+      "owner": "Martyka",
+      "hours": "5pm and 3am",
+      "name": "a mistwood gem display case with gold leaf accents",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "150 platinum Kronars",
+      "description": "",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Stomping Room",
+      "shop": "Martyka's Secret Room",
+      "owner": "Martyka",
+      "hours": "5pm and 3am",
+      "name": "a sturdy iron-studded black leather spellbook case",
+      "short": "a large spellbook case",
+      "tap": "a sturdy iron-studded black leather spellbook case",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 120000000,
+      "price": "12,000 platinum Kronars",
+      "description": "The case is open to the compartment that holds a spellbook.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Stomping Room",
+      "shop": "Martyka's Secret Room",
+      "owner": "Martyka",
+      "hours": "5pm and 3am",
+      "name": "a viperscale alexandrite",
+      "short": "a viperscale alexandrite",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 250000,
+      "price": "25 platinum Kronars",
+      "description": "The blue-green stone is exceptionally clear.  Threads of red-gold streak through the gem in a scale-like pattern.",
       "last_seen": "2026-04-24"
     },
     {
