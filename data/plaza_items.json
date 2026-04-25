@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-25T16:56:17Z",
-  "item_count": 1973,
+  "updated_at": "2026-04-25T16:57:40Z",
+  "item_count": 1970,
   "items": [
     {
       "town": "Crossing",
@@ -7365,51 +7365,6 @@
       "cost_copper": 7500000,
       "price": "750 platinum Kronars",
       "description": "Although it is based on the basic tool, this finely crafted weapon little resembles its namesake as it's head is formed from highly polished silversteel that is perfectly balanced to allow power without undue effort.  The adderwood handle has been carved into a stylized snake form, the scaly grain of the wood helping with the serpentine illusion.",
-      "last_seen": "2026-04-25"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Moon Room",
-      "shop": "From Here To Antiquity",
-      "owner": "Maybeth",
-      "hours": "5pm and 11pm",
-      "name": "a lightly colored silk fan with twin beaded ribbons hanging from the grip",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-25"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Moon Room",
-      "shop": "From Here To Antiquity",
-      "owner": "Maybeth",
-      "hours": "5pm and 11pm",
-      "name": "a small abyssal black jar",
-      "short": "an abyssal black jar",
-      "tap": "a small abyssal black jar",
-      "worn": null,
-      "cost_copper": 2500000,
-      "price": "250 platinum Kronars",
-      "description": "You notice that the jar has some paint inside and a tiny instruction booklet inside.  You think you can STUDY it to learn more.",
-      "last_seen": "2026-04-25"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Moon Room",
-      "shop": "From Here To Antiquity",
-      "owner": "Maybeth",
-      "hours": "5pm and 11pm",
-      "name": "a viscous golden potion",
-      "short": "a viscous golden potion",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 500000000,
-      "price": "50,000 platinum Kronars",
-      "description": "The potion is a viscous golden sludge that smells faintly of old S'Kra.",
       "last_seen": "2026-04-25"
     },
     {
