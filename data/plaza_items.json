@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-25T16:25:32Z",
-  "item_count": 1868,
+  "updated_at": "2026-04-25T16:25:52Z",
+  "item_count": 1872,
   "items": [
     {
       "town": "Crossing",
@@ -27240,6 +27240,66 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "The needles appear to be missing thread.",
+      "last_seen": "2026-04-25"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Luminous Room",
+      "shop": "General Dokora",
+      "owner": "Toviah",
+      "hours": "3pm and 12am",
+      "name": "a Be'ort tear rose",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "45 platinum Dokoras",
+      "description": "",
+      "last_seen": "2026-04-25"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Luminous Room",
+      "shop": "General Dokora",
+      "owner": "Toviah",
+      "hours": "3pm and 12am",
+      "name": "a bright white notecard with a message that reads: \"Rods=Cam Retuners, last number=charges. Sunstone Rings=Grandmasters, other=Masters. Horses by Henil.\"",
+      "short": "a bright white notecard",
+      "tap": "a bright white notecard with a message that reads: \"Rods=Cam Retuners, last number=charges. Sunstone Rings=Grandmasters, other=Masters. Horses by Henil.\"",
+      "worn": null,
+      "cost_copper": 250000,
+      "price": "25 platinum Dokoras",
+      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
+      "last_seen": "2026-04-25"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Luminous Room",
+      "shop": "General Dokora",
+      "owner": "Toviah",
+      "hours": "3pm and 12am",
+      "name": "a crystalline fibril",
+      "short": "a crystalline fibril",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 60000,
+      "price": "6 platinum Dokoras",
+      "description": "Needle-thin and pale white, the springy material traces a conchospiral one-inch wide, viciously sharp at the spiral's origin.",
+      "last_seen": "2026-04-25"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Luminous Room",
+      "shop": "General Dokora",
+      "owner": "Toviah",
+      "hours": "3pm and 12am",
+      "name": "a tamboti pilgrim's badge sculpted with the emblem of Xosiurion",
+      "short": "a tamboti pilgrim's badge",
+      "tap": "a tamboti pilgrim's badge sculpted with the emblem of Xosiurion",
+      "worn": "Generally worn.",
+      "cost_copper": 250000,
+      "price": "25 platinum Dokoras",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
       "last_seen": "2026-04-25"
     },
     {
