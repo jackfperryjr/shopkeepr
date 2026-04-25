@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-25T09:23:16Z",
-  "item_count": 1443,
+  "updated_at": "2026-04-25T09:24:23Z",
+  "item_count": 1442,
   "items": [
     {
       "town": "Crossing",
@@ -1464,21 +1464,6 @@
       "owner": "Dumana",
       "hours": "8am and 4am",
       "name": "a crumpled scroll labeled with Burn",
-      "short": "a crumpled paper scroll",
-      "tap": "a crumpled paper scroll labeled with Rage of the Clans",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "It is labeled \"Rage of the Clans.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Lodge Room",
-      "shop": "Dumana's Scrolls",
-      "owner": "Dumana",
-      "hours": "8am and 4am",
-      "name": "a crumpled scroll labeled with Clear Vision",
       "short": "a crumpled paper scroll",
       "tap": "a crumpled paper scroll labeled with Rage of the Clans",
       "worn": null,
