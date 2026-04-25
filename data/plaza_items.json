@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-25T13:00:46Z",
-  "item_count": 1839,
+  "updated_at": "2026-04-25T13:02:07Z",
+  "item_count": 1838,
   "items": [
     {
       "town": "Crossing",
@@ -21670,11 +21670,11 @@
       "hours": "5am and 11pm",
       "name": "a creased scroll labeled with Curse of the Wilds",
       "short": "a creased scroll",
-      "tap": "a creased scroll labeled with Eagle's Cry",
+      "tap": "a creased scroll labeled with Harawep's Bonds",
       "worn": null,
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "It is labeled \"Eagle's Cry.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Harawep's Bonds.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-25"
     },
     {
@@ -21685,26 +21685,11 @@
       "hours": "5am and 11pm",
       "name": "a creased scroll labeled with Devitalize",
       "short": "a creased scroll",
-      "tap": "a creased scroll labeled with Eagle's Cry",
+      "tap": "a creased scroll labeled with Harawep's Bonds",
       "worn": null,
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "It is labeled \"Eagle's Cry.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "The Shieldery",
-      "shop": "Sorcerous Patterns",
-      "owner": "Balistrade",
-      "hours": "5am and 11pm",
-      "name": "a creased scroll labeled with Eagle's Cry",
-      "short": "a creased scroll",
-      "tap": "a creased scroll labeled with Eagle's Cry",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "It is labeled \"Eagle's Cry.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Harawep's Bonds.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-25"
     },
     {
@@ -21715,11 +21700,11 @@
       "hours": "5am and 11pm",
       "name": "a creased scroll labeled with Harawep's Bonds",
       "short": "a creased scroll",
-      "tap": "a creased scroll labeled with Eagle's Cry",
+      "tap": "a creased scroll labeled with Harawep's Bonds",
       "worn": null,
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "It is labeled \"Eagle's Cry.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Harawep's Bonds.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-25"
     },
     {
