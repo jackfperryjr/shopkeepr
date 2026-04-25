@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T20:55:06Z",
-  "item_count": 1174,
+  "updated_at": "2026-04-24T20:56:33Z",
+  "item_count": 1177,
   "items": [
     {
       "town": "Crossing",
@@ -17610,6 +17610,51 @@
       "cost_copper": 350000,
       "price": "35 platinum Kronars",
       "description": "You see nothing unusual.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Keep Room",
+      "shop": "Odds'n'Ends",
+      "owner": "Doulgarlig",
+      "hours": "7pm and 12am",
+      "name": "a bright white notecard with a message that reads: \"Lock Rings on Table are Master 12 plat lir, Boxes are 35 limit Locksmith trainers 2 plat lir on notecard\"",
+      "short": "a bright white notecard",
+      "tap": "a bright white notecard with a message that reads: \"Lock Rings on Table are Master 12 plat lir, Boxes are 35 limit Locksmith trainers 2 plat lir on notecard\"",
+      "worn": null,
+      "cost_copper": 90000,
+      "price": "9 platinum Lirums",
+      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Keep Room",
+      "shop": "Odds'n'Ends",
+      "owner": "Doulgarlig",
+      "hours": "7pm and 12am",
+      "name": "a lockpick ring",
+      "short": "a lockpick ring",
+      "tap": null,
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 120000,
+      "price": "12 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Keep Room",
+      "shop": "Odds'n'Ends",
+      "owner": "Doulgarlig",
+      "hours": "7pm and 12am",
+      "name": "a tooled doeskin ankle pouch",
+      "short": "a doeskin ankle pouch",
+      "tap": "a tooled doeskin ankle pouch",
+      "worn": "Ankle-worn.",
+      "cost_copper": 3000000,
+      "price": "300 platinum Lirums",
+      "description": "A design of lily blossoms is worked into the soft leather of the container.",
       "last_seen": "2026-04-24"
     }
   ]
