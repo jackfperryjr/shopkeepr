@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T22:42:10Z",
-  "item_count": 1499,
+  "updated_at": "2026-04-24T22:45:29Z",
+  "item_count": 1501,
   "items": [
     {
       "town": "Crossing",
@@ -22485,6 +22485,36 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Lirums",
       "description": "Resembling complicated smoke images of restless dragons, wispy grey lines spiral across the leather hand armor.  Amply padded shimmering red cuffs feature a small angled cutout at the base, allowing for increased wrist movement.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Silvyandril's Shop",
+      "owner": null,
+      "hours": "2pm and 1am",
+      "name": "a green canvas pouch intricately embroidered with \"Congruence\"",
+      "short": "a green canvas pouch",
+      "tap": "a green canvas pouch intricately embroidered with \"Congruence\"",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 100000,
+      "price": "10 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Silvyandril's Shop",
+      "owner": null,
+      "hours": "2pm and 1am",
+      "name": "a jagged sandstone shard with a lump of soulstone embedded in one end",
+      "short": "a jagged sandstone shard",
+      "tap": "a jagged sandstone shard with a lump of soulstone embedded in one end",
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Dokoras",
+      "description": "Smooth and slightly oblong, the soulstone is about the size of a woman's fist.  Its glossy surface swirls with patterns of black and white which resemble a churning thunderstorm.",
       "last_seen": "2026-04-24"
     }
   ]
