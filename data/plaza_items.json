@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T21:06:31Z",
-  "item_count": 1462,
+  "updated_at": "2026-04-24T21:06:49Z",
+  "item_count": 1464,
   "items": [
     {
       "town": "Crossing",
@@ -20925,6 +20925,36 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "The ice skates are ready to be worn for skating.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "World Room",
+      "shop": "Restoration Hardware",
+      "owner": "Plats",
+      "hours": "6pm and 11pm",
+      "name": "a twisted cambrinth ring set with a small haze sapphire",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "50 platinum Lirums",
+      "description": "",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "World Room",
+      "shop": "Restoration Hardware",
+      "owner": "Plats",
+      "hours": "6pm and 11pm",
+      "name": "an ice queen mask framed with iridescent crystals",
+      "short": "an ice queen mask",
+      "tap": "an ice queen mask framed with iridescent crystals",
+      "worn": "Head-worn with armor.",
+      "cost_copper": 500000,
+      "price": "50 platinum Lirums",
+      "description": "You see nothing special.",
       "last_seen": "2026-04-24"
     },
     {
