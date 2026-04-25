@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T21:32:58Z",
-  "item_count": 2022,
+  "updated_at": "2026-04-24T21:33:35Z",
+  "item_count": 2026,
   "items": [
     {
       "town": "Crossing",
@@ -29040,6 +29040,66 @@
       "cost_copper": 250000,
       "price": "25 platinum Dokoras",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Oak Room",
+      "shop": "Inver Brass",
+      "owner": "Jondac",
+      "hours": "6pm and 3am",
+      "name": "a furniture voucher",
+      "short": "a furniture voucher",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Dokoras",
+      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a lelori refectory table, which occupies the table (misc1) space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Oak Room",
+      "shop": "Inver Brass",
+      "owner": "Jondac",
+      "hours": "6pm and 3am",
+      "name": "a glaes carving knife",
+      "short": "a carving knife",
+      "tap": "a glaes carving knife",
+      "worn": null,
+      "cost_copper": 20000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "You see the initials \"P. D.\" impressed into the surface of the metal.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Oak Room",
+      "shop": "Inver Brass",
+      "owner": "Jondac",
+      "hours": "6pm and 3am",
+      "name": "a lelori footman's bow",
+      "short": "a footman's bow",
+      "tap": "a lelori footman's bow",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-24"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Oak Room",
+      "shop": "Inver Brass",
+      "owner": "Jondac",
+      "hours": "6pm and 3am",
+      "name": "a lelori horseman's bow",
+      "short": "a horseman's bow",
+      "tap": "a lelori horseman's bow",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Dokoras",
+      "description": "You see the initials \"P. D.\" impressed into the surface of the wood.",
       "last_seen": "2026-04-24"
     },
     {
