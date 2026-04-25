@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T02:00:17Z",
+  "updated_at": "2026-04-25T02:01:26Z",
   "item_count": 770,
   "items": [
     {
@@ -4884,12 +4884,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "a steel ring lorica crafted from tempered links",
-      "short": "a ring lorica",
-      "tap": "a steel ring lorica crafted from tempered links",
-      "worn": "Shirt-worn, but not with armor.",
-      "cost_copper": 200000,
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
       "price": "20 platinum Lirums",
-      "description": "You see nothing unusual.",
+      "description": "",
       "last_seen": "2026-04-25"
     },
     {
@@ -4959,12 +4959,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "some lumium ring sleeves crafted from tempered links",
-      "short": "some ring sleeves",
-      "tap": "some steel ring sleeves",
-      "worn": "Worn as arm greaves.",
-      "cost_copper": 100000,
-      "price": "10 platinum Lirums",
-      "description": "You see the initials 'M. T.' impressed into the surface of the metal.",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "30 platinum Lirums",
+      "description": "",
       "last_seen": "2026-04-25"
     },
     {
@@ -4989,12 +4989,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "some steel scale sleeves",
-      "short": "some scale sleeves",
-      "tap": "some steel scale sleeves",
-      "worn": "Glove-worn.",
-      "cost_copper": 100000,
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
       "price": "10 platinum Lirums",
-      "description": "You see the initials 'M. T.' impressed into the surface of the metal.",
+      "description": "",
       "last_seen": "2026-04-25"
     },
     {
