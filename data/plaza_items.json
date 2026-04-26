@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T17:09:00Z",
+  "updated_at": "2026-04-26T17:11:52Z",
   "item_count": 2634,
   "items": [
     {
@@ -32364,13 +32364,13 @@
       "owner": "Brimbull",
       "hours": "6pm and 9pm",
       "name": "a death-black termite voucher",
-      "short": null,
+      "short": "a death-black termite voucher",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 4200000,
       "price": "420 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home wrapped in a preventative termite tent.\n[To use this customization, PUT voucher ON {HOME}.]",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32379,13 +32379,13 @@
       "owner": "Brimbull",
       "hours": "6pm and 9pm",
       "name": "a ferocious chakrel boar with sharp tusks",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a ferocious chakrel boar",
+      "tap": "a ferocious chakrel boar with sharp tusks",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 3500000,
       "price": "350 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "Bound to an agonite chain that can be attached to one's belt, the avatar of Everild charges head down toward an unseen foe.  The carefully shaped reddish-orange stone contains slender black streaks and a perfect white flame-shaped inclusion centered within the carved form.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32400,7 +32400,7 @@
       "cost_copper": 9000000,
       "price": "900 platinum Dokoras",
       "description": "The sturdy tool features a dense wooden grip bound in leather for a secure hold.  Its oversized striking surface, shaped into an uncanny rodent likeness from fire-streaked silversteel, is paired with a handle patterned with bold silver and black woodgrain.  As if charged with static electricity, every hair on the metal cranium stands on end in a riot of comical spikes.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32409,13 +32409,13 @@
       "owner": "Brimbull",
       "hours": "6pm and 9pm",
       "name": "a laminated Nisha shortbow with cable-backed limbs",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a Nisha shortbow",
+      "tap": "a laminated Nisha shortbow with cable-backed limbs",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 3000000,
       "price": "300 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32430,7 +32430,7 @@
       "cost_copper": 20000000,
       "price": "2,000 platinum Dokoras",
       "description": "Tightly laced, the bodice features a heart-shaped neckline and extends down past the waist in a rounded hemline.  The wide skirt of the gown is split down the front to reveal layered petticoats of deeper shades of yellow, red, and orange.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32445,7 +32445,7 @@
       "cost_copper": null,
       "price": "35 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32460,7 +32460,7 @@
       "cost_copper": null,
       "price": "1000 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32475,7 +32475,7 @@
       "cost_copper": null,
       "price": "35 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32484,13 +32484,13 @@
       "owner": "Brimbull",
       "hours": "6pm and 9pm",
       "name": "a tiny mechanical Haramorlam horse",
-      "short": null,
-      "tap": null,
+      "short": "a mechanical Haramorlam horse",
+      "tap": "a tiny mechanical Haramorlam horse",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 4200000,
       "price": "420 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "The Haramorlam horse is three fingers tall with a coal black coat. It has a black mane and tail.  It is a gelding with no other markings. The horse is wearing a black leather bridle, a saddle pad, and a leather saddle.\nA marvel of craftsmanship, the horse is wound by means of a shiny metal key.  It looks to be in really good condition.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32505,7 +32505,7 @@
       "cost_copper": null,
       "price": "150 platinum Dokoras",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32514,13 +32514,13 @@
       "owner": "Brimbull",
       "hours": "6pm and 9pm",
       "name": "a warrior's duffel bag",
-      "short": null,
+      "short": "a warrior's duffel bag",
       "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1350 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "worn": "Shoulder-worn.",
+      "cost_copper": 13500000,
+      "price": "1,350 platinum Dokoras",
+      "description": "Composed out of pale grey whitleather, this sturdy container is large enough to hold most of the items a soldier may need to carry to their next battlefield.  A large strap of braided steelsilk allows it to be easily worn on the shoulder.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32529,13 +32529,13 @@
       "owner": "Brimbull",
       "hours": "6pm and 9pm",
       "name": "a woven girdle formed from platinum wire with blackwater jet beads",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a woven girdle",
+      "tap": "a woven girdle formed from platinum wire with blackwater jet beads",
+      "worn": "Belt-worn.",
+      "cost_copper": 700000,
       "price": "70 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "Adorned with small blackwater jet beads carved into tiny hearts, the gleaming wires are interlaced to form a wide belt.  Two long bands of woven wires extend from the intricate knot that allows the girdle to be fastened tightly to the wearer's hips.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32544,13 +32544,13 @@
       "owner": "Brimbull",
       "hours": "6pm and 9pm",
       "name": "an unembellished ring",
-      "short": null,
+      "short": "an unembellished ring",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 7000000,
       "price": "700 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
@@ -32559,13 +32559,13 @@
       "owner": "Brimbull",
       "hours": "6pm and 9pm",
       "name": "some blue dye",
-      "short": null,
-      "tap": null,
+      "short": "some blue dye",
+      "tap": "some blue dye",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 350000,
       "price": "35 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "The dye appears to be pure. | blue",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Shard",
