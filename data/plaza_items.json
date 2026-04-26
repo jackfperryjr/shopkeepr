@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T11:28:21Z",
-  "item_count": 2646,
+  "updated_at": "2026-04-26T11:29:59Z",
+  "item_count": 2645,
   "items": [
     {
       "town": "Crossing",
@@ -19829,21 +19829,6 @@
       "worn": null,
       "cost_copper": null,
       "price": "70 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Water Room",
-      "shop": "Tipsy Taboo",
-      "owner": "Kalyssia",
-      "hours": "11am and 2am",
-      "name": "an iron-bound dragon's blood crystal box shaped like an anatomical heart",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "90 platinum Kronars",
       "description": "",
       "last_seen": "2026-04-26"
     },
