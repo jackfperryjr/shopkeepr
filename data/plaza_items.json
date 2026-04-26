@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T02:00:06Z",
+  "updated_at": "2026-04-26T02:01:55Z",
   "item_count": 2574,
   "items": [
     {
@@ -11739,12 +11739,12 @@
       "owner": "Kiyora",
       "hours": "7pm and 3am",
       "name": "a dirty inkpot",
-      "short": "a dirty inkpot",
+      "short": null,
       "tap": null,
       "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "You see nothing unusual.",
+      "cost_copper": null,
+      "price": "1000 platinum Kronars",
+      "description": "",
       "last_seen": "2026-04-26"
     },
     {
@@ -12084,12 +12084,12 @@
       "owner": "Kiyora",
       "hours": "7pm and 3am",
       "name": "a scrivener's silk utility belt inked with flowing calligraphy",
-      "short": "a silk utility belt",
-      "tap": "a scrivener's silk utility belt inked with flowing calligraphy",
-      "worn": "Belt-worn.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "A length of smooth fabric, lightweight yet durable, bears an intricate script cascading across its surface.  A handful of pouches are evenly spaced, offering practical storage while maintaining an elegant drape around the waist.",
+      "short": null,
+      "tap": null,
+      "worn": null,
+      "cost_copper": null,
+      "price": "1000 platinum Kronars",
+      "description": "",
       "last_seen": "2026-04-26"
     },
     {
