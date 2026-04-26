@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T12:56:30Z",
-  "item_count": 2644,
+  "updated_at": "2026-04-26T12:57:37Z",
+  "item_count": 2643,
   "items": [
     {
       "town": "Crossing",
@@ -25545,21 +25545,6 @@
       "cost_copper": 50036,
       "price": "5 platinum Lirums",
       "description": "You see the initial \"A.\" impressed into the surface of the metal.",
-      "last_seen": "2026-04-26"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "The Shieldery",
-      "shop": "Kerpal's Mart Of Marvels",
-      "owner": "Kerpal",
-      "hours": "9am and 1am",
-      "name": "a steel scimitar with an adderwood hilt",
-      "short": "a steel scimitar",
-      "tap": "a steel scimitar with an adderwood hilt",
-      "worn": null,
-      "cost_copper": 600000,
-      "price": "60 platinum Lirums",
-      "description": "Plain to the point of austerity, the curved sweep of the blade is unadorned.  The scaly grain of the handle is the only decoration on the excellently balanced weapon.",
       "last_seen": "2026-04-26"
     },
     {
