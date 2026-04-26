@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T16:19:43Z",
+  "updated_at": "2026-04-26T16:20:19Z",
   "item_count": 2634,
   "items": [
     {
@@ -8295,7 +8295,7 @@
       "cost_copper": null,
       "price": "1 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8310,7 +8310,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "You notice that the jar has some paint inside and a tiny instruction booklet inside.  You think you can STUDY it to learn more.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8325,7 +8325,7 @@
       "cost_copper": 500000000,
       "price": "50,000 platinum Kronars",
       "description": "The potion is a viscous golden sludge that smells faintly of old S'Kra.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
