@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-25T19:05:07Z",
-  "item_count": 2070,
+  "updated_at": "2026-04-25T19:06:25Z",
+  "item_count": 2071,
   "items": [
     {
       "town": "Crossing",
@@ -7284,12 +7284,27 @@
       "owner": "Dumana",
       "hours": "8am and 4am",
       "name": "a crumpled scroll labeled with Burn",
-      "short": "a crumpled paper scroll",
-      "tap": "a crumpled paper scroll labeled with Rage of the Clans",
+      "short": "a crumpled scroll",
+      "tap": "a crumpled scroll labeled with Clear Vision",
       "worn": null,
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
-      "description": "It is labeled \"Rage of the Clans.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Clear Vision.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-25"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Lodge Room",
+      "shop": "Dumana's Scrolls",
+      "owner": "Dumana",
+      "hours": "8am and 4am",
+      "name": "a crumpled scroll labeled with Clear Vision",
+      "short": "a crumpled scroll",
+      "tap": "a crumpled scroll labeled with Clear Vision",
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "It is labeled \"Clear Vision.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-25"
     },
     {
@@ -7299,12 +7314,12 @@
       "owner": "Dumana",
       "hours": "8am and 4am",
       "name": "a crumpled scroll labeled with Shadow Web",
-      "short": "a crumpled paper scroll",
-      "tap": "a crumpled paper scroll labeled with Rage of the Clans",
+      "short": "a crumpled scroll",
+      "tap": "a crumpled scroll labeled with Clear Vision",
       "worn": null,
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
-      "description": "It is labeled \"Rage of the Clans.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Clear Vision.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-25"
     },
     {
