@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T11:39:33Z",
-  "item_count": 2645,
+  "updated_at": "2026-04-26T11:41:40Z",
+  "item_count": 2644,
   "items": [
     {
       "town": "Crossing",
@@ -3480,21 +3480,6 @@
       "cost_copper": 2990000,
       "price": "299 platinum Kronars",
       "description": "It is labeled \"Protection from Evil.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Bottle Room",
-      "shop": "BABY. GOT. YAK.",
-      "owner": "Dokorum",
-      "hours": "10am and 11pm",
-      "name": "an electrum small brazier",
-      "short": "a small brazier",
-      "tap": "an electrum small brazier",
-      "worn": null,
-      "cost_copper": 1700000,
-      "price": "170 platinum Kronars",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-04-26"
     },
     {
