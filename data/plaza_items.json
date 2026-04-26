@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T16:25:24Z",
+  "updated_at": "2026-04-26T16:27:02Z",
   "item_count": 2634,
   "items": [
     {
@@ -8340,7 +8340,7 @@
       "cost_copper": 950000,
       "price": "95 platinum Kronars",
       "description": "The slender green crystals glitter in harmony with the shimmering crystalline latticework of the elaborately interwoven Bardic blue ribbons.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8355,7 +8355,7 @@
       "cost_copper": 1950000,
       "price": "195 platinum Kronars",
       "description": "A length of dark brown metal forms the simple weapon, adorned with a series of rough indentations above the grip.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8370,7 +8370,7 @@
       "cost_copper": null,
       "price": "95 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8385,7 +8385,7 @@
       "cost_copper": null,
       "price": "750 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8400,7 +8400,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "The red grain of this shortbow glimmers with a glossy finish beneath a coat of lacquer, and a dark stain fills the grooves between the engraved dragons.  The dragon's scales wrap neatly around the bow, and their maws are wide open with wisps of smoke extending upwards from each beast.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8409,13 +8409,13 @@
       "owner": "Andaris",
       "hours": "4pm and 11pm",
       "name": "a flowing white gown belted with a thin cord of twisted silver satin",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a flowing white gown",
+      "tap": "a flowing white gown belted with a thin cord of twisted silver satin",
+      "worn": "Generally worn.",
+      "cost_copper": 3500000,
       "price": "350 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8430,7 +8430,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Highlighting the toy cat's yellow eyes and black, beige, and white fur, the smoky black quartz crown features a large dusk spinel with dark purple hues.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8439,13 +8439,13 @@
       "owner": "Andaris",
       "hours": "4pm and 11pm",
       "name": "a glittery cinnamon blob formed from fine silky sand",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a glittery cinnamon blob",
+      "tap": "a glittery cinnamon blob formed from fine silky sand",
+      "worn": "Wrist-worn.",
+      "cost_copper": 250000,
       "price": "25 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8455,12 +8455,12 @@
       "hours": "4pm and 11pm",
       "name": "a gold-stippled scroll labeled with Aethrolysis",
       "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "tap": "a gold-stippled scroll labeled with Frostbite",
       "worn": null,
-      "cost_copper": 49950000,
-      "price": "4,995 platinum Kronars",
-      "description": "It is labeled \"Telekinetic Storm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 3250000,
+      "price": "325 platinum Kronars",
+      "description": "It is labeled \"Frostbite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8470,12 +8470,12 @@
       "hours": "4pm and 11pm",
       "name": "a gold-stippled scroll labeled with Frostbite",
       "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "tap": "a gold-stippled scroll labeled with Frostbite",
       "worn": null,
-      "cost_copper": 49950000,
-      "price": "4,995 platinum Kronars",
-      "description": "It is labeled \"Telekinetic Storm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 3250000,
+      "price": "325 platinum Kronars",
+      "description": "It is labeled \"Frostbite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8485,12 +8485,12 @@
       "hours": "4pm and 11pm",
       "name": "a gold-stippled scroll labeled with Harm Evil",
       "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "tap": "a gold-stippled scroll labeled with Frostbite",
       "worn": null,
-      "cost_copper": 49950000,
-      "price": "4,995 platinum Kronars",
-      "description": "It is labeled \"Telekinetic Storm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 3250000,
+      "price": "325 platinum Kronars",
+      "description": "It is labeled \"Frostbite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8500,12 +8500,12 @@
       "hours": "4pm and 11pm",
       "name": "a gold-stippled scroll labeled with Instinct",
       "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "tap": "a gold-stippled scroll labeled with Frostbite",
       "worn": null,
-      "cost_copper": 49950000,
-      "price": "4,995 platinum Kronars",
-      "description": "It is labeled \"Telekinetic Storm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 3250000,
+      "price": "325 platinum Kronars",
+      "description": "It is labeled \"Frostbite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8515,12 +8515,12 @@
       "hours": "4pm and 11pm",
       "name": "a gold-stippled scroll labeled with Petrifying Visions",
       "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "tap": "a gold-stippled scroll labeled with Frostbite",
       "worn": null,
-      "cost_copper": 49950000,
-      "price": "4,995 platinum Kronars",
-      "description": "It is labeled \"Telekinetic Storm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 3250000,
+      "price": "325 platinum Kronars",
+      "description": "It is labeled \"Frostbite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8530,12 +8530,12 @@
       "hours": "4pm and 11pm",
       "name": "a gold-stippled scroll labeled with Researcher's Insight",
       "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "tap": "a gold-stippled scroll labeled with Frostbite",
       "worn": null,
-      "cost_copper": 49950000,
-      "price": "4,995 platinum Kronars",
-      "description": "It is labeled \"Telekinetic Storm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 3250000,
+      "price": "325 platinum Kronars",
+      "description": "It is labeled \"Frostbite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8545,12 +8545,12 @@
       "hours": "4pm and 11pm",
       "name": "a gold-stippled scroll labeled with Telekinetic Storm",
       "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "tap": "a gold-stippled scroll labeled with Frostbite",
       "worn": null,
-      "cost_copper": 49950000,
-      "price": "4,995 platinum Kronars",
-      "description": "It is labeled \"Telekinetic Storm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 3250000,
+      "price": "325 platinum Kronars",
+      "description": "It is labeled \"Frostbite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8560,12 +8560,12 @@
       "hours": "4pm and 11pm",
       "name": "a gold-stippled scroll labeled with Thoughtcast",
       "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "tap": "a gold-stippled scroll labeled with Frostbite",
       "worn": null,
-      "cost_copper": 49950000,
-      "price": "4,995 platinum Kronars",
-      "description": "It is labeled \"Telekinetic Storm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 3250000,
+      "price": "325 platinum Kronars",
+      "description": "It is labeled \"Frostbite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8575,12 +8575,12 @@
       "hours": "4pm and 11pm",
       "name": "a gold-stippled scroll labeled with Vertigo",
       "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Telekinetic Storm",
+      "tap": "a gold-stippled scroll labeled with Frostbite",
       "worn": null,
-      "cost_copper": 49950000,
-      "price": "4,995 platinum Kronars",
-      "description": "It is labeled \"Telekinetic Storm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 3250000,
+      "price": "325 platinum Kronars",
+      "description": "It is labeled \"Frostbite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8595,7 +8595,7 @@
       "cost_copper": null,
       "price": "1995 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8610,7 +8610,7 @@
       "cost_copper": 950000,
       "price": "95 platinum Kronars",
       "description": "The wickedly-sharp dark blade is embellished with stars made of small alternating highlights of razaksel and oravir, gleaming as they catch the light.  Each star is capped with a perfectly centered seven-pointed star-shaped diamond that glimmers with every movement.  Displayed between the hilt and the blade is an ivory-inlaid keyhole within an intricately etched star.  Flowing script is expertly carved and filled with platinum along the jet hilt. | \"Order of the White Rose, Game of Thorns in 455.\"",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8625,7 +8625,7 @@
       "cost_copper": 99950000,
       "price": "9,995 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8634,13 +8634,13 @@
       "owner": "Andaris",
       "hours": "4pm and 11pm",
       "name": "a kirmhiro draught",
-      "short": null,
+      "short": "a kirmhiro draught",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 100000,
       "price": "10 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8655,7 +8655,7 @@
       "cost_copper": null,
       "price": "150 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8670,7 +8670,7 @@
       "cost_copper": null,
       "price": "95 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8685,7 +8685,7 @@
       "cost_copper": 950000,
       "price": "95 platinum Kronars",
       "description": "The cloak is lined with black spidersilk and has a small pocket inside it.  Emblazoned across the back is an image of a crescent moon half-hidden by storm clouds.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8700,7 +8700,7 @@
       "cost_copper": 950000,
       "price": "95 platinum Kronars",
       "description": "Marks are gouged into the surface of the ashen grey bone to intersect with its network of red snaking lines.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8715,7 +8715,7 @@
       "cost_copper": null,
       "price": "75 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8730,7 +8730,7 @@
       "cost_copper": 800000,
       "price": "80 platinum Kronars",
       "description": "Bordered by a sequence of sharply curved sigils, the gemstone charm is easily worn with a small silver pin on the back.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8745,7 +8745,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Kronars",
       "description": "Engraved into the wide circular metal of the fastener is a spiral design centered on a seven-pointed star.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8754,13 +8754,13 @@
       "owner": "Andaris",
       "hours": "4pm and 11pm",
       "name": "a pale grey steelsilk gown with a flower-embellished bodice",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a steelsilk gown",
+      "tap": "a pale grey steelsilk gown with a flower-embellished bodice",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 2500000,
       "price": "250 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "Tightly laced, the bodice features a square-shaped neckline and is spangled with embroidered roses.  The wide skirt of the gown is split down the front to reveal layered petticoats of purest white.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8775,7 +8775,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Angular sigils are subtly carved across the exterior of the case, nearly imperceptible except for the slight depression made into the inky black metal.  It is currently closed.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8784,13 +8784,13 @@
       "owner": "Andaris",
       "hours": "4pm and 11pm",
       "name": "a partitioned felwood case traced with silver sigils",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a partitioned felwood case",
+      "tap": "a partitioned felwood case traced with silver sigils",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "The pale metallic symbols shimmer against the strikingly purple wood.  It is currently closed.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8805,7 +8805,7 @@
       "cost_copper": 14500000,
       "price": "1,450 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8820,7 +8820,7 @@
       "cost_copper": 950000,
       "price": "95 platinum Kronars",
       "description": "Polished darkstone rivets fasten the binder's damaska boar-hide leather cover to a stiff rosewood backing. | But you're not holding it.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8835,7 +8835,7 @@
       "cost_copper": 950000,
       "price": "95 platinum Kronars",
       "description": "The small leather container is reinforced with double-stitching and lined with felt.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8850,7 +8850,7 @@
       "cost_copper": null,
       "price": "95 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8865,7 +8865,7 @@
       "cost_copper": null,
       "price": "75 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8880,7 +8880,7 @@
       "cost_copper": null,
       "price": "50 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8895,7 +8895,7 @@
       "cost_copper": 950000,
       "price": "95 platinum Kronars",
       "description": "Chiseled into the base of the finely-grained ecru wood are several small Halflings dancing and frolicking with each other.  Strategically designed, the black and grey streaks of the wood align to provide cloaks and capes for the figures.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8910,7 +8910,7 @@
       "cost_copper": null,
       "price": "10 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8925,7 +8925,7 @@
       "cost_copper": null,
       "price": "1995 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8940,7 +8940,7 @@
       "cost_copper": 600000,
       "price": "60 platinum Kronars",
       "description": "The polished rod that forms this parry stick has a dull orange finish.  Leather straps allow this item to be attached to the arm.  Across the stick, a unicorn is  engraved into the metal, leaving a recessed design that decorates the stick.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8955,7 +8955,7 @@
       "cost_copper": 8000000,
       "price": "800 platinum Kronars",
       "description": "You see nothing unusual. | There's probably a better method to gain the charm's knowledge.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8970,7 +8970,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Kronars",
       "description": "Two black leather straps allow the container to be fastened to the wearer's ankle.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -8985,7 +8985,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "Although the handle shows some wear, it is still sturdy and useful.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9000,7 +9000,7 @@
       "cost_copper": 9950000,
       "price": "995 platinum Kronars",
       "description": "Emphasizing the metal's whorled finish, an inlay of silvery-red cambrinth depicts an elaborate labyrinth centered around a golden key.  The grain of its wyndwood haft features a lustrous rippling pattern, resembling a windswept field of grass.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9015,7 +9015,7 @@
       "cost_copper": null,
       "price": "75 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9024,13 +9024,13 @@
       "owner": "Andaris",
       "hours": "4pm and 11pm",
       "name": "a wooden camp stool with an padded barkcloth seat",
-      "short": null,
-      "tap": null,
+      "short": "a camp stool",
+      "tap": "a wooden camp stool with an padded barkcloth seat",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 300000,
       "price": "30 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-25"
+      "description": "Carved into the legs of the folding seat is a design of interlaced vines.  The same design is worked in green silk along the edges of the slightly textured fabric that forms the seat.\nThe stool is currently folded up.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9045,7 +9045,7 @@
       "cost_copper": 9950000,
       "price": "995 platinum Kronars",
       "description": "With webbed forelimbs instead of front hooves, the fanciful creature has the upper body of a horse and the lower body of a fish.  Wavy inclusions of gold within its pink tail complement the spiraling gold horn on its brow.  A glittering pin allows it to be worn.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9060,7 +9060,7 @@
       "cost_copper": 8000000,
       "price": "800 platinum Kronars",
       "description": "Star-shaped motes of glitter shimmer and sparkle from within the translucent glass.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9075,7 +9075,7 @@
       "cost_copper": null,
       "price": "50 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9090,7 +9090,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Kronars",
       "description": "There is a faint glow about the alerce ring.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9105,7 +9105,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Kronars",
       "description": "There is a faint glow about the audrualm ring.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9120,7 +9120,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Kronars",
       "description": "There is a faint glow about the darkstone ring.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9135,7 +9135,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Kronars",
       "description": "There is a faint glow about the iroko ring.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9150,7 +9150,7 @@
       "cost_copper": 19950000,
       "price": "1,995 platinum Kronars",
       "description": "Stormfire topaz beads are scattered all over the form-fitting bodice, the blue-grey gems flashing like bolts of lightning as the light plays over their surface.  Frothy tiers of the shimmering fabric are designed to cascade from the waist and fall gently about the feet when worn.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9159,13 +9159,13 @@
       "owner": "Andaris",
       "hours": "4pm and 11pm",
       "name": "an umbral-bone-reinforced thigh quiver with thick gravecloth panels",
-      "short": "an umbral-bone thigh quiver",
-      "tap": "an umbral-bone-reinforced thigh quiver with thick gravecloth panels",
+      "short": "a thigh quiver",
+      "tap": "a sleek ice-veined leather thigh quiver wrapped in silversteel mesh",
       "worn": "Thigh-worn.",
-      "cost_copper": 70000000,
-      "price": "7,000 platinum Kronars",
-      "description": "The silky fabric is tightly woven with a pattern of interlocking scorpions that march along the umbral-bone reinforcements that give the container its spacious shape.  Each bone has a central, void-black pinpoint that expands outwards in lightening concentric bands gradating across the ossified surface.  The edges are a smoky grey that matches the ashen gravecloth.",
-      "last_seen": "2026-04-25"
+      "cost_copper": 500000,
+      "price": "50 platinum Kronars",
+      "description": "The silvery metal highlights the cold tones of the polished leather, enhancing its icy appearance.\nThe barest hint of a blue-white shimmer appears across the surface of the leather.",
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9180,7 +9180,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Kronars",
       "description": "Supple hide in a soft pink tone forms a fitted silhouette, its surface smoothed and shaped for ease of movement.  Wrapped around the wearer's torso like a corset, a pair of intricate wings is tooled in fine relief and contoured with bold black ink.  Each arc and line recreates a delicate lacework pattern with veined textures radiating from the center seam.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9195,7 +9195,7 @@
       "cost_copper": null,
       "price": "95 platinum Kronars",
       "description": "",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
@@ -9210,7 +9210,7 @@
       "cost_copper": 9950000,
       "price": "995 platinum Kronars",
       "description": "Tailored for ease of movement, the sparkly-toned leather is padded in strategic areas for extra protection.  The pale purple sash adds a dash of fashion to the debonaire pants.",
-      "last_seen": "2026-04-25"
+      "last_seen": "2026-04-26"
     },
     {
       "town": "Crossing",
