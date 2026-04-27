@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T15:38:05Z",
+  "updated_at": "2026-04-27T15:38:36Z",
   "item_count": 2793,
   "items": [
     {
@@ -26319,13 +26319,13 @@
       "owner": "Bijoun",
       "hours": "4pm and 10pm",
       "name": "a creamy white silk gown embroidered with boneflowers along a sweetheart neckline",
-      "short": "a crimson silk gown",
-      "tap": "a finely tailored crimson silk gown with a long flaring skirt",
+      "short": "a silk gown",
+      "tap": "a creamy white silk gown embroidered with boneflowers along a sweetheart neckline",
       "worn": "Shirt-worn with armor.",
       "cost_copper": 4000000,
       "price": "400 platinum Lirums",
-      "description": "The soft folds of crimson silk are cut to fit closely to the wearer's form, from the daringly-cut bodice to a full, sweeping skirt.  Deep red faceted rubies are sewn along the neckline to form a chain of neverending hearts that is echoed with the sprinkling of heart-shaped rubies scattered across the hem of the gown.",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26334,13 +26334,13 @@
       "owner": "Bijoun",
       "hours": "4pm and 10pm",
       "name": "a finely tailored crimson silk gown with a long flaring skirt",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a crimson silk gown",
+      "tap": "a finely tailored crimson silk gown with a long flaring skirt",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 4000000,
       "price": "400 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The soft folds of crimson silk are cut to fit closely to the wearer's form, from the daringly-cut bodice to a full, sweeping skirt.  Deep red faceted rubies are sewn along the neckline to form a chain of neverending hearts that is echoed with the sprinkling of heart-shaped rubies scattered across the hem of the gown.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26355,7 +26355,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Lirums",
       "description": "Etched along the grain of the wood, the handle leads to a curved blade short enough to work along even the narrowest bits of hide.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26365,12 +26365,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Acid Splash",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Acid Splash",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 30000,
+      "price": "3 platinum Lirums",
+      "description": "It is labeled \"Acid Splash.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26380,12 +26380,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Adaptive Curing",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Adaptive Curing",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 4000000,
+      "price": "400 platinum Lirums",
+      "description": "It is labeled \"Adaptive Curing.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26395,12 +26395,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Aethrolysis",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Aethrolysis",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 4000000,
+      "price": "400 platinum Lirums",
+      "description": "It is labeled \"Aethrolysis.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26410,12 +26410,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Cage of Light",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Cage of Light",
       "worn": null,
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Cage of Light.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26425,12 +26425,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Chill Spirit",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Chill Spirit",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 4000000,
+      "price": "400 platinum Lirums",
+      "description": "It is labeled \"Chill Spirit.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26440,12 +26440,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Devitalize",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Devitalize",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 400000,
+      "price": "40 platinum Lirums",
+      "description": "It is labeled \"Devitalize.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26455,12 +26455,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Divine Guidance",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Divine Guidance",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 550000,
+      "price": "55 platinum Lirums",
+      "description": "It is labeled \"Divine Guidance.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26470,12 +26470,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Finesse",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Finesse",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 1500000,
+      "price": "150 platinum Lirums",
+      "description": "It is labeled \"Finesse.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26485,12 +26485,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Harawep's Bonds",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Harawep's Bonds",
       "worn": null,
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Harawep's Bonds.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26500,12 +26500,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Huldah's Pall",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Huldah's Pall",
       "worn": null,
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Huldah's Pall.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26515,12 +26515,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Ignite",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Ignite",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 1000000,
+      "price": "100 platinum Lirums",
+      "description": "It is labeled \"Ignite.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26530,12 +26530,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Iron Constitution",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Iron Constitution",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 300000,
+      "price": "30 platinum Lirums",
+      "description": "It is labeled \"Iron Constitution.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26545,12 +26545,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Lethargy",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Lethargy",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 3000000,
+      "price": "300 platinum Lirums",
+      "description": "It is labeled \"Lethargy.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26560,12 +26560,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Membrach's Greed",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Membrach's Greed",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 9000000,
+      "price": "900 platinum Lirums",
+      "description": "It is labeled \"Membrach's Greed.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26580,7 +26580,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26590,12 +26590,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Rend",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Rend",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 1000000,
+      "price": "100 platinum Lirums",
+      "description": "It is labeled \"Rend.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26605,12 +26605,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Researcher's Insight",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Researcher's Insight",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 7500000,
+      "price": "750 platinum Lirums",
+      "description": "It is labeled \"Researcher's Insight.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26620,12 +26620,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Siphon Vitality",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Siphon Vitality",
       "worn": null,
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Siphon Vitality.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -26635,12 +26635,12 @@
       "hours": "4pm and 10pm",
       "name": "a silver-stippled scroll labeled with Wolf Scent",
       "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Partial Displacement",
+      "tap": "a silver-stippled scroll labeled with Wolf Scent",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "It is labeled \"Partial Displacement.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 1000000,
+      "price": "100 platinum Lirums",
+      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
