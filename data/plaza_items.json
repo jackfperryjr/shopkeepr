@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T16:05:54Z",
+  "updated_at": "2026-04-27T16:06:06Z",
   "item_count": 2804,
   "items": [
     {
@@ -8784,13 +8784,13 @@
       "owner": "Maybeth",
       "hours": "5pm and 11pm",
       "name": "a lightly colored silk fan with twin beaded ribbons hanging from the grip",
-      "short": null,
-      "tap": null,
+      "short": "a light fan",
+      "tap": "a lightly colored silk fan with twin beaded ribbons hanging from the grip",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 10000,
       "price": "1 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Alternating beads of onyx and ivory hang from braided green silk ribbons affixed to the fan's golden grip.  An emerald dragon has been painted upon the fan's beige surface.\nThe fan is closed.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -8805,7 +8805,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "You notice that the jar has some paint inside and a tiny instruction booklet inside.  You think you can STUDY it to learn more.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -8820,7 +8820,7 @@
       "cost_copper": 500000000,
       "price": "50,000 platinum Kronars",
       "description": "The potion is a viscous golden sludge that smells faintly of old S'Kra.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
