@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T16:13:41Z",
+  "updated_at": "2026-04-27T16:13:55Z",
   "item_count": 2791,
   "items": [
     {
@@ -11589,13 +11589,13 @@
       "owner": "Jelayna",
       "hours": "5pm and 8pm",
       "name": "a bright green sign that reads \"STARTING PLACE\"",
-      "short": "a bright green sign",
-      "tap": "a bright green sign that reads \"STARTING PLACE\"",
+      "short": "some snow-white blueprints",
+      "tap": "some snow-white blueprints depicting a solemn chamber of worship",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Kronars",
-      "description": "The sign itself is designed to stand alone, its clever design allowing it stability on any surface without too much added weight. | \"STARTING PLACE, are you ready?\"",
-      "last_seen": "2026-04-26"
+      "cost_copper": 35000000,
+      "price": "3,500 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the snow-white blueprints to do that.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -11604,13 +11604,13 @@
       "owner": "Jelayna",
       "hours": "5pm and 8pm",
       "name": "a broken bottle etched with a geometric symbol",
-      "short": "a broken bottle",
-      "tap": "a broken bottle etched with a geometric symbol",
+      "short": "some lavender blueprints",
+      "tap": "some lavender blueprints depicting a homey sitting room",
       "worn": null,
-      "cost_copper": 1200000,
-      "price": "120 platinum Kronars",
-      "description": "The neck is wrapped in scraps of filthy leather.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the lavender blueprints to do that.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -11619,13 +11619,13 @@
       "owner": "Jelayna",
       "hours": "5pm and 8pm",
       "name": "a fortune teller's toolbelt of onyx-hide spangled with nightfire opals",
-      "short": "a fortune teller's toolbelt",
-      "tap": "a fortune teller's toolbelt of onyx-hide spangled with nightfire opals",
-      "worn": "Belt-worn.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "Several pairs of sturdy ties arranged on the belt appear ideal for securing five tools.\nIt currently does not have any items tied to it.",
-      "last_seen": "2026-04-26"
+      "short": "some teal blueprints",
+      "tap": "some teal blueprints depicting a tacky abode",
+      "worn": null,
+      "cost_copper": 35000000,
+      "price": "3,500 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the teal blueprints to do that.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -11634,13 +11634,13 @@
       "owner": "Jelayna",
       "hours": "5pm and 8pm",
       "name": "a starry black quiver stamped with a golden key",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a starry black quiver",
+      "tap": "a starry black quiver stamped with a golden key",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 1500000,
       "price": "150 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Layers of dark fabrics are wrapped about the sturdy leather container. | \"Droughtman's Maze, 433\"",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -11649,13 +11649,13 @@
       "owner": "Jelayna",
       "hours": "5pm and 8pm",
       "name": "a steel foil with a sandalwood hilt",
-      "short": "a steel foil",
-      "tap": "a steel foil with a sandalwood hilt",
+      "short": "some goldenrod blueprints",
+      "tap": "some goldenrod blueprints depicting a palatial bedroom",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Kronars",
-      "description": "A brass ball inset with a bearclaw emerald tops the carved dusky red wood of the hilt.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 35000000,
+      "price": "3,500 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the goldenrod blueprints to do that.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -11664,13 +11664,13 @@
       "owner": "Jelayna",
       "hours": "5pm and 8pm",
       "name": "some chartreuse blueprints depicting a softly lit dressing room",
-      "short": null,
-      "tap": null,
+      "short": "some seafoam-green blueprints",
+      "tap": "some seafoam-green blueprints depicting a private bedchamber",
       "worn": null,
-      "cost_copper": null,
-      "price": "2000 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "cost_copper": 35000000,
+      "price": "3,500 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the seafoam-green blueprints to do that.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
