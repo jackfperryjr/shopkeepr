@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T14:26:02Z",
+  "updated_at": "2026-04-27T14:26:36Z",
   "item_count": 2645,
   "items": [
     {
@@ -20079,12 +20079,12 @@
       "owner": "Yrneha",
       "hours": "1pm and 4am",
       "name": "a colorfully illuminated parchment",
-      "short": null,
+      "short": "a colorfully illuminated parchment",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 5000000,
       "price": "500 platinum Kronars",
-      "description": "",
+      "description": "You see nothing unusual. | In Common, it reads:\nCrafted goods:\n* gwethdesuan are 3 plat/charge, last digit is the number of charges\n* iron lockpick rings are 25 ct master iron lockpicks\n* steel lockpick rings are 25 ct grandmaster iron lockpicks",
       "last_seen": "2026-04-27"
     },
     {
@@ -20229,11 +20229,11 @@
       "owner": "Yrneha",
       "hours": "1pm and 4am",
       "name": "an iron lockpick ring",
-      "short": "a steel lockpick ring",
+      "short": "an iron lockpick ring",
       "tap": null,
       "worn": "Worn attached to a belt.",
-      "cost_copper": 350000,
-      "price": "35 platinum Kronars",
+      "cost_copper": 175000,
+      "price": "17 platinum Kronars",
       "description": "You see nothing unusual.",
       "last_seen": "2026-04-27"
     },
