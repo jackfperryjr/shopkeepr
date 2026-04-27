@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T17:04:42Z",
+  "updated_at": "2026-04-27T17:05:13Z",
   "item_count": 2807,
   "items": [
     {
@@ -29304,13 +29304,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "a blue lace veil embroidered with a tiny golden moon in one corner",
-      "short": "a blue lace veil",
-      "tap": "a blue lace veil embroidered with a tiny golden moon in one corner",
-      "worn": "Head-worn with armor.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Lirums",
-      "description": "Dotted with larger holes in constellation-like patterns, the wispy fabric resembles the night sky.",
-      "last_seen": "2026-04-26"
+      "short": "a blued moonsilver abacus",
+      "tap": "an ornate blued moonsilver abacus with faceted oceanic orichalcum beads",
+      "worn": null,
+      "cost_copper": 350000000,
+      "price": "35,000 platinum Lirums",
+      "description": "Scrollwork along the softly glowing frame embellishes this unique device, created to help scholars and merchants alike quickly and correctly count goods bought and sold.  Consisting of a number of polished metal beads on moonsilver dowels, the abacus is partitioned to allow the separation of lesser and greater numbers by sliding the beads from one side to the other. | Menger Andu, year of the Silver Unicorn, 364",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29325,7 +29325,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "Crystal snowflakes of varying sizes elegantly swirl across the blue leather backdrop upon which they are sewn.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29334,13 +29334,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "a blue leather mask edged in broken pieces of shark teeth",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a blue leather mask",
+      "tap": "a blue leather mask edged in broken pieces of shark teeth",
+      "worn": "Helm-worn.",
+      "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Jagged pieces of shark teeth border the leather that has been dyed in varying shades of blue to give it an oceanic appearance.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29349,13 +29349,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "a dark-jeweled brooch trailing delicate platinum ribbons",
-      "short": null,
-      "tap": null,
+      "short": "a platinum-capped scroll",
+      "tap": "a platinum-capped scroll tied with a red ribbon",
       "worn": null,
-      "cost_copper": null,
-      "price": "50 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29370,7 +29370,7 @@
       "cost_copper": 150000000,
       "price": "15,000 platinum Lirums",
       "description": "Colored the hues of a morning sky, the slightly sheer fabric features a rippling pattern of wispy white on cobalt with accents of lighter and darker grey.  When worn, this tunic-like garment drapes from the shoulders to mid-thigh and is open on both sides for ease of movement.  Tied around the waist is a silvery cord shot through with black and white fibers.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29385,7 +29385,7 @@
       "cost_copper": 150000000,
       "price": "15,000 platinum Lirums",
       "description": "Dainty emerald and white flowers are sewn onto the pale green fabric, creating the illusion of a field of flowers in full bloom across the luxurious marblesilk.  A row of elegant floral buds is embroidered along the sweetheart neckline, while the full skirt is tailored to barely brush the ankles when worn.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29395,12 +29395,12 @@
       "hours": "6pm and 1am",
       "name": "a furniture voucher illustrated with a muted grey and cream calico cat",
       "short": "a furniture voucher",
-      "tap": "a furniture voucher illustrated with a white headless chicken",
+      "tap": "a furniture voucher illustrated with a muted grey and cream calico cat",
       "worn": null,
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a white headless chicken, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
-      "last_seen": "2026-04-26"
+      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a muted grey and cream calico cat, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29410,12 +29410,12 @@
       "hours": "6pm and 1am",
       "name": "a furniture voucher illustrated with a shaggy ewe with big black eyes",
       "short": "a furniture voucher",
-      "tap": "a furniture voucher illustrated with a white headless chicken",
+      "tap": "a furniture voucher illustrated with a shaggy ewe with big black eyes",
       "worn": null,
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a white headless chicken, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
-      "last_seen": "2026-04-26"
+      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a shaggy ewe with big black eyes, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29425,12 +29425,12 @@
       "hours": "6pm and 1am",
       "name": "a furniture voucher illustrated with a white baby goat with big blue eyes",
       "short": "a furniture voucher",
-      "tap": "a furniture voucher illustrated with a white headless chicken",
+      "tap": "a furniture voucher illustrated with a white baby goat with big blue eyes",
       "worn": null,
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a white headless chicken, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
-      "last_seen": "2026-04-26"
+      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a white baby goat with big blue eyes, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29445,7 +29445,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
       "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a white headless chicken, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29460,7 +29460,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "The long and slender blade is engraved with a symbol of a triple-tined claw, and the hilt features a green emerald pommel.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29469,13 +29469,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "a liquid-filled crystal sunburst displayed upon braided titanese",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a crystal sunburst",
+      "tap": "a liquid-filled crystal sunburst displayed upon braided titanese",
+      "worn": "Neck-worn.",
+      "cost_copper": 300000,
       "price": "30 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You look at the sunburst and see some yellow liquid in an upper chamber and some apricot-colored liquid lying in a lower chamber.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29484,13 +29484,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "a patchwork leather mask edged with rows of mismatched old buttons",
-      "short": "a blue leather mask",
-      "tap": "a blue leather mask dotted with crystal snowflakes",
+      "short": "a patchwork leather mask",
+      "tap": "a patchwork leather mask edged with rows of mismatched old buttons",
       "worn": "Helm-worn.",
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "Crystal snowflakes of varying sizes elegantly swirl across the blue leather backdrop upon which they are sewn.",
-      "last_seen": "2026-04-26"
+      "description": "Colorful buttons of all shapes and sizes line the outer seams of the mask.  No two buttons are alike.  Large circular buttons line up beside small cracked buttons with no discernable pattern.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29505,7 +29505,7 @@
       "cost_copper": 5500000,
       "price": "550 platinum Lirums",
       "description": "You have a broad iron staff weighted with alternating panels of black and blue gold secured to the harness.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29514,13 +29514,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "a sapphire turtle charm set upon a pewter backing",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a turtle charm",
+      "tap": "a sapphire turtle charm set upon a pewter backing",
+      "worn": "Generally worn.",
+      "cost_copper": 250000,
       "price": "25 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29535,7 +29535,7 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Lirums",
       "description": "Smoke-like tendrils of steely grey accentuate the shards of ebon-hued metal that jut out from the paddle-shaped club.  Finely polished, the wood displays alternating rippled bands of golden and red.  Textured lava drake-hide binds the handle, ensuring a secure grip.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29544,13 +29544,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "a soft doeskin corselet",
-      "short": "a soft doeskin corselet",
+      "short": "a scintillant lazuline elixir",
       "tap": null,
-      "worn": "Shirt-worn, but not with armor.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "worn": null,
+      "cost_copper": 12000000,
+      "price": "1,200 platinum Lirums",
+      "description": "The viscous stuff within the vial changes constantly as it moves, one moment coruscating sky-blue and the next, fading to a nacreous blue dusk with motes like fireflies flashing deep within.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29565,7 +29565,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "The head of the hammer is composed of palladium and engraved with the crest of House Magen.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29574,13 +29574,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "a yellow leather mask painted with large orange sunflowers",
-      "short": "a blue leather mask",
-      "tap": "a blue leather mask dotted with crystal snowflakes",
+      "short": "a yellow leather mask",
+      "tap": "a yellow leather mask painted with large orange sunflowers",
       "worn": "Helm-worn.",
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "Crystal snowflakes of varying sizes elegantly swirl across the blue leather backdrop upon which they are sewn.",
-      "last_seen": "2026-04-26"
+      "description": "Blooming orange sunflowers burst to life upon the yellow leather backdrop.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29595,7 +29595,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29604,13 +29604,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "an icesteel poignard tapered to a fine point",
-      "short": null,
-      "tap": null,
+      "short": "an icesteel poignard",
+      "tap": "an icesteel poignard tapered to a fine point",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 9000000,
       "price": "900 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "This slender blade has a short, unadorned crossguard and a thin hilt.  The transparent, frost blue metal of the weapon has minimal heft.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29619,13 +29619,13 @@
       "owner": "Fizzlepop",
       "hours": "6pm and 1am",
       "name": "an ornate blued moonsilver abacus with faceted oceanic orichalcum beads",
-      "short": "a blued moonsilver abacus",
-      "tap": "an ornate blued moonsilver abacus with faceted oceanic orichalcum beads",
-      "worn": null,
-      "cost_copper": 350000000,
-      "price": "35,000 platinum Lirums",
-      "description": "Scrollwork along the softly glowing frame embellishes this unique device, created to help scholars and merchants alike quickly and correctly count goods bought and sold.  Consisting of a number of polished metal beads on moonsilver dowels, the abacus is partitioned to allow the separation of lesser and greater numbers by sliding the beads from one side to the other. | Menger Andu, year of the Silver Unicorn, 364",
-      "last_seen": "2026-04-26"
+      "short": "a soft doeskin corselet",
+      "tap": null,
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -29640,7 +29640,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "Offsetting the deep sheen of the soft gloves, each is trimmed at the cuff with a spray of vibrant peacock feathers.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
