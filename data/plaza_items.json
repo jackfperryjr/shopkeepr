@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T17:17:34Z",
+  "updated_at": "2026-04-27T17:17:55Z",
   "item_count": 2807,
   "items": [
     {
@@ -37149,12 +37149,12 @@
       "owner": "Jondac",
       "hours": "6pm and 3am",
       "name": "a lelori horseman's bow",
-      "short": "a horseman's bow",
-      "tap": "a lelori horseman's bow",
+      "short": "a competition longbow",
+      "tap": "a copperwood competition longbow",
       "worn": "Shoulder-worn.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Dokoras",
-      "description": "You see the initials \"P. D.\" impressed into the surface of the wood.",
+      "cost_copper": 14000000,
+      "price": "1,400 platinum Dokoras",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-27"
     },
     {
