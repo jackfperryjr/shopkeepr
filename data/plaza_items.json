@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T14:32:52Z",
+  "updated_at": "2026-04-27T14:33:30Z",
   "item_count": 2680,
   "items": [
     {
@@ -22719,12 +22719,12 @@
       "owner": "Eygor",
       "hours": "2pm and 12am",
       "name": "a cambrinth belt made of interlocking Harawep's Spiders",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Lirums",
-      "description": "",
+      "short": "a cambrinth belt",
+      "tap": "a cambrinth belt made of interlocking Harawep's Spiders",
+      "worn": "Belt-worn.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Lirums",
+      "description": "Webbed with pale, filament-like inclusions, a bright red hourglass of scarlet stura atulave is embedded in the abdomen of each spider.  Tiny pitch pearls lend the spiders a baleful gaze.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22749,12 +22749,12 @@
       "owner": "Eygor",
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Air Lash",
-      "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "short": "a piece of hhr'lav'geluhh bark",
+      "tap": null,
       "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "cost_copper": 7000000,
+      "price": "700 platinum Lirums",
+      "description": "It is labeled \"Paralysis.\" | The writing is too small.  You'll have to hold the bark to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22765,11 +22765,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Breath of Storms",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Breath of Storms",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Breath of Storms.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22780,11 +22780,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Burn",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Burn",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Burn.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22795,11 +22795,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Drums of the Snake",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Shatter",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Shatter.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22810,11 +22810,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Gar Zeng",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Stone Strike",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Stone Strike.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22825,11 +22825,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Halt",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Telekinetic Throw",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Telekinetic Throw.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22840,11 +22840,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Membrach's Greed",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Membrach's Greed",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Membrach's Greed.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22855,11 +22855,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Petrifying Visions",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Gar Zeng",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Gar Zeng.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22870,11 +22870,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Phelim's Sanction",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Phelim's Sanction",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Phelim's Sanction.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22885,11 +22885,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Rutilor's Edge",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Rutilor's Edge",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Rutilor's Edge.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22900,11 +22900,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Shatter",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Swarm",
       "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Lirums",
+      "description": "It is labeled \"Swarm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22915,11 +22915,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Sleep",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Sleep",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Sleep.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22929,12 +22929,12 @@
       "owner": "Eygor",
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Stone Strike",
-      "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "short": "a smudged parchment",
+      "tap": null,
       "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "cost_copper": 7000000,
+      "price": "700 platinum Lirums",
+      "description": "It is labeled \"Air Bubble.\" | The writing is too small.  You'll have to hold the parchment to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22945,11 +22945,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Telekinetic Throw",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Air Lash",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Air Lash.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -22975,11 +22975,11 @@
       "hours": "2pm and 12am",
       "name": "a flame-hued scroll labeled with Y'ntrel Sechra",
       "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Wolf Scent",
+      "tap": "a flame-hued scroll labeled with Y'ntrel Sechra",
       "worn": null,
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
-      "description": "It is labeled \"Wolf Scent.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Y'ntrel Sechra.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -23019,12 +23019,12 @@
       "owner": "Eygor",
       "hours": "2pm and 12am",
       "name": "a mummified rock troll hand clutching a fire opal the size of its own palm",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Lirums",
-      "description": "",
+      "short": "a rock troll hand",
+      "tap": "a mummified rock troll hand clutching a fire opal the size of its own palm",
+      "worn": "Neck-worn.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Lirums",
+      "description": "The multitude of unhealed wounds marring the desiccated flesh of the troll's hand speak to a less-than-willing donation of the extremity to its current function.  In stark contrast to its grisly bearer, the large fire opal caught securely betwixt craggy claws is polished to a hemispherical perfection, allowing any available light to dance with fiery red and blue brilliance within its depths.",
       "last_seen": "2026-04-27"
     },
     {
@@ -23034,12 +23034,12 @@
       "owner": "Eygor",
       "hours": "2pm and 12am",
       "name": "a piece of hhr'lav'geluhh bark",
-      "short": null,
+      "short": "a smudged parchment",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 7000000,
       "price": "700 platinum Lirums",
-      "description": "",
+      "description": "It is labeled \"Uncurse.\" | The writing is too small.  You'll have to hold the parchment to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -23049,12 +23049,12 @@
       "owner": "Eygor",
       "hours": "2pm and 12am",
       "name": "a red-scaled wyvern with firestained indurium and blood ruby eyes",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a red wyvern",
+      "tap": "a red-scaled wyvern with firestained indurium and blood ruby eyes",
+      "worn": "Generally worn.",
+      "cost_copper": 7500000,
       "price": "750 platinum Lirums",
-      "description": "",
+      "description": "Black-tinged and painted a sanguine hue, the beast's scales are crafted to match the light that plays off the rubies.  The firestained indurium surrounding each stone creates a cosmetic effect that adds depth to its eyes.",
       "last_seen": "2026-04-27"
     },
     {
@@ -23064,12 +23064,12 @@
       "owner": "Eygor",
       "hours": "2pm and 12am",
       "name": "a smudged parchment",
-      "short": "a smudged parchment",
+      "short": "a piece of hhr'lav'geluhh bark",
       "tap": null,
       "worn": null,
       "cost_copper": 7000000,
       "price": "700 platinum Lirums",
-      "description": "It is labeled \"Iridius Rod.\" | The writing is too small.  You'll have to hold the parchment to read it.",
+      "description": "It is labeled \"Nonchalance.\" | The writing is too small.  You'll have to hold the bark to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -23082,9 +23082,9 @@
       "short": "a tattered scroll",
       "tap": null,
       "worn": null,
-      "cost_copper": 6500000,
-      "price": "650 platinum Lirums",
-      "description": "It is labeled \"Gam Irnan.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Lirums",
+      "description": "It is labeled \"Piercing Gaze.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-27"
     },
     {
@@ -23094,12 +23094,12 @@
       "owner": "Eygor",
       "hours": "2pm and 12am",
       "name": "a thick-banded animite ring set with a cabochon duskbloom sapphire",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "an animite ring",
+      "tap": "a thick-banded animite ring set with a cabochon duskbloom sapphire",
+      "worn": "Ring-worn.",
+      "cost_copper": 5500000,
       "price": "550 platinum Lirums",
-      "description": "",
+      "description": "The almost purplish gem rests elegantly within the setting, complementing the dark silvery-grey metal of its band.",
       "last_seen": "2026-04-27"
     },
     {
