@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T14:38:07Z",
+  "updated_at": "2026-04-27T14:38:47Z",
   "item_count": 2696,
   "items": [
     {
@@ -24549,12 +24549,12 @@
       "owner": "Zincir",
       "hours": "10am and 12am",
       "name": "a carefully folded notecard with a message that reads: \"Furrier sales performed by request!\"",
-      "short": null,
-      "tap": null,
+      "short": "a carefully folded notecard",
+      "tap": "a carefully folded notecard with a message that reads: \"Furrier sales performed by request!\"",
       "worn": null,
-      "cost_copper": null,
-      "price": "10000 platinum Lirums",
-      "description": "",
+      "cost_copper": 100000000,
+      "price": "10,000 platinum Lirums",
+      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
       "last_seen": "2026-04-27"
     },
     {
@@ -24609,12 +24609,12 @@
       "owner": "Zincir",
       "hours": "10am and 12am",
       "name": "a grey and scarlet plaid greatkilt with a wide leather belt",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a grey and scarlet plaid greatkilt",
+      "tap": "a grey and scarlet plaid greatkilt with a wide leather belt",
+      "worn": "Pants-worn.",
+      "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-27"
     },
     {
@@ -24639,12 +24639,12 @@
       "owner": "Zincir",
       "hours": "10am and 12am",
       "name": "a pair of dusky-grey thick cloth pants cut to fit around a boot",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a pair of cloth pants",
+      "tap": "a pair of dusky-grey thick cloth pants cut to fit around a boot",
+      "worn": "Worn as leg greaves.",
+      "cost_copper": 100000,
       "price": "10 platinum Lirums",
-      "description": "",
+      "description": "Thickly padded to provide protection, the pants have a line of silver studs down each leg that makes them fashionable for wear outside of battle.",
       "last_seen": "2026-04-27"
     },
     {
@@ -24654,12 +24654,12 @@
       "owner": "Zincir",
       "hours": "10am and 12am",
       "name": "a polished cambrinth cloak pin inlaid with a snowy alabaster unicorn",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a cambrinth pin",
+      "tap": "a polished cambrinth cloak pin inlaid with a snowy alabaster unicorn",
+      "worn": "Generally worn.",
+      "cost_copper": 1500000,
       "price": "150 platinum Lirums",
-      "description": "",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-27"
     },
     {
@@ -24669,12 +24669,12 @@
       "owner": "Zincir",
       "hours": "10am and 12am",
       "name": "a shard of silver crystal",
-      "short": null,
+      "short": "a shard of silver crystal",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "",
+      "description": "A small glob of silver liquid floats about within the hollow center of the crystal, looking a great deal like the raven of Kertigen.  The animal appears bolstered with a great pride, the pristine example of its species.",
       "last_seen": "2026-04-27"
     },
     {
@@ -24729,12 +24729,12 @@
       "owner": "Zincir",
       "hours": "10am and 12am",
       "name": "a tarnished silver ring inset with cambrinth skulls",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a tarnished cambrinth ring",
+      "tap": "a tarnished silver ring inset with cambrinth skulls",
+      "worn": "Ring-worn.",
+      "cost_copper": 6500000,
       "price": "650 platinum Lirums",
-      "description": "",
+      "description": "The skulls are delicately carved from a dark cambrinth and set around the entire silver band.",
       "last_seen": "2026-04-27"
     },
     {
@@ -24744,12 +24744,12 @@
       "owner": "Zincir",
       "hours": "10am and 12am",
       "name": "a trio of multihued moons",
-      "short": null,
+      "short": "a trio of multihued moons",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 7500000,
       "price": "750 platinum Lirums",
-      "description": "",
+      "description": "Each featuring a different hue, the miniature moons are small facsimiles of Katamba, Xibar, and Yavash.  Curiously, no cord, chain or other binding link the small trinkets together.",
       "last_seen": "2026-04-27"
     },
     {
