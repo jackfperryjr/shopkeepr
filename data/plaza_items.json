@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T15:41:49Z",
+  "updated_at": "2026-04-27T15:42:31Z",
   "item_count": 2793,
   "items": [
     {
@@ -21369,12 +21369,12 @@
       "owner": "Bramir",
       "hours": "11am and 2am",
       "name": "a bearclaw emerald",
-      "short": "some jasper falcons",
+      "short": "some obsidian owls",
       "tap": null,
       "worn": null,
-      "cost_copper": 1080,
+      "cost_copper": 1800,
       "price": "0 platinum Lirums",
-      "description": "The various browns within the jasper give the false impression of carved feathers on these falcons.",
+      "description": "Dark as night, these miniature owls have small inset topaz eyes.",
       "last_seen": "2026-04-27"
     },
     {
@@ -21414,12 +21414,12 @@
       "owner": "Bramir",
       "hours": "11am and 2am",
       "name": "a chunk of howlite",
-      "short": "some ebony raccoon earrings",
+      "short": "a forest fire jasper",
       "tap": null,
-      "worn": "Worn as a pair of earrings.",
-      "cost_copper": 1500,
-      "price": "0 platinum Lirums",
-      "description": "Finely carved raccoons are perched atop polished wooden ebony orbs that dangle on silver wire stems.",
+      "worn": null,
+      "cost_copper": 100000,
+      "price": "10 platinum Lirums",
+      "description": "Exhibiting a mixture of yellow, orange, and red jaspers in one stone, the name arises from this gem's resemblance to the brilliant flames of a raging forest fire.",
       "last_seen": "2026-04-27"
     },
     {
@@ -21534,12 +21534,12 @@
       "owner": "Bramir",
       "hours": "11am and 2am",
       "name": "a forest fire jasper",
-      "short": "a polished jade ring",
-      "tap": "a gloriously polished jade ring inlaid with bronze gremlins",
-      "worn": "Ring-worn.",
-      "cost_copper": 7800,
+      "short": "some jasper falcons",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1080,
       "price": "0 platinum Lirums",
-      "description": "Made from tiny strands of sculpted bronze wire, tiny gremlins taunt each other as they dance below the surface of this marvelous jade ring.",
+      "description": "The various browns within the jasper give the false impression of carved feathers on these falcons.",
       "last_seen": "2026-04-27"
     },
     {
@@ -21624,12 +21624,12 @@
       "owner": "Bramir",
       "hours": "11am and 2am",
       "name": "a large scarlet ruby",
-      "short": "some jade sithannak earrings",
-      "tap": null,
-      "worn": "Worn as a pair of earrings.",
-      "cost_copper": 5000,
-      "price": "0 platinum Lirums",
-      "description": "Roughly carved jade forms a pair of sithannaks, dangling from white gold wire stems.",
+      "short": "a butterfly charm",
+      "tap": "an opal butterfly charm set upon a pewter backing",
+      "worn": "Generally worn.",
+      "cost_copper": 16000,
+      "price": "1 platinum Lirums",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-27"
     },
     {
@@ -21774,12 +21774,12 @@
       "owner": "Bramir",
       "hours": "11am and 2am",
       "name": "a spiderweb jasper",
-      "short": "some obsidian owls",
+      "short": "some jade sithannak earrings",
       "tap": null,
-      "worn": null,
-      "cost_copper": 1800,
+      "worn": "Worn as a pair of earrings.",
+      "cost_copper": 5000,
       "price": "0 platinum Lirums",
-      "description": "Dark as night, these miniature owls have small inset topaz eyes.",
+      "description": "Roughly carved jade forms a pair of sithannaks, dangling from white gold wire stems.",
       "last_seen": "2026-04-27"
     },
     {
