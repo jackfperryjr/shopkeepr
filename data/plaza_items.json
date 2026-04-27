@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T14:48:29Z",
+  "updated_at": "2026-04-27T14:48:44Z",
   "item_count": 2802,
   "items": [
     {
@@ -36129,13 +36129,13 @@
       "owner": "Toviah",
       "hours": "3pm and 12am",
       "name": "a Be'ort tear rose",
-      "short": null,
+      "short": "a Be'ort tear rose",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 450000,
       "price": "45 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The tear rose is a large bloom sheathed in foggy holy light.  Serriform and perfectly shaped, its petals grade from twilight blue to pure black.  Looking at the rose fills you with insuppressible despair and spite.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -36150,7 +36150,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Dokoras",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -36165,7 +36165,7 @@
       "cost_copper": 60000,
       "price": "6 platinum Dokoras",
       "description": "Needle-thin and pale white, the springy material traces a conchospiral one-inch wide, viciously sharp at the spiral's origin.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -36180,7 +36180,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Dokoras",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
