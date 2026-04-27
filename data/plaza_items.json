@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T17:02:26Z",
+  "updated_at": "2026-04-27T17:02:45Z",
   "item_count": 2807,
   "items": [
     {
@@ -20859,13 +20859,13 @@
       "owner": "Wakbau",
       "hours": "6pm and 9pm",
       "name": "a Dwarven iron bulhawf in the shape of a largetooth carp",
-      "short": null,
-      "tap": null,
+      "short": "a Dwarven iron bulhawf",
+      "tap": "a Dwarven iron bulhawf in the shape of a largetooth carp",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Scales are engraved across the bulhawf's polished blue-black surface.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -20874,13 +20874,13 @@
       "owner": "Wakbau",
       "hours": "6pm and 9pm",
       "name": "a bogbirch quarterstaff inlaid with Gerenshuge calligraphy",
-      "short": null,
-      "tap": null,
+      "short": "a bogbirch quarterstaff",
+      "tap": "a bogbirch quarterstaff inlaid with Gerenshuge calligraphy",
       "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Lirums",
+      "description": "Written in an elaborate Elothean script, the inky black writing contrasts starkly with the pallid wood, each character shimmering with a watery iridescence.  Greenish black morgawr leather provides a secure grip. | \"Sibo Dernaka\"",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -20889,13 +20889,13 @@
       "owner": "Wakbau",
       "hours": "6pm and 9pm",
       "name": "a copperwood handled hatchet with a wedge-shaped kertig head",
-      "short": null,
-      "tap": null,
+      "short": "a hatchet",
+      "tap": "a copperwood handled hatchet with a wedge-shaped kertig head",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Twin rows of vardite studs spiral up the long coppery haft.  Firmly set atop the handle is a tapered block of dark kertig alloy with a bearded edge and the stylized image of a gryphon's head rendered in masterful knotwork carvings on either face.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -20910,7 +20910,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "The unusual hilt is designed to fit comfortably in the hand when held and act as a counter-balance when thrown.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -20925,7 +20925,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
       "description": "Like smoke trapped within glass, the delicate grain of the haft has been sealed beneath many layers of clear lacquer.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -20940,7 +20940,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
       "description": "The bright green hue of this scimitar contrasts the gold of its hilt, its guard sweeping down with faceted indentations meant to resemble a single tentacle reaching down to rest its tip against the pommel.  Its curving spine twists upward broadly, drawing attention to a keenly-sharpened point.  A single Taisdon emerald is seated within the reflective gold hilt, matching the hue of the blade.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -20955,7 +20955,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
       "description": "Fashioned as twisted regalia of corruption, the sleek black wood glistens like an oil slick with irregular blotches of dark green and purple marring the surface, perfectly complementing the apex amethyst stone with a spiraled green inclusion at the core that seems to shift and swirl hypnotically when viewed from various angles.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -20964,13 +20964,13 @@
       "owner": "Wakbau",
       "hours": "6pm and 9pm",
       "name": "a steel parry stick made to resemble the ulna and radius bones of the arm",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a steel parry stick",
+      "tap": "a steel parry stick made to resemble the ulna and radius bones of the arm",
+      "worn": "Right-arm shield (or parry stick).",
+      "cost_copper": 2500000,
       "price": "250 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Made from two rods of steel, both have been wrought into the shape of the humanoid ulna and radius bones that comprise the anatomical bones of the arm.  In the gap between the two 'bones' clear crystal has been added to give the parry stick heft and strength.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -20985,7 +20985,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "Plain to the point of austerity, the curved sweep of the blade is engraved with a stylized wave design.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -21000,7 +21000,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "You see the initial 'R.' impressed into the surface of the metal.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -21015,7 +21015,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "The horn's bottom is jagged, as though broken off from some beast's head.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -21030,7 +21030,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -21045,7 +21045,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
       "description": "Lustrous rippling patterns throughout the grain of the dark wood lend a windswept look to the wolf's fur.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
