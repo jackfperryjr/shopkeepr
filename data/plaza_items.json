@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T20:12:05Z",
-  "item_count": 2634,
+  "updated_at": "2026-04-26T20:12:44Z",
+  "item_count": 2633,
   "items": [
     {
       "town": "Crossing",
@@ -27008,21 +27008,6 @@
       "shop": "New World Treasures",
       "owner": "Refractal",
       "hours": "6pm and 12am",
-      "name": "a Dwarven iron skirmisher's shield embellished with asini crows",
-      "short": "a skirmisher's shield",
-      "tap": "a Dwarven iron skirmisher's shield embellished with asini crows",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 50000000,
-      "price": "5,000 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "The Back Room",
-      "shop": "New World Treasures",
-      "owner": "Refractal",
-      "hours": "6pm and 12am",
       "name": "a carved zingana staff topped with a sunstar jasper scorpion",
       "short": "a zingana staff",
       "tap": "a carved zingana staff topped with a sunstar jasper scorpion",
@@ -27143,13 +27128,13 @@
       "shop": "New World Treasures",
       "owner": "Refractal",
       "hours": "6pm and 12am",
-      "name": "a scintillant lazuline elixir",
-      "short": "a scintillant lazuline elixir",
+      "name": "a segmented blade-bone vest shrouded in layers of shredded gravecloth",
+      "short": null,
       "tap": null,
       "worn": null,
-      "cost_copper": 20000000,
-      "price": "2,000 platinum Lirums",
-      "description": "The viscous stuff within the vial changes constantly as it moves, one moment coruscating sky-blue and the next, fading to a nacreous blue dusk with motes like fireflies flashing deep within.",
+      "cost_copper": null,
+      "price": "2000 platinum Lirums",
+      "description": "",
       "last_seen": "2026-04-26"
     },
     {
