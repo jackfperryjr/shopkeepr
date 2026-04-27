@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T15:35:18Z",
-  "item_count": 2794,
+  "updated_at": "2026-04-27T15:35:52Z",
+  "item_count": 2793,
   "items": [
     {
       "town": "Crossing",
@@ -28305,21 +28305,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
       "description": "The avatar of Harawep bides her time within a delicate web of aldamdin.  Embedded in the chitinous black metal of her bloated abdomen, the polished red gemstone evokes a funhouse mirror whose distorted reflections are shattered by a web of pale filaments.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Dungeon Room",
-      "shop": "Mirarva's Mischief And Mayhem",
-      "owner": "Mirarva",
-      "hours": "3pm and 8pm",
-      "name": "a twisted ring set with a milky stone",
-      "short": "a twisted ring",
-      "tap": "a twisted ring set with a milky stone",
-      "worn": "Ring-worn.",
-      "cost_copper": 100000,
-      "price": "10 platinum Lirums",
-      "description": "Shadows within the curious stone seem to almost dance as the light strikes its odd angles.",
       "last_seen": "2026-04-27"
     },
     {
