@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T15:50:43Z",
+  "updated_at": "2026-04-27T15:51:23Z",
   "item_count": 2793,
   "items": [
     {
@@ -33630,7 +33630,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "Luxuriously smooth and soft, the dergatine's low, lush pile creates a muted, diffused effect to any light that plays across its surface, its absolute opacity preventing sight of anything swathed within its folds.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33645,7 +33645,7 @@
       "cost_copper": 45094837,
       "price": "4,509 platinum Dokoras",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33660,7 +33660,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "The tiny wooden puppet has been covered in soft brown fur and given small polished onyxes for eyes.  Given a free hand, you think you can PUSH, PULL, TURN, POKE, TAP, RUB, CLEAN, POINT, WAVE, BREAK or SCREAM at the little puppet to make it perform.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33669,13 +33669,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a chartreuse sanowret crystal set in an enameled bird",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a chartreuse sanowret crystal",
+      "tap": "a chartreuse sanowret crystal set in an enameled bird",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 500000,
       "price": "50 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The chartreuse crystal glows with a soft light and is shaped into a perfect cube.  Thin lines of silver reinforce the crystal in a complex lattice.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33684,13 +33684,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Blood Burst",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Blood Burst",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 4000000,
       "price": "400 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Blood Burst.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33699,13 +33699,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Divine Guidance",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Divine Guidance",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 750000,
       "price": "75 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Divine Guidance.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33714,13 +33714,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Echoes of Aether",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Echoes of Aether",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 500000,
       "price": "50 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Echoes of Aether.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33729,13 +33729,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Fluoresce",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Fluoresce",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 500000,
       "price": "50 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Fluoresce.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33744,13 +33744,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Iron Constitution",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Iron Constitution",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 500000,
       "price": "50 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Iron Constitution.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33759,13 +33759,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Petrifying Visions",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Petrifying Visions",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 750000,
       "price": "75 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Petrifying Visions.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33774,13 +33774,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Platinum Hands of Kertigen",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Platinum Hands of Kertigen",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 4500000,
       "price": "450 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Platinum Hands of Kertigen.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33789,13 +33789,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Rising Mists",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Rising Mists",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 750000,
       "price": "75 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Rising Mists.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33804,13 +33804,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Soldier's Prayer",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Soldier's Prayer",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 150000,
       "price": "15 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Soldier's Prayer.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33819,13 +33819,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a crumpled paper scroll labeled with Visions of Darkness",
-      "short": null,
-      "tap": null,
+      "short": "a crumpled paper scroll",
+      "tap": "a crumpled paper scroll labeled with Visions of Darkness",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 50000,
       "price": "5 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "It is labeled \"Visions of Darkness.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33840,7 +33840,7 @@
       "cost_copper": 1250000,
       "price": "125 platinum Dokoras",
       "description": "Nearly covering the surface of the protective headwear, each plume is limned in iridescent black paint to stand out against the dark red leather.  Miniscule black diamond shards are scattered amongst the feathers to give them depth and texture.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33855,7 +33855,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Dokoras",
       "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home with a discolored whiskey keg resting by the door.\n[To use this customization, PUT keg ON {HOME}.]",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33864,13 +33864,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a firesilk baldric clad in agonite plates",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a firesilk baldric",
+      "tap": "a firesilk baldric clad in agonite plates",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 7500000,
       "price": "750 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Providing a vibrant contrast to the ebon-hued plating, crimson silk threads shimmer within the warp of the fabric.  Scarlet firestaining outlines the fingers of steely grey that are visible throughout the ebon-hued metal, creating an impression of smoldering embers.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33885,7 +33885,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "Elaborate embroidery covers the voluminous hood with a series of obscure tribal designs, the pattern extending down the back of the garment in an elongated v-shaped arrangement.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33900,7 +33900,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "It is labeled \"Crystal Dart.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33915,7 +33915,7 @@
       "cost_copper": 600000,
       "price": "60 platinum Dokoras",
       "description": "Brought to a high gloss finish, the oak haft supports the green-colored metal in a wide, tempered axehead.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33930,7 +33930,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "A thick twist of unpolished wrought iron serves as a weighted haft for the affixed knot of demonbone, jagged bony protrusions randomly stabbing outward from the charred head.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33945,7 +33945,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33960,7 +33960,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33969,13 +33969,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a low cut black velvet gown cinched at the waist with a tasseled red leather cord",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a black velvet gown",
+      "tap": "a low cut black velvet gown cinched at the waist with a tasseled red leather cord",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 500000,
       "price": "50 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33984,13 +33984,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a pair of silk wings decorated with overlapping ice crystals",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a pair of silk wings",
+      "tap": "a pair of silk wings decorated with overlapping ice crystals",
+      "worn": "Generally worn.",
+      "cost_copper": 1500000,
       "price": "150 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Gleaming wires support the wings, the pure white silk painted with pale blue-white forms of overlapping ice crystals and snowflakes.  Woven through the design, pure silver threads add sparkle and accent the icy theme.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -33999,13 +33999,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a pair of velvet slippers",
-      "short": null,
+      "short": "a pair of velvet slippers",
       "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "worn": "Foot-worn.",
+      "cost_copper": 50000,
       "price": "5 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34020,7 +34020,7 @@
       "cost_copper": 750000,
       "price": "75 platinum Dokoras",
       "description": "It is labeled \"Innocence.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34035,7 +34035,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Dokoras",
       "description": "Black leather tastefully reinforces the shoulders in the manner commonly seen among falconers, offering protection from a bird's talons.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34050,7 +34050,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Dokoras",
       "description": "The dark leather wrapping is covered with countless tiny bumps and has a greenish tinge.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34059,13 +34059,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a sanguine-hued recurve bow inlaid with intricate golden scrollwork",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a sanguine-hued recurve bow",
+      "tap": "a sanguine-hued recurve bow inlaid with intricate golden scrollwork",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 2000000,
       "price": "200 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Stained an inky black at the grip, the ornate gold inlay emerges as if dancing outward along the bow's upper and lower limbs from a smoothly gradated smoke.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34080,7 +34080,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "A curling dragon winds through an intricate maze of flame-like wisps stitched along each lapel, its sharp claws extended.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34089,13 +34089,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a slender gold choker strung with diamond beads",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a slender gold choker",
+      "tap": "a slender gold choker strung with diamond beads",
+      "worn": "Neck-worn.",
+      "cost_copper": 50000,
       "price": "5 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The thin strands of metal form a delicate lacework pattern.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34110,7 +34110,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34125,7 +34125,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "Pleated and stitched to create a ribbed effect upon its exterior, the pouch mimics the appearance of a fan-shaped seashell.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34140,7 +34140,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "Fashioned in the shape of a multi-armed octopus, the clasp has a hidden hook on the back that catches on a matching loop on the container to secure the flap.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34149,13 +34149,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a spidersilk clutch shaped like a spider's eggsac",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a spidersilk clutch",
+      "tap": "a spidersilk clutch shaped like a spider's eggsac",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 2500000,
       "price": "250 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Designed to hang from the belt, the odd container boasts a seamless design.  Tiny animite spiderlings appear to be emerging from the pristine white silk, which displays a subtle iridescence.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34170,7 +34170,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Dokoras",
       "description": "Jutting out from the polished steel of the weapon's body, each of the dozen pale blue metallic spikes ends in a wickedly sharp point.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34179,13 +34179,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "a violet sanowret crystal set in an enameled rat",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a violet sanowret crystal",
+      "tap": "a violet sanowret crystal set in an enameled rat",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 500000,
       "price": "50 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The violet crystal glows with a soft light and is shaped into a perfect cube.  Thin lines of silver reinforce the crystal in a complex lattice.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34200,7 +34200,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Dokoras",
       "description": "Lustrous rippling patterns throughout the grain of the dark wood lend a windswept look to the wolf's fur.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34215,7 +34215,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Dokoras",
       "description": "Pure white and incapable of being discolored, the metal has the uniquely improbable quality of not reflecting any image upon its surface, even though polished to a high gloss.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34224,13 +34224,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "an ebony handled greathammer with a blackened steel head",
-      "short": null,
-      "tap": null,
+      "short": "an ebony greathammer",
+      "tap": "an ebony handled greathammer with a blackened steel head",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 150000,
       "price": "15 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The only relief from the dark tones of the wood and metal is a thin line of silver spiraling around the handle.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34245,7 +34245,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "A bounty of calodendrum blossoms are stitched in vibrant hues along the sleeves and cuffs of this voluminous garment.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34260,7 +34260,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Dokoras",
       "description": "Blackened metal forged into long slim blades are attached to a series of thin leather straps, allowing one to secure the menacing weapons to their hands.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34275,7 +34275,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "The chainsil fabric is ruched and swagged to mimic the appearance of rippling water.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34290,7 +34290,7 @@
       "cost_copper": 50000,
       "price": "5 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34299,13 +34299,13 @@
       "owner": "Cramus",
       "hours": "4pm and 11pm",
       "name": "some purple gold goggles with darkly tinted lenses",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "some purple gold goggles",
+      "tap": "some purple gold goggles with darkly tinted lenses",
+      "worn": "Generally worn.",
+      "cost_copper": 250000,
       "price": "25 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Fine purple gold is carefully worked into a thick, rugged frame which encloses two oversized lenses.  A dark tint shades the glass, providing ample protection from the sun while partially obscuring its wearer's eyes.  An adjustable silver buckle connects a handsomely tooled leather strap, allowing it to securely fit to a head of almost any size.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -34320,7 +34320,7 @@
       "cost_copper": 50000,
       "price": "5 platinum Dokoras",
       "description": "Velvety soft kidskin has several tiny chips of blue-green iolite arranged in a zigzag pattern along the backside of the glove.  A small pocket is cleverly sewn into the glove to allow the wearer to hide a tiny treasure within.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
