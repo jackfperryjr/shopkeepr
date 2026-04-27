@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T14:46:40Z",
-  "item_count": 2801,
+  "updated_at": "2026-04-27T14:46:59Z",
+  "item_count": 2802,
   "items": [
     {
       "town": "Crossing",
@@ -39189,12 +39189,12 @@
       "owner": "Zayreal",
       "hours": "8am and 9pm",
       "name": "a diacan-bladed avia fan dangling sprawled kraken charms",
-      "short": null,
-      "tap": null,
+      "short": "a diacan-bladed avia fan",
+      "tap": "a diacan-bladed avia fan dangling sprawled kraken charms",
       "worn": null,
-      "cost_copper": null,
-      "price": "2000 platinum Dokoras",
-      "description": "",
+      "cost_copper": 20000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "The thick fathomless black metal blades are well honed to an iridescent razor-sharp edge.\nThe fan is closed.",
       "last_seen": "2026-04-27"
     },
     {
@@ -39249,12 +39249,27 @@
       "owner": "Zayreal",
       "hours": "8am and 9pm",
       "name": "an improvised parry stick made from assorted construction materials",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "an improvised parry stick",
+      "tap": "an improvised parry stick made from assorted construction materials",
+      "worn": "Right-arm shield (or parry stick).",
+      "cost_copper": 2000000,
       "price": "200 platinum Dokoras",
-      "description": "",
+      "description": "Composed of an assortment of building materials, the parry stick features a length of iron banding hammered around a stone strut and is lashed with twine for a rough grip.",
+      "last_seen": "2026-04-27"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Storage",
+      "shop": "Ravens Repo, South",
+      "owner": "Zayreal",
+      "hours": "8am and 9pm",
+      "name": "some natural suede ice skates with brown laces",
+      "short": "some suede ice skates",
+      "tap": "some natural suede ice skates with brown laces",
+      "worn": "Foot-worn.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Dokoras",
+      "description": "The ice skates are ready to be worn for skating.",
       "last_seen": "2026-04-27"
     },
     {
