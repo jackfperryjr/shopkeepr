@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T14:31:11Z",
+  "updated_at": "2026-04-27T14:32:52Z",
   "item_count": 2680,
   "items": [
     {
@@ -31389,13 +31389,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a black voucher illustrated with a voidfrost velveteen-lined coffin",
-      "short": null,
-      "tap": null,
+      "short": "a furniture voucher",
+      "tap": "a black voucher illustrated with a voidfrost velveteen-lined coffin",
       "worn": null,
-      "cost_copper": null,
-      "price": "15000 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "cost_copper": 150000000,
+      "price": "15,000 platinum Lirums",
+      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a voidfrost velveteen-lined coffin flickering with cold starlight, which occupies the bed (misc2) space of your home.  The notations indicate that it has space for 0 items IN, 25 items ON, 5 items BEHIND and 5 items UNDER it.  It can be redeemed with any of the Estate Holder housing clerks.\"",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31410,7 +31410,7 @@
       "cost_copper": 40000000,
       "price": "4,000 platinum Lirums",
       "description": "A handful of loops and pouches are attached at even intervals along the length of the axe harness, allowing one to carry a variety of items.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31419,13 +31419,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a bright yellow warhorn painted with a pair of crossed swords",
-      "short": "a bright yellow warhorn",
-      "tap": "a bright yellow warhorn painted with a pair of crossed swords",
+      "short": "a silversteel warhorn",
+      "tap": "a silversteel warhorn wrapped in lava-drake hide",
       "worn": "Worn attached to a belt.",
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "description": "Thick lava-drake hide secures and protects the underlying metal.  A pair of embroidered orange swords adorns the craggy leather.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31434,13 +31434,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a broad-bladed Dwarven iron voulge with a stout hickory haft",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a goldweave phoenix",
+      "tap": "a goldweave phoenix with fire whirl ruby eyes",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Lirums",
+      "description": "Tightly compact to form the creature's body, the lustrous golden fabric spun with real gold filaments is cut loose at the edges and tinged with fiery red dye to form an elegantly radiant plumage.  The gems of its eyes bear complementary spiraling red and gold inclusions, like pupils burned in a perpetual gaze.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31449,13 +31449,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a chakrel maze hung from a braided leather loop",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a chakrel maze",
+      "tap": "a chakrel maze hung from a braided leather loop",
+      "worn": "Neck-worn.",
+      "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "A stylized maze carefully shaped from reddish-orange stone containing slender black streaks and a perfect white flame-shaped inclusion hangs from a thin strip of dark leather.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31464,13 +31464,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a cherry-red candysatin corset trimmed with dainty black lace",
-      "short": "a cherry-red candysatin corset",
-      "tap": "a cherry-red candysatin corset trimmed with dainty black lace",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Lirums",
-      "description": "Gleaming ruby-red fabric with crisp white stripes creates a striking contrast, the corset's sleek design meant to accentuate the wearer's waist.  Delicate dark trim adds a touch of elegance to the bold structure, while its glossy finish catches the light with every movement.\nThe top hook of the candysatin corset is open.",
-      "last_seen": "2026-04-26"
+      "short": "an onyx-hide back harness",
+      "tap": "an onyx-hide back harness",
+      "worn": "Back-worn.",
+      "cost_copper": 25000000,
+      "price": "2,500 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31479,13 +31479,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a curved handle",
-      "short": "a curved handle",
+      "short": "a door-shaped voucher",
       "tap": null,
       "worn": null,
       "cost_copper": 2000000,
       "price": "200 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "description": "This customization can be used with any normal door type home.\nExample of what this customization could look like...\nA nice door with a series of strange symbols carved into it.\n[To use this customization, PUT voucher ON {HOME}.]",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31494,13 +31494,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a dainty blue gold anklet adorned with carved Alavern charms",
-      "short": null,
+      "short": "a curved handle",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
-      "price": "500 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "cost_copper": 2000000,
+      "price": "200 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31509,13 +31509,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a dark navy book cover decorated with a pink-striped donkey",
-      "short": "a navy book cover",
-      "tap": "a dark navy book cover decorated with a pink-striped donkey",
-      "worn": null,
-      "cost_copper": 250000,
-      "price": "25 platinum Lirums",
-      "description": "Fuzzy velvet has been used to give the donkey its unusual coloring.  Judging from the size, you guess this cover would fit a vault book.\nThere seems to be something written on the back side. | On the back side of the book cover there are some instructions.  They read:\nTo use the book cover, simply PUT it on the appropriate book.",
-      "last_seen": "2026-04-26"
+      "short": "a stained leather cowl",
+      "tap": "a stained leather cowl with a braid of rat tails affixed to the back",
+      "worn": "Helm-worn.",
+      "cost_copper": 200000,
+      "price": "20 platinum Lirums",
+      "description": "Mottled shades of black mingle with rusty brown patches across the plain surface of the leather.  Dangling off the back, a braid of rat tails in pink, grey, and white adds a note of whimsy to the otherwise mundane armor.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31524,13 +31524,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a door-shaped voucher",
-      "short": "a door-shaped voucher",
+      "short": "a medium rim",
       "tap": null,
       "worn": null,
       "cost_copper": 2000000,
       "price": "200 platinum Lirums",
-      "description": "This customization can be used with any normal door type home.\nExample of what this customization could look like...\nA nice door with a series of strange symbols carved into it.\n[To use this customization, PUT voucher ON {HOME}.]",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31539,13 +31539,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a dreamweave tailor's toolbelt strung with kaleidoscopic wildling spiders",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a dreamweave tailor's toolbelt",
+      "tap": "a dreamweave tailor's toolbelt strung with kaleidoscopic wildling spiders",
+      "worn": "Belt-worn.",
+      "cost_copper": 2500000,
       "price": "250 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The fabric shimmers in a soft, deep purple, its whorled surface catching light at varied angles to reveal subtle swirls of sheen.  Intricately carved from rainbow sapphires, wildling spiders dangle from the belt, adding an otherworldly allure to the belt's vibrant palette.  Each spider's faceted body melds from dark blue into hues of green and violet, while others shift into shades of red and orange.\nIt currently does not have any items tied to it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31554,13 +31554,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a goldweave phoenix with fire whirl ruby eyes",
-      "short": "a goldweave phoenix",
-      "tap": "a goldweave phoenix with fire whirl ruby eyes",
-      "worn": "Generally worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Lirums",
-      "description": "Tightly compact to form the creature's body, the lustrous golden fabric spun with real gold filaments is cut loose at the edges and tinged with fiery red dye to form an elegantly radiant plumage.  The gems of its eyes bear complementary spiraling red and gold inclusions, like pupils burned in a perpetual gaze.",
-      "last_seen": "2026-04-26"
+      "short": "a medium cover",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 2500000,
+      "price": "250 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31575,7 +31575,7 @@
       "cost_copper": 250000000,
       "price": "25,000 platinum Lirums",
       "description": "Scattered across the dark exterior of the small shield, wickedly sharp spikes glint with a strikingly green sheen.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31584,13 +31584,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a heavy blue-black kau leather overcoat with an embroidered golden wolf",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "200 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a dainty blue gold anklet",
+      "tap": "a dainty blue gold anklet adorned with carved Alavern charms",
+      "worn": "Ankle-worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Lirums",
+      "description": "Thin braided stands of cobalt blue metal with gold marbling form a delicate chain designed to cling gently to the wearer's ankle, while tiny gem flowers accentuate this piece hung every few links along its length.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31599,13 +31599,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a jadeleaf artisan's satchel displaying sophisticated dragonvein agate fastenings",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "10000 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a jadeleaf artisan's satchel",
+      "tap": "a jadeleaf artisan's satchel displaying sophisticated dragonvein agate fastenings",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 100000000,
+      "price": "10,000 platinum Lirums",
+      "description": "This stylish container features clasps with hidden latches neatly concealed behind the polished gemstones.  Each agate is expertly carved to show a mesmerizing swirl of purple, blue, and green gradient tones, complementing the jadeleaf cloth without detracting from its rich emerald hue.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31614,13 +31614,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a kertig warhorn engraved with the Barbarians' Guild crest",
-      "short": "a kertig warhorn",
-      "tap": "a kertig warhorn engraved with the Barbarians' Guild crest",
+      "short": "a bright yellow warhorn",
+      "tap": "a bright yellow warhorn painted with a pair of crossed swords",
       "worn": "Worn attached to a belt.",
       "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "Engraved into the silvery-black black metal is a clenched fist holding aloft a bloodied sword.  Centered beneath the crest in thick script is the proclamation, \"Fight with honor.\"",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31629,13 +31629,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a lacquered wooden shield adorned with a brass hound's head",
-      "short": "a wooden shield",
-      "tap": "a lacquered wooden shield adorned with a brass hound's head",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 7500000,
-      "price": "750 platinum Lirums",
-      "description": "A large brass boss shaped into the silhouette of a hound's head is mounted to the lacquered oak of this shield, its fangs and maw protruding in a manner that creates a pattern of small metal spikes pointed outward.",
-      "last_seen": "2026-04-26"
+      "short": "a marquetry lockpick case",
+      "tap": "a marquetry lockpick case handcrafted with an inlaid design of a mariner's compass",
+      "worn": "Generally worn.",
+      "cost_copper": 50000000,
+      "price": "5,000 platinum Lirums",
+      "description": "Woodtones coalesce to form a perfectly joined illustration of a 24-point mariner's compass.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31650,7 +31650,7 @@
       "cost_copper": 200000000,
       "price": "20,000 platinum Lirums",
       "description": "This striking piece of jewelry consists of a thick band of radiant metal bearing a faint translucence, which hints at layers of depth beneath the pale golden surface.  Sitting atop the head of the ring is a remarkable piece of sun coral, its bright orange polyp shape surpassed in wonder by translucent, chalk-like yellow tentacles that emerge from within its heart.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31659,13 +31659,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a lustrous ice-veined leather bodice edged in frost opals",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "an ice-veined leather bodice",
+      "tap": "a lustrous ice-veined leather bodice edged in frost opals",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 3000000,
       "price": "300 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Smoky blue cords lace down the front of the garment, drawing it snug around the torso when worn.  The frost opals are carved in the shapes of icicles and sprinkled along the garment's sweetheart neckline, their milky white surfaces glimmering with icy bursts of blue and green when struck by the light.\nThe barest hint of a blue-white shimmer appears across the surface of the leather.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31674,13 +31674,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a mammoth tusk warhorn engraved with a volley of arrows",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a mammoth-tusk warhorn",
+      "tap": "a mammoth tusk warhorn engraved with a volley of arrows",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Hundreds of arrows carved in mid-flight cover the otherwise smooth surface of the warhorn.  They volley points away from the mouthpiece and expands outward upon the flared opening.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31689,13 +31689,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a marquetry lockpick case handcrafted with an inlaid design of a mariner's compass",
-      "short": "a marquetry lockpick case",
-      "tap": "a marquetry lockpick case handcrafted with an inlaid design of a mariner's compass",
-      "worn": "Generally worn.",
-      "cost_copper": 50000000,
-      "price": "5,000 platinum Lirums",
-      "description": "Woodtones coalesce to form a perfectly joined illustration of a 24-point mariner's compass.",
-      "last_seen": "2026-04-26"
+      "short": "a broad-bladed Dwarven iron voulge",
+      "tap": "a broad-bladed Dwarven iron voulge with a stout hickory haft",
+      "worn": null,
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Lirums",
+      "description": "Forged to emphasize its heavy construction, the mostly straight-edged blade with its subtly curved bill, is left sharpened to a degree shy of its clear potential.  The finely treated wood of the lengthy pole serving as a handle makes for a suitable match for the weapon's head, being both simple and stalwart in its craftsmanship.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31704,13 +31704,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a medium cover",
-      "short": "a medium cover",
-      "tap": null,
+      "short": "an ebony greathammer",
+      "tap": "an ebony handled greathammer with a blackened steel head",
       "worn": null,
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 250000,
+      "price": "25 platinum Lirums",
+      "description": "The only relief from the dark tones of the wood and metal is a thin line of silver spiraling around the handle.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31719,13 +31719,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a medium rim",
-      "short": "a medium rim",
+      "short": "a sanguine paintstick",
       "tap": null,
       "worn": null,
-      "cost_copper": 2000000,
-      "price": "200 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 500000,
+      "price": "50 platinum Lirums",
+      "description": "This oily semi-solid mass of paint is roughly formed into a small brick.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31740,7 +31740,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
       "description": "Marks are gouged into the surface of the ashen grey bone to intersect with its network of red snaking lines.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31755,7 +31755,7 @@
       "cost_copper": 4000000,
       "price": "400 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31764,13 +31764,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a sanguine paintstick",
-      "short": "a sanguine paintstick",
-      "tap": null,
+      "short": "a lava drake-bone burin",
+      "tap": "a lava drake-bone burin set with a brilliant Gemfire ruby",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "This oily semi-solid mass of paint is roughly formed into a small brick.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Lirums",
+      "description": "Held in place within a cage of dark red asini, the Gemfire ruby shines with a brilliant core of glittering, golden flame surrounded by the translucent crimson red stone.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31779,13 +31779,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a silversteel warhorn wrapped in lava-drake hide",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "500 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a wooden shield",
+      "tap": "a lacquered wooden shield adorned with a brass hound's head",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 7500000,
+      "price": "750 platinum Lirums",
+      "description": "A large brass boss shaped into the silhouette of a hound's head is mounted to the lacquered oak of this shield, its fangs and maw protruding in a manner that creates a pattern of small metal spikes pointed outward.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31794,13 +31794,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a stained leather cowl with a braid of rat tails affixed to the back",
-      "short": "a stained leather cowl",
-      "tap": "a stained leather cowl with a braid of rat tails affixed to the back",
-      "worn": "Helm-worn.",
-      "cost_copper": 200000,
-      "price": "20 platinum Lirums",
-      "description": "Mottled shades of black mingle with rusty brown patches across the plain surface of the leather.  Dangling off the back, a braid of rat tails in pink, grey, and white adds a note of whimsy to the otherwise mundane armor.",
-      "last_seen": "2026-04-26"
+      "short": "a hazelwood short bow",
+      "tap": "a lightweight hazelwood short bow engraved with a red feathered arrow",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 25000000,
+      "price": "2,500 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31815,7 +31815,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Lirums",
       "description": "Exquisite handiwork and vibrant red fabric allow the flashy birds along the hem to stand out in vivid detail.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31824,13 +31824,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a winterweave snow hawk with frostflare opal eyes",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a cherry-red candysatin corset",
+      "tap": "a cherry-red candysatin corset trimmed with dainty black lace",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Lirums",
+      "description": "Gleaming ruby-red fabric with crisp white stripes creates a striking contrast, the corset's sleek design meant to accentuate the wearer's waist.  Delicate dark trim adds a touch of elegance to the bold structure, while its glossy finish catches the light with every movement.\nThe top hook of the candysatin corset is open.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31839,13 +31839,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "an ebony handled greathammer with a blackened steel head",
-      "short": null,
-      "tap": null,
+      "short": "a navy book cover",
+      "tap": "a dark navy book cover decorated with a pink-striped donkey",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 250000,
       "price": "25 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Fuzzy velvet has been used to give the donkey its unusual coloring.  Judging from the size, you guess this cover would fit a vault book.\nThere seems to be something written on the back side. | On the back side of the book cover there are some instructions.  They read:\nTo use the book cover, simply PUT it on the appropriate book.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31854,13 +31854,13 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "an ornate glitvire ring",
-      "short": "an ornate glitvire ring",
-      "tap": null,
-      "worn": "Ring-worn.",
-      "cost_copper": 3000000,
-      "price": "300 platinum Lirums",
-      "description": "There is a faint glow about the glitvire ring.",
-      "last_seen": "2026-04-26"
+      "short": "a winterweave hawk",
+      "tap": "a winterweave snow hawk with frostflare opal eyes",
+      "worn": "Generally worn.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Lirums",
+      "description": "Tightly compact to form the creature's body, the snow-white fabric with a pale blue gauze overlay is cut loose at the edges to form an elegantly flowing crystalline plumage.  The gems of its eyes bear complementary snowflake-shaped crystals at their hearts, like pupils frozen in a perpetual gaze.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31875,7 +31875,7 @@
       "cost_copper": 250000000,
       "price": "25,000 platinum Lirums",
       "description": "The collection of small adhesive gems displays minute contouring suggestive of fissured tree bark.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -31890,7 +31890,7 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Lirums",
       "description": "Resembling complicated smoke images of restless dragons, wispy grey lines spiral across the leather hand armor.  Amply padded shimmering red cuffs feature a small angled cutout at the base, allowing for increased wrist movement.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
