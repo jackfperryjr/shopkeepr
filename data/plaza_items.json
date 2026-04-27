@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T14:50:14Z",
+  "updated_at": "2026-04-27T14:50:55Z",
   "item_count": 2802,
   "items": [
     {
@@ -38724,12 +38724,12 @@
       "owner": "Nyrhin",
       "hours": "12pm and 6am",
       "name": "a Drogor's Wrath sapphire",
-      "short": null,
+      "short": "a Drogor's Wrath sapphire",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 500000,
       "price": "50 platinum Dokoras",
-      "description": "",
+      "description": "The dark cobalt of the ocean on a moonless night, paler striations within this murky gem resemble whitecaps of a storm-wracked sea.",
       "last_seen": "2026-04-27"
     },
     {
@@ -38799,12 +38799,12 @@
       "owner": "Nyrhin",
       "hours": "12pm and 6am",
       "name": "a diacan-bladed avia fan dangling sprawled kraken charms",
-      "short": null,
-      "tap": null,
+      "short": "a diacan-bladed avia fan",
+      "tap": "a diacan-bladed avia fan dangling sprawled kraken charms",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 7000000,
       "price": "700 platinum Dokoras",
-      "description": "",
+      "description": "The thick fathomless black metal blades are well honed to an iridescent razor-sharp edge.\nThe fan is closed.",
       "last_seen": "2026-04-27"
     },
     {
