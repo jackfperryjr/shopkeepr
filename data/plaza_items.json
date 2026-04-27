@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T17:04:23Z",
+  "updated_at": "2026-04-27T17:04:42Z",
   "item_count": 2807,
   "items": [
     {
@@ -28659,13 +28659,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a carved zingana staff topped with a sunstar jasper scorpion",
-      "short": "a zingana staff",
-      "tap": "a carved zingana staff topped with a sunstar jasper scorpion",
-      "worn": null,
-      "cost_copper": 400000,
-      "price": "40 platinum Lirums",
-      "description": "Designed not only as a weapon, but to help the bearer navigate treacherous sand dunes, the bottom of the staff flares out into a wider flat base.  The dark stripes of the wood grain wind around the shaft of the staff, rising to the top where a realistically carved scropion stands, its stinger poised to sting.",
-      "last_seen": "2026-04-26"
+      "short": "a flamethorn shortbow",
+      "tap": "a flamethorn shortbow intricately engraved with a pattern of coiled dragons",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 80000000,
+      "price": "8,000 platinum Lirums",
+      "description": "The red grain of this shortbow glimmers with a glossy finish beneath a coat of lacquer, and a dark stain fills the grooves between the engraved dragons.  The dragon's scales wrap neatly around the bow, and their maws are wide open with wisps of smoke extending upwards from each beast.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28674,13 +28674,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a conical black wizard's hat strewn with twinkling points of starlight",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a black hat",
+      "tap": "a conical black wizard's hat strewn with twinkling points of starlight",
+      "worn": "Generally worn.",
+      "cost_copper": 4000000,
       "price": "400 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Pure, cold white light glimmers and floats across the fabric, the enchantment making it seem as though a portion of the night sky were not only captive upon it, but also bent to a whimsical new pattern of movement.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28695,7 +28695,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Lirums",
       "description": "Sharpened along its inside edge, the curved blade is designed for harvesting crops and cutting through hay bales.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28704,13 +28704,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a filigree bracer of silversteel cobwebs",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "25 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a starry black quiver",
+      "tap": "a starry black quiver stamped with a golden key",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 3000000,
+      "price": "300 platinum Lirums",
+      "description": "Layers of dark fabrics are wrapped about the sturdy leather container. | \"Droughtman's Maze, 433\"",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28719,13 +28719,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a flamethorn shortbow intricately engraved with a pattern of coiled dragons",
-      "short": "a flamethorn shortbow",
-      "tap": "a flamethorn shortbow intricately engraved with a pattern of coiled dragons",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 80000000,
-      "price": "8,000 platinum Lirums",
-      "description": "The red grain of this shortbow glimmers with a glossy finish beneath a coat of lacquer, and a dark stain fills the grooves between the engraved dragons.  The dragon's scales wrap neatly around the bow, and their maws are wide open with wisps of smoke extending upwards from each beast.",
-      "last_seen": "2026-04-26"
+      "short": "a steel akabo",
+      "tap": "a steel akabo tied with ornamental zibeline tassels",
+      "worn": null,
+      "cost_copper": 4000000,
+      "price": "400 platinum Lirums",
+      "description": "Dark brown fur-like cords trail from the heavy weapon and inlaid reaver-bone grips cover the haft.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28734,13 +28734,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a mottled green leather weapon harness intricately beaded in shades of gold",
-      "short": "a leather weapon harness",
-      "tap": "a mottled green leather weapon harness intricately beaded in shades of gold",
+      "short": "a wyndwood crossbow",
+      "tap": "a wyndwood crossbow with a wolf-shaped stock",
       "worn": "Shoulder-worn.",
-      "cost_copper": 100000000,
-      "price": "10,000 platinum Lirums",
-      "description": "The small beads vary in hue from burnished gold to molten red and are used to create an overlapping pattern of autumn leaves around the opening of the long harness.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 2500000,
+      "price": "250 platinum Lirums",
+      "description": "Lustrous rippling patterns throughout the grain of the dark wood lend a windswept look to the wolf's fur.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28749,13 +28749,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a partitioned diacan case swirled with a watery iridescence",
-      "short": "a partitioned diacan case",
-      "tap": "a partitioned diacan case swirled with a watery iridescence",
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "Angular sigils are subtly carved across the exterior of the case, nearly imperceptible except for the slight depression made into the inky black metal.  It is currently closed.",
-      "last_seen": "2026-04-26"
+      "short": "a steel scimitar",
+      "tap": "a steel scimitar with a felwood hilt",
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Lirums",
+      "description": "Plain to the point of austerity, the curved sweep of the blade is unadorned.  The deep purple hue of the handle is the only decoration on the excellently balanced weapon.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28764,13 +28764,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a red bowtie with various faces swirling across its surface",
-      "short": "a red bowtie",
-      "tap": "a red bowtie with various faces swirling across its surface",
-      "worn": "Neck-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "Faces of every kind swirl chaotically across the fabric.",
-      "last_seen": "2026-04-26"
+      "short": "a leather weapon harness",
+      "tap": "a mottled green leather weapon harness intricately beaded in shades of gold",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 100000000,
+      "price": "10,000 platinum Lirums",
+      "description": "The small beads vary in hue from burnished gold to molten red and are used to create an overlapping pattern of autumn leaves around the opening of the long harness.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28779,13 +28779,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a segmented blade-bone vest shrouded in layers of shredded gravecloth",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "2000 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a filigree silversteel bracer",
+      "tap": "a filigree bracer of silversteel cobwebs",
+      "worn": "Wrist-worn.",
+      "cost_copper": 250000,
+      "price": "25 platinum Lirums",
+      "description": "Designed to envelop the arm from wrist to elbow, a lacy pattern of intricate spiderwebs has been designed with a series of complex swirls that suggest a tangle of lover's knots.  Bound within the numerous webs is a slim sheath designed to hold small items.  Ingeniously set on a tiny hinge, a delicately wrought jet spider has been set at the opening as a clasp.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28794,13 +28794,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a small blue-green booklet stamped with a blade set upon a grindstone",
-      "short": "a small blue-green booklet",
-      "tap": "a small blue-green booklet stamped with a blade set upon a grindstone",
-      "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "You see nothing unusual. | You shouldn't read somebody else's tool catalog.",
-      "last_seen": "2026-04-26"
+      "short": "a notched iron parry stick",
+      "tap": "a notched iron parry stick with a padded demonscale grip",
+      "worn": "Right-arm shield (or parry stick).",
+      "cost_copper": 35000000,
+      "price": "3,500 platinum Lirums",
+      "description": "Composed of a thick bar of heavily notched iron wound with padded demonscale for a secure grip, the austere parry stick bears no ornamentation.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28809,13 +28809,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a sprite bone register cover stamped with an indurium foil brazier",
-      "short": "a sprite bone register cover",
-      "tap": "a sprite bone register cover stamped with an indurium foil brazier",
-      "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "Easily identified by its glittering appearance, the bone jacket is inlaid with a small brazier worked from bright red metal.  Judging from the size, you guess this cover would fit a deed register.\nThere seems to be something written on the back side. | On the back side of the register cover there are some instructions.  They read:\nTo use the register cover, simply PUT it on the appropriate book.",
-      "last_seen": "2026-04-26"
+      "short": "a partitioned diacan case",
+      "tap": "a partitioned diacan case swirled with a watery iridescence",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Lirums",
+      "description": "Angular sigils are subtly carved across the exterior of the case, nearly imperceptible except for the slight depression made into the inky black metal.  It is currently closed.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28824,13 +28824,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a starry black quiver stamped with a golden key",
-      "short": null,
-      "tap": null,
+      "short": "a sprite bone register cover",
+      "tap": "a sprite bone register cover stamped with an indurium foil brazier",
       "worn": null,
-      "cost_copper": null,
-      "price": "300 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "cost_copper": 500000,
+      "price": "50 platinum Lirums",
+      "description": "Easily identified by its glittering appearance, the bone jacket is inlaid with a small brazier worked from bright red metal.  Judging from the size, you guess this cover would fit a deed register.\nThere seems to be something written on the back side. | On the back side of the register cover there are some instructions.  They read:\nTo use the register cover, simply PUT it on the appropriate book.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28839,13 +28839,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a steel akabo tied with ornamental zibeline tassels",
-      "short": "a steel akabo",
-      "tap": "a steel akabo tied with ornamental zibeline tassels",
+      "short": "a zingana staff",
+      "tap": "a carved zingana staff topped with a sunstar jasper scorpion",
       "worn": null,
-      "cost_copper": 4000000,
-      "price": "400 platinum Lirums",
-      "description": "Dark brown fur-like cords trail from the heavy weapon and inlaid reaver-bone grips cover the haft.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 400000,
+      "price": "40 platinum Lirums",
+      "description": "Designed not only as a weapon, but to help the bearer navigate treacherous sand dunes, the bottom of the staff flares out into a wider flat base.  The dark stripes of the wood grain wind around the shaft of the staff, rising to the top where a realistically carved scropion stands, its stinger poised to sting.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28854,13 +28854,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a steel scimitar with a felwood hilt",
-      "short": "a steel scimitar",
-      "tap": "a steel scimitar with a felwood hilt",
+      "short": "a small blue-green booklet",
+      "tap": "a small blue-green booklet stamped with a blade set upon a grindstone",
       "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "Plain to the point of austerity, the curved sweep of the blade is unadorned.  The deep purple hue of the handle is the only decoration on the excellently balanced weapon.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 500000,
+      "price": "50 platinum Lirums",
+      "description": "You see nothing unusual. | You shouldn't read somebody else's tool catalog.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -28869,13 +28869,13 @@
       "owner": "Refractal",
       "hours": "6pm and 12am",
       "name": "a wyndwood crossbow with a wolf-shaped stock",
-      "short": "a wyndwood crossbow",
-      "tap": "a wyndwood crossbow with a wolf-shaped stock",
+      "short": "a skirmisher's shield",
+      "tap": "a Dwarven iron skirmisher's shield embellished with asini crows",
       "worn": "Shoulder-worn.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "Lustrous rippling patterns throughout the grain of the dark wood lend a windswept look to the wolf's fur.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 45000000,
+      "price": "4,500 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
