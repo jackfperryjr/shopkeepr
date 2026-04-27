@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T16:35:54Z",
+  "updated_at": "2026-04-27T16:36:08Z",
   "item_count": 2796,
   "items": [
     {
@@ -38565,7 +38565,7 @@
       "cost_copper": 1000000000,
       "price": "100,000 platinum Dokoras",
       "description": "Beneath the kneeling knight, ornate lettering has been tooled onto the bag. | \"A Paladin is sworn to honor.  His heart knows only virtue.  His blade defends the helpless.  His word speaks only the truth.  His wrath undoes the wicked.\"",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -38580,7 +38580,7 @@
       "cost_copper": 450000,
       "price": "45 platinum Dokoras",
       "description": "A tiny row of ruby teardrops lines the neckline of this voluminous garment.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -38589,13 +38589,13 @@
       "owner": "Tinkery",
       "hours": "5pm and 10pm",
       "name": "a finely-woven woolen doublet embroidered with a band of shimmering gold symbols written in the ancient language of Ilithi on a deep black background",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "200000 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a sinister black doublet",
+      "tap": "a finely-woven woolen doublet embroidered with a band of shimmering gold symbols written in the ancient language of Ilithi on a deep black background",
+      "worn": "Generally worn.",
+      "cost_copper": 2000000000,
+      "price": "200,000 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -38604,13 +38604,13 @@
       "owner": "Tinkery",
       "hours": "5pm and 10pm",
       "name": "a lacquered white ironwood nightstick wrought in the form of a vertebral column",
-      "short": null,
-      "tap": null,
+      "short": "a lacquered white ironwood nightstick",
+      "tap": "a lacquered white ironwood nightstick wrought in the form of a vertebral column",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 2000000,
       "price": "200 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Each protuberance and spine along the column is shaped with considerable attention to detail, despite several markedly stylistic liberties taken with the anatomical minutiae.  Foremost among these changes is the general smoothing and careful spacing of spines at the narrower end of the weapon, clearly intended to allow an easier grip.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
@@ -38619,13 +38619,13 @@
       "owner": "Tinkery",
       "hours": "5pm and 10pm",
       "name": "a steel broadsword",
-      "short": null,
-      "tap": null,
+      "short": "a broadsword",
+      "tap": "a steel broadsword",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 120000,
       "price": "12 platinum Dokoras",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see the initials \"S. L.\" impressed into the surface of the metal.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Shard",
