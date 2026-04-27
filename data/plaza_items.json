@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T14:25:45Z",
+  "updated_at": "2026-04-27T14:26:02Z",
   "item_count": 2645,
   "items": [
     {
@@ -13689,12 +13689,12 @@
       "owner": "Zowpurr",
       "hours": "8am and 2am",
       "name": "a Drogor's Wrath sapphire",
-      "short": null,
+      "short": "a Drogor's Wrath sapphire",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 5000000,
       "price": "500 platinum Kronars",
-      "description": "",
+      "description": "The dark cobalt of the ocean on a moonless night, paler striations within this murky gem resemble whitecaps of a storm-wracked sea.",
       "last_seen": "2026-04-27"
     },
     {
@@ -13812,8 +13812,8 @@
       "short": "a leather war belt",
       "tap": "a rough leather war belt with a razaksel-crow's head belt buckle",
       "worn": "Belt-worn.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
+      "cost_copper": 7500000,
+      "price": "750 platinum Kronars",
       "description": "Light brown metal forms a crow's head shaped buckle, with detailed feathers and striking black eyes.",
       "last_seen": "2026-04-27"
     },
