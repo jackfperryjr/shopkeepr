@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T18:22:10Z",
+  "updated_at": "2026-04-27T18:22:40Z",
   "item_count": 2825,
   "items": [
     {
@@ -24195,7 +24195,7 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Lirums",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24210,7 +24210,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "Steel and acenite have been worked into a swirling design on the surface of the sturdy shield.  Judicious use of engraving enhances the circular patterns worked into the metal.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24219,13 +24219,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a coarse onyx-hide cowl with fitted seams",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a coarse cowl",
+      "tap": "a coarse onyx-hide cowl with fitted seams",
+      "worn": "Helm-worn.",
+      "cost_copper": 400000,
       "price": "40 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24234,13 +24234,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a collection of ivory bones",
-      "short": null,
+      "short": "a collection of ivory bones",
       "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "worn": "Placed in hair.",
+      "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Close inspection reveals the collection is composed of pieces gathered from a variety of small animals, including birds, rats, and foxes.  Tiny blood ruby skulls are scattered down the silver chains connecting each body part, drawing the eye away from the obscure symbols etched into the surface of each bone.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24255,7 +24255,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "The sleek, sinuous fabric holds a soft sheen that is known for its remarkable resistance to staining.  Pale swans are shadow-stitched in ivory threads across the surface of the small container, neatly concealing the small release catch barely visible on one side of the purse.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24270,7 +24270,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Lirums",
       "description": "Small silver snowflakes have been carefully embroidered along the collar and wrists of this snug coat.  The interior has been lined with additional fur, wrapping around the wrists and hem.  A row of large silver buttons holds the front of the coat closed.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24279,13 +24279,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a dusk spinel ring wrapped in a web of tomiek filaments",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a dusk spinel ring",
+      "tap": "a dusk spinel ring wrapped in a web of tomiek filaments",
+      "worn": "Ring-worn.",
+      "cost_copper": 200000,
       "price": "20 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "A thin band of dark metal supports a latticework of gossamer-thin filaments stretched in irregular angles.  At its center rests a polished gem displaying shades of deep twilight.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24300,7 +24300,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Lirums",
       "description": "Regions of flame red, ice blue, electric yellow, earthy dark brown, cloudy white and aetherial purple decorate the various sections of the pouch.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24309,13 +24309,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a fringed leather purse strung with skull-shaped bone beads",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a fringed leather purse",
+      "tap": "a fringed leather purse strung with skull-shaped bone beads",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 250000,
       "price": "25 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24330,7 +24330,7 @@
       "cost_copper": 210007,
       "price": "21 platinum Lirums",
       "description": "The gwethdesuan is a fine silver chain meant to be worn on the head, with a pair of tiny stone stones in star-shaped settings which rest over the temples, magnifying one's thoughts.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24345,7 +24345,7 @@
       "cost_copper": 350000,
       "price": "35 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24354,13 +24354,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a lumium sallet crafted from tempered plates",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a sallet",
+      "tap": "a lumium sallet crafted from tempered plates",
+      "worn": "Helm-worn.",
+      "cost_copper": 750000,
       "price": "75 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24369,13 +24369,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a mess of dead darkspine leaves",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a mess of darkspine leaves",
+      "tap": "a mess of dead darkspine leaves",
+      "worn": "Placed in hair.",
+      "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Dry and brittle, the sharp, jutting spine-like leaves are heaped together into a tangled clump of debris.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24390,7 +24390,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Lirums",
       "description": "Marks are gouged into the surface of the ashen grey bone to intersect with its network of red snaking lines.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24399,13 +24399,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a nightsilk brocade kimono with a pale moonsilk under-robe",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a nightsilk kimono",
+      "tap": "a nightsilk brocade kimono with a pale moonsilk under-robe",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 1500000,
       "price": "150 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Heavy folds of inky black brocade shift smoothly over the close-fitting under-robe woven from fluid, Xibar-hued silk.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24414,13 +24414,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a pair of black tactical thigh straps reinforced with thick leather",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a pair of thigh straps",
+      "tap": "a pair of black tactical thigh straps reinforced with thick leather",
+      "worn": "Thigh-worn.",
+      "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Suspended from a thick belt, the straps are designed to attach to the thighs of the wearer.  Sturdy ties on each look ideal for holding a single broadsword or axe.\nIt currently does not have any items tied to it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24429,13 +24429,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a series of discolored bone fragments strung together with rusted wire",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a series of bone fragments",
+      "tap": "a series of discolored bone fragments strung together with rusted wire",
+      "worn": "Placed in hair.",
+      "cost_copper": 500000,
       "price": "50 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Haphazardly bent, oxidized iron wires are threaded through the holes that riddle the chipped pieces of bone.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24444,13 +24444,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a smooth acenite ring shaped like a kraken with knotted tentacles",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a smooth acenite ring",
+      "tap": "a smooth acenite ring shaped like a kraken with knotted tentacles",
+      "worn": "Ring-worn.",
+      "cost_copper": 50000,
       "price": "5 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The squid-like body is meant to perch atop the finger while its eight suckered appendages wrap around.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24465,7 +24465,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Lirums",
       "description": "Crafted with a utilitarian design suitable for handling tools of the trade, the sturdy container shows thick striations resembling reddish-brown mineral deposits in the weave.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24480,7 +24480,7 @@
       "cost_copper": 2500108,
       "price": "250 platinum Lirums",
       "description": "The mottled greyish material creating a dark backdrop to accentuate the iridescent strips forming the reptilian body.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24489,13 +24489,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a tapered steel shovel with a tempered finish",
-      "short": null,
-      "tap": null,
+      "short": "a tapered shovel",
+      "tap": "a tapered steel shovel with a tempered finish",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 200000,
       "price": "20 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24510,7 +24510,7 @@
       "cost_copper": 240000,
       "price": "24 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24519,13 +24519,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a thin cambrinth crown inlaid with strands of puka shells",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a cambrinth crown",
+      "tap": "a thin cambrinth crown inlaid with strands of puka shells",
+      "worn": "Head-worn with armor.",
+      "cost_copper": 250000,
       "price": "25 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The mottled greyish material creates a dark backdrop that accentuates the bright white discs painted with sea-colored streaks.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24540,7 +24540,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "This delicate piece sits at the threshold between tiara and circlet formed from a thin band of metal.  The teardrop crystals are highly faceted to create an effect that mimics light shining through a glass of red wine, while a slight silky luster is visible within each stone.  Each stone is set at even intervals along the dark metal tinged with indigo opalescence.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24549,13 +24549,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a thin mistglass tiara set with small iahja stones",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a thin mistglass tiara",
+      "tap": "a thin mistglass tiara set with small iahja stones",
+      "worn": "Placed in hair.",
+      "cost_copper": 2500000,
       "price": "250 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Simple yet elegant, clean lines of lustrous blue-white peak to surround every one of the rare gems.  The vibrant green with blue and yellow iridescence hue of each stone is enhanced by skilled faceting to bring out subtle variations of each stone.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24564,13 +24564,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "a trio of purple gold anklets threaded with lightning amethysts",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a trio of purple gold anklets",
+      "tap": "a trio of purple gold anklets threaded with lightning amethysts",
+      "worn": "Ankle-worn.",
+      "cost_copper": 250000,
       "price": "25 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Slender strands of varying lengths create a scalloped waterfall design that clings to the ankle when worn.  Tiny bells are interspersed among the rich purple stones, chiming beautifully with every motion.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24579,13 +24579,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "some coarse onyx-hide gloves with fitted seams",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "some coarse gloves",
+      "tap": "some coarse onyx-hide gloves with fitted seams",
+      "worn": "Glove-worn.",
+      "cost_copper": 300000,
       "price": "30 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24600,7 +24600,7 @@
       "cost_copper": 200000,
       "price": "20 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24615,7 +24615,7 @@
       "cost_copper": 200000,
       "price": "20 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24630,7 +24630,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24645,7 +24645,7 @@
       "cost_copper": 4000000,
       "price": "400 platinum Lirums",
       "description": "The lustrous pearls are as white as the snow on a mountain rim.  Winter opals further enhance the color of the perfectly round gems.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24654,13 +24654,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "some iridescent camel filaments strung with green diamond stars",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "some iridescent camel filaments",
+      "tap": "some iridescent camel filaments strung with green diamond stars",
+      "worn": "Generally worn.",
+      "cost_copper": 250000,
       "price": "25 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24669,13 +24669,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "some strands of snow opals",
-      "short": null,
+      "short": "some strands of snow opals",
       "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "worn": "Placed in hair.",
+      "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The polished beads are carved into the shape of icicles and strung on chains of silver.  Tiny grains of quartz speckle the surface of the pure white opals, giving them an ice-covered snowy appearance.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24684,13 +24684,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "some talan pearl earrings carved into a skull and crossbones",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "some talan pearl earrings",
+      "tap": "some talan pearl earrings carved into a skull and crossbones",
+      "worn": "Worn as a pair of earrings.",
+      "cost_copper": 250000,
       "price": "25 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Blood red rubies inlaid within the eyes seem to follow your every movement.  Their color perfectly accents the pearl's rose pink hue, which darkens to crimson in weak light.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24705,7 +24705,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Lirums",
       "description": "The knitting needles are not in the process of knitting any yarn.\nYou see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
@@ -24714,13 +24714,13 @@
       "owner": "Jinzhi",
       "hours": "6pm and 12am",
       "name": "sprigs of Urrem'tier bloodvines mingled with sparkling vermilion garnets",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "sprigs of Urrem'tier bloodvines",
+      "tap": "sprigs of Urrem'tier bloodvines mingled with sparkling vermilion garnets",
+      "worn": "Placed in hair.",
+      "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The dark vines corkscrew in a delicate arrangement that displays their brilliant blood-red blossoms and dark crimson, needle-tipped thorns.  The vibrant petals curl and bend to resemble small arms that appear to grasp at any unsuspecting insect nearby, drawing them into their sticky black cores.  Several glistening vermilion garnets are mingled within the sweet-scented grouping, creating an elegant design fit for any occasion.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Riverhaven",
