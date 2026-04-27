@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T14:18:27Z",
+  "updated_at": "2026-04-27T14:19:28Z",
   "item_count": 2625,
   "items": [
     {
@@ -15510,7 +15510,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Only careful inspection of the deep black stone reveals a glittery golden inclusion at the core.  It looks rather like a goblin with a lolling tongue.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15525,7 +15525,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "Vibrantly colored with a mixture of orange, yellow, and black hues, the surface appears to imitate the striped coloring of a bumblebee.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15540,7 +15540,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Tiny pink hearts are embroidered all over the shirt.\n[You think you can do the following things with the white shirt:\nPULL: roll up the sleeves\nPUSH: roll down the sleeves\nTURN: admire yourself]",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15549,13 +15549,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a blackened verdant heart",
-      "short": "a milky celadon verdant heart",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "Tiny ridges cover the spherical, crystalline surface, giving it a rough texture, but also capturing light to brilliant effect.  Glimmers of verdant light flicker within its core, barely perceptible through the dominant greenish sheen.",
-      "last_seen": "2026-04-26"
+      "short": "a pale lavender gown",
+      "tap": "a pale lavender gown with a cascading train of silken twilight gladioli",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "Preserved petals are dappled along the marquisette illusion neckline as if an unseen breeze scattered them across the wearer's clavicle and decolletage.  Dyed a pale lilac hue, the rosecloth garment features unexpected variations of light and dark across its fit-and-flare silhouette.  Twilight gladioli swirl about the luxuriously full skirt, gradually covering the fabric to create a sweeping train abloom with variegating purple flowers.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15564,13 +15564,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a blackthorn pipe inlaid with ox-blood coral shards",
-      "short": null,
-      "tap": null,
+      "short": "a blackthorn pipe",
+      "tap": "a blackthorn pipe inlaid with ox-blood coral shards",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 300000,
       "price": "30 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Fashioned from dark, finely polished wood, the pipe bears a smooth surface broken only by sharp-edged insets of deep crimson coral.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15585,7 +15585,7 @@
       "cost_copper": 750000,
       "price": "75 platinum Kronars",
       "description": "This small brick of oily paint is crudely formed into a cylinder.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15594,13 +15594,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a braided white gold ring entwining a trillion-cut diamond",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a braided white gold ring",
+      "tap": "a braided white gold ring entwining a trillion-cut diamond",
+      "worn": "Ring-worn.",
+      "cost_copper": 500000,
       "price": "50 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Three slender bands are woven together and set with a gleaming gem.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15609,13 +15609,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a cambrinth savannah bull gazing over tall grass",
-      "short": null,
-      "tap": null,
+      "short": "a cambrinth bull",
+      "tap": "a cambrinth savannah bull gazing over tall grass",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 2250000,
       "price": "225 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Wheat colored tall grass rises halfway up the figurine's height, leaving only the upper portion of the bull's body visible.  The cambrinth is meticulously shaped and painted to create a lifelike replica of the beast.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15624,13 +15624,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a colorful bast kerchief with a design of wading pink flamingos",
-      "short": "a bast kerchief",
-      "tap": "a colorful bast kerchief with a design of wading pink flamingos",
-      "worn": "Neck-worn.",
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "Set against a tropical beach, the brilliantly hued birds stalk through a vivid blue lagoon presided over by a palm-covered mountain.",
-      "last_seen": "2026-04-26"
+      "short": "a cottage-shaped crate",
+      "tap": "a cottage-shaped crate with silken wisteria draping across a pointed roof",
+      "worn": "Thigh-worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "Countless chains of lustrous fabric in every shade of purple adorn this puppy-sized replica of a cozy retreat.  Tiny daubs of paint on the front door imply a muddy pooch was overly eager to return home.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15639,13 +15639,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a cottage-shaped crate with silken wisteria draping across a pointed roof",
-      "short": "a cottage-shaped crate",
-      "tap": "a cottage-shaped crate with silken wisteria draping across a pointed roof",
-      "worn": "Thigh-worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Countless chains of lustrous fabric in every shade of purple adorn this puppy-sized replica of a cozy retreat.  Tiny daubs of paint on the front door imply a muddy pooch was overly eager to return home.",
-      "last_seen": "2026-04-26"
+      "short": "a leather satchel",
+      "tap": "a tooled mahogany leather satchel with gilt buckles",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Kronars",
+      "description": "Worked into the supple leather is a stylized design of peony blossoms against leaves.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15660,7 +15660,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The smoothly tapered gemstone presents a rich red core that deepens toward its center, gradually fading to near transparency along the outer edges.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15669,13 +15669,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a dainty e'erdream crate veiled with pale whisperlayne",
-      "short": "a dainty e'erdream crate",
-      "tap": "a dainty e'erdream crate veiled with pale whisperlayne",
-      "worn": "Thigh-worn.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "The curtaining fabric is so light even the faintest motion or breath stirs it, setting it adrift like a sweet dream in the night.",
-      "last_seen": "2026-04-26"
+      "short": "a soft Katamba-black pouch",
+      "tap": "a soft Katamba-black pouch appliqued with an arch-backed cat silhouette",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "This roomy pouch is comfortably padded and constructed of a loose, but strong, silk mesh that allows air to pass in and out freely.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15684,13 +15684,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a dark grey suede saddle tooled with black unicorns",
-      "short": "a dark grey suede saddle",
-      "tap": "a dark grey suede saddle tooled with black unicorns",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Each horned creature is depicted in a different pose, some rearing, some frozen in mid-gallop.  Bloodmist garnets set into the suede form intense eyes for each beast.",
-      "last_seen": "2026-04-26"
+      "short": "a bast kerchief",
+      "tap": "a colorful bast kerchief with a design of wading pink flamingos",
+      "worn": "Neck-worn.",
+      "cost_copper": 250000,
+      "price": "25 platinum Kronars",
+      "description": "Set against a tropical beach, the brilliantly hued birds stalk through a vivid blue lagoon presided over by a palm-covered mountain.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15699,13 +15699,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a dark stein of chocolate stout",
-      "short": null,
-      "tap": null,
+      "short": "a stein of chocolate stout",
+      "tap": "a dark stein of chocolate stout",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 250000,
       "price": "25 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15720,7 +15720,7 @@
       "cost_copper": 20000000,
       "price": "2,000 platinum Kronars",
       "description": "Resembling the sky's palette at the rising dawn, the stone holds a warm, golden shade at the center which blends outward to rosy pink before transitioning into tendrils of rich azure blue and violet tones at the edges.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15735,7 +15735,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "The deep black metal has a watery iridescence when the light hits it just right.  A gleaming platinum fixture secures the vibrant amethyst stone to the grip-end of the stick.  The spiraled green inclusion within the gem seems to shift and swirl based on the viewing angle.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15750,7 +15750,7 @@
       "cost_copper": 7500000,
       "price": "750 platinum Kronars",
       "description": "Fastidiously crafted, the graceful lines of gleaming metal describe a deluxe home for a dignified canine.  A plump cushion of duchess satin guarantees the utmost comfort.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15759,13 +15759,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a dragon's tail flail with a firestained head of agonite",
-      "short": null,
-      "tap": null,
+      "short": "an agonite dragon's tail flail",
+      "tap": "a dragon's tail flail with a firestained head of agonite",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1250000,
       "price": "125 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "A concave tetrahedron, the ebon-hued head resembles the bony tail of a dragon.  Crimson outlines accentuate the natural flame-like fingers of steely grey that are visible throughout the metal.  A sturdy haft of dragonwood provides a secure grip.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15780,7 +15780,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "The silky fabric is tightly woven with a pattern of interlocking scorpions in tribute to Urrem'tier.  Tiny silver bells and coins scattered over the surface of the skirt chime gently with every motion.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15789,13 +15789,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a ferocious chakrel boar with sharp tusks",
-      "short": "a ferocious chakrel boar",
-      "tap": "a ferocious chakrel boar with sharp tusks",
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "Bound to an agonite chain that can be attached to one's belt, the avatar of Everild charges head down toward an unseen foe.  The carefully shaped reddish-orange stone contains slender black streaks and a perfect white flame-shaped inclusion centered within the carved form.",
-      "last_seen": "2026-04-26"
+      "short": "a leather book cover",
+      "tap": "a soft brown leather book cover splotched with waterstains",
+      "worn": null,
+      "cost_copper": 50000,
+      "price": "5 platinum Kronars",
+      "description": "Small tears and scratches are scattered haphazardly about the book's cover, indicating frequent use.  Judging from the size, you guess this cover would fit a vault book.\nThere seems to be something written on the back side. | On the back side of the book cover there are some instructions.  They read:\nTo use the book cover, simply PUT it on the appropriate book.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15810,7 +15810,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Creating a raised texturized effect, felted green leaves are arranged to overlap the tops of the embroidered strawberries.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15825,7 +15825,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The gleaming dark gold stone displays a refractive black center with subtle striations radiating outward.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15840,7 +15840,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15855,7 +15855,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Peeling and cracked leather, apropos to the donor of the hide, shields the opening of the pack.  Beneath the covering, silky fabric is tightly woven with a pattern of interlocking scorpions in tribute to Urrem'tier.\nIt currently does not have any items tied to it.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15864,13 +15864,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a helei leather weapon harness",
-      "short": "a helei leather weapon harness",
-      "tap": null,
-      "worn": "Shoulder-worn.",
-      "cost_copper": 1500000,
-      "price": "150 platinum Kronars",
-      "description": "Reminiscent of a sheet of natural ice, the glassy material appears rigid yet retains a leathern malleability.  Deep blue ice sapphires, scintillating like rays of sunlight passing through a frozen waterfall, are set into the fastening component of each loop in the harness.",
-      "last_seen": "2026-04-26"
+      "short": "a leather carryall",
+      "tap": "a tooled leather carryall with brass buckles",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Kronars",
+      "description": "Elaborate designs of flowers and vines cover the surface of the container.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15885,7 +15885,7 @@
       "cost_copper": 40000000,
       "price": "4,000 platinum Kronars",
       "description": "A channel running along the blackish blade has been inlaid with silver emitting wavering hues from bright ruby to deep crimson.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15900,7 +15900,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Silky fabric, tightly woven with a pattern of interlocking scorpions in tribute to Urrem'tier and dyed a light shade of grey forms the body of the pouch.  A polished grey metal clasp engraved with a detailed cloven great helm allows the contents to be kept securely inside.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15915,7 +15915,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Sleek black wood that glistens like an oil slick with irregular blotches of dark green and purple marring the surface forms a generous bowl, attached to a long black stem that's joined to the wood with a small ring of dark translucent metal with opaque whorls.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15924,13 +15924,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a lurid green verdant heart",
-      "short": "a milky celadon verdant heart",
+      "short": "a blackened verdant heart",
       "tap": null,
       "worn": null,
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "Tiny ridges cover the spherical, crystalline surface, giving it a rough texture, but also capturing light to brilliant effect.  Glimmers of verdant light flicker within its core, barely perceptible through the dominant greenish sheen.",
-      "last_seen": "2026-04-26"
+      "description": "Tiny ridges cover the spherical, crystalline surface, giving it a rough texture, but also capturing light to brilliant effect.  Glimmers of verdant light flicker within its core, barely perceptible through the dominant blackened sheen.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15939,13 +15939,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a milky celadon verdant heart",
-      "short": "a milky celadon verdant heart",
-      "tap": null,
+      "short": "some ruby drakes",
+      "tap": "some fire whirl ruby drakes",
       "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "Tiny ridges cover the spherical, crystalline surface, giving it a rough texture, but also capturing light to brilliant effect.  Glimmers of verdant light flicker within its core, barely perceptible through the dominant greenish sheen.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15954,13 +15954,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a padded burlap tabard sealed with protective wax",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a padded tabard",
+      "tap": "a padded burlap tabard sealed with protective wax",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 5000000,
       "price": "500 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "You see the initials 'F. U.' impressed into the surface of the fabric.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15969,13 +15969,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a pale lavender gown with a cascading train of silken twilight gladioli",
-      "short": "a pale lavender gown",
-      "tap": "a pale lavender gown with a cascading train of silken twilight gladioli",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "Preserved petals are dappled along the marquisette illusion neckline as if an unseen breeze scattered them across the wearer's clavicle and decolletage.  Dyed a pale lilac hue, the rosecloth garment features unexpected variations of light and dark across its fit-and-flare silhouette.  Twilight gladioli swirl about the luxuriously full skirt, gradually covering the fabric to create a sweeping train abloom with variegating purple flowers.",
-      "last_seen": "2026-04-26"
+      "short": "some purple heels",
+      "tap": "some purple heels with leather soles",
+      "worn": "Foot-worn.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Kronars",
+      "description": "A setback heel runs under the back of the shoes.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15990,7 +15990,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Monkeys jumping through the crowns of the trees are worked in dark brown silk threads.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -15999,13 +15999,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a piece of matte foil",
-      "short": null,
+      "short": "a piece of matte foil",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 50000,
       "price": "5 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The matte foil is pristine.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16014,13 +16014,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a piece of sparkling foil",
-      "short": null,
+      "short": "a piece of matte foil",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 50000,
       "price": "5 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "The matte foil is pristine.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16029,13 +16029,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a plaited strand of vibrant sun's glory blossoms dappled with drops of amber",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "250 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a dainty e'erdream crate",
+      "tap": "a dainty e'erdream crate veiled with pale whisperlayne",
+      "worn": "Thigh-worn.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "The curtaining fabric is so light even the faintest motion or breath stirs it, setting it adrift like a sweet dream in the night.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16050,7 +16050,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16059,13 +16059,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a quilted goldweave doublet lined with midnight-black silk",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a quilted doublet",
+      "tap": "a quilted goldweave doublet lined with midnight-black silk",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 2500000,
       "price": "250 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Slashes on the sleeves and body allow the deep ebony-hued lining to be pulled through in puffy poofs, creating a vivid contrast with the gleaming golden metallic sheen of the garment.  Carved ruby buttons shaped like fireballs run down the front, allowing the garment to be fastened snugly to the wearer.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16074,13 +16074,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a sanguine sanowret crystal set within a tomiek Harawep's Spider",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "2525 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a sanguine sanowret crystal",
+      "tap": "a sanguine sanowret crystal set within a tomiek Harawep's Spider",
+      "worn": "Generally worn.",
+      "cost_copper": 25250000,
+      "price": "2,525 platinum Kronars",
+      "description": "Glowing with a blood-red light, a crystalline dodecahedron serves as the spider's abdomen.  Thin lines of silver enmesh the surface, forming a complex lattice of tessellating polygons.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16089,13 +16089,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a sanowret crystal inset in a fang-shaped brooch",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a sanowret crystal",
+      "tap": "a sanowret crystal inset in a fang-shaped brooch",
+      "worn": "Generally worn.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "The sanowret crystal glows with a soft light and is shaped into a perfect cube.  Thin lines of silver reinforce the crystal in a complex lattice.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16110,7 +16110,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16119,13 +16119,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a small icy-blue book of sigils",
-      "short": "a small icy-blue book",
-      "tap": "a small icy-blue book of sigils",
+      "short": "a milky celadon verdant heart",
+      "tap": null,
       "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "You see nothing unusual. | But you're not holding it.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "Tiny ridges cover the spherical, crystalline surface, giving it a rough texture, but also capturing light to brilliant effect.  Glimmers of verdant light flicker within its core, barely perceptible through the dominant greenish sheen.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16134,13 +16134,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a small leather bag painted with a harvest scene",
-      "short": "a small leather bag",
-      "tap": "a small leather bag painted with a harvest scene",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "Beyond a small brook, a field half-filled with tall corn stalks is otherwise filled with busy farmers, overflowing carts, and stray animals nibbling at the fallen bounty.",
-      "last_seen": "2026-04-26"
+      "short": "a lurid green verdant heart",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "Tiny ridges cover the spherical, crystalline surface, giving it a rough texture, but also capturing light to brilliant effect.  Glimmers of verdant light flicker within its core, barely perceptible through the dominant greenish sheen.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16149,13 +16149,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a soft Katamba-black pouch appliqued with an arch-backed cat silhouette",
-      "short": "a soft Katamba-black pouch",
-      "tap": "a soft Katamba-black pouch appliqued with an arch-backed cat silhouette",
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "This roomy pouch is comfortably padded and constructed of a loose, but strong, silk mesh that allows air to pass in and out freely.",
-      "last_seen": "2026-04-26"
+      "short": "a small leather bag",
+      "tap": "a small leather bag painted with a harvest scene",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 250000,
+      "price": "25 platinum Kronars",
+      "description": "Beyond a small brook, a field half-filled with tall corn stalks is otherwise filled with busy farmers, overflowing carts, and stray animals nibbling at the fallen bounty.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16164,13 +16164,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a soft Yavash-red pouch appliqued with an arch-backed cat silhouette",
-      "short": "a soft Yavash-red pouch",
-      "tap": "a soft Yavash-red pouch appliqued with an arch-backed cat silhouette",
+      "short": "a ferocious chakrel boar",
+      "tap": "a ferocious chakrel boar with sharp tusks",
       "worn": "Worn attached to a belt.",
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "This roomy pouch is comfortably padded and constructed of a loose, but strong, silk mesh that allows air to pass in and out freely.",
-      "last_seen": "2026-04-26"
+      "description": "Bound to an agonite chain that can be attached to one's belt, the avatar of Everild charges head down toward an unseen foe.  The carefully shaped reddish-orange stone contains slender black streaks and a perfect white flame-shaped inclusion centered within the carved form.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16179,13 +16179,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a soft brown leather book cover splotched with waterstains",
-      "short": "a leather book cover",
-      "tap": "a soft brown leather book cover splotched with waterstains",
+      "short": "a white leather bridle",
+      "tap": "a white leather bridle set with a horn on the browband",
       "worn": null,
-      "cost_copper": 50000,
-      "price": "5 platinum Kronars",
-      "description": "Small tears and scratches are scattered haphazardly about the book's cover, indicating frequent use.  Judging from the size, you guess this cover would fit a vault book.\nThere seems to be something written on the back side. | On the back side of the book cover there are some instructions.  They read:\nTo use the book cover, simply PUT it on the appropriate book.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16200,7 +16200,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "A rumpled blanket of jadeleaf cloth the color of ferns under a thick canopy rests within, a perfect nest for a small canine to relax in while still keeping a keen eye on the outside world if necessary.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16209,13 +16209,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a sparkling uthamar earring set with an iceblink peridot raven",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a sparkling uthamar earring",
+      "tap": "a sparkling uthamar earring set with an iceblink peridot raven",
+      "worn": "Worn as a single earring.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "The stone is permeated by reflective crystal veins just beneath the surface.  Its pale celadon color fades into the gleaming starlight-white metal that cradles it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16230,7 +16230,7 @@
       "cost_copper": 2250000,
       "price": "225 platinum Kronars",
       "description": "A zig-zag pattern of thin pale blue lines runs around the thick haft of this steel-headed weapon.  The rich brown shade of the wood contrasts with the almost translucent blue of the inlay.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16245,7 +16245,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Engraved along the slender blade is an abstract pattern of swirls and lines weaving around small animals -- rabbits, squirrels, tortoises and more.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16260,7 +16260,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "Knotted wood forms the business end of this weapon, tapering off on one end that's been layered with strips of brown hide.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16269,13 +16269,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a sturdy belt dangling thirty-nine cambrinth disks",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "7000 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "some polished thin-edged zills",
+      "tap": "some polished thin-edged zills with silvered esoteric filigree",
+      "worn": "Ring-worn.",
+      "cost_copper": 200000,
+      "price": "20 platinum Kronars",
+      "description": "Arranged around the top of each zill is an unbroken circle of winding filigree woven into complex designs.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16284,13 +16284,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a tailored cassock of camlet with embroidered puppies along the hem",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a camlet cassock",
+      "tap": "a tailored cassock of camlet with embroidered puppies along the hem",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 750000,
       "price": "75 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Exquisite handiwork and vibrant red fabric allow the gamboling puppies embroidered along the hem to stand out in vivid detail.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16299,13 +16299,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a thick journal bound in midnight-blue demonscale",
-      "short": null,
-      "tap": null,
+      "short": "a thick journal",
+      "tap": "a thick journal bound in midnight-blue demonscale",
       "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "The thick journal is closed.\nTiny daggers are drawn down the spine of the book in bright silver paint, while a clenched fist decorates the front. | But the thick journal is closed!",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16320,7 +16320,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Formed out of felted wool, this child-size weapon lacks the weight to do any real damage.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16335,7 +16335,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Inlaid in blue gold, spectral flames trail the wing tips, horns, and talons, resembling the oshu'k'et observed by mariners during thunderstorms.  The gloaming depths of each eye are sundered by a golden pupil shaped like a jagged lightning bolt.  A matching chain allows it to be worn.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16350,7 +16350,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The dainty, blue-tinged roses stand out against the dark green silk covering the book. | You should be holding the storage book first.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16359,13 +16359,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a verdigris paintstick",
-      "short": "a verdigris paintstick",
-      "tap": null,
+      "short": "a small icy-blue book",
+      "tap": "a small icy-blue book of sigils",
       "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Kronars",
-      "description": "This oily semi-solid mass of paint is roughly formed into a small brick.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "You see nothing unusual. | But you're not holding it.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16380,7 +16380,7 @@
       "cost_copper": 300000000,
       "price": "30,000 platinum Kronars",
       "description": "The potion is a viscous silver sludge that smells faintly of old S'Kra.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16389,13 +16389,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a waxed canvas backpack",
-      "short": "a waxed canvas backpack",
-      "tap": "a waxed canvas backpack",
-      "worn": "Back-worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Colorfully illustrated with great detail, battling siegery figurines decorate the sturdy fabric.",
-      "last_seen": "2026-04-26"
+      "short": "a turquoise sanowret crystal",
+      "tap": "a turquoise sanowret crystal suspended from a bloodlace ribbon",
+      "worn": "Generally worn.",
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Kronars",
+      "description": "The crystalline icosahedron pulses with a vibrant light.  Thin lines of silver enmesh its surface, forming an organic lattice.  Spun from silken fibers, the sanguine ribbon has an almost translucent quality.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16404,13 +16404,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a white leather bridle set with a horn on the browband",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a dark grey suede saddle",
+      "tap": "a dark grey suede saddle tooled with black unicorns",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 5000000,
       "price": "500 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Each horned creature is depicted in a different pose, some rearing, some frozen in mid-gallop.  Bloodmist garnets set into the suede form intense eyes for each beast.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16419,13 +16419,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a windsteel halberd with a zingana haft",
-      "short": "a windsteel halberd",
-      "tap": "a windsteel halberd with a zingana haft",
+      "short": "an iridescent iniskim prism",
+      "tap": null,
       "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "The dark and light striped wood of the handle contrasts with the whirling designs in the metal.",
-      "last_seen": "2026-04-26"
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "Polished into a precise geometric shape, the prism displays a clear outer surface that reveals vivid, rippling patterns within.  Layers of fossilized shell catch the light in shifting hues, their iridescence reminiscent of overlapping dragon scales.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16434,13 +16434,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "an ebony ledger case set with white topazes and a silver clasp and hinges",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a strand of sun's glory blossoms",
+      "tap": "a plaited strand of vibrant sun's glory blossoms dappled with drops of amber",
+      "worn": "Placed in hair.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Kronars",
+      "description": "Braided by size from large to small, this accessory displays sun's glories collected from different fields to capture a variety of yellow hues.  Dotting their thin, ray-like petals are orbs of fossilized resin, each with sun spangle inclusions that catch and reflect available light to create a shimmering effect around the flat starburst shapes.  Remarkable in their uniqueness, each corolla has a deep, fiery orange center with petals that radiate outward and shift to a vibrant yellow hue.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16455,7 +16455,7 @@
       "cost_copper": 40000000,
       "price": "4,000 platinum Kronars",
       "description": "The crystalline cube emits an energetic light.  Thin lines of silver enmesh its surface, forming a roiling lattice of erratic lines.  Its icesteel chain shimmers with a frosty blue-white sheen, streaked by fiery orange and red stains that flicker along its cold surface, creating a striking contrast.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16470,7 +16470,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "Smoothly finished to highlight the wood's delicate grain, the surface of the bowl resembles wisps of smoke trapped under glass.  The pipe's long stem allows the smoke to cool before inhalation and keeps the user's face farther away from the heat and smoke produced by combustion in the bowl.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16485,7 +16485,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The delicate pink flower is depicted in mid-bloom with partially opened petals.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16494,13 +16494,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "an iridescent iniskim prism",
-      "short": "an iridescent iniskim prism",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Polished into a precise geometric shape, the prism displays a clear outer surface that reveals vivid, rippling patterns within.  Layers of fossilized shell catch the light in shifting hues, their iridescence reminiscent of overlapping dragon scales.",
-      "last_seen": "2026-04-26"
+      "short": "a sturdy belt",
+      "tap": "a sturdy belt dangling thirty-nine cambrinth disks",
+      "worn": "Belt-worn.",
+      "cost_copper": 70000000,
+      "price": "7,000 platinum Kronars",
+      "description": "Each disk is engraved with the image of a divine aspect.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16509,13 +16509,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "an iroko crate shaped like a tree stump sprouted with craggy branches",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1000 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "an iroko crate",
+      "tap": "an iroko crate shaped like a tree stump sprouted with craggy branches",
+      "worn": "Thigh-worn.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "The rich brown wood is cut cylindrically using the natural knotholes to create two roundish windows on either side and an oblong doorway.  Clinging to the crooked limbs are a few autumnal-hued silk leaves, adding a brightness to the otherwise spooky-looking puppy home.  Inside a plush black rug woven with glittering gold strands provides a resting place, while a matching, warm woolen blanket is folded at its center.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16530,7 +16530,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Showing at the neck and cuffs, the pastel hue of the silky under garment complements the brilliant shades of the outer garment.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16545,7 +16545,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16560,7 +16560,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16575,7 +16575,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16584,13 +16584,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "some blunt-tipped arrows with crimson stripes",
-      "short": "some blunt-tipped arrows",
-      "tap": "some blunt-tipped arrows with crimson stripes",
-      "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "short": "a leather portfolio",
+      "tap": "a tooled burgundy leather portfolio with iron buckles",
+      "worn": "Thigh-worn.",
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Kronars",
+      "description": "Depicted on the front is a grinning dragon skull.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16599,13 +16599,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "some blunt-tipped bolts with pitch-black chevrons",
-      "short": "some blunt-tipped bolts",
-      "tap": "some blunt-tipped bolts with pitch-black chevrons",
-      "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-26"
+      "short": "a soft Yavash-red pouch",
+      "tap": "a soft Yavash-red pouch appliqued with an arch-backed cat silhouette",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "This roomy pouch is comfortably padded and constructed of a loose, but strong, silk mesh that allows air to pass in and out freely.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16620,7 +16620,7 @@
       "cost_copper": 9000000,
       "price": "900 platinum Kronars",
       "description": "Deep red stripes traverse across the front and back of the armor in broad diagonal lines.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16635,7 +16635,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Carefully carved lines etch out the distinctive scutes on the shells of the smiling marine reptiles.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16644,13 +16644,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "some polished thin-edged zills with silvered esoteric filigree",
-      "short": "some polished thin-edged zills",
-      "tap": "some polished thin-edged zills with silvered esoteric filigree",
-      "worn": "Ring-worn.",
-      "cost_copper": 200000,
-      "price": "20 platinum Kronars",
-      "description": "Arranged around the top of each zill is an unbroken circle of winding filigree woven into complex designs.",
-      "last_seen": "2026-04-26"
+      "short": "a waxed canvas backpack",
+      "tap": "a waxed canvas backpack",
+      "worn": "Back-worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "Colorfully illustrated with great detail, battling siegery figurines decorate the sturdy fabric.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16659,13 +16659,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "some pristine white armwraps dangling lengths of coiled rope",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "some pristine white armwraps",
+      "tap": "some pristine white armwraps dangling lengths of coiled rope",
+      "worn": "Worn on the upper-arm.",
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "description": "Neatly trimmed strips of fabric with silver and gold hems form the garment.  The coiled ropes vary in length and thickness, and all are in immaculate condition without any signs of fraying.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16674,13 +16674,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "some purple heels with leather soles",
-      "short": "some purple heels",
-      "tap": "some purple heels with leather soles",
-      "worn": "Foot-worn.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Kronars",
-      "description": "A setback heel runs under the back of the shoes.",
-      "last_seen": "2026-04-26"
+      "short": "a camlet cassock",
+      "tap": "a tailored cassock of camlet with embroidered puppies along the hem",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 50000,
+      "price": "5 platinum Kronars",
+      "description": "Exquisite handiwork and vibrant red fabric allow the gamboling puppies embroidered along the hem to stand out in vivid detail.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16695,7 +16695,7 @@
       "cost_copper": 4000000,
       "price": "400 platinum Kronars",
       "description": "Pale metal along each blade rises to the pivot point where graceful mermaids serve as handles.  Each lass embraces air to form finger rings, grasping curved shells that interlock to prevent the blades from crossing too far over each other.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16710,7 +16710,7 @@
       "cost_copper": 4000000,
       "price": "400 platinum Kronars",
       "description": "Mere shadows against the shinier metal, the moons are depicted at full, half, and crescent phases from shoulder to shoulder along the front.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16719,13 +16719,13 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "some strands of Katamba jasper moons",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "500 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-26"
+      "short": "a canvas satchel",
+      "tap": "a crimson canvas satchel with brass buckles",
+      "worn": "Tail-worn.",
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Kronars",
+      "description": "Across the front is an embroidered design of a beehive surrounded with yellow and black bees.",
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
@@ -16740,7 +16740,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The knitting needles are not in the process of knitting any yarn.\nEach needle is capped with a tiny silver ball at the non-sharp end.",
-      "last_seen": "2026-04-26"
+      "last_seen": "2026-04-27"
     },
     {
       "town": "Crossing",
