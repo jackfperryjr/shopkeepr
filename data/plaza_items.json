@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T14:41:10Z",
+  "updated_at": "2026-04-27T14:41:31Z",
   "item_count": 2719,
   "items": [
     {
@@ -25419,12 +25419,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "a farandine hat shaped like a raccoon",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a farandine hat",
+      "tap": "a farandine hat shaped like a raccoon",
+      "worn": "Head-worn with armor.",
+      "cost_copper": 5000000,
       "price": "500 platinum Lirums",
-      "description": "",
+      "description": "Dark threading mottles the textured cloth such that the fabric resembles fur.  Two swirling charoites are sewn below a pair of stiff, triangular ears and serve as the raccoon's eyes.  The sparkle of the gem's violet streaks give the raccoon an almost mischievous intent.",
       "last_seen": "2026-04-27"
     },
     {
@@ -25449,12 +25449,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "a pair of fiery scarlet khaddar pants with black piping on the seams",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a pair of khaddar pants",
+      "tap": "a pair of fiery scarlet khaddar pants with black piping on the seams",
+      "worn": "Pants-worn.",
+      "cost_copper": 4000000,
       "price": "400 platinum Lirums",
-      "description": "",
+      "description": "Slightly nubby and having a fine hand, this lightweight fabric has a pebbled appearance that lends it a rugged, yet formal, quality.",
       "last_seen": "2026-04-27"
     },
     {
@@ -25464,12 +25464,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "a pair of platinum earrings with dangling carved Ilithi emeralds",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a pair of platinum earrings",
+      "tap": "a pair of platinum earrings with dangling carved Ilithi emeralds",
+      "worn": "Worn as a pair of earrings.",
+      "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "",
+      "description": "Each emerald is carved into a miniature toad, complete to bulging eyes.",
       "last_seen": "2026-04-27"
     },
     {
@@ -25479,12 +25479,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "a soulstone-set armband shaped like a weasel protecting an egg",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
+      "short": "a soulstone-set armband",
+      "tap": "a soulstone-set armband shaped like a weasel protecting an egg",
+      "worn": "Worn on the upper-arm.",
+      "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "",
+      "description": "Smooth and slightly oblong, the soulstone is about the size of a woman's fist.  Its glossy surface swirls with patterns of black and white which resemble a churning thunderstorm.",
       "last_seen": "2026-04-27"
     },
     {
@@ -25494,12 +25494,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "a steel akabo with a tempered head",
-      "short": null,
-      "tap": null,
+      "short": "an akabo",
+      "tap": "a steel akabo with a tempered head",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 200000,
       "price": "20 platinum Lirums",
-      "description": "",
+      "description": "You see the initials 'M. T.' impressed into the surface of the metal.",
       "last_seen": "2026-04-27"
     },
     {
@@ -25509,12 +25509,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "a steel cutlass with a tempered blade",
-      "short": null,
-      "tap": null,
+      "short": "a cutlass",
+      "tap": "a steel cutlass with a tempered blade",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 200000,
       "price": "20 platinum Lirums",
-      "description": "",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-27"
     },
     {
@@ -25524,12 +25524,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "a steel greataxe with a tempered blade",
-      "short": null,
-      "tap": null,
+      "short": "a greataxe",
+      "tap": "a steel greataxe with a tempered blade",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 200000,
       "price": "20 platinum Lirums",
-      "description": "",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-27"
     },
     {
@@ -25599,12 +25599,12 @@
       "owner": "Milaar",
       "hours": "12pm and 3am",
       "name": "an unfinished silk haversack",
-      "short": null,
-      "tap": null,
+      "short": "a haversack",
+      "tap": "an unfinished silk haversack",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 200000,
       "price": "20 platinum Lirums",
-      "description": "",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-27"
     },
     {
@@ -25634,7 +25634,7 @@
       "worn": "Worn as arm greaves.",
       "cost_copper": 300000,
       "price": "30 platinum Lirums",
-      "description": "You see nothing unusual.",
+      "description": "You see the initials 'N. F.' impressed into the surface of the metal.",
       "last_seen": "2026-04-27"
     },
     {
@@ -25645,11 +25645,11 @@
       "hours": "12pm and 3am",
       "name": "some steel ring sleeves",
       "short": "some ring sleeves",
-      "tap": "some lumium ring sleeves crafted from tempered links",
+      "tap": "some steel ring sleeves",
       "worn": "Worn as arm greaves.",
-      "cost_copper": 300000,
-      "price": "30 platinum Lirums",
-      "description": "You see nothing unusual.",
+      "cost_copper": 100000,
+      "price": "10 platinum Lirums",
+      "description": "You see the initials 'M. T.' impressed into the surface of the metal.",
       "last_seen": "2026-04-27"
     },
     {
