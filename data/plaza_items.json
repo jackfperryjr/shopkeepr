@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T08:54:05Z",
-  "item_count": 2778,
+  "updated_at": "2026-04-28T08:57:09Z",
+  "item_count": 2774,
   "items": [
     {
       "town": "Crossing",
@@ -38940,66 +38940,6 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Dokoras",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Ravens Repo, South",
-      "owner": "Zayreal",
-      "hours": "8am and 9pm",
-      "name": "a diacan-bladed avia fan dangling sprawled kraken charms",
-      "short": "a diacan-bladed avia fan",
-      "tap": "a diacan-bladed avia fan dangling sprawled kraken charms",
-      "worn": null,
-      "cost_copper": 20000000,
-      "price": "2,000 platinum Dokoras",
-      "description": "The thick fathomless black metal blades are well honed to an iridescent razor-sharp edge.\nThe fan is closed.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Ravens Repo, South",
-      "owner": "Zayreal",
-      "hours": "8am and 9pm",
-      "name": "a farmer's hand sickle composed of iron",
-      "short": "a farmer's hand sickle",
-      "tap": "a farmer's hand sickle composed of iron",
-      "worn": null,
-      "cost_copper": 1500000,
-      "price": "150 platinum Dokoras",
-      "description": "Sharpened along its inside edge, the curved blade is designed for harvesting crops and cutting through hay bales.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Ravens Repo, South",
-      "owner": "Zayreal",
-      "hours": "8am and 9pm",
-      "name": "a tursa military fork",
-      "short": "a tursa military fork",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 2000000,
-      "price": "200 platinum Dokoras",
-      "description": "Similar in nature to a pitchfork, this surprisingly effective weapon features two parallel tines of black metal protruding from a polished shaft of felwood.  An unkindness of ravens carved down the length of purple wood adds a touch of mystery, their obsidian eyes glistening ominously in the light.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Ravens Repo, South",
-      "owner": "Zayreal",
-      "hours": "8am and 9pm",
-      "name": "an animite war hammer with a polished head",
-      "short": "an animite war hammer",
-      "tap": "an animite war hammer with a polished head",
-      "worn": null,
-      "cost_copper": 2000000,
-      "price": "200 platinum Dokoras",
-      "description": "Leather strips are wound around the handle to provide a good grip while wielding this weapon.  The dark metal of the rest of the haft flows into the polished dark silver head.",
       "last_seen": "2026-04-28"
     },
     {
