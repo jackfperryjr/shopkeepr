@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T12:21:14Z",
-  "item_count": 2770,
+  "updated_at": "2026-04-28T12:21:45Z",
+  "item_count": 2766,
   "items": [
     {
       "town": "Crossing",
@@ -27038,51 +27038,6 @@
       "shop": "Khauskho's Wholesale",
       "owner": "Khauskho",
       "hours": "12pm and 3am",
-      "name": "a gold-stippled w scroll labeled with Dinazen Olkar",
-      "short": "a gold-stippled w scroll",
-      "tap": "a gold-stippled w scroll labeled with Dinazen Olkar",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Lirums",
-      "description": "It is labeled \"Dinazen Olkar.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Children's Room",
-      "shop": "Khauskho's Wholesale",
-      "owner": "Khauskho",
-      "hours": "12pm and 3am",
-      "name": "a gold-stippled w scroll labeled with Echoes of Aether",
-      "short": "a gold-stippled w scroll",
-      "tap": "a gold-stippled w scroll labeled with Echoes of Aether",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "It is labeled \"Echoes of Aether.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Children's Room",
-      "shop": "Khauskho's Wholesale",
-      "owner": "Khauskho",
-      "hours": "12pm and 3am",
-      "name": "a gold-stippled w scroll labeled with Forestwalker's Boon",
-      "short": "a gold-stippled w scroll",
-      "tap": "a gold-stippled w scroll labeled with Forestwalker's Boon",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "It is labeled \"Forestwalker's Boon.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Children's Room",
-      "shop": "Khauskho's Wholesale",
-      "owner": "Khauskho",
-      "hours": "12pm and 3am",
       "name": "a gold-stippled w scroll labeled with Petrifying Visions",
       "short": "a gold-stippled w scroll",
       "tap": "a gold-stippled w scroll labeled with Petrifying Visions",
@@ -27105,21 +27060,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Thunderclap.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Children's Room",
-      "shop": "Khauskho's Wholesale",
-      "owner": "Khauskho",
-      "hours": "12pm and 3am",
-      "name": "a gold-stippled w scroll labeled with Visions of Darkness",
-      "short": "a gold-stippled w scroll",
-      "tap": "a gold-stippled w scroll labeled with Visions of Darkness",
-      "worn": null,
-      "cost_copper": 150000,
-      "price": "15 platinum Lirums",
-      "description": "It is labeled \"Visions of Darkness.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-28"
     },
     {
