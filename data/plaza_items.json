@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T19:35:13Z",
-  "item_count": 2813,
+  "updated_at": "2026-04-27T19:35:39Z",
+  "item_count": 2812,
   "items": [
     {
       "town": "Crossing",
@@ -29370,21 +29370,6 @@
       "cost_copper": 200000000,
       "price": "20,000 platinum Lirums",
       "description": "Expertly draped so as to produce seemingly endless, rippling folds that mimic the undulating patterns in the sheen of the fabric itself, the layers of fabric are substantial, though not bulky.  Duskbloom sapphires adorn the hems and hood, their hues matching that of the gloaming.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Tower Room",
-      "shop": "Organized Chaos",
-      "owner": "Tranon",
-      "hours": "2pm and 2am",
-      "name": "some serrated khopesh instructions",
-      "short": "some khopesh instructions",
-      "tap": "some serrated khopesh instructions",
-      "worn": null,
-      "cost_copper": 200000000,
-      "price": "20,000 platinum Lirums",
-      "description": "You see nothing unusual. | These instructions appear to be very fragile and will wear out quickly when studied.  They have only 1 uses remaining.\n-=   Instructions for crafting a serrated khopesh    =-\nA serrated khopesh is a craftable item in the Forging society under the Weaponsmithing crafting discipline.  This is considered to be an intricate piece to make, though knowledge of the Basic Bladed Weapon Design technique will be beneficial to the crafter.\nThis item is listed as a \"finished small metal bladed weapon\" ingredient type and is created using a forging hammer, some tongs, some metalworking oil, a grindstone and a metal anvil with forge.  A crafter may also find it helpful to have a shovel and a bellows on hand.\nA list of ingredients is provided:\n(1) refined metal ingot (7 volume)\n(1) finished wooden hilt",
       "last_seen": "2026-04-27"
     },
     {
