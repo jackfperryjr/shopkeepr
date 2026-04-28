@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T03:54:46Z",
-  "item_count": 2772,
+  "updated_at": "2026-04-28T03:57:56Z",
+  "item_count": 2783,
   "items": [
     {
       "town": "Crossing",
@@ -19343,6 +19343,21 @@
       "shop": "Tayria's Trader Tables",
       "owner": "Tayria",
       "hours": "7pm and 5am",
+      "name": "a Dwarven iron pilgrim's badge cradling a dwalgim mountain",
+      "short": "a Dwarven iron pilgrim's badge",
+      "tap": "a Dwarven iron pilgrim's badge cradling a dwalgim mountain",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
       "name": "a banded grass spider with long spinnerets",
       "short": "a banded grass spider",
       "tap": "a banded grass spider with long spinnerets",
@@ -19350,6 +19365,21 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "This customization can be used with any normal knoll type home.\nExample of what this customization could look like...\nA nice knoll with a banded grass spider in a funnel-like web near the door.\n[To use this customization, PUT spider ON {HOME}.]",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
+      "name": "a battered windsteel pilgrim's badge shaped like a Gorbesh warship",
+      "short": "a windsteel pilgrim's badge",
+      "tap": "a battered windsteel pilgrim's badge shaped like a Gorbesh warship",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
       "last_seen": "2026-04-28"
     },
     {
@@ -19440,6 +19470,21 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Winding their way around the upper portion of the diaphanous gown, the criss-crossing ribbons create a fitted bodice that wraps snugly around the wearer's torso.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
+      "name": "a gleaming goldenoak pilgrim's badge",
+      "short": "a goldenoak pilgrim's badge",
+      "tap": "a gleaming goldenoak pilgrim's badge",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
       "last_seen": "2026-04-28"
     },
     {
@@ -19553,6 +19598,21 @@
       "shop": "Tayria's Trader Tables",
       "owner": "Tayria",
       "hours": "7pm and 5am",
+      "name": "a lustrous white ironwood pilgrim's badge",
+      "short": "an ironwood pilgrim's badge",
+      "tap": "a lustrous white ironwood pilgrim's badge",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
       "name": "a medium grip",
       "short": "a medium grip",
       "tap": null,
@@ -19575,6 +19635,51 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Dark brown wood can be seen through a thick layer of dried mud, carved into the shape of a bulging eye with a slender vertical pupil.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
+      "name": "a palladium pilgrim's badge hammered into a Therengian rose",
+      "short": "a palladium pilgrim's badge",
+      "tap": "a palladium pilgrim's badge hammered into a Therengian rose",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
+      "name": "a palladium pilgrim's badge wrought into the scales of justice",
+      "short": "a palladium pilgrim's badge",
+      "tap": "a palladium pilgrim's badge wrought into the scales of justice",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
+      "name": "a pilgrim's badge resembling a goshawk mantling its wings",
+      "short": "a pilgrim's badge",
+      "tap": "a pilgrim's badge resembling a goshawk mantling its wings",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
       "last_seen": "2026-04-28"
     },
     {
@@ -19643,6 +19748,21 @@
       "shop": "Tayria's Trader Tables",
       "owner": "Tayria",
       "hours": "7pm and 5am",
+      "name": "a selatila pilgrim's badge inlaid with an archipelago of Reshalian tourmalines",
+      "short": "a selatila pilgrim's badge",
+      "tap": "a selatila pilgrim's badge inlaid with an archipelago of Reshalian tourmalines",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
       "name": "a silvered scroll labeled with Absolution",
       "short": "a crumpled scroll",
       "tap": "a crumpled scroll labeled with Harm Evil",
@@ -19650,6 +19770,21 @@
       "cost_copper": 7000000,
       "price": "700 platinum Kronars",
       "description": "It is labeled \"Harm Evil.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
+      "name": "a silversteel pilgrim's badge shaped like a Zoluren gladiolus",
+      "short": "a silversteel pilgrim's badge",
+      "tap": "a silversteel pilgrim's badge shaped like a Zoluren gladiolus",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
       "last_seen": "2026-04-28"
     },
     {
@@ -19725,6 +19860,21 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
+      "name": "an Elven silver pilgrim's badge formed into a tower beneath an Ilithi emerald",
+      "short": "an Elven silver pilgrim's badge",
+      "tap": "an Elven silver pilgrim's badge formed into a tower beneath an Ilithi emerald",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
       "last_seen": "2026-04-28"
     },
     {
@@ -20010,6 +20160,21 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tasting Room",
+      "shop": "Tayria's Trader Tables",
+      "owner": "Tayria",
+      "hours": "7pm and 5am",
+      "name": "an unsullied gold pilgrim's badge forged into an Imperial star",
+      "short": "a gold pilgrim's badge",
+      "tap": "an unsullied gold pilgrim's badge forged into an Imperial star",
+      "worn": "Generally worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
       "last_seen": "2026-04-28"
     },
     {
