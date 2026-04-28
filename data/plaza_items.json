@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T14:19:21Z",
-  "item_count": 3423,
+  "updated_at": "2026-04-28T14:19:47Z",
+  "item_count": 3422,
   "items": [
     {
       "town": "Crossing",
@@ -14010,21 +14010,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Instinct.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Lodge Room",
-      "shop": "KLS Metalwork And Leather Goods",
-      "owner": "Karvonen",
-      "hours": "10am and 4pm",
-      "name": "a bone-hued scroll labeled with Iridius Rod",
-      "short": "a bone-hued scroll",
-      "tap": "a bone-hued scroll labeled with Iridius Rod",
-      "worn": null,
-      "cost_copper": 200000,
-      "price": "20 platinum Kronars",
-      "description": "It is labeled \"Iridius Rod.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-28"
     },
     {
