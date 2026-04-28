@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T14:51:49Z",
-  "item_count": 3704,
+  "updated_at": "2026-04-28T14:52:27Z",
+  "item_count": 3703,
   "items": [
     {
       "town": "Crossing",
@@ -40620,21 +40620,6 @@
       "cost_copper": 80000000,
       "price": "8,000 platinum Lirums",
       "description": "Panels of creamy ivory fabric are fashioned into a lightweight tailored jacket secured with a row of alabaster fire opals gleaming with hints of fiery red and orange.  Spun platinum threads are woven with firestorm fibers to create the luxuriously rich and heavy fabric.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "The Shieldery",
-      "shop": "Kerpal's Mart Of Marvels",
-      "owner": "Kerpal",
-      "hours": "9am and 1am",
-      "name": "a large tome protected by a cover of fine seal pelt",
-      "short": "a large tome",
-      "tap": "a large tome protected by a cover of fine seal pelt",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "Bound with a spine of reinforced damask, the aged book is secured by a palladium lock bearing the crest of Leth Deriel.",
       "last_seen": "2026-04-28"
     },
     {
