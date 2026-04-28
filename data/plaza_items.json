@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T08:02:45Z",
+  "updated_at": "2026-04-28T08:03:15Z",
   "item_count": 2802,
   "items": [
     {
@@ -17544,13 +17544,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a blushing bride doll carrying a bouquet of pale pink silk roses",
-      "short": null,
-      "tap": null,
+      "short": "a sullen bridesmaid doll",
+      "tap": "a sullen bridesmaid doll in a frilly orange dress",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "Arms crossed in front of her chest and her delicate face detailed with a sulky expression, the slender doll looks anything but happy.  She wears a full gown of bright orange silk trimmed with white lace and tiny red slippers studded with orange beads.  Her hair has been braided into an elaborate coronet supporting a circlet of bright orange tiger lilies that contrast sharply with her silky red hair.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17559,13 +17559,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sleeping Dwarven baby doll wrapped in a plush wool blanket",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "short": "an ugly grey sack",
+      "tap": "an ugly grey sack",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 2000000,
+      "price": "200 platinum Kronars",
+      "description": "The sack is made of skin from a lot of dead rats.  Rat claws and tails protrude from the sack in various places.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17574,13 +17574,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sleeping Elothean baby doll wrapped in emerald silk blankets",
-      "short": null,
-      "tap": null,
+      "short": "a Dwarven baby doll",
+      "tap": "a sleeping Dwarven baby doll wrapped in a plush wool blanket",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "A faint rose colors the painted porcelain cheeks of the sleeping baby Dwarf.  Fuzzy dark brown hair covers the girl's tiny head, and a fraying wool blanket has been wrapped carefully around the little doll.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17589,13 +17589,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sleeping Elven baby doll wrapped in leaf-green silk blankets",
-      "short": null,
-      "tap": null,
+      "short": "a groom doll",
+      "tap": "a smiling groom doll dressed in a tailored black silk suit",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "Fastened with star-shaped silver buttons, the suit of black silk has been tailored to fit the groom perfectly.  A happy smile graces his handsome face, while he holds a golden wedding ring in his outstretched right hand.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17604,13 +17604,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sleeping Gnome baby doll wrapped in pale yellow wool blankets",
-      "short": null,
-      "tap": null,
+      "short": "a Human baby doll",
+      "tap": "a sleeping Human baby doll wrapped in soft yellow wool blankets",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "Fuzzy golden-brown hair covers the porcelain head of the sleeping Human baby doll.  Delicate eyelashes and a rosy blush are painted on the face, and soft yellow wool blankets have been wrapped carefully around the little doll.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17619,13 +17619,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sleeping Gor'Tog baby doll wrapped in cream wool blankets",
-      "short": null,
+      "short": "a tiny silk-winged fae",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
-      "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "cost_copper": 500000,
+      "price": "50 platinum Kronars",
+      "description": "Intricate silver patterns spiral around the edges of the tiny fae's golden wings.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17634,13 +17634,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sleeping Halfling baby doll wrapped in jam-stained wool blankets",
-      "short": null,
-      "tap": null,
+      "short": "a Gnome baby doll",
+      "tap": "a sleeping Gnome baby doll wrapped in pale yellow wool blankets",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "The pink face of a Gnome baby doll has its eyes closed in deep slumber, and wisps of pale blonde fuzz cover the doll's little head.  One hand lies outside the yellow wool blankets, holding a wooden rattle close to the doll's mouth.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17649,13 +17649,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sleeping Human baby doll wrapped in soft yellow wool blankets",
-      "short": null,
-      "tap": null,
+      "short": "a sleeping Rakash baby doll",
+      "tap": "a sleeping Rakash baby doll wrapped in pale blue wool blankets",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "Closely swaddled in pale blue wool blankets, the doll clutches his curving tail in his tiny fists as he sleeps.  Patchy brown fur covers his head and snout, and his ears are pricked alertly even in his slumber.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17664,13 +17664,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sleeping Rakash baby doll wrapped in pale blue wool blankets",
-      "short": null,
-      "tap": null,
+      "short": "a sleeping Elven baby doll",
+      "tap": "a sleeping Elven baby doll wrapped in leaf-green silk blankets",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "The infant's porcelain eyes are almost all the way closed, revealing only a small hint of green.  Wispy tufts of silver-gilt hair cover the doll's tiny head, and slightly pointed ears sweep up beside his rosy cheeks.  Wrapped in a leaf-green silk blanket, he clutches a sturdy toy bow marred by what looks like teeth marks at one end.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17679,13 +17679,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sleeping S'Kra Mur baby doll wrapped in pale green wool blankets",
-      "short": null,
-      "tap": null,
+      "short": "a sleeping Elothean baby doll",
+      "tap": "a sleeping Elothean baby doll wrapped in emerald silk blankets",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "The baby doll, a sleeping Elothean girl, has fuzzy red hair covering the back of her tiny head.  One porcelain hand clutches a stuffed grey mouse, its fur worn in places as if it had been gnawed by infant teeth.  Soft emerald silk blankets swaddle the doll snugly.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17694,13 +17694,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a smiling groom doll dressed in a tailored black silk suit",
-      "short": null,
-      "tap": null,
+      "short": "a bride doll",
+      "tap": "a blushing bride doll carrying a bouquet of pale pink silk roses",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "Her cheeks stained with a faint blush, the bride wears a serenely happy smile as she gazes straight ahead.  Pale blue silk ribbons wrap tightly around the stems of her coral-pink roses, cascading gracefully down the front of her ivory silk gown.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17715,7 +17715,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17724,13 +17724,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a sullen bridesmaid doll in a frilly orange dress",
-      "short": null,
-      "tap": null,
+      "short": "a S'Kra Mur baby doll",
+      "tap": "a sleeping S'Kra Mur baby doll wrapped in pale green wool blankets",
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
-      "last_seen": "2026-04-27"
+      "description": "The infant S'Kra Mur boy's porcelain eyes are closed in sleep.  Iridescent blue-green scales cover the doll's tiny head, and the nostrils at the end of his short snout flare as if he was breathing.  Wrapped in a pale green wool blanket, he clutches a wooden teething ring dimpled with tiny bite marks.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17739,13 +17739,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "a tiny silk-winged fae",
-      "short": "a tiny silk-winged fae",
-      "tap": null,
+      "short": "a bright cambrinth gooseberry",
+      "tap": "a cambrinth gooseberry striated with bright green strips of jade",
       "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Kronars",
-      "description": "Intricate silver patterns spiral around the edges of the tiny fae's golden wings.",
-      "last_seen": "2026-04-27"
+      "cost_copper": 25000,
+      "price": "2 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -17754,13 +17754,13 @@
       "owner": "Rhudee",
       "hours": "9am and 12pm",
       "name": "an ugly grey sack",
-      "short": "an ugly grey sack",
-      "tap": "an ugly grey sack",
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 2000000,
-      "price": "200 platinum Kronars",
-      "description": "The sack is made of skin from a lot of dead rats.  Rat claws and tails protrude from the sack in various places.",
-      "last_seen": "2026-04-27"
+      "short": "a sleeping Gor'Tog baby doll",
+      "tap": "a sleeping Gor'Tog baby doll wrapped in cream wool blankets",
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "Wrapped in cream wool blankets, a Gor'Tog baby doll with porcelain features has its eyes closed in sleep.  The little bald head is touched with subtle tints of green around the eyes and cheeks.  The doll holds an even smaller Gor'Tog baby clutched tight in one hand.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
