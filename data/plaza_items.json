@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T17:04:41Z",
-  "item_count": 4067,
+  "updated_at": "2026-04-28T17:05:03Z",
+  "item_count": 4068,
   "items": [
     {
       "town": "Crossing",
@@ -33420,6 +33420,21 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "The dark vines corkscrew in a delicate arrangement that displays their brilliant blood-red blossoms and dark crimson, needle-tipped thorns.  The vibrant petals curl and bend to resemble small arms that appear to grasp at any unsuspecting insect nearby, drawing them into their sticky black cores.  Several glistening vermilion garnets are mingled within the sweet-scented grouping, creating an elegant design fit for any occasion.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Palm Room",
+      "shop": "Subi's Stuff",
+      "owner": "Subiboshi",
+      "hours": "6pm and 11pm",
+      "name": "an albredine crystal ring",
+      "short": "an albredine crystal ring",
+      "tap": null,
+      "worn": "Ring-worn.",
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
+      "description": "It is a plain, unremarkable gold ring, save for the small but fascinating albredine crystal set in it.",
       "last_seen": "2026-04-28"
     },
     {
