@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T16:42:42Z",
-  "item_count": 3988,
+  "updated_at": "2026-04-28T16:43:45Z",
+  "item_count": 3987,
   "items": [
     {
       "town": "Crossing",
@@ -5685,21 +5685,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The twists of white gold appear suitable for placing lockpicks upon it.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Fire Room",
-      "shop": "Banisad's Quest N Fest Rares",
-      "owner": "Banisad",
-      "hours": "1pm and 10pm",
-      "name": "a glittery-pink scroll labeled with Aura Sight",
-      "short": "a glittery-pink scroll",
-      "tap": "a glittery-pink scroll labeled with Aura Sight",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "It is labeled \"Aura Sight.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-28"
     },
     {
