@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T07:46:13Z",
-  "item_count": 2787,
+  "updated_at": "2026-04-28T07:49:00Z",
+  "item_count": 2786,
   "items": [
     {
       "town": "Crossing",
@@ -33564,12 +33564,12 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a watered steel cutlass with a sailcloth-wrapped grip",
-      "short": "a periwinkle titanese shirt",
-      "tap": "a bright periwinkle titanese shirt buttoned with tiger lily carnelians",
-      "worn": "Shirt-worn, but not with armor.",
-      "cost_copper": 17000000,
-      "price": "1,700 platinum Lirums",
-      "description": "The dark orange gems pop against the fabric's blue-tinged purple hue.",
+      "short": "an ivory featherlette kimono",
+      "tap": "an ivory featherlette kimono beaded with tiny tidal bloodstone fragments",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 2200000,
+      "price": "220 platinum Lirums",
+      "description": "Showing at the neck and cuffs, the deep blue cotton of the under garment contrasts with the pale ivory hue of the outer garment.",
       "last_seen": "2026-04-28"
     },
     {
@@ -33735,21 +33735,6 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "Smoky blue cords lace down the front of the garment, drawing it snug around the torso when worn.  The frost opals are carved in the shapes of icicles and sprinkled along the garment's sweetheart neckline, their milky white surfaces glimmering with icy bursts of blue and green when struck by the light.\nThe barest hint of a blue-white shimmer appears across the surface of the leather.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Storage Area",
-      "shop": "Tears Of The World Dragon",
-      "owner": "Monne",
-      "hours": "3am and 11pm",
-      "name": "some glaes throwing nightingales",
-      "short": "an ivory featherlette kimono",
-      "tap": "an ivory featherlette kimono beaded with tiny tidal bloodstone fragments",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 2200000,
-      "price": "220 platinum Lirums",
-      "description": "Showing at the neck and cuffs, the deep blue cotton of the under garment contrasts with the pale ivory hue of the outer garment.",
       "last_seen": "2026-04-28"
     },
     {
