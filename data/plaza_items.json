@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T09:08:12Z",
+  "updated_at": "2026-04-28T09:09:17Z",
   "item_count": 2797,
   "items": [
     {
@@ -3150,7 +3150,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The magnificent gem bears a deep orange hue reminiscent of a tropical sunset.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3165,7 +3165,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Only a few brittle strips of cloth and leather hold the assortment of variously sized claws together.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3180,7 +3180,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "The main piece is clearly the frontal portion of a skull, though since it is only partially intact, the race and gender are a complete mystery.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3189,13 +3189,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a bright white notecard with a message that reads: \"Pizzelles and tarts give level 1 RPA when eaten. Pearls and foil are atmos. Lockpick rings are masters. Braziers are enchanted. \"",
-      "short": "a bright white notecard",
-      "tap": "a bright white notecard with a message that reads: \"Pizzelles and tarts give level 1 RPA when eaten. Pearls and foil are atmos. Lockpick rings are masters. Braziers are enchanted. \"",
+      "short": "a pumpkin and apple tart",
+      "tap": "a rosemary-dusted pumpkin and apple tart drizzled with an amber glaze",
       "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Kronars",
-      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-27"
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "Nestled in a delicate, golden crust, the tart's filling swirls together ribbons of spiced pumpkin and tender apple.  Over the surface is a drizzle of warm amber glaze and a scattering of crushed rosemary that lends a savory perfume that mingles with the sweetly baked fruit.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3210,7 +3210,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The exquisite gem sparkles throughout the magnificent radiant cut, refracting tinges of pale green.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3225,7 +3225,7 @@
       "cost_copper": 700000,
       "price": "70 platinum Kronars",
       "description": "The mosaic features hefty telamons, flared stairs, and peacocks all depicted in wild colors.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3240,7 +3240,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "The stampbook is a stampbook holding 20 first class stamps.  First class mail arrives very swiftly, but is expensive.  Intricate artwork decorates each stamp:\nDark chocolate-hued beer fills the interior of the black-limned beer stein.\nYou can PULL the stampbook to produce a foam-topped stein stamp.\nIndividual stamps are single-use -- they're cleared from any packaging once a parcel is picked up.\nFor more in-depth information on the MAIL system, please review MAIL INFO.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3249,13 +3249,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a clay tablet",
-      "short": "a clay tablet",
-      "tap": null,
+      "short": "a bright white notecard",
+      "tap": "a bright white notecard with a message that reads: \"Pizzelles and tarts give level 1 RPA when eaten. Pearls and foil are atmos. Lockpick rings are masters. Braziers are enchanted. \"",
       "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "It is labeled \"Cage of Light.\" | The writing is too small.  You'll have to hold the tablet to read it.",
-      "last_seen": "2026-04-27"
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
+      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3270,7 +3270,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Flawlessly preserved, the rare flower rises vertically from a bed of blood-red satin.  The provocative black blossom features three sharp ruby slivers ascending from its depths, replacing the natural stamens.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3279,13 +3279,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a delicate ivory necklace shaped like a racing unicorn with head thrown back in a triumphant neigh",
-      "short": "an ivory necklace",
-      "tap": "a delicate ivory necklace shaped like a racing unicorn with head thrown back in a triumphant neigh",
-      "worn": "Neck-worn.",
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "short": "a simple niello ring",
+      "tap": null,
+      "worn": "Ring-worn.",
+      "cost_copper": 300000,
+      "price": "30 platinum Kronars",
+      "description": "There is a faint glow about the niello ring.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3294,13 +3294,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a faintly glowing starstone",
-      "short": "a faintly glowing starstone",
+      "short": "a handful of food-encrusted detritus",
       "tap": null,
-      "worn": null,
+      "worn": "Generally worn.",
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
-      "description": "Crystalline inclusions within the nearly black stone gently twinkle as they glow, as if tiny stars against a clear night's sky.",
-      "last_seen": "2026-04-27"
+      "description": "Dried food bits are mixed with chunks of dirty, dusty, matted and stained scraps of grossly unidentifiable things.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3315,7 +3315,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Cage of Light.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3330,7 +3330,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The translucent reddish-orange gem shimmers with fiery hues when struck by the light.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3345,7 +3345,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "The etching of the all-capitalized word \"FEAS\" floats above a Captain's hat in the center of the medal.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3354,13 +3354,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a handful of food-encrusted detritus",
-      "short": "a handful of food-encrusted detritus",
-      "tap": null,
-      "worn": "Generally worn.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "Dried food bits are mixed with chunks of dirty, dusty, matted and stained scraps of grossly unidentifiable things.",
-      "last_seen": "2026-04-27"
+      "short": "a thin teal wand",
+      "tap": "a thin teal wand wrapped with bands of russet-hued smoky diamonds",
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "The glistening gems are set within decorative bands of golden filigree as they encircle the shiny teal wand, its color created from adding crushed gems during the smithing process.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3375,7 +3375,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Polished to a lustrous sheen, the deep emerald green stone is spiderwebbed with hues of pale green.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3390,7 +3390,7 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Kronars",
       "description": "Narrow slits for the eyes and mouth shroud the wearer's features in anonymity.  The neck and shoulders are also covered by the long skirt of the hood.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3405,7 +3405,7 @@
       "cost_copper": 990000,
       "price": "99 platinum Kronars",
       "description": "The wood is pale and has clear, prismatic veins the run the length of the cane.  The oversized wolf's head is carved such that a palm would rest comfortably between the ears.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3420,7 +3420,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Extending from a patinaed gold manacle is a matching length of chain which has been looped around and bolted back to the opposite side of the manacle, forming a makeshift choker.  Securely bound within the manacle is a slender humanoid hand crafted from silver, curled into a fist, the level of detail giving the impression that it once was a real hand.  Curiously, affixed to the ring finger of the hand is a iron signet ring etched with an unknown coat of arms.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3432,10 +3432,10 @@
       "short": "a moldering scroll",
       "tap": null,
       "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "It is labeled \"Crystal Dart.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "cost_copper": 1990000,
+      "price": "199 platinum Kronars",
+      "description": "It is labeled \"Swarm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3450,7 +3450,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "The stampbook is a stampbook holding 20 first class stamps.  First class mail arrives very swiftly, but is expensive.  Intricate artwork decorates each stamp:\nThe black and white puppy has large brown eyes and floppy ears that hang down the sides of its face.\nYou can PULL the stampbook to produce an adorable puppy stamp.\nIndividual stamps are single-use -- they're cleared from any packaging once a parcel is picked up.\nFor more in-depth information on the MAIL system, please review MAIL INFO.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3465,7 +3465,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3480,7 +3480,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "You see nothing unusual. | \"Eternally Grapefruit\"",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3495,7 +3495,7 @@
       "cost_copper": 450000,
       "price": "45 platinum Kronars",
       "description": "It is labeled \"Liturgy.\" | The writing is too small.  You'll have to hold the roll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3510,7 +3510,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "The pear-colored foil is pristine.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3519,13 +3519,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a plain silversteel signet ring slung from a matching chain",
-      "short": "a silversteel signet ring",
-      "tap": "a plain silversteel signet ring slung from a matching chain",
-      "worn": "Neck-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "A fanciful design is marked upon the ring's otherwise flat face.  A flat-linked chain of matching metal is fastened around the ring and allows it to be worn around the neck.\nThe ring is etched with a pudgy mouse hugging a wedge of cheese.",
-      "last_seen": "2026-04-27"
+      "short": "a smooth onyx bolus",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 9990000,
+      "price": "999 platinum Kronars",
+      "description": "It is a lump of unidentifiable, faintly shimmering substance.  Further study could be of use. | There's probably a better method to gain the bolus's knowledge.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3540,7 +3540,7 @@
       "cost_copper": 4000000,
       "price": "400 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3555,7 +3555,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A rod of polished obsidian with soft leather wrappings, the parry stick catches the light with various imperfections and inclusions in the stone.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3570,7 +3570,7 @@
       "cost_copper": 200000,
       "price": "20 platinum Kronars",
       "description": "Pale blue butterflies soar across the purple leather with their wings fully spread.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3579,13 +3579,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a raspberry pizzelle with amaretto glaze",
-      "short": "a raspberry pizzelle",
-      "tap": "a raspberry pizzelle with amaretto glaze",
-      "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "short": "some freshwater pearls",
+      "tap": null,
+      "worn": "Generally worn.",
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Kronars",
+      "description": "Slightly varying in size and shape, the pearls are a silvery white in color.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3600,7 +3600,7 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Kronars",
       "description": "A pale blue-white mistglass egg with a hazy sheen to it is lovingly cradled between the penguin's webbed feet.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3609,13 +3609,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a rosemary-dusted pumpkin and apple tart drizzled with an amber glaze",
-      "short": "a pumpkin and apple tart",
-      "tap": "a rosemary-dusted pumpkin and apple tart drizzled with an amber glaze",
-      "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "Nestled in a delicate, golden crust, the tart's filling swirls together ribbons of spiced pumpkin and tender apple.  Over the surface is a drizzle of warm amber glaze and a scattering of crushed rosemary that lends a savory perfume that mingles with the sweetly baked fruit.",
-      "last_seen": "2026-04-27"
+      "short": "a simple alerce ring",
+      "tap": null,
+      "worn": "Ring-worn.",
+      "cost_copper": 300000,
+      "price": "30 platinum Kronars",
+      "description": "There is a faint glow about the alerce ring.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3630,7 +3630,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The mermaid has long golden hair, and looks slightly green and sickly.  Her hand is covering her mouth and her eyes are opened wide.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3639,13 +3639,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a simple alerce ring",
-      "short": "a simple alerce ring",
+      "short": "a faintly glowing starstone",
       "tap": null,
-      "worn": "Ring-worn.",
-      "cost_copper": 300000,
-      "price": "30 platinum Kronars",
-      "description": "There is a faint glow about the alerce ring.",
-      "last_seen": "2026-04-27"
+      "worn": null,
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "Crystalline inclusions within the nearly black stone gently twinkle as they glow, as if tiny stars against a clear night's sky.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3654,13 +3654,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a simple niello ring",
-      "short": "a simple niello ring",
-      "tap": null,
-      "worn": "Ring-worn.",
-      "cost_copper": 300000,
-      "price": "30 platinum Kronars",
-      "description": "There is a faint glow about the niello ring.",
-      "last_seen": "2026-04-27"
+      "short": "a pumpkin and apple tart",
+      "tap": "a rosemary-dusted pumpkin and apple tart drizzled with an amber glaze",
+      "worn": null,
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "Nestled in a delicate, golden crust, the tart's filling swirls together ribbons of spiced pumpkin and tender apple.  Over the surface is a drizzle of warm amber glaze and a scattering of crushed rosemary that lends a savory perfume that mingles with the sweetly baked fruit.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3675,7 +3675,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3684,13 +3684,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a smooth onyx bolus",
-      "short": "a smooth onyx bolus",
+      "short": "a clay tablet",
       "tap": null,
       "worn": null,
-      "cost_copper": 9990000,
-      "price": "999 platinum Kronars",
-      "description": "It is a lump of unidentifiable, faintly shimmering substance.  Further study could be of use. | There's probably a better method to gain the bolus's knowledge.",
-      "last_seen": "2026-04-27"
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "It is labeled \"Cage of Light.\" | The writing is too small.  You'll have to hold the tablet to read it.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3705,7 +3705,7 @@
       "cost_copper": 750000,
       "price": "75 platinum Kronars",
       "description": "It is labeled \"Aura Sight.\" | The writing is too small.  You'll have to hold the parchment to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3720,7 +3720,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Two small circular crests are centered on each shoulder, worked in glossy silk threads.  Otherwise, the garment is unadorned with any decoration.  The wide sash is of glossy satin which contrasts with the dull matte finish of the cotton fabric.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3735,7 +3735,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The vibrant cabochon is laced with veins of green malachite, giving the gem its brilliant blue-green hue.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3750,7 +3750,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3765,7 +3765,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3774,13 +3774,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a steel greathammer with a dragonwood handle",
-      "short": "a steel greathammer",
-      "tap": "a steel greathammer with a dragonwood handle",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "The head of the weapons is cast in the shape of a dragon's snout.",
-      "last_seen": "2026-04-27"
+      "short": "an ivory necklace",
+      "tap": "a delicate ivory necklace shaped like a racing unicorn with head thrown back in a triumphant neigh",
+      "worn": "Neck-worn.",
+      "cost_copper": 250000,
+      "price": "25 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3795,7 +3795,7 @@
       "cost_copper": 200000,
       "price": "20 platinum Kronars",
       "description": "You see the initials 'G. M.' impressed into the surface of the metal.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3810,7 +3810,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3825,7 +3825,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Bright, iridescent turquoise feathers cover the majority of the bird's small frame.  The wingtips and crown fade to a much darker cobalt blue or even black.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3840,7 +3840,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The rich yellow and orange hues of the gem glisten like the brilliant rays of a summer sun.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3852,10 +3852,10 @@
       "short": "a tattered scroll",
       "tap": null,
       "worn": null,
-      "cost_copper": 1500000,
-      "price": "150 platinum Kronars",
-      "description": "It is labeled \"Forestwalker's Boon.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "cost_copper": 500000,
+      "price": "50 platinum Kronars",
+      "description": "It is labeled \"Iridius Rod.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3864,13 +3864,13 @@
       "owner": "Dokorum",
       "hours": "10am and 11pm",
       "name": "a thin teal wand wrapped with bands of russet-hued smoky diamonds",
-      "short": "a thin teal wand",
-      "tap": "a thin teal wand wrapped with bands of russet-hued smoky diamonds",
+      "short": "a steel greathammer",
+      "tap": "a steel greathammer with a dragonwood handle",
       "worn": null,
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
-      "description": "The glistening gems are set within decorative bands of golden filigree as they encircle the shiny teal wand, its color created from adding crushed gems during the smithing process.",
-      "last_seen": "2026-04-27"
+      "description": "The head of the weapons is cast in the shape of a dragon's snout.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3885,7 +3885,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Kronars",
       "description": "The blue-green stone is exceptionally clear.  Threads of red-gold streak through the gem in a scale-like pattern.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3900,7 +3900,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Kronars",
       "description": "The serpentine design coils along the two curved blades that gracefully arc from the centralized wooden handle.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3915,7 +3915,7 @@
       "cost_copper": 240000,
       "price": "24 platinum Kronars",
       "description": "This customization can be used with any normal door type home.\nExample of what this customization could look like...\nA nice door accented by a wreath of red and orange leaves framing sunflowers and burgundy berries.\n[To use this customization, PUT wreath ON {HOME}.]",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3930,7 +3930,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3942,10 +3942,10 @@
       "short": "a yellowed scroll",
       "tap": null,
       "worn": null,
-      "cost_copper": 2990000,
-      "price": "299 platinum Kronars",
-      "description": "It is labeled \"Protection from Evil.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "It is labeled \"Visage.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3960,7 +3960,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "A single piece of leather has been stitched together to form an air-filled bladder.  The material is soft enough to allow it to bounce, yet firm enough to stop most things from puncturing it.  The spirals are as intricate as a spider's web as they zig and zag across the surface.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3975,7 +3975,7 @@
       "cost_copper": 9990000,
       "price": "999 platinum Kronars",
       "description": "It is a lump of unidentifiable, faintly shimmering substance.  Further study could be of use. | There's probably a better method to gain the bolus's knowledge.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -3990,7 +3990,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "It is labeled \"Echoes of Aether.\" | The writing is too small.  You'll have to hold the ostracon to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -4005,7 +4005,7 @@
       "cost_copper": 2880078,
       "price": "288 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
