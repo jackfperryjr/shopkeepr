@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T20:39:23Z",
-  "item_count": 2818,
+  "updated_at": "2026-04-27T20:40:02Z",
+  "item_count": 2819,
   "items": [
     {
       "town": "Crossing",
@@ -2459,6 +2459,21 @@
       "worn": null,
       "cost_copper": 98989898,
       "price": "9,898 platinum Kronars",
+      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
+      "last_seen": "2026-04-27"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Meeting Room",
+      "shop": "Another Man's Treasure",
+      "owner": "Emirld",
+      "hours": "5pm and 12am",
+      "name": "a bright white notecard with a message that reads: \"lockpick rings: 25 plat = Masters, 35 plat = Grandmasters\"",
+      "short": "a bright white notecard",
+      "tap": "a bright white notecard with a message that reads: \"lockpick rings: 25 plat = Masters, 35 plat = Grandmasters\"",
+      "worn": null,
+      "cost_copper": 999999999,
+      "price": "99,999 platinum Kronars",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
       "last_seen": "2026-04-27"
     },
