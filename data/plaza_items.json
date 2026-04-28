@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T00:04:27Z",
-  "item_count": 2803,
+  "updated_at": "2026-04-28T00:05:35Z",
+  "item_count": 2791,
   "items": [
     {
       "town": "Crossing",
@@ -19350,7 +19350,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19365,7 +19365,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "This customization can be used with any normal knoll type home.\nExample of what this customization could look like...\nA nice knoll with a banded grass spider in a funnel-like web near the door.\n[To use this customization, PUT spider ON {HOME}.]",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19380,7 +19380,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19395,7 +19395,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Light-colored wood with little grain has been skillfully carved into a realistic depiction of a half-opened eye.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19410,22 +19410,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home with a cinereous barn spider hanging in a web attached to the eaves.\n[To use this customization, PUT spider ON {HOME}.]",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a crumpled scroll labeled with Harm Evil",
-      "short": "a inky-black scroll",
-      "tap": "a inky-black scroll labeled with Forestwalker's Boon",
-      "worn": null,
-      "cost_copper": 1500000,
-      "price": "150 platinum Kronars",
-      "description": "It is labeled \"Forestwalker's Boon.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19440,7 +19425,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Mimicking the appearance of long intertwined vines, satin cording serves as a shoulder strap for the floral-themed container.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19455,7 +19440,7 @@
       "cost_copper": 600000,
       "price": "60 platinum Kronars",
       "description": "Concealed in the undergrowth on opposite sides of a forest trail, the two feline creatures are focused upon a caravan traveling in their direction. | \"Treasure Anti-Protection\"",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19470,7 +19455,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Winding their way around the upper portion of the diaphanous gown, the criss-crossing ribbons create a fitted bodice that wraps snugly around the wearer's torso.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19485,22 +19470,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a glittery-pink scroll labeled with Rend",
-      "short": "a rainbow-hued scroll",
-      "tap": "a rainbow-hued scroll labeled with Aethrolysis",
-      "worn": null,
-      "cost_copper": 15000000,
-      "price": "1,500 platinum Kronars",
-      "description": "It is labeled \"Aethrolysis.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19515,7 +19485,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Kronars",
       "description": "Several rough cuts have been made along the side of the dark brown wood.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19530,52 +19500,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The vibrantly colored stones glimmer with orange, yellow, and black hues next to the metallic threads of fine gold woven throughout the opaque fabric.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a inky-black scroll labeled with Forestwalker's Boon",
-      "short": "a rainbow-hued scroll",
-      "tap": "a rainbow-hued scroll labeled with Aethrolysis",
-      "worn": null,
-      "cost_copper": 15000000,
-      "price": "1,500 platinum Kronars",
-      "description": "It is labeled \"Aethrolysis.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a inky-black scroll labeled with Geyser",
-      "short": "a stormy grey scroll",
-      "tap": "a stormy grey scroll labeled with Words of the Wind",
-      "worn": null,
-      "cost_copper": 8000000,
-      "price": "800 platinum Kronars",
-      "description": "It is labeled \"Words of the Wind.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a inky-black scroll labeled with Vigil",
-      "short": "a silvered scroll",
-      "tap": "a silvered scroll labeled with Absolution",
-      "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "It is labeled \"Absolution.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19590,7 +19515,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19605,7 +19530,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19620,7 +19545,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19635,7 +19560,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Dark brown wood can be seen through a thick layer of dried mud, carved into the shape of a bulging eye with a slender vertical pupil.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19650,7 +19575,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19665,7 +19590,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19680,7 +19605,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19695,52 +19620,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Mimicking the appearance of a lightning bolt, a wide silverweave shoulder strap is finished with zigzag edges.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a rainbow-hued scroll labeled with Halt",
-      "short": "a glittery-pink scroll",
-      "tap": "a glittery-pink scroll labeled with Rend",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "It is labeled \"Rend.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a rainbow-hued scroll labeled with Iron Constitution",
-      "short": "a inky-black scroll",
-      "tap": "a inky-black scroll labeled with Vigil",
-      "worn": null,
-      "cost_copper": 1500000,
-      "price": "150 platinum Kronars",
-      "description": "It is labeled \"Vigil.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a rainbow-hued scroll labeled with Raise Power",
-      "short": "a rainbow-hued scroll",
-      "tap": "a rainbow-hued scroll labeled with Raise Power",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "It is labeled \"Raise Power.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19755,22 +19635,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a silvered scroll labeled with Absolution",
-      "short": "a crumpled scroll",
-      "tap": "a crumpled scroll labeled with Harm Evil",
-      "worn": null,
-      "cost_copper": 7000000,
-      "price": "700 platinum Kronars",
-      "description": "It is labeled \"Harm Evil.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19785,7 +19650,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19800,52 +19665,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Kronars",
       "description": "Mottled shades of black mingle with rusty brown patches across the plain surface of the leather.  Dangling off the back, a braid of rat tails in pink, grey, and white adds a note of whimsy to the otherwise mundane armor.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a stormy grey scroll labeled with Compel",
-      "short": "a stormy grey scroll",
-      "tap": "a stormy grey scroll labeled with Compel",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "It is labeled \"Compel.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a stormy grey scroll labeled with Iron Constitution",
-      "short": "a rainbow-hued scroll",
-      "tap": "a rainbow-hued scroll labeled with Iron Constitution",
-      "worn": null,
-      "cost_copper": 8000000,
-      "price": "800 platinum Kronars",
-      "description": "It is labeled \"Iron Constitution.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a stormy grey scroll labeled with Words of the Wind",
-      "short": "a rainbow-hued scroll",
-      "tap": "a rainbow-hued scroll labeled with Halt",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "It is labeled \"Halt.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19860,7 +19680,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19875,7 +19695,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19890,7 +19710,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home with an amber cave spider living underneath the eaves.\n[To use this customization, PUT spider ON {HOME}.]",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19905,7 +19725,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19920,7 +19740,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19935,7 +19755,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19950,7 +19770,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19965,7 +19785,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19980,7 +19800,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -19995,7 +19815,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20010,7 +19830,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20025,7 +19845,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20040,7 +19860,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20055,7 +19875,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20070,7 +19890,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20085,7 +19905,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20100,7 +19920,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20115,7 +19935,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20130,7 +19950,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20145,7 +19965,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20160,7 +19980,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A thin layer of dust blots out the characteristic soft blue hue of the anloral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20175,7 +19995,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20190,7 +20010,7 @@
       "cost_copper": 350000,
       "price": "35 platinum Kronars",
       "description": "You see the initial \"T.\" impressed into the surface of the mark.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20205,7 +20025,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "Designed to end just beneath the knee, the trousers feature a loose fit around the legs for maximum comfort.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -20220,7 +20040,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "Radiating a vibrance that seems ever-bright, this collection of vivid scarlet flora glows like banked embers with a perfect yellow flame at the center of each bloom.  Individually backed with natural adhesive, the fire-roses are designed to be secured to the wearer's figure for dramatic effect.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
