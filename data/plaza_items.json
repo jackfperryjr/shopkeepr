@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T20:28:52Z",
-  "item_count": 2821,
+  "updated_at": "2026-04-27T20:30:01Z",
+  "item_count": 2820,
   "items": [
     {
       "town": "Crossing",
@@ -35114,21 +35114,6 @@
       "worn": "Shirt-worn, but not with armor.",
       "cost_copper": 1750000,
       "price": "175 platinum Dokoras",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Fertin Store",
-      "owner": "Fertin",
-      "hours": "12pm and 8am",
-      "name": "a lumium ring helm",
-      "short": "a ring helm",
-      "tap": "a lumium ring helm",
-      "worn": "Helm-worn.",
-      "cost_copper": 300000,
-      "price": "30 platinum Dokoras",
       "description": "You see nothing unusual.",
       "last_seen": "2026-04-27"
     },
