@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T12:59:28Z",
-  "item_count": 2951,
+  "updated_at": "2026-04-28T12:59:50Z",
+  "item_count": 2955,
   "items": [
     {
       "town": "Crossing",
@@ -19800,6 +19800,66 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Wrapped in cream wool blankets, a Gor'Tog baby doll with porcelain features has its eyes closed in sleep.  The little bald head is touched with subtle tints of green around the eyes and cheeks.  The doll holds an even smaller Gor'Tog baby clutched tight in one hand.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tundra Room",
+      "shop": "Savage Steel Company",
+      "owner": "Vinari",
+      "hours": "12pm and 1am",
+      "name": "a steel awl pike",
+      "short": "an awl pike",
+      "tap": "a steel awl pike",
+      "worn": null,
+      "cost_copper": 2500055,
+      "price": "250 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tundra Room",
+      "shop": "Savage Steel Company",
+      "owner": "Vinari",
+      "hours": "12pm and 1am",
+      "name": "a steel short-hafted halberd",
+      "short": "a short-hafted halberd",
+      "tap": "a steel short-hafted halberd",
+      "worn": null,
+      "cost_copper": 2500033,
+      "price": "250 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tundra Room",
+      "shop": "Savage Steel Company",
+      "owner": "Vinari",
+      "hours": "12pm and 1am",
+      "name": "a steel thin-bladed fan",
+      "short": "a thin-bladed fan",
+      "tap": "a steel thin-bladed fan",
+      "worn": null,
+      "cost_copper": 2000014,
+      "price": "200 platinum Kronars",
+      "description": "The fan is closed.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Tundra Room",
+      "shop": "Savage Steel Company",
+      "owner": "Vinari",
+      "hours": "12pm and 1am",
+      "name": "a steel throwing spike",
+      "short": "a throwing spike",
+      "tap": "a steel throwing spike",
+      "worn": null,
+      "cost_copper": 1000014,
+      "price": "100 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-28"
     },
     {
