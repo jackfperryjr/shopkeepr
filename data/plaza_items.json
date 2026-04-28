@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T19:22:45Z",
-  "item_count": 2814,
+  "updated_at": "2026-04-27T19:23:02Z",
+  "item_count": 2813,
   "items": [
     {
       "town": "Crossing",
@@ -14370,21 +14370,6 @@
       "cost_copper": 16000000,
       "price": "1,600 platinum Kronars",
       "description": "Modest in style, the eolienne garment is tailored with exquisite attention to detail.  Taffelberry fibers spun with silk are knit into tiny hearts and strung together to form a standing collar of lace.  Gently curved in the back, the collar forms a rounded v-shape that lies flat against the torso when worn.  Buttoned with a series of purple-tinged kazenes, heartstring lace veils the gown's sweetheart bodice and forms tapered sleeves before ending at the waist to allow the flared skirt to flow freely.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Stomping Room",
-      "shop": "Muleie's Mercantile",
-      "owner": "Muleie",
-      "hours": "2pm and 5am",
-      "name": "a pair of pearlescent gloves composed of petalette",
-      "short": "a pair of pearlescent gloves",
-      "tap": "a pair of pearlescent gloves composed of petalette",
-      "worn": "Glove-worn.",
-      "cost_copper": 7750000,
-      "price": "775 platinum Kronars",
-      "description": "These long gloves are designed to fashionably veil the arms, their softness and luster like that of exquisite rose petals dipped in crushed pearls.  Whisperlayne-filled cutouts of moonlight gardenias are positioned drifting along the limbs.  Wrist-level openings allow for ease of removal, buttoned with a trio of tiny iahja beads that exhibit a bright spring green hue and a shifting iridescence in shades of celestial blue and sunny yellow.",
       "last_seen": "2026-04-27"
     },
     {
