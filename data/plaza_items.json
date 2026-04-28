@@ -1,37 +1,7 @@
 {
-  "updated_at": "2026-04-28T05:12:53Z",
-  "item_count": 2803,
+  "updated_at": "2026-04-28T05:14:14Z",
+  "item_count": 2794,
   "items": [
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "a bright white notecard with a message that reads: \"Gweths lers twer price num er there num er charge. Copper lockpick rings pirite, zinc master, brass grand master lockpicks in em\"",
-      "short": "a bright white notecard",
-      "tap": "a bright white notecard with a message that reads: \"Gweths lers twer price num er there num er charge. Copper lockpick rings pirite, zinc master, brass grand master lockpicks in em\"",
-      "worn": null,
-      "cost_copper": 276447231,
-      "price": "27,644 platinum Kronars",
-      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "a brown sailcloth odaj",
-      "short": "a brown sailcloth odaj",
-      "tap": null,
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
-    },
     {
       "town": "Crossing",
       "hub_room": "Forest Room",
@@ -45,7 +15,7 @@
       "cost_copper": 92000,
       "price": "9 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -60,7 +30,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -75,7 +45,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -90,7 +60,7 @@
       "cost_copper": 9020,
       "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -105,7 +75,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Divine Guidance.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -120,7 +90,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Innocence.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -135,7 +105,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Paralysis.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -150,7 +120,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "It is labeled \"Platinum Hands of Kertigen.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -165,7 +135,7 @@
       "cost_copper": 500,
       "price": "0 platinum Kronars",
       "description": "It is labeled \"Strange Arrow.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -180,7 +150,7 @@
       "cost_copper": 36800,
       "price": "3 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -195,7 +165,7 @@
       "cost_copper": 5050,
       "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -210,7 +180,7 @@
       "cost_copper": 200000,
       "price": "20 platinum Kronars",
       "description": "Smooth and slightly oblong, the soulstone is about the size of a woman's fist.  Its glossy surface swirls with patterns of black and white which resemble a churning thunderstorm.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -225,7 +195,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -240,7 +210,7 @@
       "cost_copper": 6700,
       "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -255,37 +225,7 @@
       "cost_copper": 1620,
       "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "a long diamondwood cane topped with a carved wolf's head",
-      "short": "a long diamondwood cane",
-      "tap": "a long diamondwood cane topped with a carved wolf's head",
-      "worn": null,
-      "cost_copper": 150000000,
-      "price": "15,000 platinum Kronars",
-      "description": "The wood is pale and has clear, prismatic veins the run the length of the cane.  The oversized wolf's head is carved such that a palm would rest comfortably between the ears.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "a meteoric iron greatsword flickering with a fracture pattern inlay of burning goldfyre",
-      "short": "a meteoric iron greatsword",
-      "tap": "a meteoric iron greatsword flickering with a fracture pattern inlay of burning goldfyre",
-      "worn": null,
-      "cost_copper": 800000000,
-      "price": "80,000 platinum Kronars",
-      "description": "The long, heavy weapon is forged from dense, dark metal featuring a jagged inlay of molten-toned filaments that trace a lava flow-like pattern along the blade.  Energetic pulses in the fiery gold streaks create an illusion of an active inferno beneath the polished edge.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -300,22 +240,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Faces of every kind swirl chaotically across the translucent grey fabric.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "a murder crow puppet",
-      "short": "a murder crow puppet",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 180000,
-      "price": "18 platinum Kronars",
-      "description": "Glossy blue-black feathers cover the bird's small body, while inky black stones glued to its head serve as eyes.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -330,7 +255,7 @@
       "cost_copper": 56820,
       "price": "5 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -345,7 +270,7 @@
       "cost_copper": 1260,
       "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -360,7 +285,7 @@
       "cost_copper": 1000,
       "price": "0 platinum Kronars",
       "description": "The oceanic-blue foil is pristine.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -375,7 +300,7 @@
       "cost_copper": 1000,
       "price": "0 platinum Kronars",
       "description": "The twinkling foil is pristine.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -390,7 +315,7 @@
       "cost_copper": 1000,
       "price": "0 platinum Kronars",
       "description": "The sparkling foil is pristine.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -405,7 +330,7 @@
       "cost_copper": 7000,
       "price": "0 platinum Kronars",
       "description": "The materials used in construction have been carefully selected and uniquely woven to allow for a maximum of elasticity in design.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -420,7 +345,7 @@
       "cost_copper": 160000,
       "price": "16 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -435,22 +360,7 @@
       "cost_copper": 90200,
       "price": "9 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "a rich emerald witchweft cloak fixed with an absinthe emerald teardrop",
-      "short": "a witchweft cloak",
-      "tap": "a rich emerald witchweft cloak fixed with an absinthe emerald teardrop",
-      "worn": "Cloak-worn.",
-      "cost_copper": 1500000000,
-      "price": "150,000 platinum Kronars",
-      "description": "Designed to secure the garment tightly at the wearer's throat, the carefully shaped gem appears like a droplet of poison given its cut and color.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -465,7 +375,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -480,7 +390,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "It is labeled \"Hypnotize.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -495,7 +405,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -510,7 +420,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -525,22 +435,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "a square glass inkpot painted with indigo swirls",
-      "short": "a square glass inkpot",
-      "tap": "a square glass inkpot painted with indigo swirls",
-      "worn": null,
-      "cost_copper": 50000000,
-      "price": "5,000 platinum Kronars",
-      "description": "Indigo ink stains are visible around the top of the small jar.\nYou notice that the inkpot has some paint inside and a tiny instruction booklet inside.  You think you can STUDY it to learn more.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -555,22 +450,7 @@
       "cost_copper": 4050,
       "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "a wide leather Therengian war belt riveted with decorative pewter plates",
-      "short": "a Therengian war belt",
-      "tap": "a wide leather Therengian war belt riveted with decorative pewter plates",
-      "worn": "Belt-worn.",
-      "cost_copper": 100000000,
-      "price": "10,000 platinum Kronars",
-      "description": "The war belt is embellished with thick pewter plates, each cast with a raised seven-pointed star.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -585,22 +465,7 @@
       "cost_copper": 90200,
       "price": "9 platinum Kronars",
       "description": "Adorned with small blood rubies beads carved into tiny phoenixes, the gleaming wires are interlaced to form a wide belt.  Two long bands of woven wires extend from the intricate knot that allows the girdle to be fastened tightly to the wearers hips.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "an azure silk jousting pennant ostentatiously embroidered with a golden shield",
-      "short": "a silk jousting pennant",
-      "tap": "an azure silk jousting pennant ostentatiously embroidered with a golden shield",
-      "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "The fluid cloth is fashioned into a triangular shape and trimmed with knotted gold tassels.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -615,7 +480,7 @@
       "cost_copper": 175000000,
       "price": "17,500 platinum Kronars",
       "description": "Cut with an eye to practicality, the strong lightweight fabric provides an excellent foundation for the garment which is both fashionable and pragmatic.  The full skirt ends at mid-calf allowing the wearer full freedom of movement without sacrificing style.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -630,7 +495,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Starting at a blue so pale it is nearly white at the shoulder, the colors gradually darken and end at a blue-black hue at the bottom hem.  A large silver broodling of wrought gold has been pinned to the obi, binding the knot.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -645,7 +510,7 @@
       "cost_copper": 30000,
       "price": "3 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -660,7 +525,7 @@
       "cost_copper": 24800,
       "price": "2 platinum Kronars",
       "description": "Attached by a bit of chain, the polished stones provide a pop of color.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -675,7 +540,7 @@
       "cost_copper": 4500000,
       "price": "450 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -690,7 +555,7 @@
       "cost_copper": 90000,
       "price": "9 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -705,7 +570,7 @@
       "cost_copper": 92000,
       "price": "9 platinum Kronars",
       "description": "--=== Stone Properties ===--\nQuality:       90 (very high quality)\nHardness:      30 (easy to scratch)\nDurability:    15 (dismal durability)\nWorkability:   60 (rather easy to work with) | A deed for a marble boulder reads:\n\"The bearer of this deed may tap it while inside of a crafting hall to have it traded for the material indicated.  This service is provided within the confines of the Crafting Societies due to the great size and difficulty with moving these materials.\"\nA detailed report of the item's properties are listed on the deed:\n--=== Stone Properties ===--\nQuality:       90 (very high quality)\nHardness:      30 (easy to scratch)\nDurability:    15 (dismal durability)\nWorkability:   60 (rather easy to work with)\nYou think the item is ready for reclaiming in any Society Hall by now.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
@@ -720,7 +585,7 @@
       "cost_copper": 148830,
       "price": "14 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Crossing",
