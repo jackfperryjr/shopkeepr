@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T21:35:19Z",
-  "item_count": 2821,
+  "updated_at": "2026-04-27T21:36:10Z",
+  "item_count": 2820,
   "items": [
     {
       "town": "Crossing",
@@ -3525,21 +3525,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A fanciful design is marked upon the ring's otherwise flat face.  A flat-linked chain of matching metal is fastened around the ring and allows it to be worn around the neck.\nThe ring is etched with a pudgy mouse hugging a wedge of cheese.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Bottle Room",
-      "shop": "BABY. GOT. YAK.",
-      "owner": "Dokorum",
-      "hours": "10am and 11pm",
-      "name": "a polished agonite ceremonial shield embellished with eventide moonstone chips",
-      "short": "a ceremonial shield",
-      "tap": "a polished agonite ceremonial shield embellished with eventide moonstone chips",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 1800000,
-      "price": "180 platinum Kronars",
-      "description": "The round shield is polished to best display the flame-like fingers of steely grey mottling the ebon-hued metal.  A ring of dark grey stones lines the shield's rim, each carved into the shape of a small rat.",
       "last_seen": "2026-04-27"
     },
     {
