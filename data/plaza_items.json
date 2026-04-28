@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T16:22:28Z",
-  "item_count": 3915,
+  "updated_at": "2026-04-28T16:25:29Z",
+  "item_count": 3920,
   "items": [
     {
       "town": "Crossing",
@@ -55148,6 +55148,21 @@
       "shop": "Krazeil's Troop Supply And Arms",
       "owner": "Krazeil",
       "hours": "3pm and 11pm",
+      "name": "a heavy diacan cutlass with a lotusweave-wrapped grip",
+      "short": "a heavy diacan cutlass",
+      "tap": "a heavy diacan cutlass with a lotusweave-wrapped grip",
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Dokoras",
+      "description": "Delicate green gold shimmers against the inky black blade like motes of moonlight penetrating the bayou canopy.  Dyed a lurid green, lotusweave provides a secure grip. | \"Sibo Dernaka\"",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
       "name": "a leathery mask",
       "short": "a leathery mask",
       "tap": null,
@@ -55155,6 +55170,21 @@
       "cost_copper": 4000000,
       "price": "400 platinum Dokoras",
       "description": "A handful of shark-skin scraps are sewn together to form the menacing replica.  The skin appears scarred where the scraps meet, adding to the illusion. | There is nothing written on a leathery mask.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
+      "name": "a mess of dead darkspine leaves",
+      "short": "a mess of darkspine leaves",
+      "tap": "a mess of dead darkspine leaves",
+      "worn": "Placed in hair.",
+      "cost_copper": 4000000,
+      "price": "400 platinum Dokoras",
+      "description": "Dry and brittle, the sharp, jutting spine-like leaves are heaped together into a tangled clump of debris.",
       "last_seen": "2026-04-28"
     },
     {
@@ -55185,6 +55215,21 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "Slightly nubby and having a fine hand, this lightweight fabric has a pebbled appearance that lends it a rugged, yet formal, quality.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
+      "name": "a prismatic stura atulave pilgrim's badge strung from a wildlace ribbon",
+      "short": "a stura atulave pilgrim's badge",
+      "tap": "a prismatic stura atulave pilgrim's badge strung from a wildlace ribbon",
+      "worn": "Generally worn.",
+      "cost_copper": 300000,
+      "price": "30 platinum Dokoras",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
       "last_seen": "2026-04-28"
     },
     {
@@ -55268,6 +55313,21 @@
       "shop": "Krazeil's Troop Supply And Arms",
       "owner": "Krazeil",
       "hours": "3pm and 11pm",
+      "name": "a steel akabo tied with ornamental zibeline tassels",
+      "short": "a steel akabo",
+      "tap": "a steel akabo tied with ornamental zibeline tassels",
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Dokoras",
+      "description": "Dark brown fur-like cords trail from the heavy weapon and inlaid reaver-bone grips cover the haft.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
       "name": "a striking kuwinite-plated dome helm embellished with baroque silverwork",
       "short": "a kuwinite dome helm",
       "tap": "a striking kuwinite-plated dome helm embellished with baroque silverwork",
@@ -55290,6 +55350,21 @@
       "cost_copper": 500000000,
       "price": "50,000 platinum Dokoras",
       "description": "Lustrous cloth is cut to hug the wearer's form, accentuating its curves.  The faint sheen of the fabric's inherent sparkle is accentuated by glossy beadwork tracing a labyrinthine pattern from hip to hem.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
+      "name": "a tyrium Elemental Dragon with eyes of lightning amethyst",
+      "short": "a tyrium Elemental Dragon",
+      "tap": "a tyrium Elemental Dragon with eyes of lightning amethyst",
+      "worn": "Generally worn.",
+      "cost_copper": 20000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "Inlaid in blue gold, spectral flames trail the wing tips, horns, and talons, resembling the oshu'k'et observed by mariners during thunderstorms.  The gloaming depths of each eye are sundered by a golden pupil shaped like a jagged lightning bolt.  A matching chain allows it to be worn.",
       "last_seen": "2026-04-28"
     },
     {
