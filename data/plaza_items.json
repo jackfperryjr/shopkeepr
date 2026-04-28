@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T16:00:33Z",
-  "item_count": 3904,
+  "updated_at": "2026-04-28T16:01:42Z",
+  "item_count": 3903,
   "items": [
     {
       "town": "Crossing",
@@ -33930,21 +33930,6 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Cleverly hidden amid the voluminous pleats designed to flow across the wearer's shoulders and back, a profusion of stylized scorpions are rendered upon the soft inner lining in washes of barely detectable ink stain.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Ocean Room",
-      "shop": "Trindin's Lost And Found",
-      "owner": "Trindin",
-      "hours": "2pm and 12am",
-      "name": "a cambrinth-clasped leather backpack stitched with the crest of the Warrior Mage guild in silver thread",
-      "short": "a leather backpack",
-      "tap": "a cambrinth-clasped leather backpack stitched with the crest of the Warrior Mage guild in silver thread",
-      "worn": "Back-worn.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Kronars",
-      "description": "A wolf's head shrouded in flame over two crossed swords decorates the top flap of the backpack.  Firmly set in the brass clasp, a smooth cambrinth stone provides an attractive yet functional decoration.",
       "last_seen": "2026-04-28"
     },
     {
