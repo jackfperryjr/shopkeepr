@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T09:16:58Z",
-  "item_count": 2784,
+  "updated_at": "2026-04-28T09:17:32Z",
+  "item_count": 2774,
   "items": [
     {
       "town": "Crossing",
@@ -22620,7 +22620,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Lirums",
       "description": "The chimerical creature melds the upper body of a lion to the tail of a dragon.  The sanguine stone's fiery inclusion begins as a small spiral of orange, intensifying to a brilliant gold as it spirals upward through the tail and torso, exploding against the gaping maw as if it were at risk of bursting forth.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22635,7 +22635,7 @@
       "cost_copper": 20000,
       "price": "2 platinum Lirums",
       "description": "The long, solid stick is intricately carved, depicting a vast and enchanting forest.  Each surface tells a story, painted with an array of vibrant leaves that resemble falling confetti atop the scenes.  Closer to the hand-held end, a delicate tree stands proudly, its branches adorned with wild bursts of color.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22650,7 +22650,7 @@
       "cost_copper": 30000,
       "price": "3 platinum Lirums",
       "description": "Fashioned from dark, finely polished wood, the pipe bears a smooth surface broken only by sharp-edged insets of deep crimson coral.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22665,7 +22665,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "This customization can be used with any normal door type home.\nExample of what this customization could look like...\nA nice door adorned with a bloodwood violin-shaped doorbell.\nThis item will function as a bell.\n[To use this customization, PUT doorbell ON {HOME}.]",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22680,7 +22680,7 @@
       "cost_copper": 400000,
       "price": "40 platinum Lirums",
       "description": "The double-barred grip connects to ornately etched side bars that detail small arrangements of Chadatru's avatars mingled with an intertwining vine pattern.  Decorating the ricasso of the tapering undulate blade are golden lion's heads, each beset with eyes of glistening bloodstones.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22695,7 +22695,7 @@
       "cost_copper": 1200000,
       "price": "120 platinum Lirums",
       "description": "Fine silver wire is interwoven with gold strands to create an interlaced design on the hilt of the almost translucent blade.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22710,7 +22710,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "Hammered dark black metal forms a protective disk, embossed with a sharp featured face displaying a pair of oversized spiraling horns.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22725,7 +22725,7 @@
       "cost_copper": 30000,
       "price": "3 platinum Lirums",
       "description": "Poised in a climbing position, this pin has a whimsical quality enhanced by the reflection of the sparkling gemstone eyes.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22740,7 +22740,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "Built for speed, the sighthound's long face, long legs, and deep chest lend it a distinctly equine appearance.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22755,7 +22755,7 @@
       "cost_copper": 5500000,
       "price": "550 platinum Lirums",
       "description": "The leather's tough, shimmering surface reflects light in tiny sparkles, giving the toolbelt an almost gem-like appearance.  Buckles and fastenings of forgeheart iron anchor the belt, their deep reddish-orange tones flecked with chakrel dust, resembling glowing embers in a breeze.\nIt currently does not have any items tied to it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22770,22 +22770,7 @@
       "cost_copper": 800000,
       "price": "80 platinum Lirums",
       "description": "Bright red fabric edging the tabard's hem and sides adds a bright pop of color to the otherwise dark tones of the grey silk.  The small rats are captured in a multitude of shades ranging from brown to black to white and are depicted in a variety of different poses across the front and back of the garment.\nIt looks like it will fit perfectly on anyone.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "a farandine hat shaped like a raccoon",
-      "short": "a farandine hat",
-      "tap": "a farandine hat shaped like a raccoon",
-      "worn": "Head-worn with armor.",
-      "cost_copper": 350000,
-      "price": "35 platinum Lirums",
-      "description": "Dark threading mottles the textured cloth such that the fabric resembles fur.  Two swirling charoites are sewn below a pair of stiff, triangular ears and serve as the raccoon's eyes.  The sparkle of the gem's violet streaks give the raccoon an almost mischievous intent.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22800,7 +22785,7 @@
       "cost_copper": 8000000,
       "price": "800 platinum Lirums",
       "description": "The red grain of this shortbow glimmers with a glossy finish beneath a coat of lacquer, and a dark stain fills the grooves between the engraved dragons.  The dragon's scales wrap neatly around the bow, and their maws are wide open with wisps of smoke extending upwards from each beast.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22815,22 +22800,7 @@
       "cost_copper": 25000000,
       "price": "2,500 platinum Lirums",
       "description": "Though considerably smaller than what might be found in a home, the curious cabinet is still large enough to hold a number of items.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "a forked soapstone stirring rod",
-      "short": "a forked stirring rod",
-      "tap": "a forked soapstone stirring rod",
-      "worn": null,
-      "cost_copper": 250000,
-      "price": "25 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22845,7 +22815,7 @@
       "cost_copper": 4000000,
       "price": "400 platinum Lirums",
       "description": "Vivid purple blossoms are satin-stitched across the soft and supple fabric of the elegantly draped dress robe.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22859,8 +22829,8 @@
       "worn": null,
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "A silver-flecked violet dancerfish browses the bottom of the blown-glass sphere, picking at food caught in the miniature coral reef.",
-      "last_seen": "2026-04-27"
+      "description": "Clear water fills a fragile blown-glass sphere cradled within a twisted blue gold frame, in which swims a gold-flecked green pufferfish.  At the bottom of the tank, wispy tendrils of watergrass provide a frame for a miniature coral reef.",
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22875,7 +22845,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Lirums",
       "description": "The sanguine-tinted glass lens is chipped near one edge of the darkstone-framed, rectangular loupe.  A scratched grommet pierces a protruding fin and is threaded by a crude tin chain that forms a loop, allowing the device to be worn, though several links are broken and likely to fail.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22890,7 +22860,7 @@
       "cost_copper": 200000,
       "price": "20 platinum Lirums",
       "description": "On closer inspection, a smaller sealed vial of orange liquid can be seen floating within the yellow glass lantern.  Within the smaller vial are two small metal pellets.\nYou suspect that the colors will combine and change to the color amber when the lantern is shaken.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22905,22 +22875,7 @@
       "cost_copper": 10000,
       "price": "1 platinum Lirums",
       "description": "The mottled greyish material creates a dark backdrop that accentuates the sleek sea mammel depicted floating on its back with a rock on its stomach.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "a gold-stippled scroll labeled with Horn of the Black Unicorn",
-      "short": "a gold-stippled scroll",
-      "tap": "a gold-stippled scroll labeled with Horn of the Black Unicorn",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Lirums",
-      "description": "It is labeled \"Horn of the Black Unicorn.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22935,22 +22890,7 @@
       "cost_copper": 500,
       "price": "0 platinum Lirums",
       "description": "The back of the brooch is flat and smooth with bold letters stamped just below the stick pin and hook. | \"Smell me!\"",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "a green-edged parchment missing one corner",
-      "short": "a green-edged parchment",
-      "tap": "a green-edged parchment missing one corner",
-      "worn": null,
-      "cost_copper": 10000,
-      "price": "1 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22965,7 +22905,7 @@
       "cost_copper": 4500000,
       "price": "450 platinum Lirums",
       "description": "Each of the jagged metal fins has been set into the wood along one of the dark stripes in the grain of the handle, giving the appearance that the flanges are rising organically from the wood.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -22980,22 +22920,7 @@
       "cost_copper": 220000,
       "price": "22 platinum Lirums",
       "description": "Set within a three-pronged niniam mount, a faint black image of a scorpion can be seen within the translucent opal.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "a jade-hilted dagger dangling a beaded spidersilk thread",
-      "short": "a jade dagger",
-      "tap": "a jade-hilted dagger dangling a beaded spidersilk thread",
-      "worn": null,
-      "cost_copper": 10000,
-      "price": "1 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23010,7 +22935,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
       "description": "The large shield is painted a bright lunar hue to contrast sharply against the form of a winged reptile rendered in dusky metal plates.  Jagged edges along the serpent's sinuous body evoke the fractures of a sundered celestial sphere.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23025,22 +22950,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Lirums",
       "description": "Marks are gouged into the surface of the ashen grey bone to intersect with its network of red snaking lines.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "a pale whitleather gem pouch clasped with an ivory fang",
-      "short": "a whitleather gem pouch",
-      "tap": "a pale whitleather gem pouch clasped with an ivory fang",
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 100000,
-      "price": "10 platinum Lirums",
-      "description": "The gem pouch is made for easy storage of gems, and is used by gemshops everywhere to handle bulk transactions.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23055,7 +22965,7 @@
       "cost_copper": 400000,
       "price": "40 platinum Lirums",
       "description": "The pale metallic symbols shimmer against the strikingly purple wood.  It is currently closed.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23070,7 +22980,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Lirums",
       "description": "The saying \"Home Sweet Home\" encircles a snoozing dragon with tiny birds dancing above its head.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23085,7 +22995,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "With its primary feathers spread to maximize lift, the bird's wooden body incorporates bits of undigested bone.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23100,7 +23010,7 @@
       "cost_copper": 20000,
       "price": "2 platinum Lirums",
       "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home with a planter of geraniums hanging by the door.\n[To use this customization, PUT geraniums ON {HOME}.]",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23115,7 +23025,7 @@
       "cost_copper": 20000,
       "price": "2 platinum Lirums",
       "description": "The brilliant stones of the mosaic form the image of a lone pack animal and trader traveling a dusty road that wends between two hills.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23130,37 +23040,7 @@
       "cost_copper": 20000,
       "price": "2 platinum Lirums",
       "description": "You need be holding that.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "a pudgy-faced frowning Halfling doll wearing a royal blue cloak",
-      "short": "a frowning Halfling doll",
-      "tap": "a pudgy-faced frowning Halfling doll wearing a royal blue cloak",
-      "worn": null,
-      "cost_copper": 50000,
-      "price": "5 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "a rugged silver backpack",
-      "short": "a rugged silver backpack",
-      "tap": null,
-      "worn": "Back-worn.",
-      "cost_copper": 50000,
-      "price": "5 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23175,7 +23055,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23190,7 +23070,7 @@
       "cost_copper": 10000,
       "price": "1 platinum Lirums",
       "description": "The squid-like body is meant to perch atop the finger while its eight suckered appendages wrap around.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23205,7 +23085,7 @@
       "cost_copper": 30000,
       "price": "3 platinum Lirums",
       "description": "Formed of unraveled threads, the costume facial hair is discreetly fitted with adhesive, allowing it to be worn.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23220,22 +23100,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Lirums",
       "description": "Embroidered along the high standing collar is a stylized design of interlocking squares worked in grey silk.  The same motiff is repeated along the cuffs of the gathered sleeves and the hemline of the calf-length skirt.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "a somber gravecloth kimono belted with a swathe of dusky grey nightsilk",
-      "short": "a somber gravecloth kimono",
-      "tap": "a somber gravecloth kimono belted with a swathe of dusky grey nightsilk",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Lirums",
-      "description": "Cut to skim the body, this austere garment features widely folded sleeves and an oversized hood that can be pulled up to shade the features of its owner.  Dyed a deep black hue reminiscent of midnight, the silky fabric's only adornments are the pattern of interlocking scorpions woven throughout its length.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23250,7 +23115,7 @@
       "cost_copper": 25000,
       "price": "2 platinum Lirums",
       "description": "The pale metal wristband is etched with a watery pattern of eddies and waves accented with droplets of deep blue stone.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23265,7 +23130,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Lirums",
       "description": "Formed out of felted wool, this child-size weapon lacks the weight to do any real damage.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23280,7 +23145,7 @@
       "cost_copper": 30000,
       "price": "3 platinum Lirums",
       "description": "Fine lines trace the wings along the smooth surface of the pendant, carving out sharp angles and feathers with a distinctly edged design.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23295,7 +23160,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Lirums",
       "description": "The size and distribution of the spots are not entirely dissimilar from those that might be found on a cow.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23310,7 +23175,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "Adorned with small blackwater jet beads carved into tiny roses, the gleaming wires are interlaced to form a wide belt.  Two long bands of woven wires extend from the intricate knot that allows the girdle to be fastened tightly to the wearer's hips.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23325,22 +23190,7 @@
       "cost_copper": 800000,
       "price": "80 platinum Lirums",
       "description": "The thick white stone wand is spider webbed with veins of deep black, while the intricately etched dragon is inlaid with crushed rubies.  Golden flames extend from the snout of the beast, extending to the solid gold tip.",
-      "last_seen": "2026-04-27"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "an Elven doll with large patches of its grey hair missing",
-      "short": "a balding Elven doll",
-      "tap": "an Elven doll with large patches of its grey hair missing",
-      "worn": null,
-      "cost_copper": 50000,
-      "price": "5 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23355,7 +23205,7 @@
       "cost_copper": 6000000,
       "price": "600 platinum Lirums",
       "description": "Covering the entirety of the weapon's head, remarkable skill is evident in every precise touch of the engraver's craft.  Fluid, wave-like abstractions insinuate themselves among sharply delineated geometric shapes, in a rhythmic unity of patternless harmony and contradiction.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23370,7 +23220,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23385,7 +23235,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Lirums",
       "description": "A medium brown length of smooth wood forms the length of the cane, topped with a detailed kraken, shaped from dark grey metal, complete with long tentacles grasping the cane below.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23400,7 +23250,7 @@
       "cost_copper": 30000,
       "price": "3 platinum Lirums",
       "description": "The back of each hand has been etched with a skull and crossbones.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23415,7 +23265,7 @@
       "cost_copper": 150,
       "price": "0 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
@@ -23430,7 +23280,7 @@
       "cost_copper": 450000,
       "price": "45 platinum Lirums",
       "description": "Working with red coral, the artisan has given the tiny faces a vicious appearance.",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-28"
     },
     {
       "town": "Riverhaven",
