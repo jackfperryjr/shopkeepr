@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T08:43:45Z",
-  "item_count": 2765,
+  "updated_at": "2026-04-28T08:44:13Z",
+  "item_count": 2764,
   "items": [
     {
       "town": "Crossing",
@@ -8130,21 +8130,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "It is labeled \"Anti-Stun.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Lodge Room",
-      "shop": "Dumana's Scrolls",
-      "owner": "Dumana",
-      "hours": "8am and 4am",
-      "name": "a crumpled paper scroll labeled with Rage of the Clans",
-      "short": "a crumpled paper scroll",
-      "tap": "a crumpled paper scroll labeled with Rage of the Clans",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "It is labeled \"Rage of the Clans.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-28"
     },
     {
