@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T20:50:27Z",
-  "item_count": 4142,
+  "updated_at": "2026-04-28T20:51:41Z",
+  "item_count": 4143,
   "items": [
     {
       "town": "Crossing",
@@ -26547,6 +26547,21 @@
       "short": "a cedar ledger case",
       "tap": "a ledger case of aromatic cedar and a brilliant green sapphire set on the front in a golden rosette",
       "worn": "Shoulder-worn.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Savannah Room",
+      "shop": "Perfectly Precise",
+      "owner": "Precise",
+      "hours": "1pm and 11pm",
+      "name": "a long blade",
+      "short": "a long blade",
+      "tap": null,
+      "worn": null,
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
