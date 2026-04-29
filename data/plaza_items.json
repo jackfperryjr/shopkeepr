@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T05:13:06Z",
+  "updated_at": "2026-04-29T05:14:29Z",
   "item_count": 4126,
   "items": [
     {
@@ -195,7 +195,7 @@
       "cost_copper": 276447231,
       "price": "27,644 platinum Kronars",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -210,7 +210,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -219,13 +219,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a buffed leather pouch decorated with a border of stylized shield handles",
-      "short": "some brown-scale leather",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 92000,
-      "price": "9 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "short": "a buffed leather pouch",
+      "tap": "a buffed leather pouch decorated with a border of stylized shield handles",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
+      "description": "You see nothing unusual. | \"Leather Shield Handles from the Crossing Outfitting Society\"",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -240,7 +240,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -255,7 +255,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -264,13 +264,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a cobalt-blue muslin belt",
-      "short": "a light yellow hat",
+      "short": "a cobalt-blue muslin belt",
       "tap": null,
-      "worn": "Head-worn with armor.",
-      "cost_copper": 9020,
-      "price": "0 platinum Kronars",
+      "worn": "Belt-worn.",
+      "cost_copper": 56820,
+      "price": "5 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -285,7 +285,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Divine Guidance.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -300,7 +300,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Innocence.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -315,7 +315,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Paralysis.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -330,7 +330,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "It is labeled \"Platinum Hands of Kertigen.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -339,13 +339,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a crumpled paper scroll labeled with Strange Arrow",
-      "short": "a crumpled paper scroll",
-      "tap": "a crumpled paper scroll labeled with Strange Arrow",
+      "short": "a piece of sparkling foil",
+      "tap": null,
       "worn": null,
-      "cost_copper": 500,
+      "cost_copper": 1000,
       "price": "0 platinum Kronars",
-      "description": "It is labeled \"Strange Arrow.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
+      "description": "The sparkling foil is pristine.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -354,13 +354,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a dull electrum armband",
-      "short": "a dull electrum armband",
+      "short": "a green sailcloth robe",
       "tap": null,
-      "worn": "Worn on the upper-arm.",
-      "cost_copper": 36800,
-      "price": "3 platinum Kronars",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 5050,
+      "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -369,13 +369,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a green sailcloth robe",
-      "short": "a green sailcloth robe",
+      "short": "a pair of brass cufflinks",
       "tap": null,
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 5050,
+      "worn": "Generally worn.",
+      "cost_copper": 6700,
       "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -390,7 +390,7 @@
       "cost_copper": 200000,
       "price": "20 platinum Kronars",
       "description": "Smooth and slightly oblong, the soulstone is about the size of a woman's fist.  Its glossy surface swirls with patterns of black and white which resemble a churning thunderstorm.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -399,13 +399,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a light blue sackcloth scarf",
-      "short": "a light blue sackcloth scarf",
-      "tap": null,
-      "worn": "Neck-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "short": "a woven girdle",
+      "tap": "a woven girdle formed from golden wire",
+      "worn": "Belt-worn.",
+      "cost_copper": 90200,
+      "price": "9 platinum Kronars",
+      "description": "Adorned with small blood rubies beads carved into tiny phoenixes, the gleaming wires are interlaced to form a wide belt.  Two long bands of woven wires extend from the intricate knot that allows the girdle to be fastened tightly to the wearers hips.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -414,13 +414,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a light green oilcloth headband",
-      "short": "a pair of brass cufflinks",
+      "short": "a light green oilcloth headband",
       "tap": null,
-      "worn": "Generally worn.",
-      "cost_copper": 6700,
+      "worn": "Head-worn with armor.",
+      "cost_copper": 1620,
       "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -429,13 +429,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a light yellow hat",
-      "short": "a light green oilcloth headband",
+      "short": "a light yellow hat",
       "tap": null,
       "worn": "Head-worn with armor.",
-      "cost_copper": 1620,
+      "cost_copper": 9020,
       "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -450,7 +450,7 @@
       "cost_copper": 150000000,
       "price": "15,000 platinum Kronars",
       "description": "The wood is pale and has clear, prismatic veins the run the length of the cane.  The oversized wolf's head is carved such that a palm would rest comfortably between the ears.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -465,7 +465,7 @@
       "cost_copper": 800000000,
       "price": "80,000 platinum Kronars",
       "description": "The long, heavy weapon is forged from dense, dark metal featuring a jagged inlay of molten-toned filaments that trace a lava flow-like pattern along the blade.  Energetic pulses in the fiery gold streaks create an illusion of an active inferno beneath the polished edge.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -474,13 +474,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a mistsilk necktie with various faces swirling across its surface",
-      "short": "a mistsilk necktie",
-      "tap": "a mistsilk necktie with various faces swirling across its surface",
-      "worn": "Neck-worn.",
+      "short": "an oceanmist satin kimono",
+      "tap": "an oceanmist satin kimono dyed a variety of blues clasped with a golden broodling",
+      "worn": "Shirt-worn with armor.",
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
-      "description": "Faces of every kind swirl chaotically across the translucent grey fabric.",
-      "last_seen": "2026-04-28"
+      "description": "Starting at a blue so pale it is nearly white at the shoulder, the colors gradually darken and end at a blue-black hue at the bottom hem.  A large silver broodling of wrought gold has been pinned to the obi, binding the knot.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -495,7 +495,7 @@
       "cost_copper": 180000,
       "price": "18 platinum Kronars",
       "description": "Glossy blue-black feathers cover the bird's small body, while inky black stones glued to its head serve as eyes.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -504,13 +504,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a pair of yellow quartz cufflinks shaped like kernels of corn",
-      "short": "a cobalt-blue muslin belt",
-      "tap": null,
-      "worn": "Belt-worn.",
-      "cost_copper": 56820,
-      "price": "5 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "short": "a pair of quartz cufflinks",
+      "tap": "a pair of yellow quartz cufflinks shaped like kernels of corn",
+      "worn": "Generally worn.",
+      "cost_copper": 24800,
+      "price": "2 platinum Kronars",
+      "description": "Attached by a bit of chain, the polished stones provide a pop of color.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -519,13 +519,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a palladium anklet",
-      "short": "some canvas socks",
+      "short": "a palladium anklet",
       "tap": null,
-      "worn": "Generally worn.",
-      "cost_copper": 1260,
-      "price": "0 platinum Kronars",
+      "worn": "Ankle-worn.",
+      "cost_copper": 148830,
+      "price": "14 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -534,13 +534,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a piece of oceanic-blue foil",
-      "short": "a piece of oceanic-blue foil",
+      "short": "a dull electrum armband",
       "tap": null,
-      "worn": "Head-worn with armor.",
-      "cost_copper": 1000,
-      "price": "0 platinum Kronars",
-      "description": "The oceanic-blue foil is pristine.",
-      "last_seen": "2026-04-28"
+      "worn": "Worn on the upper-arm.",
+      "cost_copper": 36800,
+      "price": "3 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -549,13 +549,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a piece of scaled foil",
-      "short": "a piece of twinkling foil",
+      "short": "a piece of scaled foil",
       "tap": null,
       "worn": null,
       "cost_copper": 1000,
       "price": "0 platinum Kronars",
-      "description": "The twinkling foil is pristine.",
-      "last_seen": "2026-04-28"
+      "description": "The scaled foil is pristine.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -564,13 +564,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a piece of sparkling foil",
-      "short": "a piece of sparkling foil",
+      "short": "a piece of oceanic-blue foil",
       "tap": null,
-      "worn": null,
+      "worn": "Head-worn with armor.",
       "cost_copper": 1000,
       "price": "0 platinum Kronars",
-      "description": "The sparkling foil is pristine.",
-      "last_seen": "2026-04-28"
+      "description": "The oceanic-blue foil is pristine.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -579,13 +579,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a piece of twinkling foil",
-      "short": "a braided training cord",
-      "tap": "a vault prowler's braided training cord",
+      "short": "a piece of twinkling foil",
+      "tap": null,
       "worn": null,
-      "cost_copper": 7000,
+      "cost_copper": 1000,
       "price": "0 platinum Kronars",
-      "description": "The materials used in construction have been carefully selected and uniquely woven to allow for a maximum of elasticity in design.",
-      "last_seen": "2026-04-28"
+      "description": "The twinkling foil is pristine.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -594,13 +594,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a platinum-inlaid wood shaper set with a large diamond",
-      "short": "some pivuh-skin leather",
-      "tap": null,
+      "short": "a wood shaper",
+      "tap": "a platinum-inlaid wood shaper set with a large diamond",
       "worn": null,
-      "cost_copper": 160000,
-      "price": "16 platinum Kronars",
+      "cost_copper": 10282800,
+      "price": "1,028 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -609,13 +609,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a red cotton sarong",
-      "short": "a red cotton sarong",
-      "tap": null,
-      "worn": "Shirt-worn, but not with armor.",
-      "cost_copper": 90200,
-      "price": "9 platinum Kronars",
+      "short": "a small featherstone",
+      "tap": "a small featherstone with jagged cracks",
+      "worn": null,
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -630,7 +630,7 @@
       "cost_copper": 1500000000,
       "price": "150,000 platinum Kronars",
       "description": "Designed to secure the garment tightly at the wearer's throat, the carefully shaped gem appears like a droplet of poison given its cut and color.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -639,13 +639,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a shell-pink snakeskin scarf",
-      "short": "a shell-pink snakeskin scarf",
+      "short": "a light blue sackcloth scarf",
       "tap": null,
       "worn": "Neck-worn.",
-      "cost_copper": 1500000,
-      "price": "150 platinum Kronars",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -660,7 +660,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "It is labeled \"Hypnotize.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -669,13 +669,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a small featherstone bound by wire coils",
-      "short": "a small featherstone",
-      "tap": "a small featherstone bound by wire coils",
-      "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Kronars",
+      "short": "a shell-pink snakeskin scarf",
+      "tap": null,
+      "worn": "Neck-worn.",
+      "cost_copper": 1500000,
+      "price": "150 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -684,13 +684,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a small featherstone with jagged cracks",
-      "short": "a small featherstone",
-      "tap": "a small featherstone with jagged cracks",
-      "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "short": "a wool gown",
+      "tap": "a dark brown wool gown with a jewel neckline",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 175000000,
+      "price": "17,500 platinum Kronars",
+      "description": "Cut with an eye to practicality, the strong lightweight fabric provides an excellent foundation for the garment which is both fashionable and pragmatic.  The full skirt ends at mid-calf allowing the wearer full freedom of movement without sacrificing style.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -699,13 +699,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a spiked axe inlaid along the blade with corroded zinc",
-      "short": "a spiked axe",
-      "tap": "a spiked axe inlaid along the blade with corroded zinc",
+      "short": "a small featherstone",
+      "tap": "a small featherstone bound by wire coils",
       "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -720,7 +720,7 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Kronars",
       "description": "Indigo ink stains are visible around the top of the small jar.\nYou notice that the inkpot has some paint inside and a tiny instruction booklet inside.  You think you can STUDY it to learn more.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -729,13 +729,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a vault prowler's braided training cord",
-      "short": "some taffeta trousers",
-      "tap": null,
-      "worn": "Pants-worn.",
-      "cost_copper": 4050,
+      "short": "a braided training cord",
+      "tap": "a vault prowler's braided training cord",
+      "worn": null,
+      "cost_copper": 7000,
       "price": "0 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "description": "The materials used in construction have been carefully selected and uniquely woven to allow for a maximum of elasticity in design.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -750,7 +750,7 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Kronars",
       "description": "The war belt is embellished with thick pewter plates, each cast with a raised seven-pointed star.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -759,13 +759,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "a woven girdle formed from golden wire",
-      "short": "a woven girdle",
-      "tap": "a woven girdle formed from golden wire",
-      "worn": "Belt-worn.",
+      "short": "a red cotton sarong",
+      "tap": null,
+      "worn": "Shirt-worn, but not with armor.",
       "cost_copper": 90200,
       "price": "9 platinum Kronars",
-      "description": "Adorned with small blood rubies beads carved into tiny phoenixes, the gleaming wires are interlaced to form a wide belt.  Two long bands of woven wires extend from the intricate knot that allows the girdle to be fastened tightly to the wearers hips.",
-      "last_seen": "2026-04-28"
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -780,7 +780,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "The fluid cloth is fashioned into a triangular shape and trimmed with knotted gold tassels.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -789,13 +789,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "an enveloping web-patterned pall of lace layered with gauze",
-      "short": "a wool gown",
-      "tap": "a dark brown wool gown with a jewel neckline",
+      "short": "an enveloping web-patterned pall",
+      "tap": "an enveloping web-patterned pall of lace layered with gauze",
       "worn": "Shirt-worn with armor.",
-      "cost_copper": 175000000,
-      "price": "17,500 platinum Kronars",
-      "description": "Cut with an eye to practicality, the strong lightweight fabric provides an excellent foundation for the garment which is both fashionable and pragmatic.  The full skirt ends at mid-calf allowing the wearer full freedom of movement without sacrificing style.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 4500000,
+      "price": "450 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -804,13 +804,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "an oceanmist satin kimono dyed a variety of blues clasped with a golden broodling",
-      "short": "an oceanmist satin kimono",
-      "tap": "an oceanmist satin kimono dyed a variety of blues clasped with a golden broodling",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Starting at a blue so pale it is nearly white at the shoulder, the colors gradually darken and end at a blue-black hue at the bottom hem.  A large silver broodling of wrought gold has been pinned to the obi, binding the knot.",
-      "last_seen": "2026-04-28"
+      "short": "a spiked axe",
+      "tap": "a spiked axe inlaid along the blade with corroded zinc",
+      "worn": null,
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -819,13 +819,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "some bear-pelt leather",
-      "short": "some reaver-pelt leather",
+      "short": "some brown-scale leather",
       "tap": null,
       "worn": null,
-      "cost_copper": 30000,
-      "price": "3 platinum Kronars",
+      "cost_copper": 92000,
+      "price": "9 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -834,13 +834,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "some canvas socks",
-      "short": "a pair of quartz cufflinks",
-      "tap": "a pair of yellow quartz cufflinks shaped like kernels of corn",
+      "short": "some canvas socks",
+      "tap": null,
       "worn": "Generally worn.",
-      "cost_copper": 24800,
-      "price": "2 platinum Kronars",
-      "description": "Attached by a bit of chain, the polished stones provide a pop of color.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 1260,
+      "price": "0 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -849,13 +849,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "some miniature chestnut turtles",
-      "short": "an enveloping web-patterned pall",
-      "tap": "an enveloping web-patterned pall of lace layered with gauze",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 4500000,
-      "price": "450 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "short": "some miniature chestnut turtles",
+      "tap": "some miniature chestnut turtles",
+      "worn": null,
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "Carefully carved lines etch out the distinctive scutes on the shells of the smiling marine reptiles.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -864,13 +864,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "some pivuh-skin leather",
-      "short": "some bear-pelt leather",
-      "tap": null,
+      "short": "a boulder serpentine deed",
+      "tap": "a deed for a serpentine boulder",
       "worn": null,
-      "cost_copper": 90000,
+      "cost_copper": 92000,
       "price": "9 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "description": "--=== Stone Properties ===--\nQuality:       99 (perfect)\nHardness:      50 (scratched with some effort)\nDurability:    40 (decent durability)\nWorkability:   35 (difficult to work with) | A deed for a serpentine boulder reads:\n\"The bearer of this deed may tap it while inside of a crafting hall to have it traded for the material indicated.  This service is provided within the confines of the Crafting Societies due to the great size and difficulty with moving these materials.\"\nA detailed report of the item's properties are listed on the deed:\n--=== Stone Properties ===--\nQuality:       99 (perfect)\nHardness:      50 (scratched with some effort)\nDurability:    40 (decent durability)\nWorkability:   35 (difficult to work with)\nYou think the item is ready for reclaiming in any Society Hall by now.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -879,13 +879,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "some reaver-pelt leather",
-      "short": "a boulder marble deed",
-      "tap": "a deed for a marble boulder",
+      "short": "some pivuh-skin leather",
+      "tap": null,
       "worn": null,
-      "cost_copper": 92000,
-      "price": "9 platinum Kronars",
-      "description": "--=== Stone Properties ===--\nQuality:       90 (very high quality)\nHardness:      30 (easy to scratch)\nDurability:    15 (dismal durability)\nWorkability:   60 (rather easy to work with) | A deed for a marble boulder reads:\n\"The bearer of this deed may tap it while inside of a crafting hall to have it traded for the material indicated.  This service is provided within the confines of the Crafting Societies due to the great size and difficulty with moving these materials.\"\nA detailed report of the item's properties are listed on the deed:\n--=== Stone Properties ===--\nQuality:       90 (very high quality)\nHardness:      30 (easy to scratch)\nDurability:    15 (dismal durability)\nWorkability:   60 (rather easy to work with)\nYou think the item is ready for reclaiming in any Society Hall by now.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 160000,
+      "price": "16 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -894,13 +894,13 @@
       "owner": "Malbog",
       "hours": "6am and 2am",
       "name": "some taffeta trousers",
-      "short": "a palladium anklet",
+      "short": "some taffeta trousers",
       "tap": null,
-      "worn": "Ankle-worn.",
-      "cost_copper": 148830,
-      "price": "14 platinum Kronars",
+      "worn": "Pants-worn.",
+      "cost_copper": 4050,
+      "price": "0 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
