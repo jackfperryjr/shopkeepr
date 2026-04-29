@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T11:14:36Z",
-  "item_count": 4124,
+  "updated_at": "2026-04-29T11:15:11Z",
+  "item_count": 4129,
   "items": [
     {
       "town": "Crossing",
@@ -30278,6 +30278,21 @@
       "shop": "South End Exchange",
       "owner": "Dobi",
       "hours": "11am and 11pm",
+      "name": "a black ruby",
+      "short": "a black ruby",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 20000000,
+      "price": "2,000 platinum Kronars",
+      "description": "The round-cut stone has an almost solid black core similar in appearance to a piece of shiny flint.",
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "South End Exchange",
+      "owner": "Dobi",
+      "hours": "11am and 11pm",
       "name": "a bone white spiritwood twig",
       "short": "a spiritwood twig",
       "tap": "a bone white spiritwood twig",
@@ -30345,6 +30360,36 @@
       "cost_copper": 30000000,
       "price": "3,000 platinum Kronars",
       "description": "The small book is bound in supple leather, its title embossed in silver ink.",
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "South End Exchange",
+      "owner": "Dobi",
+      "hours": "11am and 11pm",
+      "name": "a hexagonal cambrinth prism suspended from a long electrum chain",
+      "short": "a hexagonal cambrinth prism",
+      "tap": "a hexagonal cambrinth prism suspended from a long electrum chain",
+      "worn": "Neck-worn.",
+      "cost_copper": 150000000,
+      "price": "15,000 platinum Kronars",
+      "description": "So large as to be roughly the size of an adult Gor'Tog's fist, the pendant's weight is borne evenly by the exceptionally wide links of the chain, allowing for more comfortable wear.",
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "South End Exchange",
+      "owner": "Dobi",
+      "hours": "11am and 11pm",
+      "name": "a mountain agate",
+      "short": "a mountain agate",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 500000,
+      "price": "50 platinum Kronars",
+      "description": "The round gem features folded lines and numerous inclusions, creating a colorful mosaic of red, brown, and ochre hues.",
       "last_seen": "2026-04-29"
     },
     {
@@ -30435,6 +30480,21 @@
       "cost_copper": 73000000,
       "price": "7,300 platinum Kronars",
       "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "South End Exchange",
+      "owner": "Dobi",
+      "hours": "11am and 11pm",
+      "name": "a small copperwood keepsake box inlaid with shards of scarlet spinel",
+      "short": "a keepsake box",
+      "tap": "a small copperwood keepsake box inlaid with shards of scarlet spinel",
+      "worn": null,
+      "cost_copper": 250000,
+      "price": "25 platinum Kronars",
+      "description": "The jagged shards of scarlet spinel are arranged to form the crest of Ilithi on the box's lid.  A small anlora-avtoma lock keeps the box's contents secure inside.",
       "last_seen": "2026-04-29"
     },
     {
@@ -30540,6 +30600,21 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "South End Exchange",
+      "owner": "Dobi",
+      "hours": "11am and 11pm",
+      "name": "an aether tarina",
+      "short": "an aether tarina",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "Though smoothly polished, the surface of the gem is dull and blotchy, not unlike old, dirty glass.",
       "last_seen": "2026-04-29"
     },
     {
