@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T12:56:22Z",
-  "item_count": 4115,
+  "updated_at": "2026-04-29T12:57:17Z",
+  "item_count": 4114,
   "items": [
     {
       "town": "Crossing",
@@ -60585,21 +60585,6 @@
       "cost_copper": 2000000,
       "price": "200 platinum Dokoras",
       "description": "The thick waterproof silken fabric is cut generously to totally envelop the wearer within its folds.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Wolf Den",
-      "owner": "Roxxana",
-      "hours": "9am and 9pm",
-      "name": "a bronze lockpick ring",
-      "short": "a bronze lockpick ring",
-      "tap": null,
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 350000,
-      "price": "35 platinum Dokoras",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-04-29"
     },
     {
