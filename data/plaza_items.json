@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T02:06:35Z",
+  "updated_at": "2026-04-29T02:09:24Z",
   "item_count": 4128,
   "items": [
     {
@@ -51054,13 +51054,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a baby blue dergatine cloak trimmed with gold braid",
-      "short": "a dark silk cloak",
-      "tap": "a dark silk cloak embroidered with a jade green dragon set with ruby eyes",
-      "worn": "Cloak-worn.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "short": "a bright white notecard",
+      "tap": "a bright white notecard with a message that reads: \"This unique gown was pulled from a treasure map, from Hollow Eve Raffles. Unique study and lots of verbs!\"",
+      "worn": null,
+      "cost_copper": 1111111,
+      "price": "111 platinum Lirums",
+      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51075,7 +51075,7 @@
       "cost_copper": 270000000,
       "price": "27,000 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51084,13 +51084,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a battlefield painting framed in blackened hickory",
-      "short": "a silverweave gown",
-      "tap": "a silverweave gown trimmed with Albarian lace",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "The narrow skirt of this gown is cut to flare out at the calves and provide a short train behind.  The light, airy lace trims the sweetheart neckline and short gathered sleeves.  Accentuating the shimmering nature of the heavy fabric, a dusting of tiny diamonds is scattered across the skirt and bodice.",
-      "last_seen": "2026-04-28"
+      "short": "a battlefield painting",
+      "tap": "a battlefield painting framed in blackened hickory",
+      "worn": null,
+      "cost_copper": 100000,
+      "price": "10 platinum Lirums",
+      "description": "A grim painting of deep shadows and sharp contrasts centers around a grey haired Human man kneeling amidst tattered banners and broken weapons scattered to the edge of the horizon.  His chainmail vest shows the vivid reminders of battle and is spattered with dull splotches of mottled hues.  His steel-grey eyes stare pensively at a ruby-hilted bastard sword clasped tightly in one hand.  A small brass placard is attached to the lower edge of the painting.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51099,13 +51099,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a black gold deck of cards",
-      "short": "a pair of crossed swords",
-      "tap": null,
+      "short": "a deck of black gold cards",
+      "tap": "a black gold deck of cards",
       "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Lirums",
-      "description": "This customization can be used with any normal door type home.\nExample of what this customization could look like...\nA nice door mounted with a pair of crossed swords.\n[To use this customization, PUT swords ON {HOME}.]",
-      "last_seen": "2026-04-28"
+      "cost_copper": 500000,
+      "price": "50 platinum Lirums",
+      "description": "You'll get a much better look at the cards if you're holding it.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51114,13 +51114,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a bright white notecard with a message that reads: \"This unique gown was pulled from a treasure map, from Hollow Eve Raffles. Unique study and lots of verbs!\"",
-      "short": "a dergatine cloak",
-      "tap": "a baby blue dergatine cloak trimmed with gold braid",
-      "worn": "Cloak-worn.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "Luxuriously smooth and soft, the dergatine's low, lush pile creates a muted, diffused effect to any light that plays across its surface, its absolute opacity preventing sight of anything swathed within its folds.",
-      "last_seen": "2026-04-28"
+      "short": "a mauve gown",
+      "tap": "a tailored mauve gown embroidered with foxglove",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 75000000,
+      "price": "7,500 platinum Lirums",
+      "description": "Crafted from plush velvet, the bodice blooms with hanging clusters of bell-shaped blossoms beginning at the left shoulder and trailing past the waist.  Each tiny flower is diligently stitched from threads of lavender, lilac and grape, and accented with tiny shimmering pearls.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51129,13 +51129,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a brightly colored party hat topped with a stuffed chicken head",
-      "short": "a miniature ironwood log",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 50000,
-      "price": "5 platinum Lirums",
-      "description": "This customization can be used with any normal tree type home.\nExample of what this customization could look like...\nA nice tree rigged with a swinging log trap.\n[To use this customization, PUT log ON {HOME}.]",
-      "last_seen": "2026-04-28"
+      "short": "an ivory featherlette kimono",
+      "tap": "an ivory featherlette kimono beaded with tiny tidal bloodstone fragments",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 2200000,
+      "price": "220 platinum Lirums",
+      "description": "Showing at the neck and cuffs, the deep blue cotton of the under garment contrasts with the pale ivory hue of the outer garment.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51144,13 +51144,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a cuboid mishar mysanda of polished jade",
-      "short": "a cuboid mishar mysanda",
-      "tap": "a cuboid mishar mysanda of polished jade",
-      "worn": null,
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "short": "a crystal sunburst",
+      "tap": "a liquid-filled crystal sunburst displayed upon braided titanese",
+      "worn": "Neck-worn.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Lirums",
+      "description": "You look at the sunburst and see some yellow liquid in an upper chamber and some apricot-colored liquid lying in a lower chamber.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51159,13 +51159,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a dark silk cloak embroidered with a jade green dragon set with ruby eyes",
-      "short": "an icesteel shield",
-      "tap": "an icesteel shield emblazoned in black with a rearing dragon",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 32000000,
-      "price": "3,200 platinum Lirums",
-      "description": "Engraved and then painted, the giant lizard spouts a stream of fire from its mouth.",
-      "last_seen": "2026-04-28"
+      "short": "a dergatine cloak",
+      "tap": "a baby blue dergatine cloak trimmed with gold braid",
+      "worn": "Cloak-worn.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Lirums",
+      "description": "Luxuriously smooth and soft, the dergatine's low, lush pile creates a muted, diffused effect to any light that plays across its surface, its absolute opacity preventing sight of anything swathed within its folds.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51180,7 +51180,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51195,7 +51195,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Lirums",
       "description": "Careful examination of a fitted heretic black satin shirt with silversteel buttons reveals a spring-loaded sheath concealed in its right sleeve.  The sheath is empty.\nExpertly tailored into a formal style to fit the wearer's form, the garment is secured by tiny silversteel buttons shaped into tiny daggers.  The finely woven fabric and evenly-creased lines combine to form a dashing raiment of unsurpassed charm and elegance.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51210,7 +51210,7 @@
       "cost_copper": 350000,
       "price": "35 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51219,13 +51219,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a formal black dreamweave kimono embroidered with swirling phofe flowers",
-      "short": "a mauve gown",
-      "tap": "a tailored mauve gown embroidered with foxglove",
+      "short": "a shimmering black kimono",
+      "tap": "a formal black dreamweave kimono embroidered with swirling phofe flowers",
       "worn": "Shirt-worn with armor.",
-      "cost_copper": 75000000,
-      "price": "7,500 platinum Lirums",
-      "description": "Crafted from plush velvet, the bodice blooms with hanging clusters of bell-shaped blossoms beginning at the left shoulder and trailing past the waist.  Each tiny flower is diligently stitched from threads of lavender, lilac and grape, and accented with tiny shimmering pearls.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 2500000,
+      "price": "250 platinum Lirums",
+      "description": "Vivid purple blossoms are satin-stitched across the soft and supple fabric of the elegantly draped dress robe.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51240,7 +51240,7 @@
       "cost_copper": 330011,
       "price": "33 platinum Lirums",
       "description": "The gwethdesuan is a fine silver chain meant to be worn on the head, with a pair of tiny jadeite stones in star-shaped settings which rest over the temples, magnifying one's thoughts.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51249,13 +51249,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a heavy dergatine witch's hat covered in intricate spiderwebs",
-      "short": "a dergatine witch's hat",
-      "tap": "a heavy dergatine witch's hat covered in intricate spiderwebs",
-      "worn": "Head-worn with armor.",
-      "cost_copper": 4500000,
-      "price": "450 platinum Lirums",
-      "description": "Luxuriously smooth and soft, the dergatine's low, lush pile creates a muted, diffused effect to any light that plays across its darkly colored surface.  In contrast, a wide belt of azure moonspun silk wraps around the base of the cone and is clasped by a shadowy black ka'hurst buckle with a strikingly green sheen.  Silky webs stretch in every direction, from base to tip.",
-      "last_seen": "2026-04-28"
+      "short": "an intricately ruched garter",
+      "tap": "an intricately ruched garter of goldenrod cloth-of-gold",
+      "worn": "Thigh-worn.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51264,13 +51264,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a liquid-filled crystal sunburst displayed upon braided titanese",
-      "short": "a crystal sunburst",
-      "tap": "a liquid-filled crystal sunburst displayed upon braided titanese",
-      "worn": "Neck-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "You look at the sunburst and see some yellow liquid in an upper chamber and some apricot-colored liquid lying in a lower chamber.",
-      "last_seen": "2026-04-28"
+      "short": "a simple paper fan",
+      "tap": "a simple paper fan stamped with a stylized fist",
+      "worn": null,
+      "cost_copper": 5000,
+      "price": "0 platinum Lirums",
+      "description": "Smudged edges along the bright red imprint suggest hasty construction, but the fan is otherwise well-made.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51279,13 +51279,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a lustrous ice-veined leather bodice edged in frost opals",
-      "short": "a bright white notecard",
-      "tap": "a bright white notecard with a message that reads: \"This unique gown was pulled from a treasure map, from Hollow Eve Raffles. Unique study and lots of verbs!\"",
-      "worn": null,
-      "cost_copper": 1111111,
-      "price": "111 platinum Lirums",
-      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-28"
+      "short": "an ice-veined leather bodice",
+      "tap": "a lustrous ice-veined leather bodice edged in frost opals",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Lirums",
+      "description": "Smoky blue cords lace down the front of the garment, drawing it snug around the torso when worn.  The frost opals are carved in the shapes of icicles and sprinkled along the garment's sweetheart neckline, their milky white surfaces glimmering with icy bursts of blue and green when struck by the light.\nThe barest hint of a blue-white shimmer appears across the surface of the leather.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51294,13 +51294,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a midnight-blue drum pouch embossed with a pattern of demonscales",
-      "short": "a green gold pendant",
-      "tap": "a green gold pendant engraved with a regal heron",
-      "worn": "Neck-worn.",
-      "cost_copper": 84000,
-      "price": "8 platinum Lirums",
-      "description": "Flowing lines depict the bird in profile as it stands poised on one leg, its head angled as if scanning the water below.  Stylized reeds create a serene border that extends to the edges of the pendant.",
-      "last_seen": "2026-04-28"
+      "short": "a drum pouch",
+      "tap": "a midnight-blue drum pouch embossed with a pattern of demonscales",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 50000000,
+      "price": "5,000 platinum Lirums",
+      "description": "The imbricated scales are traced in shades of black, nearly fading into the dark blue fabric.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51309,13 +51309,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a miniature ironwood log",
-      "short": "a white silk surcoat",
-      "tap": "a white silk surcoat with the crest of the Traders' Guild on the front",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 25000,
-      "price": "2 platinum Lirums",
-      "description": "Sparkling metallic threads pick out the elaborate detail of the crest.",
-      "last_seen": "2026-04-28"
+      "short": "a party hat",
+      "tap": "a brightly colored party hat topped with a stuffed chicken head",
+      "worn": "Helm-worn.",
+      "cost_copper": 100000,
+      "price": "10 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51324,13 +51324,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a molten-core diamond rose displayed on an asini stem",
-      "short": "a deck of black gold cards",
-      "tap": "a black gold deck of cards",
-      "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Lirums",
-      "description": "You'll get a much better look at the cards if you're holding it.",
-      "last_seen": "2026-04-28"
+      "short": "a molten-core diamond rose",
+      "tap": "a molten-core diamond rose displayed on an asini stem",
+      "worn": "Generally worn.",
+      "cost_copper": 3330000,
+      "price": "333 platinum Lirums",
+      "description": "Crystal clear petals display a dull red light refracted from its core.  The wirework stem is composed of braided asini filaments.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51345,7 +51345,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "Bordered by a sequence of sharply curved sigils, the gemstone charm is easily worn with a small silver pin on the back.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51354,13 +51354,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a pair of crossed swords",
-      "short": "an oak walking cane",
-      "tap": "an oak walking cane shaped like a giant sewing needle",
+      "short": "a pair of crossed swords",
+      "tap": null,
       "worn": null,
-      "cost_copper": 150000,
-      "price": "15 platinum Lirums",
-      "description": "A length of medium brown wood has been shaped and sanded to resemble a giant sewing needle, complete with a thread loop for a handgrip.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 100000,
+      "price": "10 platinum Lirums",
+      "description": "This customization can be used with any normal door type home.\nExample of what this customization could look like...\nA nice door mounted with a pair of crossed swords.\n[To use this customization, PUT swords ON {HOME}.]",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51375,7 +51375,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "The pale metallic symbols shimmer against the strikingly purple wood.  It is currently closed.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51384,13 +51384,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a polished e'erdream wand topped with a cloud turquoise starfish",
-      "short": "a shimmering black kimono",
-      "tap": "a formal black dreamweave kimono embroidered with swirling phofe flowers",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "Vivid purple blossoms are satin-stitched across the soft and supple fabric of the elegantly draped dress robe.",
-      "last_seen": "2026-04-28"
+      "short": "a polished e'erdream wand",
+      "tap": "a polished e'erdream wand topped with a cloud turquoise starfish",
+      "worn": null,
+      "cost_copper": 50000000,
+      "price": "5,000 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51405,7 +51405,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "The sanowret crystal glows with a soft light and is shaped into a perfect cube.  Thin lines of silver reinforce the crystal in a complex lattice.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51414,13 +51414,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a silverweave gown trimmed with Albarian lace",
-      "short": "a drum pouch",
-      "tap": "a midnight-blue drum pouch embossed with a pattern of demonscales",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 50000000,
-      "price": "5,000 platinum Lirums",
-      "description": "The imbricated scales are traced in shades of black, nearly fading into the dark blue fabric.",
-      "last_seen": "2026-04-28"
+      "short": "a silverweave gown",
+      "tap": "a silverweave gown trimmed with Albarian lace",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Lirums",
+      "description": "The narrow skirt of this gown is cut to flare out at the calves and provide a short train behind.  The light, airy lace trims the sweetheart neckline and short gathered sleeves.  Accentuating the shimmering nature of the heavy fabric, a dusting of tiny diamonds is scattered across the skirt and bodice.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51429,13 +51429,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a simple paper fan stamped with a stylized fist",
-      "short": "a simple paper fan",
-      "tap": "a simple paper fan stamped with a stylized fist",
-      "worn": null,
-      "cost_copper": 5000,
-      "price": "0 platinum Lirums",
-      "description": "Smudged edges along the bright red imprint suggest hasty construction, but the fan is otherwise well-made.",
-      "last_seen": "2026-04-28"
+      "short": "a white silk surcoat",
+      "tap": "a white silk surcoat with the crest of the Traders' Guild on the front",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 25000,
+      "price": "2 platinum Lirums",
+      "description": "Sparkling metallic threads pick out the elaborate detail of the crest.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51450,7 +51450,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "Designed to rest low on the hip, the lightweight chains are triple-tiered in a scalloped pattern.  Interspersed throughout the arrangement of keys dangling from the chains are golden bells, which chime daintily when in motion.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51459,13 +51459,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a sleek ghostspine case inlaid with a trio of shadowbloom amethysts",
-      "short": "some ruby drakes",
-      "tap": "some fire whirl ruby drakes",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "short": "a sleek ghostspine case",
+      "tap": "a sleek ghostspine case inlaid with a trio of shadowbloom amethysts",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 3000000,
+      "price": "300 platinum Lirums",
+      "description": "The container is fashioned from dense green-black wood streaked with pale striations that shimmer faintly like drifting shapes in a misted grove.  Set into the surface are three faceted violet gemstones, their internal inclusions catching the light in fleeting glimmers akin to dew-laden blossoms touched by twilight.\nThe lid of the ghostspine case is closed.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51480,7 +51480,7 @@
       "cost_copper": 2250000,
       "price": "225 platinum Lirums",
       "description": "Embroidered along the high standing collar is a stylized design of interlocking squares worked in grey silk.  The same motiff is repeated along the cuffs of the gathered sleeves and the hemline of the calf-length skirt.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51495,7 +51495,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "The sanowret crystal glows with a soft light and is shaped into a perfect cube.  Thin lines of silver reinforce the crystal in a complex lattice.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51504,13 +51504,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "a watered steel cutlass with a sailcloth-wrapped grip",
-      "short": "an ivory featherlette kimono",
-      "tap": "an ivory featherlette kimono beaded with tiny tidal bloodstone fragments",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 2200000,
-      "price": "220 platinum Lirums",
-      "description": "Showing at the neck and cuffs, the deep blue cotton of the under garment contrasts with the pale ivory hue of the outer garment.",
-      "last_seen": "2026-04-28"
+      "short": "a watered steel cutlass",
+      "tap": "a watered steel cutlass with a sailcloth-wrapped grip",
+      "worn": null,
+      "cost_copper": 2700000,
+      "price": "270 platinum Lirums",
+      "description": "The weapon's guard is intricately sculpted into the shape of an alluring mermaid with long flowing locks.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51525,7 +51525,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "The greatcloak drapes in icy layers, its surface swirling with hexagonal, iridescent patterns that glint like frozen crystals.  A delicate haze of misiumosette drapes over it, casting shadows that ripple and shift, like half-seen figures blurred beneath a frosted surface.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51534,13 +51534,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "an austere battle odaj of somber black leather",
-      "short": "an austere battle odaj",
-      "tap": "an austere battle odaj of somber black leather",
-      "worn": "Shirt-worn, but not with armor.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Lirums",
-      "description": "Designed to accommodate the dual forms of the Rakash species, the dark leather robe is reinforced and padded for the wearer's protection.",
-      "last_seen": "2026-04-28"
+      "short": "an oceanmist satin kimono",
+      "tap": "an oceanmist satin kimono dyed a variety of blues clasped with a golden broodling",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 2200000,
+      "price": "220 platinum Lirums",
+      "description": "Starting at a blue so pale it is nearly white at the shoulder, the colors gradually darken and end at a blue-black hue at the bottom hem.  A large silver broodling of wrought gold has been pinned to the obi, binding the knot.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51549,13 +51549,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "an intricately ruched garter of goldenrod cloth-of-gold",
-      "short": "an intricately ruched garter",
-      "tap": "an intricately ruched garter of goldenrod cloth-of-gold",
-      "worn": "Thigh-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
+      "short": "a dark silk cloak",
+      "tap": "a dark silk cloak embroidered with a jade green dragon set with ruby eyes",
+      "worn": "Cloak-worn.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51564,13 +51564,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "an ivory featherlette kimono beaded with tiny tidal bloodstone fragments",
-      "short": "a party hat",
-      "tap": "a brightly colored party hat topped with a stuffed chicken head",
-      "worn": "Helm-worn.",
-      "cost_copper": 100000,
-      "price": "10 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "short": "a periwinkle titanese shirt",
+      "tap": "a bright periwinkle titanese shirt buttoned with tiger lily carnelians",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 17000000,
+      "price": "1,700 platinum Lirums",
+      "description": "The dark orange gems pop against the fabric's blue-tinged purple hue.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51579,13 +51579,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "an oak walking cane shaped like a giant sewing needle",
-      "short": "a battlefield painting",
-      "tap": "a battlefield painting framed in blackened hickory",
+      "short": "an oak walking cane",
+      "tap": "an oak walking cane shaped like a giant sewing needle",
       "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Lirums",
-      "description": "A grim painting of deep shadows and sharp contrasts centers around a grey haired Human man kneeling amidst tattered banners and broken weapons scattered to the edge of the horizon.  His chainmail vest shows the vivid reminders of battle and is spattered with dull splotches of mottled hues.  His steel-grey eyes stare pensively at a ruby-hilted bastard sword clasped tightly in one hand.  A small brass placard is attached to the lower edge of the painting.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 150000,
+      "price": "15 platinum Lirums",
+      "description": "A length of medium brown wood has been shaped and sanded to resemble a giant sewing needle, complete with a thread loop for a handgrip.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51594,13 +51594,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "an oceanmist satin kimono dyed a variety of blues clasped with a golden broodling",
-      "short": "an oceanmist satin kimono",
-      "tap": "an oceanmist satin kimono dyed a variety of blues clasped with a golden broodling",
+      "short": "an Elven wool gown",
+      "tap": "an off white Elven wool gown with a jewel neckline",
       "worn": "Shirt-worn with armor.",
-      "cost_copper": 2200000,
-      "price": "220 platinum Lirums",
-      "description": "Starting at a blue so pale it is nearly white at the shoulder, the colors gradually darken and end at a blue-black hue at the bottom hem.  A large silver broodling of wrought gold has been pinned to the obi, binding the knot.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 1000000,
+      "price": "100 platinum Lirums",
+      "description": "Cut with an eye to practicality, the strong lightweight fabric provides an excellent foundation for the garment which is both fashionable and pragmatic.  The full skirt ends at mid-calf allowing the wearer full freedom of movement without sacrificing style.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51609,13 +51609,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "an off white Elven wool gown with a jewel neckline",
-      "short": "an Elven wool gown",
-      "tap": "an off white Elven wool gown with a jewel neckline",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "Cut with an eye to practicality, the strong lightweight fabric provides an excellent foundation for the garment which is both fashionable and pragmatic.  The full skirt ends at mid-calf allowing the wearer full freedom of movement without sacrificing style.",
-      "last_seen": "2026-04-28"
+      "short": "a miniature ironwood log",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 50000,
+      "price": "5 platinum Lirums",
+      "description": "This customization can be used with any normal tree type home.\nExample of what this customization could look like...\nA nice tree rigged with a swinging log trap.\n[To use this customization, PUT log ON {HOME}.]",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51630,7 +51630,7 @@
       "cost_copper": 50000,
       "price": "5 platinum Lirums",
       "description": "There is a faint glow about the alerce ring.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51645,7 +51645,7 @@
       "cost_copper": 50000,
       "price": "5 platinum Lirums",
       "description": "There is a faint glow about the audrualm ring.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51660,7 +51660,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "There is a faint glow about the iroko ring.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51669,13 +51669,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "some fire whirl ruby drakes",
-      "short": "an ice-veined leather bodice",
-      "tap": "a lustrous ice-veined leather bodice edged in frost opals",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "Smoky blue cords lace down the front of the garment, drawing it snug around the torso when worn.  The frost opals are carved in the shapes of icicles and sprinkled along the garment's sweetheart neckline, their milky white surfaces glimmering with icy bursts of blue and green when struck by the light.\nThe barest hint of a blue-white shimmer appears across the surface of the leather.",
-      "last_seen": "2026-04-28"
+      "short": "some ruby drakes",
+      "tap": "some fire whirl ruby drakes",
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Riverhaven",
@@ -51684,13 +51684,13 @@
       "owner": "Monne",
       "hours": "3am and 11pm",
       "name": "some luxurious purple dreamweave meditation pants",
-      "short": "some luxurious dreamweave pants",
-      "tap": "some luxurious purple dreamweave meditation pants",
-      "worn": "Pants-worn.",
-      "cost_copper": 750000,
-      "price": "75 platinum Lirums",
-      "description": "Exquisitely tailored for a comfortable fit, the loosely draped pants feature silver-trimmed pockets and a wide sash belted around the waist.  The unusual fabric retains its natural deep purple hue, though the light reveals a subtly whorled sheen across its surface.",
-      "last_seen": "2026-04-28"
+      "short": "an icesteel shield",
+      "tap": "an icesteel shield emblazoned in black with a rearing dragon",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 32000000,
+      "price": "3,200 platinum Lirums",
+      "description": "Engraved and then painted, the giant lizard spouts a stream of fire from its mouth.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
