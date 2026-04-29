@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T17:26:30Z",
-  "item_count": 4137,
+  "updated_at": "2026-04-29T17:27:30Z",
+  "item_count": 4134,
   "items": [
     {
       "town": "Crossing",
@@ -12338,21 +12338,6 @@
       "shop": "Drackyn's Distinguished Doodads",
       "owner": "Drackyn",
       "hours": "5pm and 2am",
-      "name": "a folding hickory chair with a chenille cushioned seat",
-      "short": "a folding hickory chair",
-      "tap": "a folding hickory chair with a chenille cushioned seat",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "This bundle of lacquered cane and brown silk has been folded as compactly as possible to make it easier to store.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Fermentation Room",
-      "shop": "Drackyn's Distinguished Doodads",
-      "owner": "Drackyn",
-      "hours": "5pm and 2am",
       "name": "a frost-white alerce zither inlaid with ice sapphire lotuses",
       "short": "an off-white potion",
       "tap": null,
@@ -12540,21 +12525,6 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "Highlighted with silver-gilt edges, the elegant receptacle is wearable wrapped around the waist.  A cleverly concealed catch allows easy access to the inner compartment.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Fermentation Room",
-      "shop": "Drackyn's Distinguished Doodads",
-      "owner": "Drackyn",
-      "hours": "5pm and 2am",
-      "name": "a miniature rock garden",
-      "short": "a glittering gaethzen sunburst",
-      "tap": "a glittering gaethzen sunburst caught upon a dawnfire steel chain",
-      "worn": "Neck-worn.",
-      "cost_copper": 1100000000,
-      "price": "110,000 platinum Kronars",
-      "description": "Radiating outwards from a glass-like heart, the fragile rays of the gaethzen amulet are affixed to fine-linked cobalt loops that reflect a brilliant yellow when struck by light.\nThe gaethzen is dim now, except for faint bands of color which swirl gently within the milky glass.",
       "last_seen": "2026-04-29"
     },
     {
@@ -12968,21 +12938,6 @@
       "shop": "Drackyn's Distinguished Doodads",
       "owner": "Drackyn",
       "hours": "5pm and 2am",
-      "name": "a wide sprite-bone wristcuff dangling a series of tiny crystal bells",
-      "short": "a wide sprite-bone wristcuff",
-      "tap": "a wide sprite-bone wristcuff dangling a series of tiny crystal bells",
-      "worn": "Wrist-worn.",
-      "cost_copper": 400000,
-      "price": "40 platinum Kronars",
-      "description": "The wide, glittery blue-green bone is warped and pitted.  Fine thread weaves in and out of some of the pits to secure a strand of tiny, tinkling bells.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Fermentation Room",
-      "shop": "Drackyn's Distinguished Doodads",
-      "owner": "Drackyn",
-      "hours": "5pm and 2am",
       "name": "a windsteel throwing hammer augmented with cambrinth",
       "short": "a tapered crown",
       "tap": "a tapered crown of miniature gold tridents",
@@ -13029,12 +12984,12 @@
       "owner": "Drackyn",
       "hours": "5pm and 2am",
       "name": "an austere battle odaj of somber black leather",
-      "short": "a studded ghostspine bludgeon",
-      "tap": "a studded ghostspine bludgeon with a leather-wrapped handle",
-      "worn": null,
-      "cost_copper": 8000000,
-      "price": "800 platinum Kronars",
-      "description": "Knotted wood forms the business end of this weapon, tapering off on one end that's been layered with strips of brown hide.",
+      "short": "a glittering gaethzen sunburst",
+      "tap": "a glittering gaethzen sunburst caught upon a dawnfire steel chain",
+      "worn": "Neck-worn.",
+      "cost_copper": 1100000000,
+      "price": "110,000 platinum Kronars",
+      "description": "Radiating outwards from a glass-like heart, the fragile rays of the gaethzen amulet are affixed to fine-linked cobalt loops that reflect a brilliant yellow when struck by light.\nThe gaethzen is dim now, except for faint bands of color which swirl gently within the milky glass.",
       "last_seen": "2026-04-29"
     },
     {
