@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T03:42:46Z",
-  "item_count": 4128,
+  "updated_at": "2026-04-29T03:43:20Z",
+  "item_count": 4126,
   "items": [
     {
       "town": "Crossing",
@@ -24173,21 +24173,6 @@
       "shop": "Muleie's Mercantile",
       "owner": "Muleie",
       "hours": "2pm and 5am",
-      "name": "a lustrous fuchsia seasilk sarong fringed with white silk",
-      "short": "a fuchsia seasilk sarong",
-      "tap": "a lustrous fuchsia seasilk sarong fringed with white silk",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 7500000,
-      "price": "750 platinum Kronars",
-      "description": "The brightly-hued fabric is cut to hug the body comfortably and allow freedom of movement, its vivid pink hue contrasting the pristine white threads embellishing its hemline.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Stomping Room",
-      "shop": "Muleie's Mercantile",
-      "owner": "Muleie",
-      "hours": "2pm and 5am",
       "name": "a midnight-purple dergatine ribbon strung with diacan shrike charms",
       "short": "a midnight-purple ribbon",
       "tap": "a midnight-purple dergatine ribbon strung with diacan shrike charms",
@@ -24240,21 +24225,6 @@
       "cost_copper": 9000000,
       "price": "900 platinum Kronars",
       "description": "Exquisitely carved in the shape of stylized suns, each dark blue gem is faceted to best display its rosy pink center.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Stomping Room",
-      "shop": "Muleie's Mercantile",
-      "owner": "Muleie",
-      "hours": "2pm and 5am",
-      "name": "a smokey glass globe suspended within a delicate lumium cage",
-      "short": "a long flowing skirt",
-      "tap": "a long flowing skirt made from luxurious windstorm gossamer",
-      "worn": "Pants-worn.",
-      "cost_copper": 15000000,
-      "price": "1,500 platinum Kronars",
-      "description": "This exquisite lightweight cloth includes woven white gold and tarnished silver metallic threads strategically used in the warp and weft to give the cloth a stormy appearance.  The airy skirt has been cut in varying lengths in sections from mid-calf to mid-thigh at even intervals.  A wide braided waistline studded with shrike's eye sapphires accentuates the wearer's waist.",
       "last_seen": "2026-04-29"
     },
     {
