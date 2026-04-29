@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T17:31:50Z",
-  "item_count": 4130,
+  "updated_at": "2026-04-29T17:32:29Z",
+  "item_count": 4129,
   "items": [
     {
       "town": "Crossing",
@@ -8108,21 +8108,6 @@
       "shop": "Cackle Shack, \"Too\"",
       "owner": "Kyena",
       "hours": "2pm and 12am",
-      "name": "a folding iroko chair with an oceanmist satin cushioned seat",
-      "short": "a folding iroko chair",
-      "tap": "a folding iroko chair with an oceanmist satin cushioned seat",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 50000,
-      "price": "5 platinum Kronars",
-      "description": "This bundle of lacquered cane and brown silk has been folded as compactly as possible to make it easier to store.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Desert Room",
-      "shop": "Cackle Shack, \"Too\"",
-      "owner": "Kyena",
-      "hours": "2pm and 12am",
       "name": "a glittery eggshell blob formed from fine silky sand",
       "short": "a glittery eggshell blob",
       "tap": "a glittery eggshell blob formed from fine silky sand",
@@ -8274,11 +8259,11 @@
       "owner": "Kyena",
       "hours": "2pm and 12am",
       "name": "a sailcloth shirt with scrimshaw buttons",
-      "short": "some blunt-tipped arrows",
-      "tap": "some blunt-tipped arrows with lavender stripes",
-      "worn": null,
-      "cost_copper": 75000,
-      "price": "7 platinum Kronars",
+      "short": "a small razaksel trident",
+      "tap": "a small razaksel trident graced with blood ruby-tipped prongs",
+      "worn": "Placed in hair.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
       "last_seen": "2026-04-29"
     },
