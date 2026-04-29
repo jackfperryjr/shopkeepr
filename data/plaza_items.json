@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T12:53:57Z",
-  "item_count": 4116,
+  "updated_at": "2026-04-29T12:54:40Z",
+  "item_count": 4115,
   "items": [
     {
       "town": "Crossing",
@@ -59625,21 +59625,6 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "Grey so dark as to almost be black, the stone has a pearly silver luminescence.  Simple script adorns the dark metal setting, while the back of the pendant bears a stylized image of a face with empty eye sockets. | \"When the eye be empty, the sight be full.\"",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Luminous Room",
-      "shop": "Starcanth Forge And Mercantile",
-      "owner": "Lexara",
-      "hours": "9am and 1am",
-      "name": "a petrified piece of mantrap stalk",
-      "short": "a piece of mantrap stalk",
-      "tap": "a petrified piece of mantrap stalk",
-      "worn": null,
-      "cost_copper": 150000,
-      "price": "15 platinum Dokoras",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-04-29"
     },
     {
