@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T15:11:40Z",
-  "item_count": 4131,
+  "updated_at": "2026-04-29T15:12:06Z",
+  "item_count": 4130,
   "items": [
     {
       "town": "Crossing",
@@ -29351,21 +29351,6 @@
       "name": "a bronze dao",
       "short": "a dao",
       "tap": "a bronze dao",
-      "worn": null,
-      "cost_copper": 10000,
-      "price": "1 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Sar's Outfitters",
-      "owner": "Sarleyth",
-      "hours": "2pm and 12am",
-      "name": "a bronze light spear",
-      "short": "a light spear",
-      "tap": "a bronze light spear",
       "worn": null,
       "cost_copper": 10000,
       "price": "1 platinum Kronars",
