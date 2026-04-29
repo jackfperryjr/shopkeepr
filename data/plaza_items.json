@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T00:16:00Z",
-  "item_count": 4116,
+  "updated_at": "2026-04-29T00:16:44Z",
+  "item_count": 4111,
   "items": [
     {
       "town": "Crossing",
@@ -58440,22 +58440,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Dokoras",
       "description": "The dark cobalt of the ocean on a moonless night, paler striations within this murky gem resemble whitecaps of a storm-wracked sea.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Prism Room",
-      "shop": "Nyr And Far",
-      "owner": "Nyrhin",
-      "hours": "12pm and 6am",
-      "name": "a beige silk insulated mask with dark-tinted goggles",
-      "short": "a silk insulated mask",
-      "tap": "a beige silk insulated mask with dark-tinted goggles",
-      "worn": "Nose-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Dokoras",
-      "description": "Set into the beige fabric and covering the eyeholes are blown-glass globular goggles that bulge out like bug's eyes.  Each one is tinted a blue shade, that is darkest at the edges and lighter in the center to allow the wearer to see through them while still gaining protection from the blinding sun.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58470,7 +58455,7 @@
       "cost_copper": 200000,
       "price": "20 platinum Dokoras",
       "description": "White highlights are painted down the blue blade, giving it the appearance of an icicle.  The penguin, a baby from its grey and white coloring, is carved to be comfortable on the hand to hold.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58485,7 +58470,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Dokoras",
       "description": "A spiraling pattern of thin brass lines runs around the thick haft of this steel-headed weapon.  The grey and brown bands of the wood contrast with the dull red of the inlay.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58500,7 +58485,7 @@
       "cost_copper": 750000,
       "price": "75 platinum Dokoras",
       "description": "The mosaic features hefty telamons, flared stairs, and peacocks all depicted in wild colors.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58515,7 +58500,7 @@
       "cost_copper": 7000000,
       "price": "700 platinum Dokoras",
       "description": "The thick fathomless black metal blades are well honed to an iridescent razor-sharp edge.\nThe fan is closed.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58530,7 +58515,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Dokoras",
       "description": "Etched gold star charms tumble in a haphazard fashion from one shoulder to the waist of the garment.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58544,23 +58529,8 @@
       "worn": null,
       "cost_copper": 5000000,
       "price": "500 platinum Dokoras",
-      "description": "Pale mists roil under the glassy surface.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Prism Room",
-      "shop": "Nyr And Far",
-      "owner": "Nyrhin",
-      "hours": "12pm and 6am",
-      "name": "a grimwood cudgel with a scarlet-dyed leather-wrapped grip",
-      "short": "a grimwood cudgel",
-      "tap": "a grimwood cudgel with a scarlet-dyed leather-wrapped grip",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Dokoras",
-      "description": "Pale grey rosettes dapple the midnight-black wood, reminiscent of bleak mountains shrouded in mist.   The fiery scarlet leather grip is worked in a overlapping pattern that constrasts but complements the fine wood of this finely crafted, yet simple weapon.",
-      "last_seen": "2026-04-28"
+      "description": "Pale mists roil under the glassy surface.\nAs you try to look away you find your eyes displaying an inexplicable reluctance to let the glass decahedron go unwatched.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58575,7 +58545,7 @@
       "cost_copper": 210010,
       "price": "21 platinum Dokoras",
       "description": "The gwethdesuan is a fine silver chain meant to be worn on the head, with a pair of tiny stone stones in star-shaped settings which rest over the temples, magnifying one's thoughts.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58590,7 +58560,7 @@
       "cost_copper": 400000,
       "price": "40 platinum Dokoras",
       "description": "Smooth and slightly oblong, the soulstone is about the size of a woman's fist.  Its glossy surface swirls with patterns of black and white which resemble a churning thunderstorm.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58605,7 +58575,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Dokoras",
       "description": "Sewn from tiny black and white hearts strung together by a single strand, the container is easily worn with a padded shoulder strap.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58620,7 +58590,7 @@
       "cost_copper": 300000,
       "price": "30 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58635,7 +58605,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "Starched and pressed neatly, the pale green shirt is unadorned but for a solitary line of round white buttons that march down the center.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58650,7 +58620,7 @@
       "cost_copper": 600000,
       "price": "60 platinum Dokoras",
       "description": "When struck by light the fluttery blooms glisten against the twilight-hued crystalline latticework covering the surface of the fan.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58665,7 +58635,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "Marks are gouged into the surface of the ashen grey bone to intersect with its network of red snaking lines.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58680,7 +58650,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Dokoras",
       "description": "Flexible boning lends structure and preserves the shape of the warm, soft wool bodice, dyed purple and flecked with variegated shades of grey.  Tailored for a demure effect, the top features a square neckline, a waistline that drops in a low V shape, and tonally matched back lacing.\nThe top hook of the modest bodice is closed.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58695,7 +58665,7 @@
       "cost_copper": 80000,
       "price": "8 platinum Dokoras",
       "description": "Thin strips of dark red leather sit between wider lengths of sturdy fabric to give the garment extra strength.  Polished brass hooks make a neat row down the front while a double set of laces allow the wearer to adjust the fit.\nThe top hook of the cotton corset is closed.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58710,7 +58680,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58725,22 +58695,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "Dark brown threads run along the bottom of the armor, forming a line of stylized trowels and picks that alternate along the whole hemline.  Matching embroidery runs along the neckline and armholes.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Prism Room",
-      "shop": "Nyr And Far",
-      "owner": "Nyrhin",
-      "hours": "12pm and 6am",
-      "name": "a small featherstone with jagged cracks",
-      "short": "a small featherstone",
-      "tap": "a small featherstone with jagged cracks",
-      "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Dokoras",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58755,7 +58710,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Dokoras",
       "description": "The head of the hammer is composed of electrum and engraved with the crest of House Alshaerd.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58770,7 +58725,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Dokoras",
       "description": "The head of the weapons is cast in the shape of a dragon's snout.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58785,7 +58740,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Dokoras",
       "description": "Surrounded by a blood-red haze, the battle-crazed centaurs relish in the joy of conquest.  Flames of steely grey dance across the surface of the round shield, enhancing the ferocity of the scene.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58800,7 +58755,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Dokoras",
       "description": "Designed to accommodate the dual forms of the Rakash species, the dark leather robe is reinforced and padded for the wearer's protection.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58815,22 +58770,7 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Dokoras",
       "description": "A murder of crows are spread along the narrow harness in various stages of flight, their sleek bodies stamped in iridescent blue and black tones upon the dark ebony leather.  A pair of metal frogs are positioned along the weapon strap, allowing one to easily draw and store their weapons.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Prism Room",
-      "shop": "Nyr And Far",
-      "owner": "Nyrhin",
-      "hours": "12pm and 6am",
-      "name": "some bear-pelt leather",
-      "short": "some bear-pelt leather",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Dokoras",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58845,7 +58785,7 @@
       "cost_copper": 750000,
       "price": "75 platinum Dokoras",
       "description": "Dark khaki patches of leather cover the palms and matching strips are sewn along the knuckles of the insulated handwear.  The reinforcement provides extra protection while working among drifting or blowing sands.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
@@ -58860,22 +58800,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Prism Room",
-      "shop": "Nyr And Far",
-      "owner": "Nyrhin",
-      "hours": "12pm and 6am",
-      "name": "some shalswar-hide leather",
-      "short": "some shalswar-hide leather",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 200000,
-      "price": "20 platinum Dokoras",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Shard",
