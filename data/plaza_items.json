@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T19:37:55Z",
-  "item_count": 4143,
+  "updated_at": "2026-04-28T19:38:55Z",
+  "item_count": 4142,
   "items": [
     {
       "town": "Crossing",
@@ -32370,21 +32370,6 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "This customization can be used with any normal door type home.\nExample of what this customization could look like...\nA nice door with a bronzed skull and hinged jaw functioning as a knocker.\n[To use this customization, PUT skull ON {HOME}.]",
-      "last_seen": "2026-04-28"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Stravaig's Shop",
-      "owner": null,
-      "hours": "1pm and 11pm",
-      "name": "a faded black gravecloth dancing skirt with a dagged hem",
-      "short": "a gravecloth dancing skirt",
-      "tap": "a faded black gravecloth dancing skirt with a dagged hem",
-      "worn": "Pants-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "The silky fabric is tightly woven with a pattern of interlocking scorpions in tribute to Urrem'tier.  Tiny silver bells and coins scattered over the surface of the skirt chime gently with every motion.",
       "last_seen": "2026-04-28"
     },
     {
