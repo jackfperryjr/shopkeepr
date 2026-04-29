@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T14:55:15Z",
-  "item_count": 4133,
+  "updated_at": "2026-04-29T14:56:16Z",
+  "item_count": 4132,
   "items": [
     {
       "town": "Crossing",
@@ -2009,21 +2009,6 @@
       "worn": null,
       "cost_copper": 10000,
       "price": "1 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Almost Famous",
-      "owner": "Heda",
-      "hours": "2pm and 12am",
-      "name": "a steel bastard sword with a honed blade",
-      "short": "a bastard sword",
-      "tap": "a steel bastard sword with a honed blade",
-      "worn": null,
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
       "description": "You see nothing unusual.",
       "last_seen": "2026-04-29"
     },
