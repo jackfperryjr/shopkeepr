@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T17:07:57Z",
-  "item_count": 4120,
+  "updated_at": "2026-04-29T17:09:02Z",
+  "item_count": 4119,
   "items": [
     {
       "town": "Crossing",
@@ -31485,21 +31485,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The fragrant, dense wood is a reddish-brown hue reminiscent of dried blood and holds a satin-like lustre.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Gladiolus Room",
-      "shop": "Starkeeper Alley",
-      "owner": "Linvala",
-      "hours": "9am and 1am",
-      "name": "a side-laced crimson corset hand sewn from supple kidskin beaded in black onyx",
-      "short": "a side-laced crimson corset",
-      "tap": "a side-laced crimson corset hand sewn from supple kidskin beaded in black onyx",
-      "worn": "Generally worn.",
-      "cost_copper": 100000,
-      "price": "10 platinum Kronars",
-      "description": "Strands of tiny black onyx beads stitched along the squared neckline and seams perfectly accent the soft crimson kidskin used in the body of the garment.  Side lacing adds support, enhancing the wearer's shapely silhouette.\nThe top hook of the crimson corset is open.",
       "last_seen": "2026-04-29"
     },
     {
