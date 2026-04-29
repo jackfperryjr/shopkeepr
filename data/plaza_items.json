@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T13:17:42Z",
-  "item_count": 4128,
+  "updated_at": "2026-04-29T13:18:42Z",
+  "item_count": 4129,
   "items": [
     {
       "town": "Crossing",
@@ -35700,7 +35700,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35715,7 +35715,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Though only slivers of the gems that once sat on either side of the plate remain, they still retain the dull luster and nearly purple coloring common to duskbloom sapphires.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35730,7 +35730,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Kronars",
       "description": "Crushed emeralds form vines that weave their way across the supple black doeskin of the corset.  Onyx thorns, a hint of danger in their sharply honed points, enhance the rambling briars.  Small blood-red rubies, fully faceted to show off the brilliant fire inherent in each gem, are grouped to create lush roses bursting into bloom.\nThe top hook of the doeskin corset is open.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35745,7 +35745,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Kronars",
       "description": "A dryad peeping from behind a tree decorates the container's front.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35760,7 +35760,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Kronars",
       "description": "Embroidered on the right breast is a small stylized bumblebee.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35775,7 +35775,7 @@
       "cost_copper": 12500000,
       "price": "1,250 platinum Kronars",
       "description": "A variety of species are depicted along the limbs of this bow, as if in homage to everything the owner has slain.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35790,7 +35790,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "Blackened steel forms coarse bones fused together forming the crossguard and grip.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35805,7 +35805,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35820,7 +35820,7 @@
       "cost_copper": 50000,
       "price": "5 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35835,7 +35835,22 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Cleverly hidden amid the voluminous pleats designed to flow across the wearer's shoulders and back, a profusion of stylized scorpions are rendered upon the soft inner lining in washes of barely detectable ink stain.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Ocean Room",
+      "shop": "Trindin's Lost And Found",
+      "owner": "Trindin",
+      "hours": "2pm and 12am",
+      "name": "a cambrinth-clasped leather backpack stitched with the crest of the Warrior Mage guild in silver thread",
+      "short": "a leather backpack",
+      "tap": "a cambrinth-clasped leather backpack stitched with the crest of the Warrior Mage guild in silver thread",
+      "worn": "Back-worn.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Kronars",
+      "description": "A wolf's head shrouded in flame over two crossed swords decorates the top flap of the backpack.  Firmly set in the brass clasp, a smooth cambrinth stone provides an attractive yet functional decoration.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35850,7 +35865,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Nickel mechanisms were used in the creation of this design.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35865,7 +35880,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Hung from a thin damite chain, the carefully shaped reddish-orange stone contains slender black streaks and a perfect white flame-shaped inclusion centered upon the back of the detailed crest.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35880,7 +35895,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35895,7 +35910,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35910,7 +35925,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "Ephemeral shadows and rippled silhouettes pattern the fabric as if things shrouded beneath it are thinly veiled by a layer of ice.  A trio of ghost orchids climb the hat, their pale petals cradling a fragile heart tinged with a faint blush of color.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35925,7 +35940,7 @@
       "cost_copper": 1250000,
       "price": "125 platinum Kronars",
       "description": "Thin bands of white run through the pitch black onyx, forming the outline of a pirate ship.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35940,7 +35955,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Carved from a single piece of demonbone, the cutting edge of the blade appears blackened, as if from exposure to extreme heat.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35955,7 +35970,7 @@
       "cost_copper": 2150000,
       "price": "215 platinum Kronars",
       "description": "A tiny gold pin allows the matted clump of fur and sinew to be worn.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35970,7 +35985,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The pitted diacan of this curved blade has a deep black finish with a watery iridescence.  Along the flat of the blade, a nightingale perched on a chamomile blossom is roughly etched into the metal, leaving a pattern that contrasts the material of the jambiya.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -35985,7 +36000,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "Carved from a stout length of ironwood, the handle is set with dozens of tiny cambrinth stones along a carved spiraling pattern.  Capping the weapon are a pair of cylindrical steel heads crested with a long sharp spike.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36000,7 +36015,7 @@
       "cost_copper": 1000057,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36015,7 +36030,7 @@
       "cost_copper": 57500000,
       "price": "5,750 platinum Kronars",
       "description": "Richly patterned in solar designs, the satin background weave is over-woven with metallic threads as well as the brilliant yellow and orange sunfire fibers to create an opulent textile that is both lustrous and extravagant.  The creation process for the sunfire fibers gives the lavish fabric the illusion of sunlight dancing across its surface, with the multiple layers of the textile combining to form a luxuriant fabric that is both lustrous and ostentatious.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36030,7 +36045,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "A thin rose-colored rope woven from sturdy spidersilk strands connects three weighted spheres.  Tiny cambrinth beads resembling owls in flight have been sewn into the cord where the three lines meet, creating a sturdy grip for throwing or swinging.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36045,7 +36060,7 @@
       "cost_copper": 21500000,
       "price": "2,150 platinum Kronars",
       "description": "The outer garment is constructed of a lightweight fabric that looks like it was dipped in liquid silver.  The deep green of the embroidered leaves contrasts with the colorful flowers.  A deep green silk lining that matches the foliage is paired with a matching hued sash.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36060,7 +36075,7 @@
       "cost_copper": 200000,
       "price": "20 platinum Kronars",
       "description": "Finely crafted from gold, the amulet resembles the head of a roaring lion, its gaping maw serving as a toothy place setting.  The setting is empty.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36075,7 +36090,7 @@
       "cost_copper": 210007,
       "price": "21 platinum Kronars",
       "description": "The gwethdesuan is a fine silver chain meant to be worn on the head, with a pair of tiny jadeite stones in star-shaped settings which rest over the temples, magnifying one's thoughts.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36090,7 +36105,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The dark wood was painstakingly carved to accentuate its naturally scaly appearance.  Bands of darkened metal peek out from beneath the braided leather straps wrapped about the weapon's grip.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36105,7 +36120,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Harsh to the touch, the thick, atramentous fabric of the voluminous flared coat provides ample protection from the elements.  Worked in austere rows, stone beads trim the collar and hem of the garment, their hue nearly indistinguishable from the shaggy wool but for the rusty red streaks characteristic of cambrinth.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36120,7 +36135,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36135,7 +36150,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Kronars",
       "description": "Made from bright jonquil-hued yellow silk, this moneybelt is embroidered with eye-searing green slices of lime, interspersed with slices of bright orange kumquats.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36150,7 +36165,7 @@
       "cost_copper": 33750000,
       "price": "3,375 platinum Kronars",
       "description": "The glossy tan silk holds a faint golden sheen over the garment.  A narrow black silk sash matches the trim on the edges of the garment.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36165,7 +36180,7 @@
       "cost_copper": 2000000,
       "price": "200 platinum Kronars",
       "description": "Woven from the fibers of the kor'athi plant, this robe is made to survive the rigors of long distance travel on foot.  The dragon's wings wrap around the back of the arms, making them look as though they move along with the wearer.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36180,7 +36195,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The face of this large cambrinth anvil is covered with red-gold flames of cast orichalcum that leap from the surface of the stone like jagged teeth.  The grey-black cambrinth has been carefully carved and polished to a near-sheen, giving the stone a metallic appearance.  The soft orichalcum fuses with the cambrinth face of the anvil to create a swirled mottle of blacks, golds, and reds.  The flaming anvil is the symbol of Merion, Albarian goddess of fire.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36195,7 +36210,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "The gem pouch is made for easy storage of gems, and is used by gemshops everywhere to handle bulk transactions.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36210,7 +36225,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36225,7 +36240,7 @@
       "cost_copper": 2150000,
       "price": "215 platinum Kronars",
       "description": "Nestled between the two ventricles, a mist-like inclusion glimmers with a sanguine iridescence.  An asini chain loops through the aorta and vena cava, allowing the heart to be worn.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36240,7 +36255,7 @@
       "cost_copper": 100030,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36255,7 +36270,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36270,7 +36285,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Kronars",
       "description": "The crescent-shaped blade glimmers with subtle silvery veins across its dark, slightly roughened surface.  Swirls of ashy grey and rusty red freely mingle like embers nestled in soot.  Set in the pommel, a cabochon wolfsoul amber gleams with dark gold radiance, its core an intense black that appears to shift and pulse as if harboring a watchful gaze.  A shimmering loop of mistsilk allows the knife to be worn on the ankle.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36285,7 +36300,7 @@
       "cost_copper": 2750000,
       "price": "275 platinum Kronars",
       "description": "Like a sculptural mosaic of twisted ribbons folded in upon themselves, its components are arranged in chaotic arcs and corkscrews that nonetheless conform to a kind of abstract symmetry.  Thinly tangled loops, thorns, and recurved spires refract light in incomprehensible patterns.  The darkstone chain that binds it allows it to be worn.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36300,7 +36315,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Hung from a heavy silver chain, this large medallion is designed to hang comfortably from the wearer's neck.  Chunks of colored gemstones and cambrinth stones have been carefully pieced together to form an artistic rendition of a fierce panther.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36315,7 +36330,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36330,7 +36345,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "Sapphires wink from the eyes of the startlingly life-like ebony panther resting on a bed of silvery ivy vines.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36345,7 +36360,7 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36360,7 +36375,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36375,7 +36390,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36390,7 +36405,7 @@
       "cost_copper": 3500000,
       "price": "350 platinum Kronars",
       "description": "Tiny pearls adorn the trefoil knot, reflecting available light in a pale rainbow.  The circular clasp allows it to be worn.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36405,7 +36420,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36420,7 +36435,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "The full skirt is made of a soft fabric with a faint, swirling undertone raspberry hue.  Speckled over the top are glittery black dots that give the fabric the impression of glistening jam.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36435,7 +36450,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "A great deal of care has gone into lining up each pelt with the next to present a subtly rippled pattern as the darker fur from the back of each creature contrasts with the lighter hues of the bellies.  The curving yellowed tooth that serves as a clasp bites into a reinforced patch of leather to hold the contents securely.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36450,7 +36465,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "Etched into every available area of the weapon, each zombie is missing a limb or its head. | \"Zombiefried's Favorite\"",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36465,7 +36480,7 @@
       "cost_copper": 21250000,
       "price": "2,125 platinum Kronars",
       "description": "The glossy deep blue silk holds a faint golden sheen over the fabric.  Appliqued white waves of watersilk run along the bottom of the garment with a narrow sash of the same fabric forming the belt of the kimono.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36480,7 +36495,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36495,7 +36510,7 @@
       "cost_copper": 16250000,
       "price": "1,625 platinum Kronars",
       "description": "Long sleeves are lined with pale gold silk that also shows at the collar and hemline.  Ornate stylized waves worked in metallic thread crash together along the bottom of the garment.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36510,7 +36525,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Engraved along the edge of the blade, a serpentine dragon slinks from the dragonwood hilt to the razor sharp tip, winding from edge to edge.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36525,7 +36540,7 @@
       "cost_copper": 20000000,
       "price": "2,000 platinum Kronars",
       "description": "The words \"Miss Daisy Maisie\" are delicately engraved around the instrument's flared rim.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36540,7 +36555,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "A thick black paint graces the front of the apron in the shape of an oval with a jagged line through it.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36555,7 +36570,7 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Kronars",
       "description": "Clusters of white Eluned's tears are embroidered across the glossy silk, their centers a dark blue hue that matches the color of the ocean at noon.\nThe fan is closed.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36570,7 +36585,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Affixed to a chain of white silver, it rotates freely within its setting.  Bands of dichroic glass appear to spiral into infinity, shifting between silver to gold as the viewing angle changes.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36585,7 +36600,7 @@
       "cost_copper": 2750000,
       "price": "275 platinum Kronars",
       "description": "Like the aurora in a clear sky, unearthly blues and eerie greens dominate the stone, melding with fiery oranges and reds in the eyes.  Dendritic lines of green gold arc from the pin across its stone pedestal, their lurid sheen mimicking light flashing along the strike path.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36600,7 +36615,7 @@
       "cost_copper": 100030,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36615,7 +36630,7 @@
       "cost_copper": 100065,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36630,7 +36645,7 @@
       "cost_copper": 100035,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36645,7 +36660,7 @@
       "cost_copper": 100025,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36660,7 +36675,7 @@
       "cost_copper": 100025,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36675,7 +36690,7 @@
       "cost_copper": 100040,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36690,7 +36705,7 @@
       "cost_copper": 100040,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36705,7 +36720,7 @@
       "cost_copper": 100025,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36720,7 +36735,7 @@
       "cost_copper": 100060,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36735,7 +36750,7 @@
       "cost_copper": 100050,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36750,7 +36765,7 @@
       "cost_copper": 100040,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36765,7 +36780,7 @@
       "cost_copper": 100075,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36780,7 +36795,7 @@
       "cost_copper": 100035,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36795,7 +36810,7 @@
       "cost_copper": 100065,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36810,7 +36825,7 @@
       "cost_copper": 100035,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36825,7 +36840,7 @@
       "cost_copper": 100050,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36840,7 +36855,7 @@
       "cost_copper": 100025,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36855,7 +36870,7 @@
       "cost_copper": 100010,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36870,7 +36885,7 @@
       "cost_copper": 100020,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36885,7 +36900,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "Representing six elements, each symbol is repeated many times along the length of the staff.  Small faceted cambrinth stones are set in the sigils at strategic points, causing the staff to sparkle with each movement.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36900,7 +36915,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Kronars",
       "description": "Tanned from thick plates of leather and assembled with care, the quiver has been embossed on one side with an expanding circle of lightning bolts.  A fine platinum chain winds in a spiral around the quiver, set at regular intervals with multifaceted cambrinth stones.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36915,7 +36930,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "Three shallow grooves run from near the tip of the gently tapered steel blade down to a brass crossguard swept up into the shape of outstretched wings.  The lacquered hardwood grip has been inlaid with fine spiraling veins of cambrinth, which weave their way to a large faceted cambrinth stone set in the pommel.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36930,7 +36945,7 @@
       "cost_copper": 7150000,
       "price": "715 platinum Kronars",
       "description": "Inlaid in blue gold, spectral flames trail the wing tips, horns, and talons, resembling the oshu'k'et observed by mariners during thunderstorms.  The gloaming depths of each eye are sundered by a golden pupil shaped like a jagged lightning bolt.  A matching chain allows it to be worn.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36945,7 +36960,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This exquisite and luxurious lightweight cloth of the pouch features a watery sheen to the silken fabric's three-dimensional spiraled texture reminiscent of swirling ocean currents.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36960,7 +36975,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "The crest of each wave is dusted in crushed pearls to artfully simulate the foamy froth of the sea.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36975,7 +36990,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -36990,7 +37005,7 @@
       "cost_copper": 1750000,
       "price": "175 platinum Kronars",
       "description": "Emphasizing the metal's whorled finish, an inlay of silvery-red cambrinth depicts an elaborate labyrinth centered around a golden key.  The grain of its wyndwood haft features a lustrous rippling pattern, resembling a windswept field of grass.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37005,7 +37020,7 @@
       "cost_copper": 2750000,
       "price": "275 platinum Kronars",
       "description": "Resembling antlers with three tines, forked horns sweep back from its head.  Wispy whiskers sprout from its snout, and unruly lichen fringes its eyes and cheeks, imparting an air of great age.  Bark-like scales encrust its body, the joints between them exaggerated by the natural grain of the rare wood.  A delicate tel'athi chain allows it to be worn.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37020,7 +37035,7 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "Upon closer examination, a small hole within the mouth of the panther on the buckle is revealed.  Tiny silver hinges line the underside of the belt, barely perceptible to all but the keenest eye.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37035,7 +37050,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37050,7 +37065,7 @@
       "cost_copper": 12000000,
       "price": "1,200 platinum Kronars",
       "description": "Hammered dark black metal forms a protective disk, embossed with a sharp featured face displaying a pair of oversized spiraling horns.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37065,7 +37080,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "The only relief from the dark tones of the wood and metal is a thin line of silver spiraling around the handle.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37080,7 +37095,7 @@
       "cost_copper": 3000000,
       "price": "300 platinum Kronars",
       "description": "Seared into the soft leather of the pouch are several images of figures with upraised arms, surrounded by terrible beasts both mythical and real.  A feathered platinum setting holds the cambrinth clasp, which has been carved with the image of the Warrior Mage guild crest.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37095,7 +37110,7 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Kronars",
       "description": "An intricate ivy pattern stitched in black thread winds along the bottom hem, each leaf accented with a tiny teardrop diamond.  An oval silver filigree clasp serves to fasten the cloak at the neck.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37110,7 +37125,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The buffed, deep black matte finish of the leather enhances the image of the dagger.  Red stitching hints from within the depths of the dagger's stamped outline.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37125,7 +37140,7 @@
       "cost_copper": 1250000,
       "price": "125 platinum Kronars",
       "description": "Simply made, the armband is held in place by a pair of matching dark leather ties.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -37140,7 +37155,7 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Silvery-grey strips of strong silk have been wound around the pitch-black wood of the stock, forming an improvised grip.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
