@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T09:16:12Z",
-  "item_count": 4122,
+  "updated_at": "2026-04-29T09:16:42Z",
+  "item_count": 4119,
   "items": [
     {
       "town": "Crossing",
@@ -28545,51 +28545,6 @@
       "cost_copper": 1600040,
       "price": "160 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Fermentation Room",
-      "shop": "Ravens Repo",
-      "owner": "Ishcah",
-      "hours": "8am and 2am",
-      "name": "a bone-white scroll labeled with Iridius Rod",
-      "short": "a bone-white scroll",
-      "tap": "a bone-white scroll labeled with Iridius Rod",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "It is labeled \"Iridius Rod.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Fermentation Room",
-      "shop": "Ravens Repo",
-      "owner": "Ishcah",
-      "hours": "8am and 2am",
-      "name": "a bright white notecard with a message that reads: \"Contact Ishcah or another Raven privately for rarer scrolls\"",
-      "short": "a bright white notecard",
-      "tap": "a bright white notecard with a message that reads: \"Contact Ishcah or another Raven privately for rarer scrolls\"",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Fermentation Room",
-      "shop": "Ravens Repo",
-      "owner": "Ishcah",
-      "hours": "8am and 2am",
-      "name": "a flame-hued scroll labeled with Blur",
-      "short": "a flame-hued scroll",
-      "tap": "a flame-hued scroll labeled with Blur",
-      "worn": null,
-      "cost_copper": 400000,
-      "price": "40 platinum Kronars",
-      "description": "It is labeled \"Blur.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-29"
     },
     {
