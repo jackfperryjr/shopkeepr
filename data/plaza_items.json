@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T17:18:09Z",
-  "item_count": 4119,
+  "updated_at": "2026-04-29T17:18:47Z",
+  "item_count": 4118,
   "items": [
     {
       "town": "Crossing",
@@ -21495,21 +21495,6 @@
       "cost_copper": 1250000,
       "price": "125 platinum Kronars",
       "description": "Streaks of color cover the surface of the garment and almost completely obscure the oversized pocket.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Solarium",
-      "shop": "Klausette Full Of Things",
-      "owner": "Klausette",
-      "hours": "12pm and 10pm",
-      "name": "an applewood short spear with a viridescent silk-wrapped grip",
-      "short": "an applewood short spear",
-      "tap": "an applewood short spear with a viridescent silk-wrapped grip",
-      "worn": null,
-      "cost_copper": 350000,
-      "price": "35 platinum Kronars",
-      "description": "A slender shaft carved from fine-grained hardwood tapers smoothly toward a sharpened tip, its surface subtly textured.  The handle is tightly bound in lustrous fabric, shimmering with shifting green hues that catch the light.",
       "last_seen": "2026-04-29"
     },
     {
