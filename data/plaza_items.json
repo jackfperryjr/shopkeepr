@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T08:21:45Z",
-  "item_count": 4118,
+  "updated_at": "2026-04-29T08:22:12Z",
+  "item_count": 4122,
   "items": [
     {
       "town": "Crossing",
@@ -19515,6 +19515,66 @@
       "cost_copper": 750000,
       "price": "75 platinum Kronars",
       "description": "Each earring is carved from a single crystal of deep yellow-orange with deep green inclusions that shimmer in the light.",
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Barrel Room",
+      "shop": "Itsky Jelly Shop",
+      "owner": "Itsky",
+      "hours": "9am and 12pm",
+      "name": "a black gold base",
+      "short": "a black gold base",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 2000000,
+      "price": "200 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Barrel Room",
+      "shop": "Itsky Jelly Shop",
+      "owner": "Itsky",
+      "hours": "9am and 12pm",
+      "name": "a dazzling songsilk umbrella with dangling absinthe emerald charms",
+      "short": "a dazzling songsilk umbrella",
+      "tap": "a dazzling songsilk umbrella with dangling absinthe emerald charms",
+      "worn": null,
+      "cost_copper": 1500000,
+      "price": "150 platinum Kronars",
+      "description": "The misty green emeralds are carved into the shapes of lyres, flutes, violins, harps, drums, and various other instruments.\nThe umbrella is closed.",
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Barrel Room",
+      "shop": "Itsky Jelly Shop",
+      "owner": "Itsky",
+      "hours": "9am and 12pm",
+      "name": "a pale green gem pouch with images of herbs traced in gold stitchery",
+      "short": "a pale green gem pouch",
+      "tap": "a pale green gem pouch with images of herbs traced in gold stitchery",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 500000,
+      "price": "50 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Barrel Room",
+      "shop": "Itsky Jelly Shop",
+      "owner": "Itsky",
+      "hours": "9am and 12pm",
+      "name": "a small glossy red jar",
+      "short": "a glossy red jar",
+      "tap": "a small glossy red jar",
+      "worn": null,
+      "cost_copper": 2000000,
+      "price": "200 platinum Kronars",
+      "description": "You notice that the jar has some paint inside and a tiny instruction booklet inside.  You think you can STUDY it to learn more.",
       "last_seen": "2026-04-29"
     },
     {
