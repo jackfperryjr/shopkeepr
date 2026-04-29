@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T10:10:15Z",
+  "updated_at": "2026-04-29T10:10:51Z",
   "item_count": 4129,
   "items": [
     {
@@ -30249,13 +30249,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a battered straw tip hat",
-      "short": "a tip hat",
-      "tap": "a battered straw tip hat",
-      "worn": "Head-worn with armor.",
-      "cost_copper": 4000000,
-      "price": "400 platinum Kronars",
-      "description": "Something has chewed a chunk out of the brim.",
-      "last_seen": "2026-04-28"
+      "short": "a sea-blue vial",
+      "tap": "a sea-blue vial",
+      "worn": null,
+      "cost_copper": 25000000,
+      "price": "2,500 platinum Kronars",
+      "description": "Strange things swim within the liquid of this oily substance. | \"This vial will bond a shield to the user.\"",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30270,7 +30270,7 @@
       "cost_copper": 20000000,
       "price": "2,000 platinum Kronars",
       "description": "The round-cut stone has an almost solid black core similar in appearance to a piece of shiny flint.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30279,13 +30279,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a bone white spiritwood twig",
-      "short": "a spiritwood stick",
-      "tap": "a cream white spiritwood stick",
+      "short": "a spiritwood twig",
+      "tap": "a bone white spiritwood twig",
       "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "Bits of teak fleck the white branch, revealing the original material.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "Bits of ebony fleck the white branch, revealing the original material.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30294,13 +30294,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a celestial blue bowtie accented with silver stars",
-      "short": "a celestial blue bowtie",
-      "tap": "a celestial blue bowtie accented with silver stars",
-      "worn": "Neck-worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Two small pieces of cambrinth are fused to a tiny spring-and-gear mechanism to create a functional, discreet clip.  Designed to snap right on to the neck of a shirt, this faux bowtie lacks actual ties.  Nonetheless, its clip allows for quick removal making it a practical magical object disguised for style.",
-      "last_seen": "2026-04-28"
+      "short": "a ragged shirt",
+      "tap": null,
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 20000000,
+      "price": "2,000 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30315,7 +30315,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30324,13 +30324,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a cream white spiritwood stick",
-      "short": "a windsteel nugget",
-      "tap": null,
+      "short": "a spiritwood stick",
+      "tap": "a cream white spiritwood stick",
       "worn": null,
-      "cost_copper": 12000000,
-      "price": "1,200 platinum Kronars",
-      "description": "Whirlwind patterns appear across the surface of the dull metal.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "Bits of teak fleck the white branch, revealing the original material.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30339,13 +30339,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a dark indigo book titled \"A Gentleman's Guide to Proper Decorum\"",
-      "short": "a adderwood pilgrim's badge",
-      "tap": "an adderwood pilgrim's badge sculpted with the emblem of Aluna",
-      "worn": "Generally worn.",
-      "cost_copper": 2500000,
-      "price": "250 platinum Kronars",
-      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-28"
+      "short": "a dark indigo book",
+      "tap": "a dark indigo book titled \"A Gentleman's Guide to Proper Decorum\"",
+      "worn": null,
+      "cost_copper": 30000000,
+      "price": "3,000 platinum Kronars",
+      "description": "The small book is bound in supple leather, its title embossed in silver ink.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30360,7 +30360,7 @@
       "cost_copper": 150000000,
       "price": "15,000 platinum Kronars",
       "description": "So large as to be roughly the size of an adult Gor'Tog's fist, the pendant's weight is borne evenly by the exceptionally wide links of the chain, allowing for more comfortable wear.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30375,7 +30375,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "The round gem features folded lines and numerous inclusions, creating a colorful mosaic of red, brown, and ochre hues.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30384,13 +30384,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a pitch pearl",
-      "short": "a spiraled iridescent seashell",
+      "short": "a pitch pearl",
       "tap": null,
       "worn": null,
-      "cost_copper": 15000000,
-      "price": "1,500 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 50000000,
+      "price": "5,000 platinum Kronars",
+      "description": "The dull black stone refuses to show even a hint of color, no matter what conditions it is inspected under.  Legends claim that objects left in the presence of a pitch pearl for extended periods of time will slowly fade to greyscale.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30399,13 +30399,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a platinum chain",
-      "short": "a platinum chain",
+      "short": "a windsteel nugget",
       "tap": null,
       "worn": null,
-      "cost_copper": 8000000,
-      "price": "800 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 12000000,
+      "price": "1,200 platinum Kronars",
+      "description": "Whirlwind patterns appear across the surface of the dull metal.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30414,13 +30414,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a ragged shirt",
-      "short": "a ragged shirt",
+      "short": "a platinum chain",
       "tap": null,
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 20000000,
-      "price": "2,000 platinum Kronars",
+      "worn": null,
+      "cost_copper": 8000000,
+      "price": "800 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30435,7 +30435,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "The interior is divided into many tiny compartments, each carefully lined with soft felt.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30445,12 +30445,12 @@
       "hours": "11am and 11pm",
       "name": "a scintillant lazuline elixir",
       "short": "a worry stone",
-      "tap": "a smooth dolomite worry stone engraved with the symbol of Lemicus",
+      "tap": "a smooth travertine worry stone engraved with the symbol of Divyaush",
       "worn": null,
       "cost_copper": 4500000,
       "price": "450 platinum Kronars",
       "description": "Polished to a brilliant shine, the central concave depression is perfectly shaped for cradling against a thumb.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30459,13 +30459,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a scorched wooden cage entangled with dark green vines",
-      "short": "a piece of brown seaweed",
-      "tap": null,
+      "short": "a scorched wooden cage",
+      "tap": "a scorched wooden cage entangled with dark green vines",
       "worn": null,
-      "cost_copper": 15000000,
-      "price": "1,500 platinum Kronars",
+      "cost_copper": 73000000,
+      "price": "7,300 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30480,7 +30480,7 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "The jagged shards of scarlet spinel are arranged to form the crest of Ilithi on the box's lid.  A small anlora-avtoma lock keeps the box's contents secure inside.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30489,13 +30489,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a smooth dolomite worry stone engraved with the symbol of Lemicus",
-      "short": "a worry stone",
-      "tap": "a smooth travertine worry stone engraved with the symbol of Divyaush",
+      "short": "a sea-blue vial",
+      "tap": "a sea-blue vial",
       "worn": null,
-      "cost_copper": 4500000,
-      "price": "450 platinum Kronars",
-      "description": "Polished to a brilliant shine, the central concave depression is perfectly shaped for cradling against a thumb.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 25000000,
+      "price": "2,500 platinum Kronars",
+      "description": "Strange things swim within the liquid of this oily substance. | \"This vial will bond a shield to the user.\"",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30504,13 +30504,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a smooth travertine worry stone engraved with the symbol of Divyaush",
-      "short": "a sea-blue vial",
-      "tap": "a sea-blue vial",
+      "short": "a worry stone",
+      "tap": "a smooth dolomite worry stone engraved with the symbol of Lemicus",
       "worn": null,
-      "cost_copper": 25000000,
-      "price": "2,500 platinum Kronars",
-      "description": "Strange things swim within the liquid of this oily substance. | \"This vial will bond a shield to the user.\"",
-      "last_seen": "2026-04-28"
+      "cost_copper": 4500000,
+      "price": "450 platinum Kronars",
+      "description": "Polished to a brilliant shine, the central concave depression is perfectly shaped for cradling against a thumb.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30525,7 +30525,7 @@
       "cost_copper": 150000,
       "price": "15 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30540,7 +30540,7 @@
       "cost_copper": 9990000,
       "price": "999 platinum Kronars",
       "description": "The head of the weapons is cast in the shape of a dragon's snout.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30555,7 +30555,7 @@
       "cost_copper": 400000000,
       "price": "40,000 platinum Kronars",
       "description": "The potion is a viscous silver sludge that smells faintly of old S'Kra.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30564,13 +30564,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "a water opal",
-      "short": "a water opal",
+      "short": "a scintillant lazuline elixir",
       "tap": null,
       "worn": null,
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "The black stone is flecked with a smattering of other colors to give it a starry appearance.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 50000000,
+      "price": "5,000 platinum Kronars",
+      "description": "The viscous stuff within the vial changes constantly as it moves, one moment coruscating sky-blue and the next, fading to a nacreous blue dusk with motes like fireflies flashing deep within.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30579,13 +30579,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "an adderwood pilgrim's badge sculpted with the emblem of Aluna",
-      "short": "a spiritwood twig",
-      "tap": "a bone white spiritwood twig",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Bits of ebony fleck the white branch, revealing the original material.",
-      "last_seen": "2026-04-28"
+      "short": "a adderwood pilgrim's badge",
+      "tap": "an adderwood pilgrim's badge sculpted with the emblem of Aluna",
+      "worn": "Generally worn.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Kronars",
+      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30600,7 +30600,7 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Though smoothly polished, the surface of the gem is dull and blotchy, not unlike old, dirty glass.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30609,13 +30609,13 @@
       "owner": "Dobi",
       "hours": "11am and 11pm",
       "name": "an ocean jasper",
-      "short": "an ocean jasper",
-      "tap": null,
+      "short": "a scorched wooden cage",
+      "tap": "a scorched wooden cage entangled with dark green vines",
       "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Earthy tone blends of browns, deep forest greens, and rust reds create a delightful display of multi-colors and orbicular patterns across the surface of the small stone.",
-      "last_seen": "2026-04-28"
+      "cost_copper": 60000000,
+      "price": "6,000 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
@@ -30630,7 +30630,7 @@
       "cost_copper": 20000000,
       "price": "2,000 platinum Kronars",
       "description": "Deep red stripes traverse across the front and back of the armor in broad diagonal lines.",
-      "last_seen": "2026-04-28"
+      "last_seen": "2026-04-29"
     },
     {
       "town": "Crossing",
