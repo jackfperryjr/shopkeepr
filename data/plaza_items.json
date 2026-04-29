@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T20:26:54Z",
-  "item_count": 4153,
+  "updated_at": "2026-04-28T20:27:16Z",
+  "item_count": 4155,
   "items": [
     {
       "town": "Crossing",
@@ -24293,6 +24293,21 @@
       "shop": "Mister Purr's Purrfect Paw-nshop",
       "owner": "Zowpurr",
       "hours": "8am and 2am",
+      "name": "a long gilt-edged dagger with a central blood channel",
+      "short": "a long gilt-edged dagger",
+      "tap": "a long gilt-edged dagger with a central blood channel",
+      "worn": null,
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "It looks like a long gilt-edged dagger with a central blood channel.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "owner": "Zowpurr",
+      "hours": "8am and 2am",
       "name": "a rough leather war belt with a razaksel-crow's head belt buckle",
       "short": "a leather war belt",
       "tap": "a rough leather war belt with a razaksel-crow's head belt buckle",
@@ -24315,6 +24330,21 @@
       "cost_copper": 200000000,
       "price": "20,000 platinum Kronars",
       "description": "Subtle black embroidery, interspersed with layered  chips of black and white gems, sparkles arrestingly against the length of sheer fabric.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "Mister Purr's Purrfect Paw-nshop",
+      "owner": "Zowpurr",
+      "hours": "8am and 2am",
+      "name": "an insulated robe",
+      "short": "an insulated robe",
+      "tap": "an insulated robe",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 500000000,
+      "price": "50,000 platinum Kronars",
+      "description": "You see the initials \"M. C.\" impressed into the surface of the fabric.",
       "last_seen": "2026-04-28"
     },
     {
