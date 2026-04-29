@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T11:19:14Z",
-  "item_count": 4117,
+  "updated_at": "2026-04-29T11:19:48Z",
+  "item_count": 4115,
   "items": [
     {
       "town": "Crossing",
@@ -23078,21 +23078,6 @@
       "shop": "METAL Skin Cloth Bone And TOOLS",
       "owner": "Jerde",
       "hours": "12pm and 2am",
-      "name": "a desumos-bone stack",
-      "short": "some magenta blueprints",
-      "tap": "some magenta blueprints depicting a cluttered storage room",
-      "worn": null,
-      "cost_copper": 15000000,
-      "price": "1,500 platinum Kronars",
-      "description": "You see nothing unusual. | You need to be holding the magenta blueprints to do that.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Volcano Room",
-      "shop": "METAL Skin Cloth Bone And TOOLS",
-      "owner": "Jerde",
-      "hours": "12pm and 2am",
       "name": "a dye tub",
       "short": "a dye tub",
       "tap": null,
@@ -23175,21 +23160,6 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "A small piece of eye-shaped glass is held in place by a thin strip of dark chocolate brown colored wood with little visible grain and attached to a short loop of twine, allowing it to be secured to the wrist.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Volcano Room",
-      "shop": "METAL Skin Cloth Bone And TOOLS",
-      "owner": "Jerde",
-      "hours": "12pm and 2am",
-      "name": "a star-streaked midnight black sack fastened with an obsidian murder crow",
-      "short": "some coal-black blueprints",
-      "tap": "some coal-black blueprints depicting a sweltering forge",
-      "worn": null,
-      "cost_copper": 24000000,
-      "price": "2,400 platinum Kronars",
-      "description": "You see nothing unusual. | You need to be holding the coal-black blueprints to do that.",
       "last_seen": "2026-04-29"
     },
     {
