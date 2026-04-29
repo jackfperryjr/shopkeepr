@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T09:09:14Z",
-  "item_count": 4130,
+  "updated_at": "2026-04-29T09:09:58Z",
+  "item_count": 4123,
   "items": [
     {
       "town": "Crossing",
@@ -2843,36 +2843,6 @@
       "shop": "Apodu Hekemhhg",
       "owner": "Bovi",
       "hours": "9am and 3am",
-      "name": "a berry-red candysatin cupcake topped with creamy white frosting",
-      "short": "a berry-red candysatin cupcake",
-      "tap": "a berry-red candysatin cupcake topped with creamy white frosting",
-      "worn": null,
-      "cost_copper": 3000000,
-      "price": "300 platinum Kronars",
-      "description": "Shaped into a fluted base, the glossy form gleams in alternating bands of bright white and deep purple-red, the surface catching light with a hard-candy sheen.  Atop the dome, a swirl of soft-looking ivory material curls in smooth peaks, its matte finish contrasting the high-shine base below.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Apodu Hekemhhg",
-      "owner": "Bovi",
-      "hours": "9am and 3am",
-      "name": "a carved bogbirch haircomb shaped like a sleeping fox",
-      "short": "a carved bogbirch haircomb",
-      "tap": "a carved bogbirch haircomb shaped like a sleeping fox",
-      "worn": "Placed in hair.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Coiled tightly with ears pressed flat, the fox's tail spirals around its form, leaving only a hint of its snout visible.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Apodu Hekemhhg",
-      "owner": "Bovi",
-      "hours": "9am and 3am",
       "name": "a dragon's tail flail with a firestained head of agonite",
       "short": "an agonite dragon's tail flail",
       "tap": "a dragon's tail flail with a firestained head of agonite",
@@ -2903,21 +2873,6 @@
       "shop": "Apodu Hekemhhg",
       "owner": "Bovi",
       "hours": "9am and 3am",
-      "name": "a ghost-white cloak fastened by a muracite claw clutching a spherical blood ruby",
-      "short": "a ghost-white cloak",
-      "tap": "a ghost-white cloak fastened by a muracite claw clutching a spherical blood ruby",
-      "worn": "Cloak-worn.",
-      "cost_copper": 7500000,
-      "price": "750 platinum Kronars",
-      "description": "Gossamer-like spidersilk creates a shrouding effect, hugging the shoulders before flowing outward in airy, translucent layers.  The hem is reinforced with subtle stitching that lends a hint of structure to the cloak's wispy form.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Apodu Hekemhhg",
-      "owner": "Bovi",
-      "hours": "9am and 3am",
       "name": "a haon arbalest with a series of small notches cut into the stock",
       "short": "a haon arbalest",
       "tap": "a haon arbalest with a series of small notches cut into the stock",
@@ -2940,36 +2895,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Roughly carved out of modwir, the long handle is covered in small chips and knicks where its surface has taken damage.  The image of a seven-pointed star is carved into one side of the notched axe-head.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Apodu Hekemhhg",
-      "owner": "Bovi",
-      "hours": "9am and 3am",
-      "name": "a paper wasp nest",
-      "short": "a paper wasp nest",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 2000000,
-      "price": "200 platinum Kronars",
-      "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home with a nest of paper wasps built under the eaves.\n[To use this customization, PUT nest ON {HOME}.]",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Apodu Hekemhhg",
-      "owner": "Bovi",
-      "hours": "9am and 3am",
-      "name": "a persimmon silk shirt with darkened silver buttons",
-      "short": "a persimmon silk shirt",
-      "tap": "a persimmon silk shirt with darkened silver buttons",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Each of the round metal buttons is stamped with a tiny stylized poppy.",
       "last_seen": "2026-04-29"
     },
     {
@@ -3015,21 +2940,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The pommel of the hilt is forged into the shape of an eagle's claw grasping a medium sized zircon.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Apodu Hekemhhg",
-      "owner": "Bovi",
-      "hours": "9am and 3am",
-      "name": "a sapphire-blue velvet belt with a crescent-shaped silver buckle",
-      "short": "a sapphire-blue velvet belt",
-      "tap": "a sapphire-blue velvet belt with a crescent-shaped silver buckle",
-      "worn": "Belt-worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Argent grommets are affixed to the broad length of fabric at even intervals, complementing the belt's mirror-polished buckle.",
       "last_seen": "2026-04-29"
     },
     {
@@ -3135,21 +3045,6 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Silvery-black leaf highlights a needle and empty spool on the front of the navy cover woven with fine threads of bright steel.  Judging from the size, you guess this cover would fit a deed register.\nThere seems to be something written on the back side. | On the back side of the register cover there are some instructions.  They read:\nTo use the register cover, simply PUT it on the appropriate book.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Apodu Hekemhhg",
-      "owner": "Bovi",
-      "hours": "9am and 3am",
-      "name": "some pristine deathfiber cushions with the crest of the Clerics' Guild",
-      "short": "some pristine deathfiber cushions",
-      "tap": "some pristine deathfiber cushions with the crest of the Clerics' Guild",
-      "worn": null,
-      "cost_copper": 50000000,
-      "price": "5,000 platinum Kronars",
-      "description": "A testament to the glory of their represented Guild, these cushions are inviting of camaraderie along with comfort.",
       "last_seen": "2026-04-29"
     },
     {
