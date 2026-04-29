@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T13:40:32Z",
-  "item_count": 4124,
+  "updated_at": "2026-04-29T13:41:32Z",
+  "item_count": 4123,
   "items": [
     {
       "town": "Crossing",
@@ -57810,21 +57810,6 @@
       "cost_copper": 28000000,
       "price": "2,800 platinum Dokoras",
       "description": "Glowing with a soft light, a crystalline dodecahedron serves as the spider's abdomen.  Thin lines of silver enmesh the surface, forming a complex lattice of circular triangles.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Oak Room",
-      "shop": "Jep's Jems",
-      "owner": "Jep",
-      "hours": "12pm and 4am",
-      "name": "some barghest bone footwraps",
-      "short": "some bone footwraps",
-      "tap": "some barghest bone footwraps",
-      "worn": "Foot-worn weapon.",
-      "cost_copper": 1250000,
-      "price": "125 platinum Dokoras",
-      "description": "Darkly stained, the barghest bone has been hewn into the shape of the top of a boot, secured in place with black leather straps.",
       "last_seen": "2026-04-29"
     },
     {
