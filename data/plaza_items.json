@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T09:11:42Z",
-  "item_count": 4123,
+  "updated_at": "2026-04-29T09:12:09Z",
+  "item_count": 4122,
   "items": [
     {
       "town": "Crossing",
@@ -13515,21 +13515,6 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Kronars",
       "description": "It is labeled \"Shadows.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Lodge Room",
-      "shop": "Dumana's Scrolls",
-      "owner": "Dumana",
-      "hours": "8am and 4am",
-      "name": "a silver-stippled scroll labeled with Unleash",
-      "short": "a silver-stippled scroll",
-      "tap": "a silver-stippled scroll labeled with Unleash",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "It is labeled \"Unleash.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-29"
     },
     {
