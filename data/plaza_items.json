@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T17:29:34Z",
+  "updated_at": "2026-04-29T17:30:19Z",
   "item_count": 4134,
   "items": [
     {
@@ -33399,12 +33399,12 @@
       "owner": "Hazelnut",
       "hours": "6pm and 1am",
       "name": "a bright pink tart pouch",
-      "short": null,
+      "short": "a tinted monocle",
       "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "10 platinum Kronars",
-      "description": "",
+      "worn": "Worn on the right eye.",
+      "cost_copper": 10000,
+      "price": "1 platinum Kronars",
+      "description": "Slightly darkened glass forms the lense of this otherwise unremarkable monocle.",
       "last_seen": "2026-04-29"
     },
     {
@@ -33984,12 +33984,12 @@
       "owner": "Hazelnut",
       "hours": "6pm and 1am",
       "name": "a tinted monocle",
-      "short": null,
+      "short": "a twisted cornstalk",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
-      "price": "1 platinum Kronars",
-      "description": "",
+      "cost_copper": 50000,
+      "price": "5 platinum Kronars",
+      "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home surrounded by a twisted maze of overgrown cornstalks.\n[To use this customization, PUT cornstalk ON {HOME}.]",
       "last_seen": "2026-04-29"
     },
     {
@@ -34029,12 +34029,12 @@
       "owner": "Hazelnut",
       "hours": "6pm and 1am",
       "name": "a twisted cornstalk",
-      "short": null,
-      "tap": null,
+      "short": "a glass vial",
+      "tap": "a warped glass vial etched with flames",
       "worn": null,
-      "cost_copper": null,
-      "price": "5 platinum Kronars",
-      "description": "",
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
+      "description": "You notice that the vial has some paint inside and a tiny instruction booklet inside.  You think you can STUDY it to learn more.",
       "last_seen": "2026-04-29"
     },
     {
@@ -34134,12 +34134,12 @@
       "owner": "Hazelnut",
       "hours": "6pm and 1am",
       "name": "an aged leather booklet stamped with a pile of overlapping knitting and sewing needles",
-      "short": null,
-      "tap": null,
-      "worn": null,
-      "cost_copper": null,
-      "price": "1 platinum Kronars",
-      "description": "",
+      "short": "a bright pink tart pouch",
+      "tap": "a bright pink tart pouch",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-29"
     },
     {
