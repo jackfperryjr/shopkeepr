@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T22:37:04Z",
-  "item_count": 4125,
+  "updated_at": "2026-04-28T22:37:46Z",
+  "item_count": 4126,
   "items": [
     {
       "town": "Crossing",
@@ -35520,6 +35520,21 @@
       "cost_copper": 700000,
       "price": "70 platinum Kronars",
       "description": "The only relief from the dark tones of the wood and metal is a thin line of silver spiraling around the handle.",
+      "last_seen": "2026-04-28"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Water Room",
+      "shop": "Tipsy Taboo",
+      "owner": "Kalyssia",
+      "hours": "11am and 2am",
+      "name": "an oath ring of polished green jade that holds captive a tiny hourglass",
+      "short": "a jade oath ring",
+      "tap": "an oath ring of polished green jade that holds captive a tiny hourglass",
+      "worn": "Ring-worn.",
+      "cost_copper": 300000,
+      "price": "30 platinum Kronars",
+      "description": "The delicate glass construction, filled with grains of silky sand, nestles in the firm embrace of the vibrant band.",
       "last_seen": "2026-04-28"
     },
     {
