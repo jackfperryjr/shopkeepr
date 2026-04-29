@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T10:26:25Z",
-  "item_count": 4130,
+  "updated_at": "2026-04-29T10:27:00Z",
+  "item_count": 4129,
   "items": [
     {
       "town": "Crossing",
@@ -50355,21 +50355,6 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Lirums",
       "description": "It is labeled \"Sidhlot's Flaying.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "The Shieldery",
-      "shop": "Sorcerous Patterns",
-      "owner": "Balistrade",
-      "hours": "5am and 11pm",
-      "name": "a rumpled scroll labeled with Tailwind",
-      "short": "a rumpled scroll",
-      "tap": "a rumpled scroll labeled with Tailwind",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "It is labeled \"Tailwind.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-29"
     },
     {
