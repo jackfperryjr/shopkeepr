@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T18:22:25Z",
+  "updated_at": "2026-04-29T18:23:08Z",
   "item_count": 4109,
   "items": [
     {
@@ -20379,12 +20379,12 @@
       "owner": "Kiyora",
       "hours": "7pm and 3am",
       "name": "a champagne diamond",
-      "short": null,
+      "short": "a champagne diamond",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 2500000,
       "price": "250 platinum Kronars",
-      "description": "",
+      "description": "The sparkling faceted gem is so pale in its color the brown coloring appears nearly pink in the right light.",
       "last_seen": "2026-04-29"
     },
     {
@@ -20589,12 +20589,12 @@
       "owner": "Kiyora",
       "hours": "7pm and 3am",
       "name": "a honeydew diamond",
-      "short": null,
+      "short": "a honeydew diamond",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
+      "description": "The pale green stone is faceted to best display its white edges.",
       "last_seen": "2026-04-29"
     },
     {
@@ -20634,12 +20634,12 @@
       "owner": "Kiyora",
       "hours": "7pm and 3am",
       "name": "a large glacier emerald",
-      "short": null,
+      "short": "a large glacier emerald",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 5000000,
       "price": "500 platinum Kronars",
-      "description": "",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-29"
     },
     {
@@ -20694,12 +20694,12 @@
       "owner": "Kiyora",
       "hours": "7pm and 3am",
       "name": "a merlot ruby",
-      "short": null,
+      "short": "a merlot ruby",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
+      "description": "The gem appears as a deep purple-tinged red when viewed at one angle and as a bright raspberry hue when viewed at a tilt.",
       "last_seen": "2026-04-29"
     },
     {
@@ -20844,12 +20844,12 @@
       "owner": "Kiyora",
       "hours": "7pm and 3am",
       "name": "a silvery Velakan pearl",
-      "short": null,
+      "short": "a silvery Velakan pearl",
       "tap": null,
       "worn": null,
-      "cost_copper": null,
+      "cost_copper": 1000000,
       "price": "100 platinum Kronars",
-      "description": "",
+      "description": "Closer examination reveals the iridescent, round stone to actually be the preserved eye of a sand spider.",
       "last_seen": "2026-04-29"
     },
     {
