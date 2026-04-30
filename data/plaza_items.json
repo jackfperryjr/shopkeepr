@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T17:40:28Z",
-  "item_count": 4155,
+  "updated_at": "2026-04-30T17:41:27Z",
+  "item_count": 4154,
   "items": [
     {
       "town": "Crossing",
@@ -9195,21 +9195,6 @@
       "cost_copper": 25000000,
       "price": "2,500 platinum Kronars",
       "description": "Gathered at the waist with narrow pleats, the garment falls in loose folds to the wearer's knees.  Worked into the weave of this lightweight, ribbed fabric is a subtle design of undulating rays extending out from stylized solar discs created from subtle shifts in the rich yellow and oranges of the textile.  The subtle illusion of sunlight glinting across the textile's surface arising from the sunfire fibers is enhanced by skillful use of spun gold threads worked into the weave.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Barrel Room",
-      "shop": "Cash's Cache",
-      "owner": "Cashmina",
-      "hours": "3pm and 12am",
-      "name": "a lace ribbon decorated with eglantine roses framed by feather-like leaves",
-      "short": "a lace ribbon",
-      "tap": "a lace ribbon decorated with eglantine roses framed by feather-like leaves",
-      "worn": "Placed in hair.",
-      "cost_copper": 2000000,
-      "price": "200 platinum Kronars",
-      "description": "This long piece of bobbin lace, woven from bone-white thread, features an elaborate knotwork pattern with a mesh background and neatly rolled edges.  Placed at even intervals down the middle of the lace, smallish five-petaled pink flowers interrupt the interlocking chains.  Grey-green leaves surround the roses, their feather-like shapes arcing outwards to meet the ribbon's edge and further obscure its base of perfectly symmetrical knotwork.",
       "last_seen": "2026-04-30"
     },
     {
