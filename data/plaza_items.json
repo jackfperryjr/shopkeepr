@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T21:13:49Z",
-  "item_count": 4132,
+  "updated_at": "2026-04-29T21:14:43Z",
+  "item_count": 4131,
   "items": [
     {
       "town": "Crossing",
@@ -4950,21 +4950,6 @@
       "cost_copper": 4000000,
       "price": "400 platinum Kronars",
       "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Bottle Room",
-      "shop": "BABY. GOT. YAK.",
-      "owner": "Dokorum",
-      "hours": "10am and 11pm",
-      "name": "a polished obsidian parry stick",
-      "short": "an obsidian parry stick",
-      "tap": "a polished obsidian parry stick",
-      "worn": "Right-arm shield (or parry stick).",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "A rod of polished obsidian with soft leather wrappings, the parry stick catches the light with various imperfections and inclusions in the stone.",
       "last_seen": "2026-04-29"
     },
     {
