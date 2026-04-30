@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T16:49:54Z",
-  "item_count": 4101,
+  "updated_at": "2026-04-30T16:51:34Z",
+  "item_count": 4100,
   "items": [
     {
       "town": "Crossing",
@@ -50409,12 +50409,12 @@
       "owner": "Fargill",
       "hours": "3pm and 12am",
       "name": "a broad-bladed Dwarven iron voulge with a stout hickory haft",
-      "short": "a goldweave phoenix",
-      "tap": "a goldweave phoenix with fire whirl ruby eyes",
-      "worn": "Generally worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Lirums",
-      "description": "Tightly compact to form the creature's body, the lustrous golden fabric spun with real gold filaments is cut loose at the edges and tinged with fiery red dye to form an elegantly radiant plumage.  The gems of its eyes bear complementary spiraling red and gold inclusions, like pupils burned in a perpetual gaze.",
+      "short": "a medium cover",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 2500000,
+      "price": "250 platinum Lirums",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
@@ -50520,21 +50520,6 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "The fabric shimmers in a soft, deep purple, its whorled surface catching light at varied angles to reveal subtle swirls of sheen.  Intricately carved from rainbow sapphires, wildling spiders dangle from the belt, adding an otherworldly allure to the belt's vibrant palette.  Each spider's faceted body melds from dark blue into hues of green and violet, while others shift into shades of red and orange.\nIt currently does not have any items tied to it.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Keep Room",
-      "shop": "Stalwart Gearworks Inc.",
-      "owner": "Fargill",
-      "hours": "3pm and 12am",
-      "name": "a goldweave phoenix with fire whirl ruby eyes",
-      "short": "a medium cover",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 2500000,
-      "price": "250 platinum Lirums",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
