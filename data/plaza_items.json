@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T17:11:28Z",
-  "item_count": 4120,
+  "updated_at": "2026-04-30T17:12:30Z",
+  "item_count": 4119,
   "items": [
     {
       "town": "Crossing",
@@ -55410,21 +55410,6 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Fertin Store",
-      "owner": "Fertin",
-      "hours": "12pm and 8am",
-      "name": "a steel thrusting blade",
-      "short": "a thrusting blade",
-      "tap": "a steel thrusting blade",
-      "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Dokoras",
-      "description": "You see the initials 'F. U.' impressed into the surface of the metal.",
       "last_seen": "2026-04-30"
     },
     {
