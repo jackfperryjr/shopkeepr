@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T14:08:05Z",
-  "item_count": 4141,
+  "updated_at": "2026-04-30T14:08:31Z",
+  "item_count": 4140,
   "items": [
     {
       "town": "Crossing",
@@ -59355,21 +59355,6 @@
       "cost_copper": 2000000,
       "price": "200 platinum Dokoras",
       "description": "Leather strips are wound around the handle to provide a good grip while wielding this weapon.  The dark metal of the rest of the haft flows into the polished dark silver head.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Ravens Repo, South",
-      "owner": "Zayreal",
-      "hours": "8am and 9pm",
-      "name": "an improvised parry stick made from assorted construction materials",
-      "short": "an improvised parry stick",
-      "tap": "an improvised parry stick made from assorted construction materials",
-      "worn": "Right-arm shield (or parry stick).",
-      "cost_copper": 2000000,
-      "price": "200 platinum Dokoras",
-      "description": "Composed of an assortment of building materials, the parry stick features a length of iron banding hammered around a stone strut and is lashed with twine for a rough grip.",
       "last_seen": "2026-04-30"
     },
     {
