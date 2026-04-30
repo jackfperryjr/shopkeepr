@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T17:04:09Z",
-  "item_count": 4119,
+  "updated_at": "2026-04-30T17:05:00Z",
+  "item_count": 4118,
   "items": [
     {
       "town": "Crossing",
@@ -42915,21 +42915,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Turmar Illumination.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Everything Ever",
-      "owner": "Eada",
-      "hours": "8am and 4am",
-      "name": "a polished flamewood cuff engraved with a long-tailed phoenix",
-      "short": "a polished flamewood cuff",
-      "tap": "a polished flamewood cuff engraved with a long-tailed phoenix",
-      "worn": "Wrist-worn.",
-      "cost_copper": 4000000,
-      "price": "400 platinum Lirums",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
