@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T16:13:32Z",
-  "item_count": 4124,
+  "updated_at": "2026-04-30T16:14:16Z",
+  "item_count": 4115,
   "items": [
     {
       "town": "Crossing",
@@ -56159,22 +56159,7 @@
       "worn": null,
       "cost_copper": 280000000,
       "price": "28,000 platinum Dokoras",
-      "description": "--=== Crafted Item Properties ===--\nQuality:       91 (of exceptional quality)\n--=== Fabric Properties ===--\nQuality:         91 (very high quality)\nType:            titanese\nThickness:       heavy\nDurability:      90 (great durability)\nElectric Resist: 65 (a somewhat good conductor of electricity)\nThermal Resist:  65 (somewhat good at transferring heat and cold)\nPhysical Resist: 94 (incredibly good at repelling physical blows)\nWorkability:     22 (difficult to work with)\nYards:           28 | A deed for some heavy titanese cloth reads:\n\"The bearer of this deed may tap it while inside of a crafting hall to have it traded for the material indicated.  This service is provided within the confines of the Crafting Societies due to the great size and difficulty with moving these materials.\"\nA detailed report of the item's properties are listed on the deed:\n--=== Crafted Item Properties ===--\nQuality:       91 (of exceptional quality)\n--=== Fabric Properties ===--\nQuality:         91 (very high quality)\nType:            titanese\nThickness:       heavy\nDurability:      90 (great durability)\nElectric Resist: 65 (a somewhat good conductor of electricity)\nThermal Resist:  65 (somewhat good at transferring heat and cold)\nPhysical Resist: 94 (incredibly good at repelling physical blows)\nWorkability:     22 (difficult to work with)\nYards:           28\nYou think the item is ready for reclaiming in any Society Hall by now.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Inabelle's Exotics",
-      "owner": "Inabelle",
-      "hours": "4pm and 1am",
-      "name": "a firestained agonite mask covered in an intricate asini reticulation",
-      "short": "a Velakan linen aventail",
-      "tap": "a sandy hued Velakan linen aventail reinforced with steelsilk",
-      "worn": "Neck-worn.",
-      "cost_copper": 40000000,
-      "price": "4,000 platinum Dokoras",
-      "description": "Dyed in variegated shades of light brown and rich caramel, strengthening bands of stitching cut a blue-grey network of zigzagging lines across the fabric like a web of lightning atop an ocean of sand.",
+      "description": "--=== Crafted Item Properties ===--\nQuality:       91 (of exceptional quality)\n--=== Fabric Properties ===--\nQuality:         91 (very high quality)\nType:            titanese\nThickness:       heavy\nDurability:      90 (great durability)\nElectric Resist: 65 (a somewhat good conductor of electricity)\nThermal Resist:  65 (somewhat good at transferring heat and cold)\nPhysical Resist: 94 (incredibly good at repelling physical blows)\nWorkability:     22 (difficult to work with)",
       "last_seen": "2026-04-30"
     },
     {
@@ -56190,21 +56175,6 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Dokoras",
       "description": "Numerous facets within the elaboratedly carved gem reveal varying shades of green.  Misty glimmers play across the surface of the flask, slightly distorting the light to give the brilliant stone an alchemical hue.  The flask's mouth is ringed with tel'athi, matching its cap and the rivets on the leather straps that allow secure attachment to the upper arm.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Inabelle's Exotics",
-      "owner": "Inabelle",
-      "hours": "4pm and 1am",
-      "name": "a furniture voucher illustrated with a forest-green wall displaying a lush woodland of verdant moonsilver trees",
-      "short": "a light throwing axe",
-      "tap": "a light kertig throwing axe",
-      "worn": null,
-      "cost_copper": 20000000,
-      "price": "2,000 platinum Dokoras",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
@@ -56310,21 +56280,6 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Dokoras",
       "description": "A serene landscape unfolds along the bottom hem, featuring a lone traveler gazing towards a rising sun embroidered in shimmering gold and orange threads.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Inabelle's Exotics",
-      "owner": "Inabelle",
-      "hours": "4pm and 1am",
-      "name": "a light kertig throwing axe",
-      "short": "a war hammer",
-      "tap": "a kertig war hammer",
-      "worn": null,
-      "cost_copper": 26000000,
-      "price": "2,600 platinum Dokoras",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
@@ -56513,36 +56468,6 @@
       "shop": "Inabelle's Exotics",
       "owner": "Inabelle",
       "hours": "4pm and 1am",
-      "name": "a sandy hued Velakan linen aventail reinforced with steelsilk",
-      "short": "a Velakan linen vest",
-      "tap": "a sandy hued Velakan linen vest reinforced with steelsilk",
-      "worn": "Shirt-worn, but not with armor.",
-      "cost_copper": 40000000,
-      "price": "4,000 platinum Dokoras",
-      "description": "Dyed in variegated shades of light brown and rich caramel, strengthening bands of stitching cut a blue-grey network of zigzagging lines across the fabric like a web of lightning atop an ocean of sand.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Inabelle's Exotics",
-      "owner": "Inabelle",
-      "hours": "4pm and 1am",
-      "name": "a sandy hued Velakan linen vest reinforced with steelsilk",
-      "short": "some svidvaw sis instructions",
-      "tap": "some svidaw sis instructions",
-      "worn": null,
-      "cost_copper": 50000000,
-      "price": "5,000 platinum Dokoras",
-      "description": "You see nothing unusual. | These instructions appear to be very fragile and will wear out quickly when studied.  They have only 1 uses remaining.\n-=   Instructions for crafting a metal svidaw sis    =-\nA metal svidaw sis is a craftable item in the Forging society under the Weaponsmithing crafting discipline.  This is considered to be a complicated piece to make, though knowledge of the Expert Blunt Weapon Design technique will be beneficial to the crafter.\nThis item is listed as a \"finished large metal blunt weapon\" ingredient type and is created using a forging hammer, some tongs, some metalworking oil, a grindstone and a metal anvil with forge.  A crafter may also find it helpful to have a shovel and a bellows on hand.\nA list of ingredients is provided:\n(1) refined metal ingot (12 volume)",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Inabelle's Exotics",
-      "owner": "Inabelle",
-      "hours": "4pm and 1am",
       "name": "a sanguine-hued recurve bow inlaid with intricate golden scrollwork",
       "short": "a sanguine-hued recurve bow",
       "tap": "a sanguine-hued recurve bow inlaid with intricate golden scrollwork",
@@ -56550,36 +56475,6 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Dokoras",
       "description": "Stained an inky black at the grip, the ornate gold inlay emerges as if dancing outward along the bow's upper and lower limbs from a smoothly gradated smoke.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Inabelle's Exotics",
-      "owner": "Inabelle",
-      "hours": "4pm and 1am",
-      "name": "a silverweave gown trimmed with Albarian lace",
-      "short": "a firestained agonite mask",
-      "tap": "a firestained agonite mask covered in an intricate asini reticulation",
-      "worn": "Nose-worn.",
-      "cost_copper": 40000000,
-      "price": "4,000 platinum Dokoras",
-      "description": "Dark red with a matte finish, the web of metallic embellishment still manages to stand out against the charcoal-colored base, and is further highlighted by a widespread crimson tinge.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Inabelle's Exotics",
-      "owner": "Inabelle",
-      "hours": "4pm and 1am",
-      "name": "a sleek sailfish carved from Drogor's Wrath sapphire",
-      "short": "a sleek sailfish",
-      "tap": "a sleek sailfish carved from Drogor's Wrath sapphire",
-      "worn": null,
-      "cost_copper": 50000000,
-      "price": "5,000 platinum Dokoras",
-      "description": "Its sail and bill are the dark cobalt of the ocean on a moonless night, streaked with paler striations that resemble whitecaps of a storm-wracked sea.",
       "last_seen": "2026-04-30"
     },
     {
@@ -56760,36 +56655,6 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Dokoras",
       "description": "There is a faint glow about the darkstone ring.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Inabelle's Exotics",
-      "owner": "Inabelle",
-      "hours": "4pm and 1am",
-      "name": "some audrualm scale gloves",
-      "short": "a furniture voucher",
-      "tap": "a furniture voucher illustrated with a forest-green wall displaying a lush woodland of verdant moonsilver trees",
-      "worn": null,
-      "cost_copper": 800000000,
-      "price": "80,000 platinum Dokoras",
-      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a forest-green wall displaying a lush woodland of verdant moonsilver trees, which occupies the wall space of your home.  The notations indicate that it has space for 0 items IN, 35 items ON, 0 items BEHIND and 0 items UNDER it.  It can be redeemed with any of the Estate Holder housing clerks.\"",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Inabelle's Exotics",
-      "owner": "Inabelle",
-      "hours": "4pm and 1am",
-      "name": "some svidaw sis instructions",
-      "short": "some scale gloves",
-      "tap": "some audrualm scale gloves",
-      "worn": "Glove-worn.",
-      "cost_copper": 80000000,
-      "price": "8,000 platinum Dokoras",
-      "description": "You see the image of a striking kingfisher diving into the rapids of a turbulent river impressed into the surface of the material.",
       "last_seen": "2026-04-30"
     },
     {
