@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T15:11:26Z",
-  "item_count": 4146,
+  "updated_at": "2026-04-30T15:12:06Z",
+  "item_count": 4145,
   "items": [
     {
       "town": "Crossing",
@@ -61365,21 +61365,6 @@
       "cost_copper": 2500000,
       "price": "250 platinum Dokoras",
       "description": "Tiny facets give the stone a rounded shape and catch any light to create a shimmering rainbow effect within its depths.  A buckled strap of black leather allows the user to affix the blade to their upper arm.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Wolf Den",
-      "owner": "Roxxana",
-      "hours": "9am and 9pm",
-      "name": "a long stemmed burlwood pipe shaped to resemble a snarling dragon's head",
-      "short": "a large cover",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 150000,
-      "price": "15 platinum Dokoras",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
