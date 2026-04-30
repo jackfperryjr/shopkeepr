@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T21:26:57Z",
-  "item_count": 4131,
+  "updated_at": "2026-04-29T21:28:05Z",
+  "item_count": 4130,
   "items": [
     {
       "town": "Crossing",
@@ -36405,21 +36405,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The dark wood was painstakingly carved to accentuate its naturally scaly appearance.  Bands of darkened metal peek out from beneath the braided leather straps wrapped about the weapon's grip.",
-      "last_seen": "2026-04-29"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Ocean Room",
-      "shop": "Trindin's Lost And Found",
-      "owner": "Trindin",
-      "hours": "2pm and 12am",
-      "name": "a heavy ruazin wool lusks domisaha with cambrinth beading",
-      "short": "a ruazin wool lusks domisaha",
-      "tap": "a heavy ruazin wool lusks domisaha with cambrinth beading",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Harsh to the touch, the thick, atramentous fabric of the voluminous flared coat provides ample protection from the elements.  Worked in austere rows, stone beads trim the collar and hem of the garment, their hue nearly indistinguishable from the shaggy wool but for the rusty red streaks characteristic of cambrinth.",
       "last_seen": "2026-04-29"
     },
     {
