@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T18:07:42Z",
-  "item_count": 4153,
+  "updated_at": "2026-04-30T18:08:04Z",
+  "item_count": 4152,
   "items": [
     {
       "town": "Crossing",
@@ -43755,21 +43755,6 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "This customization can be used with any normal door type home.\nExample of what this customization could look like...\nA nice door framed by a shimmering golden arch.\n[To use this customization, PUT arch ON {HOME}.]",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Children's Room",
-      "shop": "Finer Things By Zincir",
-      "owner": "Zincir",
-      "hours": "10am and 12am",
-      "name": "a grey and scarlet plaid greatkilt with a wide leather belt",
-      "short": "a grey and scarlet plaid greatkilt",
-      "tap": "a grey and scarlet plaid greatkilt with a wide leather belt",
-      "worn": "Pants-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
