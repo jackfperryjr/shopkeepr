@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T15:50:39Z",
-  "item_count": 4149,
+  "updated_at": "2026-05-01T15:51:45Z",
+  "item_count": 4148,
   "items": [
     {
       "town": "Crossing",
@@ -10943,21 +10943,6 @@
       "shop": "Clematis Crossing",
       "owner": "Shearah",
       "hours": "2pm and 12am",
-      "name": "a weathered leather backpack",
-      "short": "an orange silk blouse",
-      "tap": "an orange silk blouse with tiny black pumpkins delicately embroidered on the cuffs",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Dimly-Lit Storage",
-      "shop": "Clematis Crossing",
-      "owner": "Shearah",
-      "hours": "2pm and 12am",
       "name": "a wide candysatin scarf with wine-red and white stripes",
       "short": "a candysatin scarf",
       "tap": "a wide candysatin scarf with wine-red and white stripes",
@@ -11244,12 +11229,12 @@
       "owner": "Shearah",
       "hours": "2pm and 12am",
       "name": "some exquisitely tailored firestorm samite trousers",
-      "short": "a weathered leather backpack",
-      "tap": null,
-      "worn": "Back-worn.",
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "The backpack is dyed in multiple colors that should be good for hiding during the winter.",
+      "short": "an orange silk blouse",
+      "tap": "an orange silk blouse with tiny black pumpkins delicately embroidered on the cuffs",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
     {
