@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T21:22:06Z",
-  "item_count": 4128,
+  "updated_at": "2026-04-30T21:23:02Z",
+  "item_count": 4130,
   "items": [
     {
       "town": "Crossing",
@@ -32139,12 +32139,12 @@
       "owner": null,
       "hours": "1pm and 11pm",
       "name": "a brushed silver locket gypsy-set with duskbloom sapphires",
-      "short": "a smoke ruby charm",
-      "tap": "a smoke ruby charm inscribed with a stylized flame",
-      "worn": "Generally worn.",
-      "cost_copper": 7500000,
-      "price": "750 platinum Kronars",
-      "description": "Bordered by a sequence of sharply curved sigils, the gemstone charm is easily worn with a small silver pin on the back.",
+      "short": "a brushed silver locket",
+      "tap": "a brushed silver locket gypsy-set with duskbloom sapphires",
+      "worn": "Neck-worn.",
+      "cost_copper": 250000,
+      "price": "25 platinum Kronars",
+      "description": "The silver surface reflects the light with a soft sheen, slightly dulled by the brushed finish. | There's nothing written on it.",
       "last_seen": "2026-04-30"
     },
     {
@@ -32723,6 +32723,21 @@
       "shop": "Stravaig's Shop",
       "owner": null,
       "hours": "1pm and 11pm",
+      "name": "a steel wire-bristled brush acid-etched with a stylized dragon",
+      "short": "a steel wire-bristled brush",
+      "tap": "a steel wire-bristled brush acid-etched with a stylized dragon",
+      "worn": null,
+      "cost_copper": 4000000,
+      "price": "400 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Savannah Room",
+      "shop": "Stravaig's Shop",
+      "owner": null,
+      "hours": "1pm and 11pm",
       "name": "a sturdy hunting spear with a coralite spearhead",
       "short": "a hunting spear",
       "tap": "a sturdy hunting spear with a coralite spearhead",
@@ -32769,12 +32784,12 @@
       "owner": null,
       "hours": "1pm and 11pm",
       "name": "a tiny marblesilk fir tree covered in tufted red holly berries",
-      "short": "a brushed silver locket",
-      "tap": "a brushed silver locket gypsy-set with duskbloom sapphires",
-      "worn": "Neck-worn.",
-      "cost_copper": 750000,
-      "price": "75 platinum Kronars",
-      "description": "The silver surface reflects the light with a soft sheen, slightly dulled by the brushed finish. | There's nothing written on it.",
+      "short": "a smoke ruby charm",
+      "tap": "a smoke ruby charm inscribed with a stylized flame",
+      "worn": "Generally worn.",
+      "cost_copper": 7500000,
+      "price": "750 platinum Kronars",
+      "description": "Bordered by a sequence of sharply curved sigils, the gemstone charm is easily worn with a small silver pin on the back.",
       "last_seen": "2026-04-30"
     },
     {
@@ -32790,6 +32805,21 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "The hazy, translucent metal is nearly white in the coma, gradually transitioning to a pastel blue toward the tip of the tail.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Savannah Room",
+      "shop": "Stravaig's Shop",
+      "owner": null,
+      "hours": "1pm and 11pm",
+      "name": "a vardite military fork with a smokewood handle",
+      "short": "a vardite military fork",
+      "tap": "a vardite military fork with a smokewood handle",
+      "worn": null,
+      "cost_copper": 100000000,
+      "price": "10,000 platinum Kronars",
+      "description": "The dull orange metal stands out against the delicate grain of this beautiful wood handle that has been sealed with many layers of clear varnish to protect it from wear and tear.",
       "last_seen": "2026-04-30"
     },
     {
