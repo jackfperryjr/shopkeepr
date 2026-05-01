@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T11:25:42Z",
+  "updated_at": "2026-05-01T11:26:16Z",
   "item_count": 4108,
   "items": [
     {
@@ -22929,12 +22929,12 @@
       "owner": "Jerde",
       "hours": "12pm and 2am",
       "name": "a desumos-bone stack",
-      "short": "some magenta blueprints",
-      "tap": "some magenta blueprints depicting a cluttered storage room",
+      "short": "a desumos-bone stack",
+      "tap": null,
       "worn": null,
-      "cost_copper": 15000000,
-      "price": "1,500 platinum Kronars",
-      "description": "You see nothing unusual. | You need to be holding the magenta blueprints to do that.",
+      "cost_copper": 60000045,
+      "price": "6,000 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
     {
@@ -22944,12 +22944,12 @@
       "owner": "Jerde",
       "hours": "12pm and 2am",
       "name": "a dye tub",
-      "short": "a dye tub",
+      "short": "an unfinished collection",
       "tap": null,
       "worn": null,
-      "cost_copper": 150000000,
-      "price": "15,000 platinum Kronars",
-      "description": "The dye tub is empty. | You see nothing written on the tub.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
     {
@@ -22959,12 +22959,12 @@
       "owner": "Jerde",
       "hours": "12pm and 2am",
       "name": "a glass decahedron",
-      "short": "some tan blueprints",
-      "tap": "some tan blueprints depicting a cramped dormitory",
+      "short": "some celadon blueprints",
+      "tap": "some celadon blueprints depicting a somber gallery",
       "worn": null,
-      "cost_copper": 15000000,
-      "price": "1,500 platinum Kronars",
-      "description": "You see nothing unusual. | You need to be holding the tan blueprints to do that.",
+      "cost_copper": 24000000,
+      "price": "2,400 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the celadon blueprints to do that.",
       "last_seen": "2026-05-01"
     },
     {
@@ -22979,7 +22979,7 @@
       "worn": null,
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
-      "description": "Pale mists roil under the glassy surface.\nAs you try to look away you find your eyes displaying an inexplicable reluctance to let the glass octahedron go unwatched.",
+      "description": "Pale mists roil under the glassy surface.",
       "last_seen": "2026-05-01"
     },
     {
@@ -23034,12 +23034,12 @@
       "owner": "Jerde",
       "hours": "12pm and 2am",
       "name": "a star-streaked midnight black sack fastened with an obsidian murder crow",
-      "short": "some coal-black blueprints",
-      "tap": "some coal-black blueprints depicting a sweltering forge",
+      "short": "some pumpkin-orange blueprints",
+      "tap": "some pumpkin-orange blueprints depicting a tidy workshop",
       "worn": null,
       "cost_copper": 24000000,
       "price": "2,400 platinum Kronars",
-      "description": "You see nothing unusual. | You need to be holding the coal-black blueprints to do that.",
+      "description": "You see nothing unusual. | You need to be holding the pumpkin-orange blueprints to do that.",
       "last_seen": "2026-05-01"
     },
     {
@@ -23094,12 +23094,12 @@
       "owner": "Jerde",
       "hours": "12pm and 2am",
       "name": "an unfinished collection",
-      "short": "an unfinished collection",
+      "short": "a white paintstick",
       "tap": null,
       "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "You see nothing unusual.",
+      "cost_copper": 2500,
+      "price": "0 platinum Kronars",
+      "description": "This oily semi-solid mass of paint is roughly formed into a small brick.",
       "last_seen": "2026-05-01"
     },
     {
@@ -23114,7 +23114,7 @@
       "worn": null,
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
-      "description": "The dye appears to be unblemished. | blue",
+      "description": "The dye appears to be very potent. | blue",
       "last_seen": "2026-05-01"
     },
     {
@@ -23124,21 +23124,6 @@
       "owner": "Jerde",
       "hours": "12pm and 2am",
       "name": "some emerald dye",
-      "short": "some emerald dye",
-      "tap": "some emerald dye",
-      "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Kronars",
-      "description": "The dye appears to be very potent. | emerald",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Volcano Room",
-      "shop": "METAL Skin Cloth Bone And TOOLS",
-      "owner": "Jerde",
-      "hours": "12pm and 2am",
-      "name": "some flax dye",
       "short": "some blood-red blueprints",
       "tap": "some blood-red blueprints depicting a well-kept armory",
       "worn": null,
@@ -23153,13 +23138,28 @@
       "shop": "METAL Skin Cloth Bone And TOOLS",
       "owner": "Jerde",
       "hours": "12pm and 2am",
-      "name": "some olive-green dye",
-      "short": "some olive-green dye",
-      "tap": "some olive-green dye",
+      "name": "some flax dye",
+      "short": "some flax dye",
+      "tap": "some flax dye",
       "worn": null,
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
-      "description": "The dye appears to be very potent. | olive-green",
+      "description": "The dye appears to be very potent. | flax",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Volcano Room",
+      "shop": "METAL Skin Cloth Bone And TOOLS",
+      "owner": "Jerde",
+      "hours": "12pm and 2am",
+      "name": "some olive-green dye",
+      "short": "some chartreuse blueprints",
+      "tap": "some chartreuse blueprints depicting a softly lit dressing room",
+      "worn": null,
+      "cost_copper": 24000000,
+      "price": "2,400 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the chartreuse blueprints to do that.",
       "last_seen": "2026-05-01"
     },
     {
