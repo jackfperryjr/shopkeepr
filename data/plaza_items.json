@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T16:02:51Z",
-  "item_count": 4132,
+  "updated_at": "2026-05-01T16:03:52Z",
+  "item_count": 4131,
   "items": [
     {
       "town": "Crossing",
@@ -1410,21 +1410,6 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "Covered with real goat hide, this toy goat has an almost lifelike appearance, complete with floppy ears, warm brown eyes and a stubby little tail.  Only the subtle glint of metal beneath the hide betrays the fact that this goat is mechanical in nature rather than biological.  A wide leather collar with a small copper bell surrounds the animal's neck.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Almost Famous",
-      "owner": "Heda",
-      "hours": "2pm and 12am",
-      "name": "a coarse azure-scale cowl with fitted seams",
-      "short": "a coarse cowl",
-      "tap": "a coarse azure-scale cowl with fitted seams",
-      "worn": "Helm-worn.",
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
     {
