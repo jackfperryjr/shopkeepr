@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T08:56:07Z",
-  "item_count": 4143,
+  "updated_at": "2026-05-01T08:57:09Z",
+  "item_count": 4144,
   "items": [
     {
       "town": "Crossing",
@@ -37288,6 +37288,21 @@
       "tap": "a steel khuj with a balanced blade",
       "worn": null,
       "cost_copper": 100065,
+      "price": "10 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Ocean Room",
+      "shop": "Trindin's Lost And Found",
+      "owner": "Trindin",
+      "hours": "2pm and 12am",
+      "name": "a steel nightstick with a balanced design",
+      "short": "a nightstick",
+      "tap": "a steel nightstick with a balanced design",
+      "worn": null,
+      "cost_copper": 100035,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
