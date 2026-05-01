@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T13:26:09Z",
-  "item_count": 4120,
+  "updated_at": "2026-05-01T13:27:01Z",
+  "item_count": 4119,
   "items": [
     {
       "town": "Crossing",
@@ -17445,21 +17445,6 @@
       "cost_copper": 7500000,
       "price": "750 platinum Kronars",
       "description": "Silvery-white threads of this cloak glitter against the pink sapphire metallic threads used in the fabric.  Fashioned to drape elegantly from the shoulders, the finely woven material catches any available light and adds a faint rosaceous sheen.  A delicate silver pin, shaped like a ring of faesoul blooms, secures the cloak at the shoulder.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Palm Room",
-      "shop": "Gray Market",
-      "owner": "Gray",
-      "hours": "11am and 7pm",
-      "name": "an Elothean silk scholar's robe with shesegri-embroidered cuffs",
-      "short": "a silk scholar's robe",
-      "tap": "an Elothean silk scholar's robe with shesegri-embroidered cuffs",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 7500000,
-      "price": "750 platinum Kronars",
-      "description": "Cut from lustrous dove-grey silk, the voluminous garment is tailored for a loose, flowing fit.  A spiraling knotwork pattern stitched in golden thread adorns the cuff of each broad sleeve.",
       "last_seen": "2026-05-01"
     },
     {
