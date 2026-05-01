@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T10:58:18Z",
-  "item_count": 4144,
+  "updated_at": "2026-05-01T10:58:53Z",
+  "item_count": 4141,
   "items": [
     {
       "town": "Crossing",
@@ -44633,21 +44633,6 @@
       "shop": "JAK'S Treasures",
       "owner": "Jarxaxle",
       "hours": "9am and 12am",
-      "name": "a creased scroll labeled with Calm",
-      "short": "a creased scroll",
-      "tap": "a creased scroll labeled with Calm",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "It is labeled \"Calm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Theatre Room",
-      "shop": "JAK'S Treasures",
-      "owner": "Jarxaxle",
-      "hours": "9am and 12am",
       "name": "a creased scroll labeled with Major Physical Protection",
       "short": "a creased scroll",
       "tap": "a creased scroll labeled with Major Physical Protection",
@@ -44873,21 +44858,6 @@
       "shop": "JAK'S Treasures",
       "owner": "Jarxaxle",
       "hours": "9am and 12am",
-      "name": "a textured scroll labeled with Beckon the Naga",
-      "short": "a textured scroll",
-      "tap": "a textured scroll labeled with Beckon the Naga",
-      "worn": null,
-      "cost_copper": 4000000,
-      "price": "400 platinum Lirums",
-      "description": "It is labeled \"Beckon the Naga.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Theatre Room",
-      "shop": "JAK'S Treasures",
-      "owner": "Jarxaxle",
-      "hours": "9am and 12am",
       "name": "a textured scroll labeled with Thunderclap",
       "short": "a textured scroll",
       "tap": "a textured scroll labeled with Thunderclap",
@@ -44895,21 +44865,6 @@
       "cost_copper": 6000000,
       "price": "600 platinum Lirums",
       "description": "It is labeled \"Thunderclap.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Theatre Room",
-      "shop": "JAK'S Treasures",
-      "owner": "Jarxaxle",
-      "hours": "9am and 12am",
-      "name": "a verdant scroll labeled with Aura Sight",
-      "short": "a verdant scroll",
-      "tap": "a verdant scroll labeled with Aura Sight",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "It is labeled \"Aura Sight.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-05-01"
     },
     {
