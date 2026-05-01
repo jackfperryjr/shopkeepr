@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T17:14:11Z",
-  "item_count": 4101,
+  "updated_at": "2026-05-01T17:15:10Z",
+  "item_count": 4100,
   "items": [
     {
       "town": "Crossing",
@@ -22334,7 +22334,7 @@
       "worn": "Generally worn.",
       "cost_copper": 3680000,
       "price": "368 platinum Kronars",
-      "description": "Set within the red disc of the deathfiber rosette is the image of a waxing gibbous moon.",
+      "description": "Set within the red disc of the deathfiber rosette is the outline of a waxing gibbous moon.",
       "last_seen": "2026-05-01"
     },
     {
@@ -22470,21 +22470,6 @@
       "cost_copper": 6730000,
       "price": "673 platinum Kronars",
       "description": "Showing at the neck and cuffs, the deep blue cotton of the under garment contrasts with the pale ivory hue of the outer garment.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Volcano Room",
-      "shop": "Krazy Karakhan's Kombat Krafts",
-      "owner": "Karakhan",
-      "hours": "3pm and 1am",
-      "name": "some cloth lootbag instructions",
-      "short": "some lootbag instructions",
-      "tap": "some cloth lootbag instructions",
-      "worn": null,
-      "cost_copper": 62320000,
-      "price": "6,232 platinum Kronars",
-      "description": "You see nothing unusual. | These instructions appear to be very fragile and will wear out quickly when studied.  They have only 1 uses remaining.\n-=   Instructions for crafting a cloth lootbag    =-\nA cloth lootbag is a craftable item in the Outfitting society under the Tailoring crafting discipline.  This is considered to be a challenging piece to make, though knowledge of the Cloth Container Design technique will be beneficial to the crafter.\nThis item is listed as a \"finished cloth container\" ingredient type and is created using a yardstick, scissors, a needle and thinner thread.  A crafter may also find it helpful to have straight pins and a slickstone or flat iron on hand.\nA list of ingredients is provided:\n(1) finished fabric cloth (5 yards)",
       "last_seen": "2026-05-01"
     },
     {
