@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T20:49:38Z",
-  "item_count": 4133,
+  "updated_at": "2026-04-30T20:50:00Z",
+  "item_count": 4129,
   "items": [
     {
       "town": "Crossing",
@@ -13208,36 +13208,6 @@
       "shop": "Dragon's Cache",
       "owner": "Endrath",
       "hours": "1pm and 11pm",
-      "name": "a cerulean scroll labeled with Dispel",
-      "short": "a cerulean scroll",
-      "tap": "a cerulean scroll labeled with Dispel",
-      "worn": null,
-      "cost_copper": 500000,
-      "price": "50 platinum Kronars",
-      "description": "It is labeled \"Dispel.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Meeting Room",
-      "shop": "Dragon's Cache",
-      "owner": "Endrath",
-      "hours": "1pm and 11pm",
-      "name": "a cerulean scroll labeled with Sure Footing",
-      "short": "a cerulean scroll",
-      "tap": "a cerulean scroll labeled with Sure Footing",
-      "worn": null,
-      "cost_copper": 18500000,
-      "price": "1,850 platinum Kronars",
-      "description": "It is labeled \"Sure Footing.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Meeting Room",
-      "shop": "Dragon's Cache",
-      "owner": "Endrath",
-      "hours": "1pm and 11pm",
       "name": "a dirty forging apron",
       "short": "a forging apron",
       "tap": "a dirty forging apron",
@@ -13335,36 +13305,6 @@
       "cost_copper": 122500000,
       "price": "12,250 platinum Kronars",
       "description": "The soft, cottony fabric that covers the time is patterned in a distinctive combination of subtle ivory whorls among prismatic fractals inherent in the weave.  Stitched in glittering goldweave, the title phrase shines through like beaming sunlight upon a backdrop of clouds.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Meeting Room",
-      "shop": "Dragon's Cache",
-      "owner": "Endrath",
-      "hours": "1pm and 11pm",
-      "name": "a stormy grey scroll labeled with Obfuscation",
-      "short": "a stormy grey scroll",
-      "tap": "a stormy grey scroll labeled with Obfuscation",
-      "worn": null,
-      "cost_copper": 1350000,
-      "price": "135 platinum Kronars",
-      "description": "It is labeled \"Obfuscation.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Meeting Room",
-      "shop": "Dragon's Cache",
-      "owner": "Endrath",
-      "hours": "1pm and 11pm",
-      "name": "a stormy grey scroll labeled with Stone Strike",
-      "short": "a stormy grey scroll",
-      "tap": "a stormy grey scroll labeled with Stone Strike",
-      "worn": null,
-      "cost_copper": 12500000,
-      "price": "1,250 platinum Kronars",
-      "description": "It is labeled \"Stone Strike.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-04-30"
     },
     {
