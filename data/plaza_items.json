@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T21:54:02Z",
-  "item_count": 4138,
+  "updated_at": "2026-04-30T21:55:07Z",
+  "item_count": 4146,
   "items": [
     {
       "town": "Crossing",
@@ -10118,6 +10118,21 @@
       "shop": "Clematis Crossing",
       "owner": "Shearah",
       "hours": "2pm and 12am",
+      "name": "a ceremonial iron greatsword enriched with Gorbesh iconography",
+      "short": "a ceremonial iron greatsword",
+      "tap": "a ceremonial iron greatsword enriched with Gorbesh iconography",
+      "worn": null,
+      "cost_copper": 6250000,
+      "price": "625 platinum Kronars",
+      "description": "Accentuated with yellow and black gold, etching on the heavy blade depicts the mythical Battle of Coevoe, in which Tieheq supported the God-Emperor Xin'Alaudas as he triumphed over the Endian Nation of the Luethra.  Surmounting the weapon is a pommel set with a smoky black quartz carved into the likeness of the planet Tliij. | \"Victory Through Strength and Courage\"",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
       "name": "a cherry blossom-pink valise clasped by a filigreed verdanite fairy wing",
       "short": "some stinky rat pomade",
       "tap": null,
@@ -10298,6 +10313,21 @@
       "shop": "Clematis Crossing",
       "owner": "Shearah",
       "hours": "2pm and 12am",
+      "name": "a firestained silver dragon's claw amulet grasping a brilliant hibiscus tourmaline in its talons",
+      "short": "a dragon's claw amulet",
+      "tap": "a firestained silver dragon's claw amulet grasping a brilliant hibiscus tourmaline in its talons",
+      "worn": "Neck-worn.",
+      "cost_copper": 100000000,
+      "price": "10,000 platinum Kronars",
+      "description": "A curved relic of pale metal forms the centerpiece, its surface marred with streaks of black and red patina.  Each joint along the sculpted talon shows deliberate texturing, lending it a lifelike articulation.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
       "name": "a firestorm samite coat shimmering with pale hues reminiscent of white-hot flames",
       "short": "a bottle of naphtha",
       "tap": null,
@@ -10320,6 +10350,36 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Discolored and spotted leather is visable beneath a layer of amateurly applied moss and tree leaves, allowing the armor to blend into a forest setting.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
+      "name": "a formal black dreamweave kimono embroidered with swirling phofe flowers",
+      "short": "a shimmering black kimono",
+      "tap": "a formal black dreamweave kimono embroidered with swirling phofe flowers",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "Vivid purple blossoms are satin-stitched across the soft and supple fabric of the elegantly draped dress robe.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
+      "name": "a formal black jaspe odaj engulfed by a kaleidoscope of sky opal butterflies",
+      "short": "a shimmering black odaj",
+      "tap": "a formal black jaspe odaj engulfed by a kaleidoscope of sky opal butterflies",
+      "worn": "Shirt-worn with armor.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Kronars",
+      "description": "Lustrous gemstone butterflies wrap up and around the sleeveless traditional Rakash robe to reach its elegant shoulder pleats.",
       "last_seen": "2026-04-30"
     },
     {
@@ -10433,6 +10493,21 @@
       "shop": "Clematis Crossing",
       "owner": "Shearah",
       "hours": "2pm and 12am",
+      "name": "a pair of segmented orichalcum goggles with gold sphenoid-shaped buckles",
+      "short": "a pair of orichalcum goggles",
+      "tap": "a pair of segmented orichalcum goggles with gold sphenoid-shaped buckles",
+      "worn": "Nose-worn.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Kronars",
+      "description": "Made from polished and varnished red-orange orichalcum, segmented metal pieces frame the two thick glass lenses.  The eyewear can be adjusted to the right fit with a wide leather strap adorned with two flame-shaped gold buckles.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
       "name": "a pair of wool riding breeches reinforced with dusky purple suede",
       "short": "a bleached bone amulet",
       "tap": "a bleached bone amulet carved into a stylized black pard",
@@ -10485,6 +10560,21 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Kronars",
       "description": "Made entirely of phthalo-blue oceanic orichalcum from the headjoint to the culmination of the body, the rich blue metallic sheen has been broken up by the intense azure sirenstone keys that cover the instrument's body.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
+      "name": "a platinum chain",
+      "short": "a platinum chain",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
@@ -10650,6 +10740,21 @@
       "cost_copper": 3500000,
       "price": "350 platinum Kronars",
       "description": "Steel provides the prod and boltplate for this plain weapon.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
+      "name": "a sleek black leather wrist sheath secured with small silver studs",
+      "short": "a leather wrist sheath",
+      "tap": "a sleek black leather wrist sheath secured with small silver studs",
+      "worn": "Wrist-worn.",
+      "cost_copper": 1500000,
+      "price": "150 platinum Kronars",
+      "description": "Worked to supple softness, the close fitted sheath is understated but efficient.",
       "last_seen": "2026-04-30"
     },
     {
@@ -11145,6 +11250,21 @@
       "cost_copper": 25000000,
       "price": "2,500 platinum Kronars",
       "description": "The crystalline icosahedron pulses with a vibrant light.  Thin lines of silver enmesh its surface, forming an organic lattice.  Spun from silken fibers, the sanguine ribbon has an almost translucent quality.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
+      "name": "some gloomwood knitting needles",
+      "short": "some gloomwood knitting needles",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "The knitting needles are not in the process of knitting any yarn.\nYou see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
