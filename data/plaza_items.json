@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T20:03:52Z",
+  "updated_at": "2026-04-30T20:04:31Z",
   "item_count": 4139,
   "items": [
     {
@@ -3939,12 +3939,12 @@
       "owner": "Arohuko",
       "hours": "3pm and 3am",
       "name": "a glaes scimitar",
-      "short": "some glaes throwing stars",
-      "tap": null,
+      "short": "a scimitar",
+      "tap": "a glaes scimitar",
       "worn": null,
-      "cost_copper": 25000000,
-      "price": "2,500 platinum Kronars",
-      "description": "You see nothing unusual.",
+      "cost_copper": 13500033,
+      "price": "1,350 platinum Kronars",
+      "description": "You see the initials 'P. D.' impressed into the surface of the metal.",
       "last_seen": "2026-04-30"
     },
     {
@@ -3954,11 +3954,11 @@
       "owner": "Arohuko",
       "hours": "3pm and 3am",
       "name": "a glaes throwing club",
-      "short": "a light throwing axe",
-      "tap": "a light glaes throwing axe",
+      "short": "a throwing club",
+      "tap": "a glaes throwing club",
       "worn": null,
-      "cost_copper": 13500033,
-      "price": "1,350 platinum Kronars",
+      "cost_copper": 11250037,
+      "price": "1,125 platinum Kronars",
       "description": "You see the initials 'P. D.' impressed into the surface of the metal.",
       "last_seen": "2026-04-30"
     },
@@ -4209,8 +4209,8 @@
       "owner": "Arohuko",
       "hours": "3pm and 3am",
       "name": "a light glaes throwing axe",
-      "short": "a scimitar",
-      "tap": "a glaes scimitar",
+      "short": "a light throwing axe",
+      "tap": "a light glaes throwing axe",
       "worn": null,
       "cost_copper": 13500033,
       "price": "1,350 platinum Kronars",
