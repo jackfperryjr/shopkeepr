@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T22:37:16Z",
-  "item_count": 4139,
+  "updated_at": "2026-04-30T22:38:23Z",
+  "item_count": 4140,
   "items": [
     {
       "town": "Crossing",
@@ -55586,6 +55586,21 @@
       "name": "a steel throwing hammer",
       "short": "a throwing hammer",
       "tap": "a steel throwing hammer",
+      "worn": null,
+      "cost_copper": 100000,
+      "price": "10 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Storage",
+      "shop": "Fertin Store",
+      "owner": "Fertin",
+      "hours": "12pm and 8am",
+      "name": "a steel thrusting blade",
+      "short": "a thrusting blade",
+      "tap": "a steel thrusting blade",
       "worn": null,
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
