@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T18:47:24Z",
-  "item_count": 4110,
+  "updated_at": "2026-05-01T18:48:06Z",
+  "item_count": 4106,
   "items": [
     {
       "town": "Crossing",
@@ -37838,21 +37838,6 @@
       "shop": "Abigaile's BIZARRE",
       "owner": "Taysan",
       "hours": "2pm and 8pm",
-      "name": "a belradi elixir",
-      "short": "a belradi elixir",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 250000,
-      "price": "25 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Food Plaza",
-      "shop": "Abigaile's BIZARRE",
-      "owner": "Taysan",
-      "hours": "2pm and 8pm",
       "name": "a bright white notecard with a message that reads: \"Dirty Inkpot is for removing magical tattoos\"",
       "short": "a bright white notecard",
       "tap": "a bright white notecard with a message that reads: \"Dirty Inkpot is for removing magical tattoos\"",
@@ -38033,21 +38018,6 @@
       "shop": "Abigaile's BIZARRE",
       "owner": "Taysan",
       "hours": "2pm and 8pm",
-      "name": "a haralun boomerang with a tempered finish",
-      "short": "a boomerang",
-      "tap": "a haralun boomerang with a tempered finish",
-      "worn": null,
-      "cost_copper": 3500000,
-      "price": "350 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Food Plaza",
-      "shop": "Abigaile's BIZARRE",
-      "owner": "Taysan",
-      "hours": "2pm and 8pm",
       "name": "a hefty demonsbane leather fighter's rucksack buckled with agonite",
       "short": "an icesteel great helm",
       "tap": "an icesteel great helm layered with dark crimson wool and ice-veined leather",
@@ -38145,21 +38115,6 @@
       "cost_copper": 2500000,
       "price": "250 platinum Lirums",
       "description": "Outlined with dark crimson borders, wide lengths of blue-white leather crisscross the gloves in a simple diamond pattern.\nThe barest hint of a blue-white shimmer appears across the surface of the leather.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Food Plaza",
-      "shop": "Abigaile's BIZARRE",
-      "owner": "Taysan",
-      "hours": "2pm and 8pm",
-      "name": "a marram salve",
-      "short": "a marram salve",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 300000,
-      "price": "30 platinum Lirums",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
     {
@@ -38549,21 +38504,6 @@
       "worn": null,
       "cost_copper": 8000000,
       "price": "800 platinum Lirums",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Food Plaza",
-      "shop": "Abigaile's BIZARRE",
-      "owner": "Taysan",
-      "hours": "2pm and 8pm",
-      "name": "some dioica poultices",
-      "short": "some dioica poultices",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 250000,
-      "price": "25 platinum Lirums",
       "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
