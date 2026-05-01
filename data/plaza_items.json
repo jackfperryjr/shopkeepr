@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T14:49:34Z",
-  "item_count": 4127,
+  "updated_at": "2026-05-01T14:49:54Z",
+  "item_count": 4129,
   "items": [
     {
       "town": "Crossing",
@@ -35355,6 +35355,36 @@
       "cost_copper": 500000000,
       "price": "50,000 platinum Kronars",
       "description": "Etched into polished metal along the rim are the symbols of the Thirteen.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Sun Room",
+      "shop": "Teh Black Market",
+      "owner": "Pucktin",
+      "hours": "3am and 11pm",
+      "name": "some steel box-jaw tongs",
+      "short": "some box-jaw tongs",
+      "tap": "some steel box-jaw tongs",
+      "worn": null,
+      "cost_copper": 350000,
+      "price": "35 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Sun Room",
+      "shop": "Teh Black Market",
+      "owner": "Pucktin",
+      "hours": "3am and 11pm",
+      "name": "some steel hooked pliers",
+      "short": "some hooked pliers",
+      "tap": "some steel hooked pliers",
+      "worn": null,
+      "cost_copper": 350000,
+      "price": "35 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
     {
