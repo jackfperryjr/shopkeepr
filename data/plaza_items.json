@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T16:16:18Z",
-  "item_count": 4130,
+  "updated_at": "2026-05-01T16:17:19Z",
+  "item_count": 4129,
   "items": [
     {
       "town": "Crossing",
@@ -36853,21 +36853,6 @@
       "tap": "a steel falcata with a balanced blade",
       "worn": null,
       "cost_copper": 100025,
-      "price": "10 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Ocean Room",
-      "shop": "Trindin's Lost And Found",
-      "owner": "Trindin",
-      "hours": "2pm and 12am",
-      "name": "a steel greataxe with a balanced blade",
-      "short": "a greataxe",
-      "tap": "a steel greataxe with a balanced blade",
-      "worn": null,
-      "cost_copper": 100060,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
