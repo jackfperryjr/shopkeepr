@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T21:32:05Z",
-  "item_count": 4130,
+  "updated_at": "2026-04-30T21:32:42Z",
+  "item_count": 4128,
   "items": [
     {
       "town": "Crossing",
@@ -49913,28 +49913,13 @@
       "shop": "Sawnacehs",
       "owner": "Sfolstikena",
       "hours": "4pm and 12am",
-      "name": "a furniture voucher illustrated with a gloomwood canopy bed draped in ominously glowing vines of blackened moonsilver",
-      "short": "a furniture voucher",
-      "tap": "a furniture voucher illustrated with a gloomwood canopy bed draped in ominously glowing vines of blackened moonsilver",
-      "worn": null,
-      "cost_copper": 250000000,
-      "price": "25,000 platinum Lirums",
-      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a gloomwood canopy bed draped in ominously glowing vines of blackened moonsilver, which occupies the bed (misc2) space of your home.  The notations indicate that it has space for 0 items IN, 25 items ON, 5 items BEHIND and 5 items UNDER it.  It can be redeemed with any of the Estate Holder housing clerks.\"",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Children's Room",
-      "shop": "Sawnacehs",
-      "owner": "Sfolstikena",
-      "hours": "4pm and 12am",
       "name": "a furniture voucher illustrated with a windstorm gossamer settee",
-      "short": "a turquoise pilgrim's badge",
-      "tap": "a polished godsmarked turquoise cabochon pilgrim's badge",
-      "worn": "Generally worn.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Lirums",
-      "description": "This is a pilgrim's badge that will show the owner has traveled to various shrines about Elanthia.  Kissing the pilgrim's badge will make it your own.",
+      "short": "a scintillant lazuline elixir",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 25000000,
+      "price": "2,500 platinum Lirums",
+      "description": "The viscous stuff within the vial changes constantly as it moves, one moment coruscating sky-blue and the next, fading to a nacreous blue dusk with motes like fireflies flashing deep within.",
       "last_seen": "2026-04-30"
     },
     {
@@ -50160,21 +50145,6 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Lirums",
       "description": "Designed to sit at the base of the neck, this elaborate necklace features vivid green iahja shards painstakingly inlaid in an artful baroque pattern, the translucent gems brilliant with blue and yellow iridescence.  Tear-shaped damaryn pearls dangle gracefully to rest below the hollow of the neck when worn.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Children's Room",
-      "shop": "Sawnacehs",
-      "owner": "Sfolstikena",
-      "hours": "4pm and 12am",
-      "name": "a white furniture voucher illustrated with a pair of lifesculpted reading chairs",
-      "short": "a scintillant lazuline elixir",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 25000000,
-      "price": "2,500 platinum Lirums",
-      "description": "The viscous stuff within the vial changes constantly as it moves, one moment coruscating sky-blue and the next, fading to a nacreous blue dusk with motes like fireflies flashing deep within.",
       "last_seen": "2026-04-30"
     },
     {
