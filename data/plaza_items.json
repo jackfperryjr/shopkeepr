@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T00:29:27Z",
-  "item_count": 4140,
+  "updated_at": "2026-05-01T00:30:08Z",
+  "item_count": 4138,
   "items": [
     {
       "town": "Crossing",
@@ -23993,21 +23993,6 @@
       "shop": "Martyka's Secret Room",
       "owner": "Martyka",
       "hours": "5pm and 3am",
-      "name": "a blue starlight velvet nightgown with elven snowlace trim",
-      "short": "a starlight velvet nightgown",
-      "tap": "a blue starlight velvet nightgown with elven snowlace trim",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "Delicate tracery of snowlace edges the sleeves and neckline of the deep blue plush garment.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Stomping Room",
-      "shop": "Martyka's Secret Room",
-      "owner": "Martyka",
-      "hours": "5pm and 3am",
       "name": "a hefty black volume bound in metallic hide with \"Imperium\" on the spine",
       "short": "a hefty black volume",
       "tap": "a hefty black volume bound in metallic hide with \"Imperium\" on the spine",
@@ -24015,21 +24000,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The thick material binding this heavy volume is scabrous and rasp-like, similar to sharkskin, but much, much rougher.  A series of tiny crimson rubies decorate the perimeter of the book's spine.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Stomping Room",
-      "shop": "Martyka's Secret Room",
-      "owner": "Martyka",
-      "hours": "5pm and 3am",
-      "name": "a length of haematic scalene",
-      "short": "a length of haematic scalene",
-      "tap": null,
-      "worn": "Pants-worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
     {
