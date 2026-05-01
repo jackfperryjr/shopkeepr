@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T04:07:44Z",
-  "item_count": 4141,
+  "updated_at": "2026-05-01T04:09:54Z",
+  "item_count": 4137,
   "items": [
     {
       "town": "Crossing",
@@ -50295,22 +50295,7 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Lirums",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "The Shieldery",
-      "shop": "Sorcerous Patterns",
-      "owner": "Balistrade",
-      "hours": "5am and 11pm",
-      "name": "a bright white notecard with a message that reads: \"The Granite Cabinet contains scrolls from the Elemental mana sphere.\"",
-      "short": "a bright white notecard",
-      "tap": "a bright white notecard with a message that reads: \"The Granite Cabinet contains scrolls from the Elemental mana sphere.\"",
-      "worn": null,
-      "cost_copper": 100000000,
-      "price": "10,000 platinum Lirums",
-      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50325,7 +50310,7 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Lirums",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50340,7 +50325,7 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Lirums",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50355,7 +50340,7 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Lirums",
       "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50370,7 +50355,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Aggressive Stance.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50385,7 +50370,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Saesordian Compass.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50400,7 +50385,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Sever Thread.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50415,37 +50400,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Stun Foe.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "The Shieldery",
-      "shop": "Sorcerous Patterns",
-      "owner": "Balistrade",
-      "hours": "5am and 11pm",
-      "name": "a clean scroll labeled with Swirling Winds",
-      "short": "a clean scroll",
-      "tap": "a clean scroll labeled with Swirling Winds",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "It is labeled \"Swirling Winds.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "The Shieldery",
-      "shop": "Sorcerous Patterns",
-      "owner": "Balistrade",
-      "hours": "5am and 11pm",
-      "name": "a clean scroll labeled with Tremor",
-      "short": "a clean scroll",
-      "tap": "a clean scroll labeled with Tremor",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "It is labeled \"Tremor.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50460,7 +50415,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Calm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50475,7 +50430,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Curse of Zachriedek.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50490,7 +50445,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Curse of the Wilds.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50505,7 +50460,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Dazzle.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50520,7 +50475,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Devitalize.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50535,7 +50490,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Harawep's Bonds.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50550,7 +50505,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Machinist's Touch.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50565,7 +50520,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Platinum Hands of Kertigen.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50580,7 +50535,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Sovereign Destiny.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50595,7 +50550,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Earth Meld.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50610,7 +50565,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Hands of Lirisa.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50625,22 +50580,7 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Lirums",
       "description": "It is labeled \"Sidhlot's Flaying.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "The Shieldery",
-      "shop": "Sorcerous Patterns",
-      "owner": "Balistrade",
-      "hours": "5am and 11pm",
-      "name": "a soiled scroll labeled with Arc Light",
-      "short": "a soiled scroll",
-      "tap": "a soiled scroll labeled with Arc Light",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Lirums",
-      "description": "It is labeled \"Arc Light.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50655,7 +50595,7 @@
       "cost_copper": 10000000,
       "price": "1,000 platinum Lirums",
       "description": "It is labeled \"Awaken.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50670,7 +50610,7 @@
       "cost_copper": 100000000,
       "price": "10,000 platinum Lirums",
       "description": "It is labeled \"Bonegrinder.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50685,7 +50625,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Deadfall.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50700,7 +50640,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Dinazen Olkar.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50715,7 +50655,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Fists of Faenella.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50730,7 +50670,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Huldah's Pall.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50745,7 +50685,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Last Gift of Vithwok IV.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50760,7 +50700,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Nonchalance.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50775,7 +50715,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Protection from Evil.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50790,7 +50730,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Soul Shield.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50805,7 +50745,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Soul Sickness.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
@@ -50820,7 +50760,7 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Visage.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-04-30"
+      "last_seen": "2026-05-01"
     },
     {
       "town": "Riverhaven",
