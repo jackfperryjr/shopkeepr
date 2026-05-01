@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T21:19:31Z",
-  "item_count": 4129,
+  "updated_at": "2026-04-30T21:19:59Z",
+  "item_count": 4128,
   "items": [
     {
       "town": "Crossing",
@@ -28590,21 +28590,6 @@
       "cost_copper": 150000000,
       "price": "15,000 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Ocean Room",
-      "shop": "Quest, Fest, And Crafted",
-      "owner": "Acronyx",
-      "hours": "3am and 11pm",
-      "name": "a small demonscale shield pyrographed with a map of the Blasted Plains",
-      "short": "a small demonscale shield",
-      "tap": "a small demonscale shield pyrographed with a map of the Blasted Plains",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 150000000,
-      "price": "15,000 platinum Kronars",
-      "description": "Barely visible over the midnight-blue leather is a tropical paradise superimposed over a hellish volcanic landscape.  The golden metal boss is etched with an eye whose lid is sewn shut.",
       "last_seen": "2026-04-30"
     },
     {
