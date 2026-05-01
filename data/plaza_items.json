@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T12:32:37Z",
-  "item_count": 4137,
+  "updated_at": "2026-05-01T12:33:35Z",
+  "item_count": 4136,
   "items": [
     {
       "town": "Crossing",
@@ -19605,21 +19605,6 @@
       "cost_copper": 350000,
       "price": "35 platinum Kronars",
       "description": "Each earring is carved from a single crystal of deep yellow-orange with deep green inclusions that shimmer in the light.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Lodge Room",
-      "shop": "Infamous",
-      "owner": "Selasious",
-      "hours": "6am and 4pm",
-      "name": "some black leather elbow wraps affixed with broken fork tines",
-      "short": "some elbow wraps",
-      "tap": "some black leather elbow wraps affixed with broken fork tines",
-      "worn": "Elbow-worn weapon.",
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
     {
