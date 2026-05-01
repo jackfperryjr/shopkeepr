@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T19:35:32Z",
-  "item_count": 4145,
+  "updated_at": "2026-04-30T19:36:13Z",
+  "item_count": 4144,
   "items": [
     {
       "town": "Crossing",
@@ -61440,21 +61440,6 @@
       "cost_copper": 2000000,
       "price": "200 platinum Dokoras",
       "description": "The stylized equine body is stretched in full gallop with its colorful tail smoothly transitioning into the heat-colored blade.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Play Yard",
-      "shop": "Wolf Den",
-      "owner": "Roxxana",
-      "hours": "9am and 9pm",
-      "name": "a rich emerald witchweft cloak fixed with an absinthe emerald teardrop",
-      "short": "a witchweft cloak",
-      "tap": "a rich emerald witchweft cloak fixed with an absinthe emerald teardrop",
-      "worn": "Cloak-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Dokoras",
-      "description": "Designed to secure the garment tightly at the wearer's throat, the carefully shaped gem appears like a droplet of poison given its cut and color.",
       "last_seen": "2026-04-30"
     },
     {
