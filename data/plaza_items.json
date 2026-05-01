@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T16:04:26Z",
-  "item_count": 4131,
+  "updated_at": "2026-05-01T16:05:26Z",
+  "item_count": 4130,
   "items": [
     {
       "town": "Crossing",
@@ -4605,21 +4605,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The exquisite gem sparkles throughout the magnificent radiant cut, refracting tinges of pale green.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Bottle Room",
-      "shop": "BABY. GOT. YAK.",
-      "owner": "Dokorum",
-      "hours": "10am and 11pm",
-      "name": "a buckler mosaicked with a gold-white temple amid lush gardens",
-      "short": "a mosaic buckler",
-      "tap": "a buckler mosaicked with a gold-white temple amid lush gardens",
-      "worn": "Left-arm shield (or parry stick).",
-      "cost_copper": 700000,
-      "price": "70 platinum Kronars",
-      "description": "The mosaic features hefty telamons, flared stairs, and peacocks all depicted in wild colors.",
       "last_seen": "2026-05-01"
     },
     {
