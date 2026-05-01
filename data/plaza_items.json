@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T17:51:12Z",
-  "item_count": 4114,
+  "updated_at": "2026-05-01T17:51:54Z",
+  "item_count": 4113,
   "items": [
     {
       "town": "Crossing",
@@ -51930,21 +51930,6 @@
       "cost_copper": 1250000,
       "price": "125 platinum Dokoras",
       "description": "Nearly covering the surface of the protective headwear, each plume is limned in iridescent black paint to stand out against the dark red leather.  Miniscule black diamond shards are scattered amongst the feathers to give them depth and texture.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "'The Cramus Collection'",
-      "owner": "Cramus",
-      "hours": "4pm and 11pm",
-      "name": "a discolored whiskey keg",
-      "short": "a discolored whiskey keg",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Dokoras",
-      "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home with a discolored whiskey keg resting by the door.\n[To use this customization, PUT keg ON {HOME}.]",
       "last_seen": "2026-05-01"
     },
     {
