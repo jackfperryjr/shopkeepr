@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T19:00:41Z",
-  "item_count": 4141,
+  "updated_at": "2026-04-30T19:01:41Z",
+  "item_count": 4140,
   "items": [
     {
       "town": "Crossing",
@@ -36120,21 +36120,6 @@
       "cost_copper": 2000000,
       "price": "200 platinum Kronars",
       "description": "Crushed emeralds form vines that weave their way across the supple black doeskin of the corset.  Onyx thorns, a hint of danger in their sharply honed points, enhance the rambling briars.  Small blood-red rubies, fully faceted to show off the brilliant fire inherent in each gem, are grouped to create lush roses bursting into bloom.\nThe top hook of the doeskin corset is open.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Ocean Room",
-      "shop": "Trindin's Lost And Found",
-      "owner": "Trindin",
-      "hours": "2pm and 12am",
-      "name": "a black linen packet with reinforced straps",
-      "short": "a linen packet",
-      "tap": "a black linen packet with reinforced straps",
-      "worn": "Tail-worn.",
-      "cost_copper": 3000000,
-      "price": "300 platinum Kronars",
-      "description": "A dryad peeping from behind a tree decorates the container's front.",
       "last_seen": "2026-04-30"
     },
     {
