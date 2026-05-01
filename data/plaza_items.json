@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T09:57:06Z",
-  "item_count": 4128,
+  "updated_at": "2026-05-01T09:57:43Z",
+  "item_count": 4132,
   "items": [
     {
       "town": "Crossing",
@@ -44528,6 +44528,36 @@
       "shop": "JAK'S Treasures",
       "owner": "Jarxaxle",
       "hours": "9am and 12am",
+      "name": "a quilted heavy silk mask",
+      "short": "a quilted mask",
+      "tap": "a quilted heavy silk mask",
+      "worn": "Nose-worn.",
+      "cost_copper": 60000,
+      "price": "6 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Theatre Room",
+      "shop": "JAK'S Treasures",
+      "owner": "Jarxaxle",
+      "hours": "9am and 12am",
+      "name": "a quilted heavy silk shirt",
+      "short": "a quilted shirt",
+      "tap": "a quilted heavy silk shirt",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 220000,
+      "price": "22 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Theatre Room",
+      "shop": "JAK'S Treasures",
+      "owner": "Jarxaxle",
+      "hours": "9am and 12am",
       "name": "a rumpled scroll labeled with Sovereign Destiny",
       "short": "a rumpled scroll",
       "tap": "a rumpled scroll labeled with Sovereign Destiny",
@@ -44715,6 +44745,36 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "It is labeled \"Saesordian Compass.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Theatre Room",
+      "shop": "JAK'S Treasures",
+      "owner": "Jarxaxle",
+      "hours": "9am and 12am",
+      "name": "some quilted heavy silk gloves",
+      "short": "some quilted gloves",
+      "tap": "some quilted heavy silk gloves",
+      "worn": "Glove-worn.",
+      "cost_copper": 60000,
+      "price": "6 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Theatre Room",
+      "shop": "JAK'S Treasures",
+      "owner": "Jarxaxle",
+      "hours": "9am and 12am",
+      "name": "some quilted heavy silk pants",
+      "short": "some quilted pants",
+      "tap": "some quilted heavy silk pants",
+      "worn": "Worn as leg greaves.",
+      "cost_copper": 120000,
+      "price": "12 platinum Lirums",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-01"
     },
     {
