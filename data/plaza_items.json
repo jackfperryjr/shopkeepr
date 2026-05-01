@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T21:08:57Z",
+  "updated_at": "2026-04-30T21:09:57Z",
   "item_count": 4129,
   "items": [
     {
@@ -8753,21 +8753,6 @@
       "shop": "Cash's Cache",
       "owner": "Cashmina",
       "hours": "3pm and 12am",
-      "name": "a blue gold-inlaid mace with a dragonwood haft",
-      "short": "a blue gold inlaid mace",
-      "tap": "a blue gold-inlaid mace with a dragonwood haft",
-      "worn": null,
-      "cost_copper": 750000,
-      "price": "75 platinum Kronars",
-      "description": "Lines of pale blue metal radiate from the cast steel head, slowly morphing into a stylized pattern of scales.  Playing off the name of the wood of the handle, the head of the mace is shaped vaguely like a roaring dragon's maw.",
-      "last_seen": "2026-04-30"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Barrel Room",
-      "shop": "Cash's Cache",
-      "owner": "Cashmina",
-      "hours": "3pm and 12am",
       "name": "a bright periwinkle titanese shirt buttoned with tiger lily carnelians",
       "short": "a periwinkle titanese shirt",
       "tap": "a bright periwinkle titanese shirt buttoned with tiger lily carnelians",
@@ -9900,6 +9885,21 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Thick leather lines the inside of the bag, sealed with protective wax to prevent the fluids from a fresh kill from seeping into the material.",
+      "last_seen": "2026-04-30"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Barrel Room",
+      "shop": "Cash's Cache",
+      "owner": "Cashmina",
+      "hours": "3pm and 12am",
+      "name": "some gidii-fletched bolts",
+      "short": "some gidii-fletched bolts",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1500000,
+      "price": "150 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-04-30"
     },
     {
