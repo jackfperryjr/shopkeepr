@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T22:44:46Z",
-  "item_count": 4125,
+  "updated_at": "2026-05-01T22:45:07Z",
+  "item_count": 4127,
   "items": [
     {
       "town": "Crossing",
@@ -28950,6 +28950,36 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Embed the Cycle.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Fermentation Room",
+      "shop": "Ravens Repo",
+      "owner": "Ishcah",
+      "hours": "8am and 2am",
+      "name": "a sand-hued scroll labeled with Halt",
+      "short": "a sand-hued scroll",
+      "tap": "a sand-hued scroll labeled with Halt",
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "It is labeled \"Halt.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Fermentation Room",
+      "shop": "Ravens Repo",
+      "owner": "Ishcah",
+      "hours": "8am and 2am",
+      "name": "a silver-stippled scroll labeled with Cage of Light",
+      "short": "a silver-stippled scroll",
+      "tap": "a silver-stippled scroll labeled with Cage of Light",
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "It is labeled \"Cage of Light.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-05-01"
     },
     {
