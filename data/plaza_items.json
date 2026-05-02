@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T10:47:14Z",
-  "item_count": 4075,
+  "updated_at": "2026-05-02T10:48:39Z",
+  "item_count": 4074,
   "items": [
     {
       "town": "Crossing",
@@ -31155,21 +31155,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "A trail of stars set within a deeply-etched channel adorns the handle of this scraper.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Gladiolus Room",
-      "shop": "Starkeeper Alley",
-      "owner": "Linvala",
-      "hours": "9am and 1am",
-      "name": "a knife shaped from a serrated aglyphous tooth",
-      "short": "a knife",
-      "tap": "a knife shaped from a serrated aglyphous tooth",
-      "worn": "Wrist-worn.",
-      "cost_copper": 10006,
-      "price": "1 platinum Kronars",
-      "description": "Flecked with scorch marks and terminating in a sharpened point, the serrated aglyphous tooth knife is suited for cutting through flesh and sawing bone.  Charred gum tissue serves as a suitable knife grip.",
       "last_seen": "2026-05-02"
     },
     {
