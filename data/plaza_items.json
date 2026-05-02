@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T09:55:10Z",
-  "item_count": 4077,
+  "updated_at": "2026-05-02T09:55:51Z",
+  "item_count": 4080,
   "items": [
     {
       "town": "Crossing",
@@ -34448,6 +34448,36 @@
       "shop": "Tiddeggur's Shop",
       "owner": null,
       "hours": "8pm and 2pm",
+      "name": "a boxy amethyst canvas tote with buckskin handles",
+      "short": "a canvas tote",
+      "tap": "a boxy amethyst canvas tote with buckskin handles",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "Lined with waxed paper, the rectangular container is designed for transporting food and cutlery items.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Cooper Room",
+      "shop": "Tiddeggur's Shop",
+      "owner": null,
+      "hours": "8pm and 2pm",
+      "name": "a bright white notecard with a message that reads: \"note All lockpick rings carry Master lockpicks\"",
+      "short": "a bright white notecard",
+      "tap": "a bright white notecard with a message that reads: \"note All lockpick rings carry Master lockpicks\"",
+      "worn": null,
+      "cost_copper": 1215752192,
+      "price": "121,575 platinum Kronars",
+      "description": "Made from a single sheet of thick papyrus, this display has been pressed in such a way as to offer three equal sides for information.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Cooper Room",
+      "shop": "Tiddeggur's Shop",
+      "owner": null,
+      "hours": "8pm and 2pm",
       "name": "a chubby cassava root affixed with googly eyes",
       "short": "a chubby cassava root",
       "tap": "a chubby cassava root affixed with googly eyes",
@@ -34470,6 +34500,21 @@
       "cost_copper": 2000000,
       "price": "200 platinum Kronars",
       "description": "One of the stars is set just above the other, below the curve of the blade but above the hilt.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Cooper Room",
+      "shop": "Tiddeggur's Shop",
+      "owner": null,
+      "hours": "8pm and 2pm",
+      "name": "a damascened steel falcata embellished with nightshade blossoms",
+      "short": "a damascened steel falcata",
+      "tap": "a damascened steel falcata embellished with nightshade blossoms",
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "Outlined in shards of purple iolite, the bell-shaped flowers almost appear to float across the surface of the waves hammered into the metal.\nYour instincts tell you that this item is something you should avoid at all costs, lest you wish to suffer the consequences.",
       "last_seen": "2026-05-02"
     },
     {
