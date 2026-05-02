@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T19:12:04Z",
-  "item_count": 4087,
+  "updated_at": "2026-05-01T19:13:05Z",
+  "item_count": 4086,
   "items": [
     {
       "town": "Crossing",
@@ -10860,21 +10860,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Colorfully illustrated with great detail, battling siegery figurines decorate the tough fabric.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Dimly-Lit Storage",
-      "shop": "Clematis Crossing",
-      "owner": "Shearah",
-      "hours": "2pm and 12am",
-      "name": "a twilight-blue sanowret crystal",
-      "short": "a twilight-blue sanowret crystal",
-      "tap": null,
-      "worn": "Wrist-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "The sanowret crystal glows with a soft light and is shaped into a perfect cube.  Thin lines of silver reinforce the crystal in a complex lattice.",
       "last_seen": "2026-05-01"
     },
     {
