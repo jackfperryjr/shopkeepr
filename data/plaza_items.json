@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T12:11:14Z",
-  "item_count": 4090,
+  "updated_at": "2026-05-02T12:12:17Z",
+  "item_count": 4089,
   "items": [
     {
       "town": "Crossing",
@@ -17321,21 +17321,6 @@
       "name": "a twisted cambrinth ring set with a small sana'ati heart",
       "short": "a twisted cambrinth ring",
       "tap": "a twisted cambrinth ring set with a small sana'ati heart",
-      "worn": "Ring-worn.",
-      "cost_copper": 500000,
-      "price": "50 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Palm Room",
-      "shop": "Gray Market",
-      "owner": "Gray",
-      "hours": "11am and 7pm",
-      "name": "a twisted cambrinth ring set with a small smoke ruby",
-      "short": "a twisted cambrinth ring",
-      "tap": "a twisted cambrinth ring set with a small smoke ruby",
       "worn": "Ring-worn.",
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
