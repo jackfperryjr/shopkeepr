@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T20:57:22Z",
-  "item_count": 4120,
+  "updated_at": "2026-05-01T20:57:51Z",
+  "item_count": 4119,
   "items": [
     {
       "town": "Crossing",
@@ -29306,21 +29306,6 @@
       "name": "a steel katar",
       "short": "a katar",
       "tap": "a steel katar",
-      "worn": null,
-      "cost_copper": 50000,
-      "price": "5 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Sar's Outfitters",
-      "owner": "Sarleyth",
-      "hours": "2pm and 12am",
-      "name": "a steel light spear",
-      "short": "a light spear",
-      "tap": "a steel light spear",
       "worn": null,
       "cost_copper": 50000,
       "price": "5 platinum Kronars",
