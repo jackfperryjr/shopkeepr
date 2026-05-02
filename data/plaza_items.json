@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T14:34:34Z",
-  "item_count": 4070,
+  "updated_at": "2026-05-02T14:35:05Z",
+  "item_count": 4066,
   "items": [
     {
       "town": "Crossing",
@@ -29288,51 +29288,6 @@
       "shop": "Sar's Outfitters",
       "owner": "Sarleyth",
       "hours": "2pm and 12am",
-      "name": "a platinum-hued bolus",
-      "short": "a platinum-hued bolus",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "It is a lump of unidentifiable, faintly shimmering substance.  Further study could be of use. | There's probably a better method to gain the bolus's knowledge.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Sar's Outfitters",
-      "owner": "Sarleyth",
-      "hours": "2pm and 12am",
-      "name": "a prickly green bolus",
-      "short": "a prickly green bolus",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "It is a lump of unidentifiable, faintly shimmering substance.  Further study could be of use. | There's probably a better method to gain the bolus's knowledge.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Sar's Outfitters",
-      "owner": "Sarleyth",
-      "hours": "2pm and 12am",
-      "name": "a slim rat-pelt codex detailed with steel filigree",
-      "short": "a slim rat-pelt codex",
-      "tap": "a slim rat-pelt codex detailed with steel filigree",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "The codex is closed. | You need to be holding that, first.\nThe codex is closed.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Sar's Outfitters",
-      "owner": "Sarleyth",
-      "hours": "2pm and 12am",
       "name": "a steel bar mace",
       "short": "a bar mace",
       "tap": "a steel bar mace",
@@ -29430,21 +29385,6 @@
       "cost_copper": 70000,
       "price": "7 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Sar's Outfitters",
-      "owner": "Sarleyth",
-      "hours": "2pm and 12am",
-      "name": "a tricolor bolus",
-      "short": "a tricolor bolus",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 10000000,
-      "price": "1,000 platinum Kronars",
-      "description": "It is a lump of unidentifiable, faintly shimmering substance.  Further study could be of use. | There's probably a better method to gain the bolus's knowledge.",
       "last_seen": "2026-05-02"
     },
     {
