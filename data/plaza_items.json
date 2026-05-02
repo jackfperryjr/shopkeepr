@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T22:28:08Z",
-  "item_count": 4109,
+  "updated_at": "2026-05-01T22:29:14Z",
+  "item_count": 4112,
   "items": [
     {
       "town": "Crossing",
@@ -10118,6 +10118,21 @@
       "shop": "Clematis Crossing",
       "owner": "Shearah",
       "hours": "2pm and 12am",
+      "name": "a dainty white wrist purse composed of kirmiko",
+      "short": "a dainty wrist purse",
+      "tap": "a dainty white wrist purse composed of kirmiko",
+      "worn": "Wrist-worn.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "The sleek, sinuous fabric holds a soft sheen that is known for its remarkable resistance to staining.  Pale swans are shadow-stitched in ivory threads across the surface of the small container, neatly concealing the small release catch barely visible on one side of the purse.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
       "name": "a dark sepia cloak of soft doegan wool",
       "short": "a scroll tube",
       "tap": "a lacquered tamboti scroll tube with two steelsilk arm straps",
@@ -11168,6 +11183,21 @@
       "shop": "Clematis Crossing",
       "owner": "Shearah",
       "hours": "2pm and 12am",
+      "name": "some darkened smokewhorl leathers lined with vermilion firesilk",
+      "short": "some darkened smokewhorl leathers",
+      "tap": "some darkened smokewhorl leathers lined with vermilion firesilk",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 110000000,
+      "price": "11,000 platinum Kronars",
+      "description": "Layered over shimmering red firesilk padding, the shadowy black smokewhorl armor is designed to be close-fitting and allow freedom of movement.  Wispy grey lines spiral across the leather in abstract patterns that resemble complicated smoke images of restless dragons.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
       "name": "some exquisitely tailored firestorm samite trousers",
       "short": "an orange silk blouse",
       "tap": "an orange silk blouse with tiny black pumpkins delicately embroidered on the cuffs",
@@ -11205,6 +11235,21 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Stiff leather adds structure to the uppers, while the low heels are capped with silver plates.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Dimly-Lit Storage",
+      "shop": "Clematis Crossing",
+      "owner": "Shearah",
+      "hours": "2pm and 12am",
+      "name": "some polished thin-edged zills with silvered esoteric filigree",
+      "short": "some polished thin-edged zills",
+      "tap": "some polished thin-edged zills with silvered esoteric filigree",
+      "worn": "Ring-worn.",
+      "cost_copper": 200000,
+      "price": "20 platinum Kronars",
+      "description": "Arranged around the top of each zill is an unbroken circle of winding filigree woven into complex designs.",
       "last_seen": "2026-05-01"
     },
     {
