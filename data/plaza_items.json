@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T17:31:16Z",
-  "item_count": 4092,
+  "updated_at": "2026-05-02T17:31:57Z",
+  "item_count": 4091,
   "items": [
     {
       "town": "Crossing",
@@ -3450,21 +3450,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "The heavy sledgehammer is basically no more than a large block of steel sitting atop a heavy wooden shaft.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "River Room",
-      "shop": "Archi's Place",
-      "owner": "Archipelago",
-      "hours": "8am and 4am",
-      "name": "a hide scraper with a carved osage handle",
-      "short": "a hide scraper",
-      "tap": "a hide scraper with a carved osage handle",
-      "worn": null,
-      "cost_copper": 1500000,
-      "price": "150 platinum Kronars",
-      "description": "Etched along the grain of the wood, the handle leads to a curved blade short enough to work along even the narrowest bits of hide.",
       "last_seen": "2026-05-02"
     },
     {
