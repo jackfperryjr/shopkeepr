@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T13:20:13Z",
-  "item_count": 4048,
+  "updated_at": "2026-05-02T13:20:43Z",
+  "item_count": 4050,
   "items": [
     {
       "town": "Crossing",
@@ -13095,6 +13095,36 @@
       "cost_copper": 122500000,
       "price": "12,250 platinum Kronars",
       "description": "Pale grey rosettes dapple the midnight-black wood cover, reminiscent of bleak mountains shrouded in mist.  The jaggedly carved title is highlighted through the careful application of a gold-tinged sanguine dye.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Meeting Room",
+      "shop": "Dragon's Cache",
+      "owner": "Endrath",
+      "hours": "1pm and 11pm",
+      "name": "a lightweight leather cowl embellished with a fan of murder crow feathers",
+      "short": "a ceremonial shield",
+      "tap": "a polished agonite ceremonial shield embellished with eventide moonstone chips",
+      "worn": "Shoulder-worn.",
+      "cost_copper": 5500000,
+      "price": "550 platinum Kronars",
+      "description": "The round shield is polished to best display the flame-like fingers of steely grey mottling the ebon-hued metal.  A ring of dark grey stones lines the shield's rim, each carved into the shape of a small rat.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Meeting Room",
+      "shop": "Dragon's Cache",
+      "owner": "Endrath",
+      "hours": "1pm and 11pm",
+      "name": "a polished agonite ceremonial shield embellished with eventide moonstone chips",
+      "short": "a heavy scale mask",
+      "tap": "a heavy scale mask stamped with a burning ship",
+      "worn": "Nose-worn.",
+      "cost_copper": 35000000,
+      "price": "3,500 platinum Kronars",
+      "description": "Imprinted in the mask's center, between the eyes, is a ship that resembles The Morada.  Its tattered sails are ablaze in the depiction, and one mast has fallen to the side.",
       "last_seen": "2026-05-02"
     },
     {
