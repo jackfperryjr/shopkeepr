@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T16:17:21Z",
-  "item_count": 4077,
+  "updated_at": "2026-05-02T16:18:23Z",
+  "item_count": 4076,
   "items": [
     {
       "town": "Crossing",
@@ -2126,21 +2126,6 @@
       "name": "a steel horseman's flail with a balanced design",
       "short": "a horseman's flail",
       "tap": "a steel horseman's flail with a balanced design",
-      "worn": null,
-      "cost_copper": 150000,
-      "price": "15 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Almost Famous",
-      "owner": "Heda",
-      "hours": "2pm and 12am",
-      "name": "a steel hunthsleg with a balanced blade",
-      "short": "a hunthsleg",
-      "tap": "a steel hunthsleg with a balanced blade",
       "worn": null,
       "cost_copper": 150000,
       "price": "15 platinum Kronars",
