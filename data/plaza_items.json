@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T17:30:52Z",
-  "item_count": 4088,
+  "updated_at": "2026-05-02T17:31:16Z",
+  "item_count": 4092,
   "items": [
     {
       "town": "Crossing",
@@ -23288,6 +23288,21 @@
       "shop": "METAL Skin Cloth Bone And TOOLS",
       "owner": "Jerde",
       "hours": "12pm and 2am",
+      "name": "a glass decahedron",
+      "short": "some celadon blueprints",
+      "tap": "some celadon blueprints depicting a somber gallery",
+      "worn": null,
+      "cost_copper": 24000000,
+      "price": "2,400 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the celadon blueprints to do that.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Volcano Room",
+      "shop": "METAL Skin Cloth Bone And TOOLS",
+      "owner": "Jerde",
+      "hours": "12pm and 2am",
       "name": "a glass octahedron",
       "short": "a glass octahedron",
       "tap": null,
@@ -23430,6 +23445,51 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "The dye appears to be very potent. | blue",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Volcano Room",
+      "shop": "METAL Skin Cloth Bone And TOOLS",
+      "owner": "Jerde",
+      "hours": "12pm and 2am",
+      "name": "some emerald dye",
+      "short": "some blood-red blueprints",
+      "tap": "some blood-red blueprints depicting a well-kept armory",
+      "worn": null,
+      "cost_copper": 24000000,
+      "price": "2,400 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the blood-red blueprints to do that.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Volcano Room",
+      "shop": "METAL Skin Cloth Bone And TOOLS",
+      "owner": "Jerde",
+      "hours": "12pm and 2am",
+      "name": "some flax dye",
+      "short": "some flax dye",
+      "tap": "some flax dye",
+      "worn": null,
+      "cost_copper": 500000,
+      "price": "50 platinum Kronars",
+      "description": "The dye appears to be very potent. | flax",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Volcano Room",
+      "shop": "METAL Skin Cloth Bone And TOOLS",
+      "owner": "Jerde",
+      "hours": "12pm and 2am",
+      "name": "some olive-green dye",
+      "short": "some chartreuse blueprints",
+      "tap": "some chartreuse blueprints depicting a softly lit dressing room",
+      "worn": null,
+      "cost_copper": 24000000,
+      "price": "2,400 platinum Kronars",
+      "description": "You see nothing unusual. | You need to be holding the chartreuse blueprints to do that.",
       "last_seen": "2026-05-02"
     },
     {
