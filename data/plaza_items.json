@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T17:50:05Z",
+  "updated_at": "2026-05-02T17:50:22Z",
   "item_count": 4091,
   "items": [
     {
@@ -49140,7 +49140,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
+      "last_seen": "2026-05-02"
     },
     {
       "town": "Riverhaven",
@@ -49155,7 +49155,7 @@
       "cost_copper": 500000,
       "price": "50 platinum Lirums",
       "description": "You see nothing special.",
-      "last_seen": "2026-05-01"
+      "last_seen": "2026-05-02"
     },
     {
       "town": "Riverhaven",
