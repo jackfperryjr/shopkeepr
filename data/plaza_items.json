@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T22:13:06Z",
-  "item_count": 4110,
+  "updated_at": "2026-05-01T22:13:55Z",
+  "item_count": 4109,
   "items": [
     {
       "town": "Crossing",
@@ -42480,21 +42480,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "The gleaming goldwood peeks out from beneath the kau leather-wrapped grip of the riser.  Each limb is carved to accentuate the rich mineral deposits of the wood.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Everything Ever",
-      "owner": "Eada",
-      "hours": "8am and 4am",
-      "name": "a gwethdesuan",
-      "short": "a stone gwethdesuan",
-      "tap": "a gwethdesuan",
-      "worn": "Generally worn.",
-      "cost_copper": 210007,
-      "price": "21 platinum Lirums",
-      "description": "The gwethdesuan is a fine silver chain meant to be worn on the head, with a pair of tiny stone stones in star-shaped settings which rest over the temples, magnifying one's thoughts.",
       "last_seen": "2026-05-01"
     },
     {
