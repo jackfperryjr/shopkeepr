@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T11:01:00Z",
+  "updated_at": "2026-05-02T11:01:22Z",
   "item_count": 4085,
   "items": [
     {
@@ -29655,7 +29655,7 @@
       "cost_copper": 2500055,
       "price": "250 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
+      "last_seen": "2026-05-02"
     },
     {
       "town": "Crossing",
@@ -29670,7 +29670,7 @@
       "cost_copper": 2500033,
       "price": "250 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
+      "last_seen": "2026-05-02"
     },
     {
       "town": "Crossing",
@@ -29685,7 +29685,7 @@
       "cost_copper": 2000014,
       "price": "200 platinum Kronars",
       "description": "The fan is closed.",
-      "last_seen": "2026-05-01"
+      "last_seen": "2026-05-02"
     },
     {
       "town": "Crossing",
@@ -29700,7 +29700,7 @@
       "cost_copper": 1000014,
       "price": "100 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-01"
+      "last_seen": "2026-05-02"
     },
     {
       "town": "Crossing",
