@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T13:25:18Z",
-  "item_count": 4050,
+  "updated_at": "2026-05-02T13:26:17Z",
+  "item_count": 4049,
   "items": [
     {
       "town": "Crossing",
@@ -19170,21 +19170,6 @@
       "cost_copper": 20000000,
       "price": "2,000 platinum Kronars",
       "description": "Closer inspection reveals the beginnings of fraying seams and bits of dust and other muck that have settled into the container's embroidery, dulling their once-vibrant colors.  Still, the fabric is sturdy and more than capable of protecting the contents within from the elements.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Lodge Room",
-      "shop": "Infamous",
-      "owner": "Selasious",
-      "hours": "6am and 4pm",
-      "name": "a stylistically-simple Elven gold ring set with a brilliant lightning amethyst",
-      "short": "a gold ring",
-      "tap": "a stylistically-simple Elven gold ring set with a brilliant lightning amethyst",
-      "worn": "Ring-worn.",
-      "cost_copper": 150000,
-      "price": "15 platinum Kronars",
-      "description": "The evident focus of the straightforward ring is the deep purple gem atop the narrow band of the rose-colored Elven gold.  Symmetrical grooves within the ring wend their way back and forth, highlighting the amethyst and its golden lightning bolt inclusion.",
       "last_seen": "2026-05-02"
     },
     {
