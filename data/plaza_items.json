@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T20:21:47Z",
-  "item_count": 4114,
+  "updated_at": "2026-05-01T20:22:05Z",
+  "item_count": 4116,
   "items": [
     {
       "town": "Crossing",
@@ -34920,6 +34920,36 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "This customization can be used with any normal door type home.\nExample of what this customization could look like...\nA nice door painted with a large golden key with a ring shaped like the symbol for eternity.\n[To use this customization, PUT bucket ON {HOME}.]",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Sun Room",
+      "shop": "Teh Black Market",
+      "owner": "Pucktin",
+      "hours": "3am and 11pm",
+      "name": "a partitioned felwood case traced with silver sigils",
+      "short": "a partitioned felwood case",
+      "tap": "a partitioned felwood case traced with silver sigils",
+      "worn": "Worn attached to a belt.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Kronars",
+      "description": "The pale metallic symbols shimmer against the strikingly purple wood.  It is currently closed.",
+      "last_seen": "2026-05-01"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Sun Room",
+      "shop": "Teh Black Market",
+      "owner": "Pucktin",
+      "hours": "3am and 11pm",
+      "name": "a small mirror-sided box",
+      "short": "a small mirror-sided box",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 2500000,
+      "price": "250 platinum Kronars",
+      "description": "Faint etchings can be made out on each mirror's surface, but they're too worn to identify.",
       "last_seen": "2026-05-01"
     },
     {
