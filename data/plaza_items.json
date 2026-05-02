@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T21:30:26Z",
-  "item_count": 4113,
+  "updated_at": "2026-05-01T21:31:27Z",
+  "item_count": 4112,
   "items": [
     {
       "town": "Crossing",
@@ -11205,21 +11205,6 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Stiff leather adds structure to the uppers, while the low heels are capped with silver plates.",
-      "last_seen": "2026-05-01"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Dimly-Lit Storage",
-      "shop": "Clematis Crossing",
-      "owner": "Shearah",
-      "hours": "2pm and 12am",
-      "name": "some polished thin-edged zills with silvered esoteric filigree",
-      "short": "some polished thin-edged zills",
-      "tap": "some polished thin-edged zills with silvered esoteric filigree",
-      "worn": "Ring-worn.",
-      "cost_copper": 200000,
-      "price": "20 platinum Kronars",
-      "description": "Arranged around the top of each zill is an unbroken circle of winding filigree woven into complex designs.",
       "last_seen": "2026-05-01"
     },
     {
