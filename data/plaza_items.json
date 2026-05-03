@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T16:13:40Z",
-  "item_count": 4068,
+  "updated_at": "2026-05-03T16:16:29Z",
+  "item_count": 4073,
   "items": [
     {
       "town": "Crossing",
@@ -57473,6 +57473,21 @@
       "shop": "Krazeil's Troop Supply And Arms",
       "owner": "Krazeil",
       "hours": "3pm and 11pm",
+      "name": "a copper flagon of mead etched with scenes of glorious arena combat",
+      "short": "a flagon of mead",
+      "tap": "a copper flagon of mead etched with scenes of glorious arena combat",
+      "worn": null,
+      "cost_copper": 20000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
       "name": "a crested blue jay with a silvery-blue beak",
       "short": "a crested blue jay",
       "tap": "a crested blue jay with a silvery-blue beak",
@@ -57548,6 +57563,21 @@
       "shop": "Krazeil's Troop Supply And Arms",
       "owner": "Krazeil",
       "hours": "3pm and 11pm",
+      "name": "a miniature fleet of tarnished silver warships",
+      "short": "a fleet of silver warships",
+      "tap": "a miniature fleet of tarnished silver warships",
+      "worn": "Generally worn.",
+      "cost_copper": 20000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "The tiny armada features five uniquely designed vessels of varying sizes and construction.  Two small cutters designed for speed complement the three larger ships boasting rows of cannon.  The magnificent flagship of the fleet is a four-masted galleon with six sails wrought in exquisite detail.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
       "name": "a pair of fiery scarlet khaddar pants with black piping on the seams",
       "short": "a pair of khaddar pants",
       "tap": "a pair of fiery scarlet khaddar pants with black piping on the seams",
@@ -57593,6 +57623,21 @@
       "shop": "Krazeil's Troop Supply And Arms",
       "owner": "Krazeil",
       "hours": "3pm and 11pm",
+      "name": "a rockwood tanbo with polished darkstone tips",
+      "short": "a rockwood tanbo",
+      "tap": "a rockwood tanbo with polished darkstone tips",
+      "worn": null,
+      "cost_copper": 2000000,
+      "price": "200 platinum Dokoras",
+      "description": "Corrugated veins of absorbed minerals line the smooth surface of the wood.  A small disc of darkstone caps each end, reinforcing the wood's already potent striking capability.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
       "name": "a ruby-encrusted tear-shaped pin",
       "short": "a tear-shaped pin",
       "tap": "a ruby-encrusted tear-shaped pin",
@@ -57600,6 +57645,21 @@
       "cost_copper": 200000,
       "price": "20 platinum Dokoras",
       "description": "Ruby chips have been carefully inlaid on this pin, flowing together to give it the appearance of a drop of blood.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
+      "name": "a sanowret crystal",
+      "short": "a sanowret crystal",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 2000000,
+      "price": "200 platinum Dokoras",
+      "description": "Shaped into a perfect cube and reinforced by thin lines of silver in a complex lattice, the pure crystal glows a soft silver.",
       "last_seen": "2026-05-03"
     },
     {
@@ -57690,6 +57750,21 @@
       "cost_copper": 4000000,
       "price": "400 platinum Dokoras",
       "description": "Finely woven silk seems to shift from midnight-blue to dusky with movement.  The curiously dyed fabric is shot through with a riot of moon-hued threads.  Shadowy black, ruby-red, silvery blue and a smattering of pure star-white lend the garment a stunning iridescence reminiscent of black opals and moonstones.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "The Sea",
+      "shop": "Krazeil's Troop Supply And Arms",
+      "owner": "Krazeil",
+      "hours": "3pm and 11pm",
+      "name": "some Syrin's heart rings attached to thin diacan chains",
+      "short": "some Syrin's heart rings",
+      "tap": "some Syrin's heart rings attached to thin diacan chains",
+      "worn": "Generally worn.",
+      "cost_copper": 2000000,
+      "price": "200 platinum Dokoras",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-03"
     },
     {
