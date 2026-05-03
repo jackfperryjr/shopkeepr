@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T20:50:44Z",
-  "item_count": 4117,
+  "updated_at": "2026-05-02T20:51:44Z",
+  "item_count": 4116,
   "items": [
     {
       "town": "Crossing",
@@ -34425,21 +34425,6 @@
       "cost_copper": 15000000,
       "price": "1,500 platinum Kronars",
       "description": "It is labeled \"Aethrolysis.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tasting Room",
-      "shop": "Tayria's Trader Tables",
-      "owner": "Tayria",
-      "hours": "7pm and 5am",
-      "name": "a inky-black scroll labeled with Geyser",
-      "short": "a stormy grey scroll",
-      "tap": "a stormy grey scroll labeled with Words of the Wind",
-      "worn": null,
-      "cost_copper": 8000000,
-      "price": "800 platinum Kronars",
-      "description": "It is labeled \"Words of the Wind.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-05-02"
     },
     {
