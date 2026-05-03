@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T14:40:57Z",
-  "item_count": 4078,
+  "updated_at": "2026-05-03T14:41:48Z",
+  "item_count": 4077,
   "items": [
     {
       "town": "Crossing",
@@ -7005,21 +7005,6 @@
       "cost_copper": 2500000,
       "price": "250 platinum Kronars",
       "description": "Lustrous gemstone butterflies wrap up and around the sleeveless traditional Rakash robe to reach its elegant shoulder pleats.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Solarium",
-      "shop": "Boots And Bows Boutique",
-      "owner": "Kattressa",
-      "hours": "1pm and 11pm",
-      "name": "a formal-looking blushing pink muslin shirt with a raised collar",
-      "short": "a blushing pink muslin shirt",
-      "tap": "a formal-looking blushing pink muslin shirt with a raised collar",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-05-03"
     },
     {
