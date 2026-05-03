@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T19:31:04Z",
-  "item_count": 4084,
+  "updated_at": "2026-05-02T19:31:45Z",
+  "item_count": 4091,
   "items": [
     {
       "town": "Crossing",
@@ -25433,6 +25433,21 @@
       "shop": "Pack And Pryde",
       "owner": "Toleana",
       "hours": "3pm and 4am",
+      "name": "a coal-black tool catalog with singed pages peeking out",
+      "short": "a bitterweave top hat",
+      "tap": "a tall bitterweave top hat with various faces swirling across its surface",
+      "worn": "Head-worn with armor.",
+      "cost_copper": 15000000,
+      "price": "1,500 platinum Kronars",
+      "description": "Reminiscent of unshed tears, the glossy emerald sheen of the resilient fabric magnifies its pigmentation.  A slight rent in the fabric mars the brim of the extra-tall hat.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Library",
+      "shop": "Pack And Pryde",
+      "owner": "Toleana",
+      "hours": "3pm and 4am",
       "name": "a collapsible fishing pole fashioned from juniper branches",
       "short": "a collapsible fishing pole",
       "tap": "a collapsible fishing pole fashioned from juniper branches",
@@ -25440,6 +25455,21 @@
       "cost_copper": 1500000,
       "price": "150 platinum Kronars",
       "description": "It's a folded-up collapsible fishing pole with a roll of line at one end.\nYou have some type 5 line.\nYou have a size 4 hook.\nThe pole isn't baited.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Library",
+      "shop": "Pack And Pryde",
+      "owner": "Toleana",
+      "hours": "3pm and 4am",
+      "name": "a corn husk poppet wearing a tiny blue bonnet",
+      "short": "a luridly purple jar",
+      "tap": "a luridly purple jar covered in thorns",
+      "worn": null,
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
+      "description": "A single Seed of Entropy is vividly painted on top of the shallow paint jar.\nYou notice that the jar has some paint inside and a tiny instruction booklet inside.  You think you can STUDY it to learn more.",
       "last_seen": "2026-05-02"
     },
     {
@@ -25553,6 +25583,36 @@
       "shop": "Pack And Pryde",
       "owner": "Toleana",
       "hours": "3pm and 4am",
+      "name": "a luridly purple jar covered in thorns",
+      "short": "a two-faced medal",
+      "tap": "a two-faced medal depicting a stone tower within a cavern",
+      "worn": "Generally worn.",
+      "cost_copper": 20000000,
+      "price": "2,000 platinum Kronars",
+      "description": "On one side, the medal is highly polished and gleaming.  The details of the tower set within a cavern of broken stone floating amidst a vast space can clearly be distinguished down to the beards of the tiny Dwarves before it.  The other side, however, is faded and marred with scratches -- the finer details are lost, though it still seems a replica of the front side. | \"Akigwe's Legacy, Temporal Pocket, Courtesy of V.\"",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Library",
+      "shop": "Pack And Pryde",
+      "owner": "Toleana",
+      "hours": "3pm and 4am",
+      "name": "a miniature Elven gold caravan with burnished spoked wheels",
+      "short": "a murder crow puppet",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 250000,
+      "price": "25 platinum Kronars",
+      "description": "Glossy blue-black feathers cover the bird's small body, while inky black stones glued to its head serve as eyes.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Library",
+      "shop": "Pack And Pryde",
+      "owner": "Toleana",
+      "hours": "3pm and 4am",
       "name": "a mummified rock troll hand clutching a fire opal the size of its own palm",
       "short": "a rock troll hand",
       "tap": "a mummified rock troll hand clutching a fire opal the size of its own palm",
@@ -25560,6 +25620,21 @@
       "cost_copper": 3500000,
       "price": "350 platinum Kronars",
       "description": "The multitude of unhealed wounds marring the desiccated flesh of the troll's hand speak to a less-than-willing donation of the extremity to its current function.  In stark contrast to its grisly bearer, the large fire opal caught securely betwixt craggy claws is polished to a hemispherical perfection, allowing any available light to dance with fiery red and blue brilliance within its depths.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Library",
+      "shop": "Pack And Pryde",
+      "owner": "Toleana",
+      "hours": "3pm and 4am",
+      "name": "a murder crow puppet",
+      "short": "a twisted cornstalk",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
+      "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home surrounded by a twisted maze of overgrown cornstalks.\n[To use this customization, PUT cornstalk ON {HOME}.]",
       "last_seen": "2026-05-02"
     },
     {
@@ -25680,6 +25755,36 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "The materials used in construction have been carefully selected and uniquely woven to allow for a maximum of elasticity in design.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Library",
+      "shop": "Pack And Pryde",
+      "owner": "Toleana",
+      "hours": "3pm and 4am",
+      "name": "a twisted cornstalk",
+      "short": "a corn husk poppet",
+      "tap": "a corn husk poppet wearing a tiny blue bonnet",
+      "worn": null,
+      "cost_copper": 150000,
+      "price": "15 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-02"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Library",
+      "shop": "Pack And Pryde",
+      "owner": "Toleana",
+      "hours": "3pm and 4am",
+      "name": "a two-faced medal depicting a stone tower within a cavern",
+      "short": "a coal-black tool catalog",
+      "tap": "a coal-black tool catalog with singed pages peeking out",
+      "worn": null,
+      "cost_copper": 500000,
+      "price": "50 platinum Kronars",
+      "description": "You see nothing unusual. | You shouldn't read somebody else's tool catalog.",
       "last_seen": "2026-05-02"
     },
     {
