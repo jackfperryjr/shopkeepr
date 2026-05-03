@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T22:38:58Z",
-  "item_count": 4103,
+  "updated_at": "2026-05-02T22:39:39Z",
+  "item_count": 4102,
   "items": [
     {
       "town": "Crossing",
@@ -20513,21 +20513,6 @@
       "shop": "Kiyora's Starlight Selections",
       "owner": "Kiyora",
       "hours": "7pm and 3am",
-      "name": "a shadowy ka'hurst carving knife with a midnight onyx hilt",
-      "short": "a georin grass toolstrap",
-      "tap": "a woven georin grass toolstrap",
-      "worn": "Generally worn.",
-      "cost_copper": 25000000,
-      "price": "2,500 platinum Kronars",
-      "description": "Reinforced with waxed cotton thread, the toolstrap is designed to be wrapped around the waist and crossed over the chest.\nIt currently does not have any items tied to it.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Kiyora's Starlight Selections",
-      "owner": "Kiyora",
-      "hours": "7pm and 3am",
       "name": "a sharkstone orb",
       "short": "a murky absinthe emerald",
       "tap": null,
@@ -20829,12 +20814,12 @@
       "owner": "Kiyora",
       "hours": "7pm and 3am",
       "name": "some hooked pliers with calfskin grips",
-      "short": "some sewing needles",
-      "tap": "some sewing needles inlaid with lustrous shell",
-      "worn": null,
-      "cost_copper": 2500000,
-      "price": "250 platinum Kronars",
-      "description": "The needles appear to be missing thread.",
+      "short": "a georin grass toolstrap",
+      "tap": "a woven georin grass toolstrap",
+      "worn": "Generally worn.",
+      "cost_copper": 25000000,
+      "price": "2,500 platinum Kronars",
+      "description": "Reinforced with waxed cotton thread, the toolstrap is designed to be wrapped around the waist and crossed over the chest.\nIt currently does not have any items tied to it.",
       "last_seen": "2026-05-02"
     },
     {
@@ -20859,12 +20844,12 @@
       "owner": "Kiyora",
       "hours": "7pm and 3am",
       "name": "some muracite tongs with icesteel clamps",
-      "short": "a ka'hurst carving knife",
-      "tap": "a shadowy ka'hurst carving knife with a midnight onyx hilt",
+      "short": "some sewing needles",
+      "tap": "some sewing needles inlaid with lustrous shell",
       "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Cut across the layers, the handle's dramatic black and white coloration stands out against the dark blade with a strikingly green sheen.  Despite its unique coloring, no reflections can be seen in the surface of the blade.",
+      "cost_copper": 2500000,
+      "price": "250 platinum Kronars",
+      "description": "The needles appear to be missing thread.",
       "last_seen": "2026-05-02"
     },
     {
