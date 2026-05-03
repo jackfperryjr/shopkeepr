@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T17:39:43Z",
-  "item_count": 4045,
+  "updated_at": "2026-05-03T17:40:40Z",
+  "item_count": 4044,
   "items": [
     {
       "town": "Crossing",
@@ -27474,12 +27474,12 @@
       "owner": "Ghillian",
       "hours": "3pm and 12am",
       "name": "a helei leather weapon harness",
-      "short": "a leather carryall",
-      "tap": "a tooled leather carryall with brass buckles",
+      "short": "a soft Yavash-red pouch",
+      "tap": "a soft Yavash-red pouch appliqued with an arch-backed cat silhouette",
       "worn": "Worn attached to a belt.",
-      "cost_copper": 15000000,
-      "price": "1,500 platinum Kronars",
-      "description": "Elaborate designs of flowers and vines cover the surface of the container.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "This roomy pouch is comfortably padded and constructed of a loose, but strong, silk mesh that allows air to pass in and out freely.",
       "last_seen": "2026-05-03"
     },
     {
@@ -28200,21 +28200,6 @@
       "cost_copper": 15000000,
       "price": "1,500 platinum Kronars",
       "description": "Depicted on the front is a grinning dragon skull.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Gladiolus Room",
-      "shop": "Provisions In The Plaza",
-      "owner": "Ghillian",
-      "hours": "3pm and 12am",
-      "name": "some blunt-tipped bolts with pitch-black chevrons",
-      "short": "a soft Yavash-red pouch",
-      "tap": "a soft Yavash-red pouch appliqued with an arch-backed cat silhouette",
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "This roomy pouch is comfortably padded and constructed of a loose, but strong, silk mesh that allows air to pass in and out freely.",
       "last_seen": "2026-05-03"
     },
     {
