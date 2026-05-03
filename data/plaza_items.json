@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T19:57:04Z",
-  "item_count": 4087,
+  "updated_at": "2026-05-02T19:57:34Z",
+  "item_count": 4086,
   "items": [
     {
       "town": "Crossing",
@@ -28649,21 +28649,6 @@
       "worn": null,
       "cost_copper": 150000000,
       "price": "15,000 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-02"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Ocean Room",
-      "shop": "Quest, Fest, And Crafted",
-      "owner": "Acronyx",
-      "hours": "3am and 11pm",
-      "name": "some drake-fang arrows",
-      "short": "some drake-fang arrows",
-      "tap": "some drake-fang arrows",
-      "worn": null,
-      "cost_copper": 1600040,
-      "price": "160 platinum Kronars",
       "description": "You see nothing unusual.",
       "last_seen": "2026-05-02"
     },
