@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T14:50:20Z",
-  "item_count": 4077,
+  "updated_at": "2026-05-03T14:51:07Z",
+  "item_count": 4076,
   "items": [
     {
       "town": "Crossing",
@@ -8475,21 +8475,6 @@
       "cost_copper": 150000,
       "price": "15 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Desert Room",
-      "shop": "Cackle Shack, \"Too\"",
-      "owner": "Kyena",
-      "hours": "2pm and 12am",
-      "name": "an iron bonding ring with swirling black scorch marks",
-      "short": "an iron bonding ring",
-      "tap": "an iron bonding ring with swirling black scorch marks",
-      "worn": "Ring-worn.",
-      "cost_copper": 500000,
-      "price": "50 platinum Kronars",
-      "description": "Whorls of intricately twisting marks burned into the iron give the band a unique setting for a series of small vibrantly hued Eu's promise crystals.",
       "last_seen": "2026-05-03"
     },
     {
