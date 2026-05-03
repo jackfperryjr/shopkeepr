@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T18:49:41Z",
-  "item_count": 4087,
+  "updated_at": "2026-05-03T18:50:21Z",
+  "item_count": 4086,
   "items": [
     {
       "town": "Crossing",
@@ -25710,21 +25710,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Although it is based on the basic tool, this finely crafted weapon little resembles its namesake as it's head is formed from highly polished silversteel that is perfectly balanced to allow power without undue effort.  The adderwood handle has been carved into a stylized snake form, the scaly grain of the wood helping with the serpentine illusion.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Pack And Pryde",
-      "owner": "Toleana",
-      "hours": "3pm and 4am",
-      "name": "some decorative volcanic rocks",
-      "short": "some decorative volcanic rocks",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "This customization can be used with any normal freestanding home type home.\nExample of what this customization could look like...\nA nice freestanding home within a wasteland of stone and ash.\n[To use this customization, PUT rocks ON {HOME}.]",
       "last_seen": "2026-05-03"
     },
     {
