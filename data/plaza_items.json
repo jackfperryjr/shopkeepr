@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T20:59:07Z",
+  "updated_at": "2026-05-03T21:01:36Z",
   "item_count": 4074,
   "items": [
     {
@@ -23919,12 +23919,12 @@
       "owner": "Tibsley",
       "hours": "9pm and 7am",
       "name": "a blue gold torque with Idon's sapphire finials",
-      "short": "a storage book",
-      "tap": "a cloth-of-silver storage book clasped with an abyssal quartz button",
-      "worn": null,
-      "cost_copper": 2500000,
-      "price": "250 platinum Kronars",
-      "description": "When hit by light, the dusky blue stone almost appears to be marred with wet, diseased-looking spots. | You should be holding the storage book first.",
+      "short": "some umbral tursa gauntlets",
+      "tap": "some tursa gauntlets with umbral shades gathered at the fingertips",
+      "worn": "Glove-worn.",
+      "cost_copper": 5000000,
+      "price": "500 platinum Kronars",
+      "description": "Each finger of the translucent black gauntlets is tipped with a hue like inky shadow, the lines curling away from them like wisps hanging in the air.",
       "last_seen": "2026-05-03"
     },
     {
@@ -23979,12 +23979,12 @@
       "owner": "Tibsley",
       "hours": "9pm and 7am",
       "name": "a cloth-of-silver storage book clasped with an abyssal quartz button",
-      "short": "some umbral tursa gauntlets",
-      "tap": "some tursa gauntlets with umbral shades gathered at the fingertips",
-      "worn": "Glove-worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Kronars",
-      "description": "Each finger of the translucent black gauntlets is tipped with a hue like inky shadow, the lines curling away from them like wisps hanging in the air.",
+      "short": "an electrum circlet",
+      "tap": "an electrum circlet etched with a marauding school of thunder eels",
+      "worn": "Placed in hair.",
+      "cost_copper": 200000,
+      "price": "20 platinum Kronars",
+      "description": "Gleaming pale metal is streaked with forked lines of white gold, forming an impression of streaked lightning along the bodies of the sinuous eels.",
       "last_seen": "2026-05-03"
     },
     {
