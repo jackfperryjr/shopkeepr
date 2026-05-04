@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T19:54:52Z",
-  "item_count": 4104,
+  "updated_at": "2026-05-03T19:55:18Z",
+  "item_count": 4101,
   "items": [
     {
       "town": "Crossing",
@@ -12938,21 +12938,6 @@
       "shop": "Dragon's Cache",
       "owner": "Endrath",
       "hours": "1pm and 11pm",
-      "name": "a bright white notecard with a message that reads: \"BALDRIC IS ALSO 60 MANA CAMBRINTH\"",
-      "short": "a leather sword belt",
-      "tap": "a double-wrapped leather sword belt embossed with charging thunder rams",
-      "worn": "Belt-worn.",
-      "cost_copper": 30000000,
-      "price": "3,000 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Meeting Room",
-      "shop": "Dragon's Cache",
-      "owner": "Endrath",
-      "hours": "1pm and 11pm",
       "name": "a bright white notecard with a message that reads: \"DULL LOCKPICK RINGS ARE IRON MASTERS~METALLIC ARE IRON GRANDMASTERS~GWETHS ARE 4 PLAT/CHARGE\"",
       "short": "a bright white notecard",
       "tap": "a bright white notecard with a message that reads: \"DULL LOCKPICK RINGS ARE IRON MASTERS~METALLIC ARE IRON GRANDMASTERS~GWETHS ARE 4 PLAT/CHARGE\"",
@@ -12990,36 +12975,6 @@
       "cost_copper": 18500000,
       "price": "1,850 platinum Kronars",
       "description": "It is labeled \"Sure Footing.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Meeting Room",
-      "shop": "Dragon's Cache",
-      "owner": "Endrath",
-      "hours": "1pm and 11pm",
-      "name": "a dirty forging apron",
-      "short": "a large surveyor's case",
-      "tap": "a large ice-veined leather and flamewood surveyor's case",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 25000000,
-      "price": "2,500 platinum Kronars",
-      "description": "Embellished with carved fireballs, the polished bands of gold and red wood form a sturdy frame for the reinforced panels of icy blue leather and its matching shoulder strap.\nThe barest hint of a blue-white shimmer appears across the surface of the leather.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Meeting Room",
-      "shop": "Dragon's Cache",
-      "owner": "Endrath",
-      "hours": "1pm and 11pm",
-      "name": "a double-wrapped leather sword belt embossed with charging thunder rams",
-      "short": "a large surveyor's case",
-      "tap": "a large ice-veined leather and flamewood surveyor's case",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 25000000,
-      "price": "2,500 platinum Kronars",
-      "description": "Embellished with carved fireballs, the polished bands of gold and red wood form a sturdy frame for the reinforced panels of icy blue leather and its matching shoulder strap.\nThe barest hint of a blue-white shimmer appears across the surface of the leather.",
       "last_seen": "2026-05-03"
     },
     {
