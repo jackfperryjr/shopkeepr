@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T10:44:13Z",
-  "item_count": 4310,
+  "updated_at": "2026-05-04T10:44:39Z",
+  "item_count": 4314,
   "items": [
     {
       "town": "Crossing",
@@ -62232,9 +62232,54 @@
       "short": "a clay tablet",
       "tap": null,
       "worn": null,
-      "cost_copper": 1250000,
-      "price": "125 platinum Dokoras",
-      "description": "It is labeled \"Last Gift of Vithwok IV.\" | The writing is too small.  You'll have to hold the tablet to read it.",
+      "cost_copper": 4000000,
+      "price": "400 platinum Dokoras",
+      "description": "It is labeled \"Senses of the Tiger.\" | The writing is too small.  You'll have to hold the tablet to read it.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Stormshine Room",
+      "shop": "Southern Goods And Treasures",
+      "owner": "Tabrett",
+      "hours": "11am and 2am",
+      "name": "a faded vellum",
+      "short": "a faded vellum",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1500000,
+      "price": "150 platinum Dokoras",
+      "description": "It is labeled \"Y'ntrel Sechra.\" | The writing is too small.  You'll have to hold the vellum to read it.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Stormshine Room",
+      "shop": "Southern Goods And Treasures",
+      "owner": "Tabrett",
+      "hours": "11am and 2am",
+      "name": "a fine scroll",
+      "short": "a fine scroll",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1500000,
+      "price": "150 platinum Dokoras",
+      "description": "It is labeled \"Y'ntrel Sechra.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Stormshine Room",
+      "shop": "Southern Goods And Treasures",
+      "owner": "Tabrett",
+      "hours": "11am and 2am",
+      "name": "a moldering scroll",
+      "short": "a moldering scroll",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1000000,
+      "price": "100 platinum Dokoras",
+      "description": "It is labeled \"Aggressive Stance.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-05-04"
     },
     {
@@ -62247,9 +62292,9 @@
       "short": "a papyrus roll",
       "tap": null,
       "worn": null,
-      "cost_copper": 250000,
-      "price": "25 platinum Dokoras",
-      "description": "It is labeled \"Embed the Cycle.\" | The writing is too small.  You'll have to hold the roll to read it.",
+      "cost_copper": 1250000,
+      "price": "125 platinum Dokoras",
+      "description": "It is labeled \"Soul Shield.\" | The writing is too small.  You'll have to hold the roll to read it.",
       "last_seen": "2026-05-04"
     },
     {
@@ -62264,7 +62309,7 @@
       "worn": null,
       "cost_copper": 1000000,
       "price": "100 platinum Dokoras",
-      "description": "It is labeled \"Drums of the Snake.\" | The writing is too small.  You'll have to hold the bark to read it.",
+      "description": "It is labeled \"Seal Cambrinth.\" | The writing is too small.  You'll have to hold the bark to read it.",
       "last_seen": "2026-05-04"
     },
     {
@@ -62279,7 +62324,22 @@
       "worn": null,
       "cost_copper": 1500000,
       "price": "150 platinum Dokoras",
-      "description": "It is labeled \"Huldah's Pall.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "description": "It is labeled \"Calm.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Stormshine Room",
+      "shop": "Southern Goods And Treasures",
+      "owner": "Tabrett",
+      "hours": "11am and 2am",
+      "name": "a wax tablet",
+      "short": "a wax tablet",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 1500000,
+      "price": "150 platinum Dokoras",
+      "description": "It is labeled \"Words of the Wind.\" | The writing is too small.  You'll have to hold the tablet to read it.",
       "last_seen": "2026-05-04"
     },
     {
