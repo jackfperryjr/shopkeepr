@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T18:37:05Z",
-  "item_count": 4353,
+  "updated_at": "2026-05-04T18:37:52Z",
+  "item_count": 4352,
   "items": [
     {
       "town": "Crossing",
@@ -18855,21 +18855,6 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Tundra Room",
-      "shop": "Hoarder's Corner",
-      "owner": "Liham",
-      "hours": "4pm and 3am",
-      "name": "a tapered agonite skinning knife punched with a flying raven",
-      "short": "a skinning knife",
-      "tap": "a tapered agonite skinning knife punched with a flying raven",
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 100000,
-      "price": "10 platinum Kronars",
-      "description": "The tapered agonite of this ornamental blade has an ebon-hued finish with flame-like fingers of steely grey.  Leather straps twist through a gap in the wooden pommel, allowing the item to be attached to a belt.  Along the flat of the blade, a small flying raven is poorly punched into the metal, leaving a pattern through which you can see through the knife.",
       "last_seen": "2026-05-04"
     },
     {
