@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T20:06:46Z",
-  "item_count": 4099,
+  "updated_at": "2026-05-03T20:07:15Z",
+  "item_count": 4100,
   "items": [
     {
       "town": "Crossing",
@@ -37255,6 +37255,21 @@
       "hours": "1pm and 4am",
       "name": "a personality profile",
       "short": "a personality profile",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 50000,
+      "price": "5 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Grass Room",
+      "shop": "Yrs' Greatest Deals",
+      "owner": "Yrneha",
+      "hours": "1pm and 4am",
+      "name": "a sealed writ",
+      "short": "a sealed writ",
       "tap": null,
       "worn": null,
       "cost_copper": 50000,
