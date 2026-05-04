@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T07:39:27Z",
-  "item_count": 4265,
+  "updated_at": "2026-05-04T07:39:49Z",
+  "item_count": 4268,
   "items": [
     {
       "town": "Crossing",
@@ -43103,6 +43103,21 @@
       "shop": "Dwarf Brothers Trading Emporium",
       "owner": "Derkyn",
       "hours": "6am and 11pm",
+      "name": "a crinkled scroll labeled with Courage",
+      "short": "a crinkled scroll",
+      "tap": "a crinkled scroll labeled with Courage",
+      "worn": null,
+      "cost_copper": 9000000,
+      "price": "900 platinum Lirums",
+      "description": "It is labeled \"Courage.\" | The writing is too small.  You'll have to hold the scroll to read it.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Skyward Atrium",
+      "shop": "Dwarf Brothers Trading Emporium",
+      "owner": "Derkyn",
+      "hours": "6am and 11pm",
       "name": "a crinkled scroll labeled with Dazzle",
       "short": "a crinkled scroll",
       "tap": "a crinkled scroll labeled with Dazzle",
@@ -43148,6 +43163,21 @@
       "shop": "Dwarf Brothers Trading Emporium",
       "owner": "Derkyn",
       "hours": "6am and 11pm",
+      "name": "a lollipop-shaped imbuement rod capped with a massive amber stone",
+      "short": "an imbuement rod",
+      "tap": "a lollipop-shaped imbuement rod capped with a massive amber stone",
+      "worn": null,
+      "cost_copper": 4000000,
+      "price": "400 platinum Lirums",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Skyward Atrium",
+      "shop": "Dwarf Brothers Trading Emporium",
+      "owner": "Derkyn",
+      "hours": "6am and 11pm",
       "name": "a translucent conch shell inlaid with covellite swirls",
       "short": "a translucent conch shell",
       "tap": "a translucent conch shell inlaid with covellite swirls",
@@ -43170,6 +43200,21 @@
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
       "description": "A thick fringe of iridescent blue-black plumes edges opening of each glove.  The feathers layered closely together to form a stiff cuff that extends slightly up the forearm when worn.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Skyward Atrium",
+      "shop": "Dwarf Brothers Trading Emporium",
+      "owner": "Derkyn",
+      "hours": "6am and 11pm",
+      "name": "some sculpted leathers shaped like a multitude of swarming spiders",
+      "short": "some sculpted leathers",
+      "tap": "some sculpted leathers shaped like a multitude of swarming spiders",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 40000000,
+      "price": "4,000 platinum Lirums",
+      "description": "Dyed in different hues for each of the arachnids, the leathers manage to represent a wide variety of different specimens with startling accuracy.",
       "last_seen": "2026-05-04"
     },
     {
