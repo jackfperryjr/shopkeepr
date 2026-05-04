@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T21:05:33Z",
-  "item_count": 4078,
+  "updated_at": "2026-05-03T21:06:31Z",
+  "item_count": 4079,
   "items": [
     {
       "town": "Crossing",
@@ -28095,6 +28095,21 @@
       "cost_copper": 15000000,
       "price": "1,500 platinum Kronars",
       "description": "Depicted on the front is a grinning dragon skull.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Gladiolus Room",
+      "shop": "Provisions In The Plaza",
+      "owner": "Ghillian",
+      "hours": "3pm and 12am",
+      "name": "some blunt-tipped bolts with pitch-black chevrons",
+      "short": "some blunt-tipped bolts",
+      "tap": "some blunt-tipped bolts with pitch-black chevrons",
+      "worn": null,
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-03"
     },
     {
