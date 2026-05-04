@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T16:35:17Z",
-  "item_count": 4359,
+  "updated_at": "2026-05-04T16:35:43Z",
+  "item_count": 4360,
   "items": [
     {
       "town": "Crossing",
@@ -62535,6 +62535,21 @@
       "cost_copper": 2000000,
       "price": "200 platinum Dokoras",
       "description": "Composed of an assortment of building materials, the parry stick features a length of iron banding hammered around a stone strut and is lashed with twine for a rough grip.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Storage",
+      "shop": "Ravens Repo, South",
+      "owner": "Zayreal",
+      "hours": "8am and 9pm",
+      "name": "some natural suede ice skates with brown laces",
+      "short": "some suede ice skates",
+      "tap": "some natural suede ice skates with brown laces",
+      "worn": "Foot-worn.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Dokoras",
+      "description": "The ice skates are ready to be worn for skating.",
       "last_seen": "2026-05-04"
     },
     {
