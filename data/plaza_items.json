@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T15:47:56Z",
-  "item_count": 4340,
+  "updated_at": "2026-05-04T15:48:39Z",
+  "item_count": 4344,
   "items": [
     {
       "town": "Crossing",
@@ -36578,6 +36578,21 @@
       "shop": "Tipsy Taboo",
       "owner": "Kalyssia",
       "hours": "11am and 2am",
+      "name": "a dewdrop diopside pendant",
+      "short": "a dewdrop diopside pendant",
+      "tap": null,
+      "worn": "Neck-worn.",
+      "cost_copper": 1000000,
+      "price": "100 platinum Kronars",
+      "description": "Displayed upon a slender silver chain, a speckled pattern of tiny clear circles dapples the surface of the pale celadon stone like fresh springtime leaves covered in an ephemeral layer of morning dew.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Water Room",
+      "shop": "Tipsy Taboo",
+      "owner": "Kalyssia",
+      "hours": "11am and 2am",
       "name": "a diacan-banded biconical crystal amulet",
       "short": "a crystal amulet",
       "tap": "a diacan-banded biconical crystal amulet",
@@ -36660,6 +36675,21 @@
       "cost_copper": 200000,
       "price": "20 platinum Kronars",
       "description": "Smooth and slightly oblong, the soulstone is about the size of a woman's fist.  Its glossy surface swirls with patterns of black and white which resemble a churning thunderstorm.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Water Room",
+      "shop": "Tipsy Taboo",
+      "owner": "Kalyssia",
+      "hours": "11am and 2am",
+      "name": "a kelpzyte death adder coiled in ambush",
+      "short": "a kelpzyte death adder",
+      "tap": "a kelpzyte death adder coiled in ambush",
+      "worn": null,
+      "cost_copper": 8000000,
+      "price": "800 platinum Kronars",
+      "description": "Cryptic bands of auburn, sepia, and umber serve as camouflage, enhanced by matching bits of leaf litter.  Its grub-like tail is held close to its head as a lure.",
       "last_seen": "2026-05-04"
     },
     {
@@ -36818,6 +36848,21 @@
       "shop": "Tipsy Taboo",
       "owner": "Kalyssia",
       "hours": "11am and 2am",
+      "name": "a steel two-headed hammer with the head shaped like a swimming shark",
+      "short": "a steel two-headed hammer",
+      "tap": "a steel two-headed hammer with the head shaped like a swimming shark",
+      "worn": null,
+      "cost_copper": 2250000,
+      "price": "225 platinum Kronars",
+      "description": "The sleek predator of the deeps has been sculpted on the top of the fearsome weapon, with the shark's head at one end and the tail at the other.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Water Room",
+      "shop": "Tipsy Taboo",
+      "owner": "Kalyssia",
+      "hours": "11am and 2am",
       "name": "a thunder of pewter dragons displaying multihued wings",
       "short": "a thunder of pewter dragons",
       "tap": "a thunder of pewter dragons displaying multihued wings",
@@ -36944,6 +36989,21 @@
       "worn": null,
       "cost_copper": 90000000,
       "price": "9,000 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Water Room",
+      "shop": "Tipsy Taboo",
+      "owner": "Kalyssia",
+      "hours": "11am and 2am",
+      "name": "some blowgun darts",
+      "short": "some blowgun darts",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
       "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
