@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T02:01:01Z",
-  "item_count": 4265,
+  "updated_at": "2026-05-04T02:01:42Z",
+  "item_count": 4261,
   "items": [
     {
       "town": "Crossing",
@@ -60803,21 +60803,6 @@
       "shop": "Nyr And Far",
       "owner": "Nyrhin",
       "hours": "12pm and 6am",
-      "name": "a diacan-bladed avia fan dangling sprawled kraken charms",
-      "short": "a diacan-bladed avia fan",
-      "tap": "a diacan-bladed avia fan dangling sprawled kraken charms",
-      "worn": null,
-      "cost_copper": 7000000,
-      "price": "700 platinum Dokoras",
-      "description": "The thick fathomless black metal blades are well honed to an iridescent razor-sharp edge.\nThe fan is closed.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Prism Room",
-      "shop": "Nyr And Far",
-      "owner": "Nyrhin",
-      "hours": "12pm and 6am",
       "name": "a front-laced bodice of crimson silk adorned with gold star charms",
       "short": "a front-laced bodice",
       "tap": "a front-laced bodice of crimson silk adorned with gold star charms",
@@ -60825,21 +60810,6 @@
       "cost_copper": 150000,
       "price": "15 platinum Dokoras",
       "description": "Etched gold star charms tumble in a haphazard fashion from one shoulder to the waist of the garment.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Prism Room",
-      "shop": "Nyr And Far",
-      "owner": "Nyrhin",
-      "hours": "12pm and 6am",
-      "name": "a glass decahedron",
-      "short": "a glass decahedron",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Dokoras",
-      "description": "Pale mists roil under the glassy surface.",
       "last_seen": "2026-05-04"
     },
     {
@@ -60975,36 +60945,6 @@
       "cost_copper": 150000,
       "price": "15 platinum Dokoras",
       "description": "Flexible boning lends structure and preserves the shape of the warm, soft wool bodice, dyed purple and flecked with variegated shades of grey.  Tailored for a demure effect, the top features a square neckline, a waistline that drops in a low V shape, and tonally matched back lacing.\nThe top hook of the modest bodice is closed.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Prism Room",
-      "shop": "Nyr And Far",
-      "owner": "Nyrhin",
-      "hours": "12pm and 6am",
-      "name": "a pale red cotton corset reinforced by leather",
-      "short": "a red cotton corset",
-      "tap": "a pale red cotton corset reinforced by leather",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 80000,
-      "price": "8 platinum Dokoras",
-      "description": "Thin strips of dark red leather sit between wider lengths of sturdy fabric to give the garment extra strength.  Polished brass hooks make a neat row down the front while a double set of laces allow the wearer to adjust the fit.\nThe top hook of the cotton corset is closed.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Prism Room",
-      "shop": "Nyr And Far",
-      "owner": "Nyrhin",
-      "hours": "12pm and 6am",
-      "name": "a platinum-capped scroll tied with a red ribbon",
-      "short": "a platinum-capped scroll",
-      "tap": "a platinum-capped scroll tied with a red ribbon",
-      "worn": null,
-      "cost_copper": 5000000,
-      "price": "500 platinum Dokoras",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
     {
