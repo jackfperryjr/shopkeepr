@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T23:38:20Z",
-  "item_count": 4253,
+  "updated_at": "2026-05-03T23:38:57Z",
+  "item_count": 4254,
   "items": [
     {
       "town": "Crossing",
@@ -49425,6 +49425,21 @@
       "cost_copper": 300000000,
       "price": "30,000 platinum Lirums",
       "description": "The fabric of the cloak is liberally draped with cobwebs and trailing bits of tattered spidersilk.  Insect legs, wings, and carapaces are hung throughout the webs, grisly remnants of a spider's last meal. | Fine silver lettering on a tag inside the cloak reads:\nThis cloak by my hand - Stiltskitter",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Tower Room",
+      "shop": "Organized Chaos",
+      "owner": "Tranon",
+      "hours": "2pm and 2am",
+      "name": "some lootpouch instructions",
+      "short": "some lootpouch instructions",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 250000000,
+      "price": "25,000 platinum Lirums",
+      "description": "You see nothing unusual. | These instructions appear to be very fragile and will wear out quickly when studied.  They have only 3 uses remaining.\n-=   Instructions for crafting a cloth lootpouch    =-\nA cloth lootpouch is a craftable item in the Outfitting society under the Tailoring crafting discipline.  This is considered to be a challenging piece to make, though knowledge of the Cloth Container Design technique will be beneficial to the crafter.\nThis item is listed as a \"finished cloth container\" ingredient type and is created using a yardstick, scissors, a needle and thinner thread.  A crafter may also find it helpful to have straight pins and a slickstone or flat iron on hand.\nA list of ingredients is provided:\n(1) finished fabric cloth (5 yards)",
       "last_seen": "2026-05-03"
     },
     {
