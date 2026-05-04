@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T20:28:56Z",
-  "item_count": 4092,
+  "updated_at": "2026-05-03T20:29:28Z",
+  "item_count": 4089,
   "items": [
     {
       "town": "Crossing",
@@ -28949,51 +28949,6 @@
       "worn": null,
       "cost_copper": 10000,
       "price": "1 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Sar's Outfitters",
-      "owner": "Sarleyth",
-      "hours": "2pm and 12am",
-      "name": "a heavy wool backpack",
-      "short": "a backpack",
-      "tap": "a heavy wool backpack",
-      "worn": "Back-worn.",
-      "cost_copper": 200000,
-      "price": "20 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Sar's Outfitters",
-      "owner": "Sarleyth",
-      "hours": "2pm and 12am",
-      "name": "a heavy wool carryall",
-      "short": "a carryall",
-      "tap": "a heavy wool carryall",
-      "worn": "Back-worn.",
-      "cost_copper": 200000,
-      "price": "20 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Savannah Room",
-      "shop": "Sar's Outfitters",
-      "owner": "Sarleyth",
-      "hours": "2pm and 12am",
-      "name": "a heavy wool haversack",
-      "short": "a haversack",
-      "tap": "a heavy wool haversack",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 200000,
-      "price": "20 platinum Kronars",
       "description": "You see nothing unusual.",
       "last_seen": "2026-05-03"
     },
