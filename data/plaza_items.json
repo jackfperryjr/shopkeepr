@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T20:09:41Z",
-  "item_count": 4096,
+  "updated_at": "2026-05-03T20:10:41Z",
+  "item_count": 4095,
   "items": [
     {
       "town": "Crossing",
@@ -1435,21 +1435,6 @@
       "hours": "2pm and 12am",
       "name": "a copper Dokora coin",
       "short": "a copper Dokora coin",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 50000,
-      "price": "5 platinum Kronars",
-      "description": "You need to be holding the coin first. | You need to be holding the coin first.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Almost Famous",
-      "owner": "Heda",
-      "hours": "2pm and 12am",
-      "name": "a copper Lirum coin",
-      "short": "a copper Lirum coin",
       "tap": null,
       "worn": null,
       "cost_copper": 50000,
