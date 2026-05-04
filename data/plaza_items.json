@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T08:19:39Z",
-  "item_count": 4288,
+  "updated_at": "2026-05-04T08:20:27Z",
+  "item_count": 4285,
   "items": [
     {
       "town": "Crossing",
@@ -3353,21 +3353,6 @@
       "shop": "Archi's Place",
       "owner": "Archipelago",
       "hours": "8am and 4am",
-      "name": "a bronze coyote's head clasp with a broken hinge",
-      "short": "a broken bronze clasp",
-      "tap": "a bronze coyote's head clasp with a broken hinge",
-      "worn": "Generally worn.",
-      "cost_copper": 250000,
-      "price": "25 platinum Kronars",
-      "description": "The hinge at the jaw of the coyote's head is broken in the open position, baring its bone teeth in either a grin or a growl.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "River Room",
-      "shop": "Archi's Place",
-      "owner": "Archipelago",
-      "hours": "8am and 4am",
       "name": "a cambrinth moon jelly with a clear diopside bell",
       "short": "a cambrinth moon jelly",
       "tap": "a cambrinth moon jelly with a clear diopside bell",
@@ -3503,21 +3488,6 @@
       "shop": "Archi's Place",
       "owner": "Archipelago",
       "hours": "8am and 4am",
-      "name": "a sapphire turtle charm set upon a pewter backing",
-      "short": "a turtle charm",
-      "tap": "a sapphire turtle charm set upon a pewter backing",
-      "worn": "Generally worn.",
-      "cost_copper": 500000,
-      "price": "50 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "River Room",
-      "shop": "Archi's Place",
-      "owner": "Archipelago",
-      "hours": "8am and 4am",
       "name": "a scallop-edged chain balaclava",
       "short": "a scallop-edged chain balaclava",
       "tap": null,
@@ -3600,21 +3570,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "Tiny silver chains wrap around the hilt of the katar, ensuring a tight grip in the heat of battle.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "River Room",
-      "shop": "Archi's Place",
-      "owner": "Archipelago",
-      "hours": "8am and 4am",
-      "name": "a wide silver wristband heavily coated with black tarnish and crudely etched with galloping centaurs",
-      "short": "a tarnished silver wristband",
-      "tap": "a wide silver wristband heavily coated with black tarnish and crudely etched with galloping centaurs",
-      "worn": "Wrist-worn.",
-      "cost_copper": 500000,
-      "price": "50 platinum Kronars",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
     {
