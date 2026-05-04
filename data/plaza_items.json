@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T20:36:41Z",
-  "item_count": 4089,
+  "updated_at": "2026-05-03T20:37:50Z",
+  "item_count": 4088,
   "items": [
     {
       "town": "Crossing",
@@ -47955,21 +47955,6 @@
       "cost_copper": 3000000,
       "price": "300 platinum Lirums",
       "description": "It is labeled \"Rutilor's Edge.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "World Room",
-      "shop": "Practical Provisions",
-      "owner": "Urbaj",
-      "hours": "8am and 4am",
-      "name": "a rainbow-hued scroll labeled with Sleep",
-      "short": "a rainbow-hued scroll",
-      "tap": "a rainbow-hued scroll labeled with Sleep",
-      "worn": null,
-      "cost_copper": 3000000,
-      "price": "300 platinum Lirums",
-      "description": "It is labeled \"Sleep.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-05-03"
     },
     {
