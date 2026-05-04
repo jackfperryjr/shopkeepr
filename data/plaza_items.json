@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T22:41:17Z",
-  "item_count": 4184,
+  "updated_at": "2026-05-03T22:41:51Z",
+  "item_count": 4188,
   "items": [
     {
       "town": "Crossing",
@@ -48525,6 +48525,66 @@
       "cost_copper": 150000000,
       "price": "15,000 platinum Lirums",
       "description": "Dainty emerald and white flowers are sewn onto the pale green fabric, creating the illusion of a field of flowers in full bloom across the luxurious marblesilk.  A row of elegant floral buds is embroidered along the sweetheart neckline, while the full skirt is tailored to barely brush the ankles when worn.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Warrior Room",
+      "shop": "Pop Shop ~ A FizzCo Subsidiary",
+      "owner": "Fizzlepop",
+      "hours": "6pm and 1am",
+      "name": "a furniture voucher illustrated with a muted grey and cream calico cat",
+      "short": "a furniture voucher",
+      "tap": "a furniture voucher illustrated with a muted grey and cream calico cat",
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Lirums",
+      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a muted grey and cream calico cat, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Warrior Room",
+      "shop": "Pop Shop ~ A FizzCo Subsidiary",
+      "owner": "Fizzlepop",
+      "hours": "6pm and 1am",
+      "name": "a furniture voucher illustrated with a shaggy ewe with big black eyes",
+      "short": "a furniture voucher",
+      "tap": "a furniture voucher illustrated with a shaggy ewe with big black eyes",
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Lirums",
+      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a shaggy ewe with big black eyes, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Warrior Room",
+      "shop": "Pop Shop ~ A FizzCo Subsidiary",
+      "owner": "Fizzlepop",
+      "hours": "6pm and 1am",
+      "name": "a furniture voucher illustrated with a white baby goat with big blue eyes",
+      "short": "a furniture voucher",
+      "tap": "a furniture voucher illustrated with a white baby goat with big blue eyes",
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Lirums",
+      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a white baby goat with big blue eyes, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Warrior Room",
+      "shop": "Pop Shop ~ A FizzCo Subsidiary",
+      "owner": "Fizzlepop",
+      "hours": "6pm and 1am",
+      "name": "a furniture voucher illustrated with a white headless chicken",
+      "short": "a furniture voucher",
+      "tap": "a furniture voucher illustrated with a white headless chicken",
+      "worn": null,
+      "cost_copper": 5000000,
+      "price": "500 platinum Lirums",
+      "description": "You recognize this as the documentation needed to exchange furniture. | \"This document is valid for a white headless chicken, which occupies the pet space of your home.  It can be redeemed with any of the Estate Holder housing clerks.\"",
       "last_seen": "2026-05-03"
     },
     {
