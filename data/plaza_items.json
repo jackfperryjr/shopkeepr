@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T19:55:18Z",
-  "item_count": 4101,
+  "updated_at": "2026-05-03T19:56:20Z",
+  "item_count": 4099,
   "items": [
     {
       "town": "Crossing",
@@ -9908,21 +9908,6 @@
       "shop": "Clematis Crossing",
       "owner": "Shearah",
       "hours": "2pm and 12am",
-      "name": "a cherry blossom-pink valise clasped by a filigreed verdanite fairy wing",
-      "short": "a cherry blossom-pink valise",
-      "tap": "a cherry blossom-pink valise clasped by a filigreed verdanite fairy wing",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "Securing the bag is a delicate spring-green shape, wrought with fine lines that trace the curves of a whimsically beautiful fae wing.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Dimly-Lit Storage",
-      "shop": "Clematis Crossing",
-      "owner": "Shearah",
-      "hours": "2pm and 12am",
       "name": "a conical witch's hat wrapped in misiumosette and topped with ghost orchids",
       "short": "a conical witch's hat",
       "tap": "a conical witch's hat wrapped in misiumosette and topped with ghost orchids",
@@ -10125,21 +10110,6 @@
       "cost_copper": 60000000,
       "price": "6,000 platinum Kronars",
       "description": "Panels of creamy ivory fabric are fashioned into a lightweight tailored jacket secured with a row of alabaster fire opals gleaming with hints of fiery red and orange.  Spun platinum threads are woven with firestorm fibers to create the luxuriously rich and heavy fabric.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Dimly-Lit Storage",
-      "shop": "Clematis Crossing",
-      "owner": "Shearah",
-      "hours": "2pm and 12am",
-      "name": "a fitted heretic black satin shirt with silversteel buttons",
-      "short": "a black satin shirt",
-      "tap": "a fitted heretic black satin shirt with silversteel buttons",
-      "worn": "Shirt-worn with armor.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "Careful examination of a fitted heretic black satin shirt with silversteel buttons reveals a spring-loaded sheath concealed in its right sleeve.  The sheath is empty.\nExpertly tailored into a formal style to fit the wearer's form, the garment is secured by tiny silversteel buttons shaped into tiny daggers.  The finely woven fabric and evenly-creased lines combine to form a dashing raiment of unsurpassed charm and elegance.",
       "last_seen": "2026-05-03"
     },
     {
