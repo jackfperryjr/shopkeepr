@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T15:26:45Z",
-  "item_count": 4344,
+  "updated_at": "2026-05-04T15:27:12Z",
+  "item_count": 4342,
   "items": [
     {
       "town": "Crossing",
@@ -62415,36 +62415,6 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "The Sea",
-      "shop": "Silvyandril's Shop",
-      "owner": null,
-      "hours": "2pm and 1am",
-      "name": "a green canvas pouch intricately embroidered with \"Congruence\"",
-      "short": "a green canvas pouch",
-      "tap": "a green canvas pouch intricately embroidered with \"Congruence\"",
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 100000,
-      "price": "10 platinum Dokoras",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "The Sea",
-      "shop": "Silvyandril's Shop",
-      "owner": null,
-      "hours": "2pm and 1am",
-      "name": "a jagged sandstone shard with a lump of soulstone embedded in one end",
-      "short": "a jagged sandstone shard",
-      "tap": "a jagged sandstone shard with a lump of soulstone embedded in one end",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Dokoras",
-      "description": "Smooth and slightly oblong, the soulstone is about the size of a woman's fist.  Its glossy surface swirls with patterns of black and white which resemble a churning thunderstorm.",
       "last_seen": "2026-05-04"
     },
     {
