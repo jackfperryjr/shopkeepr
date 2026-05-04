@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T20:27:48Z",
-  "item_count": 4091,
+  "updated_at": "2026-05-03T20:28:56Z",
+  "item_count": 4092,
   "items": [
     {
       "town": "Crossing",
@@ -26816,6 +26816,21 @@
       "name": "some blunt-tipped arrows with viridian stripes",
       "short": "some blunt-tipped arrows",
       "tap": "some blunt-tipped arrows with viridian stripes",
+      "worn": null,
+      "cost_copper": 100000,
+      "price": "10 platinum Kronars",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Savannah Room",
+      "shop": "Perfectly Precise",
+      "owner": "Precise",
+      "hours": "1pm and 11pm",
+      "name": "some blunt-tipped bolts with pitch-black chevrons",
+      "short": "some blunt-tipped bolts",
+      "tap": "some blunt-tipped bolts with pitch-black chevrons",
       "worn": null,
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
