@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T11:50:00Z",
-  "item_count": 4337,
+  "updated_at": "2026-05-04T11:50:31Z",
+  "item_count": 4338,
   "items": [
     {
       "town": "Crossing",
@@ -45060,6 +45060,21 @@
       "cost_copper": 9500000,
       "price": "950 platinum Lirums",
       "description": "The heavy plate armor is carefully etched with an ornate acanth leaf pattern along the pauldrons, while inlaid upon the chest is a meticulously detailed wyvern, enameled in rich green hues and inset with eyes of gleaming ebon jackal's heart pearls.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Riverhaven",
+      "hub_room": "Children's Room",
+      "shop": "Finer Things By Zincir",
+      "owner": "Zincir",
+      "hours": "10am and 12am",
+      "name": "some platinum sun goggles with gold crystal lenses",
+      "short": "some platinum sun goggles",
+      "tap": "some platinum sun goggles with gold crystal lenses",
+      "worn": "Generally worn.",
+      "cost_copper": 7500000,
+      "price": "750 platinum Lirums",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
     {
