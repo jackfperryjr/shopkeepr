@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T19:05:06Z",
-  "item_count": 4104,
+  "updated_at": "2026-05-03T19:06:09Z",
+  "item_count": 4103,
   "items": [
     {
       "town": "Crossing",
@@ -8655,21 +8655,6 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "Spiraling the slender wand are pearly-white howlite gems, their unique shape and dark grey veining making them appear like tiny stormclouds.  Etched beneath each of the stones are fractured lightning bolts.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Barrel Room",
-      "shop": "Cash's Cache",
-      "owner": "Cashmina",
-      "hours": "3pm and 12am",
-      "name": "a bright periwinkle titanese shirt buttoned with tiger lily carnelians",
-      "short": "a periwinkle titanese shirt",
-      "tap": "a bright periwinkle titanese shirt buttoned with tiger lily carnelians",
-      "worn": "Shirt-worn, but not with armor.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "The dark orange gems pop against the fabric's blue-tinged purple hue.",
       "last_seen": "2026-05-03"
     },
     {
