@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T19:37:12Z",
-  "item_count": 4105,
+  "updated_at": "2026-05-03T19:37:54Z",
+  "item_count": 4104,
   "items": [
     {
       "town": "Crossing",
@@ -40739,7 +40739,7 @@
       "worn": null,
       "cost_copper": 1000000,
       "price": "100 platinum Lirums",
-      "description": "With a stately glide, a school of deep blue dartfish swims past wispy tendrils of watergrass along the edge of the sphere.",
+      "description": "Clear water fills a fragile blown-glass sphere cradled within a twisted blue gold frame, in which swims a silver-flecked violet dancerfish.  At the bottom of the tank, wispy tendrils of watergrass provide a frame for a miniature coral reef.",
       "last_seen": "2026-05-03"
     },
     {
@@ -41220,21 +41220,6 @@
       "cost_copper": 50000,
       "price": "5 platinum Lirums",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Riverhaven",
-      "hub_room": "Skyward Atrium",
-      "shop": "Couri's Curious Curios",
-      "owner": "Couri",
-      "hours": "10am and 10pm",
-      "name": "an engraved steel war hammer with a spiraled golden handle",
-      "short": "an engraved war hammer",
-      "tap": "an engraved steel war hammer with a spiraled golden handle",
-      "worn": null,
-      "cost_copper": 6000000,
-      "price": "600 platinum Lirums",
-      "description": "Covering the entirety of the weapon's head, remarkable skill is evident in every precise touch of the engraver's craft.  Fluid, wave-like abstractions insinuate themselves among sharply delineated geometric shapes, in a rhythmic unity of patternless harmony and contradiction.",
       "last_seen": "2026-05-03"
     },
     {
