@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T14:26:16Z",
-  "item_count": 4390,
+  "updated_at": "2026-05-04T14:27:16Z",
+  "item_count": 4388,
   "items": [
     {
       "town": "Crossing",
@@ -58350,36 +58350,6 @@
       "cost_copper": 100000,
       "price": "10 platinum Dokoras",
       "description": "You see nothing unusual.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Fertin Store",
-      "owner": "Fertin",
-      "hours": "12pm and 8am",
-      "name": "a steel carving knife",
-      "short": "a carving knife",
-      "tap": "a steel carving knife",
-      "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Dokoras",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Fertin Store",
-      "owner": "Fertin",
-      "hours": "12pm and 8am",
-      "name": "a steel claymore",
-      "short": "a claymore",
-      "tap": "a steel claymore",
-      "worn": null,
-      "cost_copper": 100000,
-      "price": "10 platinum Dokoras",
-      "description": "You see the initials 'F. U.' impressed into the surface of the metal.",
       "last_seen": "2026-05-04"
     },
     {
