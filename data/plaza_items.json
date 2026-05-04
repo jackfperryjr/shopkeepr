@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T21:20:51Z",
-  "item_count": 4063,
+  "updated_at": "2026-05-03T21:21:52Z",
+  "item_count": 4064,
   "items": [
     {
       "town": "Crossing",
@@ -9450,6 +9450,21 @@
       "cost_copper": 100000,
       "price": "10 platinum Kronars",
       "description": "You see nothing unusual.",
+      "last_seen": "2026-05-03"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Barrel Room",
+      "shop": "Cash's Cache",
+      "owner": "Cashmina",
+      "hours": "3pm and 12am",
+      "name": "some coarse hiro bearskin leathers marked with dark crimson slashes",
+      "short": "some hiro bearskin leathers",
+      "tap": "some coarse hiro bearskin leathers marked with dark crimson slashes",
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 10000000,
+      "price": "1,000 platinum Kronars",
+      "description": "Deep red stripes traverse across the front and back of the armor in broad diagonal lines.",
       "last_seen": "2026-05-03"
     },
     {
