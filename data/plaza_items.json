@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T13:36:18Z",
-  "item_count": 4321,
+  "updated_at": "2026-05-04T13:37:05Z",
+  "item_count": 4325,
   "items": [
     {
       "town": "Crossing",
@@ -61448,6 +61448,21 @@
       "shop": "Rainbow Retail",
       "owner": "Mallie",
       "hours": "11am and 2am",
+      "name": "a deed for a fulginode stone",
+      "short": "a stone fulginode deed",
+      "tap": "a deed for a fulginode stone",
+      "worn": null,
+      "cost_copper": 20000000,
+      "price": "2,000 platinum Dokoras",
+      "description": "--=== Stone Properties ===--\nQuality:       99 (perfect)\nHardness:      96 (nearly impossible to scratch)\nDurability:    55 (decent durability)\nWorkability:   20 (difficult to work with) | A deed for a fulginode stone reads:\n\"The bearer of this deed may tap it while inside of a crafting hall to have it traded for the material indicated.  This service is provided within the confines of the Crafting Societies due to the great size and difficulty with moving these materials.\"\nA detailed report of the item's properties are listed on the deed:\n--=== Stone Properties ===--\nQuality:       99 (perfect)\nHardness:      96 (nearly impossible to scratch)\nDurability:    55 (decent durability)\nWorkability:   20 (difficult to work with)\nYou think the item is ready for reclaiming in any Society Hall by now.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Stormshine Room",
+      "shop": "Rainbow Retail",
+      "owner": "Mallie",
+      "hours": "11am and 2am",
       "name": "a deed for a kertig bludgeon",
       "short": "a bludgeon deed",
       "tap": "a deed for a kertig bludgeon",
@@ -61455,6 +61470,21 @@
       "cost_copper": 12500000,
       "price": "1,250 platinum Dokoras",
       "description": "--=== Crafted Item Properties ===--\nQuality:       99 (masterfully-crafted)\n--=== Metallurgical Properties ===--\nQuality:       90 (somewhat pure)\nVolume:       5\nHardness:      95 (absurdly hard)\nWorkability:      5 (unbelievably difficult to work with)\nDurability:      70 (good durability)\nThermalResist:      55 (good at transferring heat and cold)\nElectricResist:      40 (a very good conductor of electricity)\nPhysicalResist:      90 (incredibly good at repelling physical blows)\nThe metal appears to be composed of: 67.00% kertig, and 33.00% brass. | A deed for a kertig bludgeon reads:\n\"The bearer of this deed may tap it while inside of a crafting hall to have it traded for the material indicated.  This service is provided within the confines of the Crafting Societies due to the great size and difficulty with moving these materials.\"\nA detailed report of the item's properties are listed on the deed:\n--=== Crafted Item Properties ===--\nQuality:       99 (masterfully-crafted)\n--=== Metallurgical Properties ===--\nQuality:       90 (somewhat pure)\nVolume:       5\nHardness:      95 (absurdly hard)\nWorkability:      5 (unbelievably difficult to work with)\nDurability:      70 (good durability)\nThermalResist:      55 (good at transferring heat and cold)\nElectricResist:      40 (a very good conductor of electricity)\nPhysicalResist:      90 (incredibly good at repelling physical blows)\nThe metal appears to be composed of: 67.00% kertig, and 33.00% brass.\nYou think the item is ready for reclaiming in any Society Hall by now.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Stormshine Room",
+      "shop": "Rainbow Retail",
+      "owner": "Mallie",
+      "hours": "11am and 2am",
+      "name": "a deed for some bark-hide leather",
+      "short": "a tiny damite lump",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 8000000,
+      "price": "800 platinum Dokoras",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
     {
@@ -61778,6 +61808,21 @@
       "shop": "Rainbow Retail",
       "owner": "Mallie",
       "hours": "11am and 2am",
+      "name": "a tiny damite lump",
+      "short": "some darkspine lumber",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 2000000,
+      "price": "200 platinum Dokoras",
+      "description": "You see nothing unusual.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Stormshine Room",
+      "shop": "Rainbow Retail",
+      "owner": "Mallie",
+      "hours": "11am and 2am",
       "name": "a turtleplait thigh bag clasped with a polished seaglass button",
       "short": "a turtleplait thigh bag",
       "tap": "a turtleplait thigh bag clasped with a polished seaglass button",
@@ -61845,6 +61890,21 @@
       "cost_copper": 50000000,
       "price": "5,000 platinum Dokoras",
       "description": "This remarkable piece of jewelry is created from small gold scales which dangle from a chain designed to sit securely at the base of the neck.  Some scales remain unadorned, while others are inlaid with bright fire agates engraved with flames.  The vibrant red-orange hue of the lava sphalerites flickers with hints of yellow, creating the impression of sunlight glinting off molten lava.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Shard",
+      "hub_room": "Stormshine Room",
+      "shop": "Rainbow Retail",
+      "owner": "Mallie",
+      "hours": "11am and 2am",
+      "name": "some darkspine lumber",
+      "short": "a tiny kertig tear",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 12000000,
+      "price": "1,200 platinum Dokoras",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
     {
