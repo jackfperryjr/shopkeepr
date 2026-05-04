@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T23:04:04Z",
-  "item_count": 4254,
+  "updated_at": "2026-05-03T23:04:47Z",
+  "item_count": 4253,
   "items": [
     {
       "town": "Crossing",
@@ -20745,21 +20745,6 @@
       "cost_copper": 250000000,
       "price": "25,000 platinum Kronars",
       "description": "Blooms cast out of starlight-white uthamar unfold from each end of the bright green metal chain, their delicate petals curled up to form the shape of a tiny horse's head.  Gracing the unicorn lilies with a silvery-green glow, delicate verdant moonsilver vines encircle each blossom and wrap around the weapon's chain.",
-      "last_seen": "2026-05-03"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Library",
-      "shop": "Kiyora's Starlight Selections",
-      "owner": "Kiyora",
-      "hours": "7pm and 3am",
-      "name": "a flooded goldfyre signet ring bearing the crest of a tidal bloodstone kraken",
-      "short": "a goldfyre signet ring",
-      "tap": "a flooded goldfyre signet ring bearing the crest of a tidal bloodstone kraken",
-      "worn": "Ring-worn.",
-      "cost_copper": 80000000,
-      "price": "8,000 platinum Kronars",
-      "description": "Stippled with oceanic blue flecks, the storm-grey gem is carved and contoured into a stylized kraken with sprawling tentacles.  Energetic azure pulses ripple across the gold-tinged band, creating a dynamically active flooding effect that is reminiscent of a savage storm.\nThe ring is etched with a monstrous kraken sprawled across the wreckage of a once-majestic galleon.",
       "last_seen": "2026-05-03"
     },
     {
