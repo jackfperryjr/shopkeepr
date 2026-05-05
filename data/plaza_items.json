@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T20:46:10Z",
-  "item_count": 4350,
+  "updated_at": "2026-05-04T20:46:48Z",
+  "item_count": 4353,
   "items": [
     {
       "town": "Crossing",
@@ -31598,6 +31598,21 @@
       "shop": "South End Exchange",
       "owner": "Dobi",
       "hours": "11am and 11pm",
+      "name": "a pitch pearl",
+      "short": "a pitch pearl",
+      "tap": null,
+      "worn": null,
+      "cost_copper": 50000000,
+      "price": "5,000 platinum Kronars",
+      "description": "The dull black stone refuses to show even a hint of color, no matter what conditions it is inspected under.  Legends claim that objects left in the presence of a pitch pearl for extended periods of time will slowly fade to greyscale.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "South End Exchange",
+      "owner": "Dobi",
+      "hours": "11am and 11pm",
       "name": "a platinum chain",
       "short": "a windsteel nugget",
       "tap": null,
@@ -31650,6 +31665,21 @@
       "cost_copper": 4500000,
       "price": "450 platinum Kronars",
       "description": "Polished to a brilliant shine, the central concave depression is perfectly shaped for cradling against a thumb.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "South End Exchange",
+      "owner": "Dobi",
+      "hours": "11am and 11pm",
+      "name": "a scorched wooden cage entangled with dark green vines",
+      "short": "a scorched wooden cage",
+      "tap": "a scorched wooden cage entangled with dark green vines",
+      "worn": null,
+      "cost_copper": 73000000,
+      "price": "7,300 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
     {
@@ -31785,6 +31815,21 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Though smoothly polished, the surface of the gem is dull and blotchy, not unlike old, dirty glass.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Armor Room",
+      "shop": "South End Exchange",
+      "owner": "Dobi",
+      "hours": "11am and 11pm",
+      "name": "an ocean jasper",
+      "short": "a scorched wooden cage",
+      "tap": "a scorched wooden cage entangled with dark green vines",
+      "worn": null,
+      "cost_copper": 60000000,
+      "price": "6,000 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
     {
