@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T23:39:25Z",
-  "item_count": 4323,
+  "updated_at": "2026-05-04T23:40:01Z",
+  "item_count": 4324,
   "items": [
     {
       "town": "Crossing",
@@ -35925,6 +35925,21 @@
       "cost_copper": 4000000,
       "price": "400 platinum Kronars",
       "description": "Wrapped in a complicated eight-strand round braid, the diamond-hide hilt sparkles when viewed in the light.",
+      "last_seen": "2026-05-04"
+    },
+    {
+      "town": "Crossing",
+      "hub_room": "Cooper Room",
+      "shop": "Tiddeggur's Shop",
+      "owner": null,
+      "hours": "8pm and 2pm",
+      "name": "some gleaming silver-white plate",
+      "short": "some gleaming silver-white plate",
+      "tap": null,
+      "worn": "Shirt-worn, but not with armor.",
+      "cost_copper": 6000000,
+      "price": "600 platinum Kronars",
+      "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
     {
