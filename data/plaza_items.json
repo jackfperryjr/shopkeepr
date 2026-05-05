@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T19:04:45Z",
-  "item_count": 4352,
+  "updated_at": "2026-05-04T19:05:16Z",
+  "item_count": 4349,
   "items": [
     {
       "town": "Crossing",
@@ -60818,21 +60818,6 @@
       "shop": "Krazeil's Troop Supply And Arms",
       "owner": "Krazeil",
       "hours": "3pm and 11pm",
-      "name": "a crested blue jay with a silvery-blue beak",
-      "short": "a crested blue jay",
-      "tap": "a crested blue jay with a silvery-blue beak",
-      "worn": "Generally worn.",
-      "cost_copper": 5000000,
-      "price": "500 platinum Dokoras",
-      "description": "Predominantly lavender-blue feathers cover the bird's small body, though its chest and belly are covered in white.  A small black u-shaped collar around its neck matches the black banding along its narrow sky-blue tail.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "The Sea",
-      "shop": "Krazeil's Troop Supply And Arms",
-      "owner": "Krazeil",
-      "hours": "3pm and 11pm",
       "name": "a gleaming agonite warrior's shield studded with blood rubies",
       "short": "an agonite warrior's shield",
       "tap": "a gleaming agonite warrior's shield studded with blood rubies",
@@ -60855,21 +60840,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Dokoras",
       "description": "Delicate green gold shimmers against the inky black blade like motes of moonlight penetrating the bayou canopy.  Dyed a lurid green, lotusweave provides a secure grip. | \"Sibo Dernaka\"",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "The Sea",
-      "shop": "Krazeil's Troop Supply And Arms",
-      "owner": "Krazeil",
-      "hours": "3pm and 11pm",
-      "name": "a leathery mask",
-      "short": "a leathery mask",
-      "tap": null,
-      "worn": "Head-worn with armor.",
-      "cost_copper": 4000000,
-      "price": "400 platinum Dokoras",
-      "description": "A handful of shark-skin scraps are sewn together to form the menacing replica.  The skin appears scarred where the scraps meet, adding to the illusion. | There is nothing written on a leathery mask.",
       "last_seen": "2026-05-04"
     },
     {
@@ -61020,21 +60990,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Dokoras",
       "description": "Dark brown fur-like cords trail from the heavy weapon and inlaid reaver-bone grips cover the haft.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "The Sea",
-      "shop": "Krazeil's Troop Supply And Arms",
-      "owner": "Krazeil",
-      "hours": "3pm and 11pm",
-      "name": "a striking kuwinite-plated dome helm embellished with baroque silverwork",
-      "short": "a kuwinite dome helm",
-      "tap": "a striking kuwinite-plated dome helm embellished with baroque silverwork",
-      "worn": "Helm-worn.",
-      "cost_copper": 1500000,
-      "price": "150 platinum Dokoras",
-      "description": "While its base is crafted from solid steel, this helm has been conspicuously covered in thin sheets of raspberry pink metal.  Between the ostentatious plates, masterful silver scrollwork creates a freeform pattern that appears to playfully mimic the natural folds and creases of a brain.",
       "last_seen": "2026-05-04"
     },
     {
