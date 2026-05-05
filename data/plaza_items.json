@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T21:35:42Z",
-  "item_count": 4381,
+  "updated_at": "2026-05-04T21:36:53Z",
+  "item_count": 4380,
   "items": [
     {
       "town": "Crossing",
@@ -57824,21 +57824,6 @@
       "worn": "Shirt-worn, but not with armor.",
       "cost_copper": 950000,
       "price": "95 platinum Dokoras",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Shard",
-      "hub_room": "Storage",
-      "shop": "Fertin Store",
-      "owner": "Fertin",
-      "hours": "12pm and 8am",
-      "name": "a lumium ring shirt",
-      "short": "a ring shirt",
-      "tap": "a lumium ring shirt",
-      "worn": "Shirt-worn, but not with armor.",
-      "cost_copper": 1050000,
-      "price": "105 platinum Dokoras",
       "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
