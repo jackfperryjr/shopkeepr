@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T19:31:28Z",
-  "item_count": 4342,
+  "updated_at": "2026-05-04T19:32:27Z",
+  "item_count": 4341,
   "items": [
     {
       "town": "Crossing",
@@ -2280,21 +2280,6 @@
       "cost_copper": 250000,
       "price": "25 platinum Kronars",
       "description": "Multiple multi-colored patches appear across the bag, securing away sections where the bag appears more careworn.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Almost Famous",
-      "owner": "Heda",
-      "hours": "2pm and 12am",
-      "name": "an iron lockpick ring",
-      "short": "an iron lockpick ring",
-      "tap": null,
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 150000,
-      "price": "15 platinum Kronars",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-05-04"
     },
     {
