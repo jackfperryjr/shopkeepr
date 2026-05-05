@@ -1,4 +1,6 @@
-const DATA_URL = 'data/plaza_items.json';
+const SUPABASE_URL  = 'https://aasrdgglpfatbfbxmjds.supabase.co';
+const SUPABASE_KEY  = 'sb_publishable_NnPgUD1vk4Ox0K8LzCJKtg_muOCvXgG';
+const ITEMS_URL     = `${SUPABASE_URL}/rest/v1/plaza_items?select=*&limit=50000&order=name.asc`;
 
 function makeTip(lines) {
   return lines.filter(Boolean).join('&#10;');
@@ -149,14 +151,16 @@ function initSortHeaders() {
 
 async function loadData() {
   try {
-    const res  = await fetch(DATA_URL + '?t=' + Date.now());
-    const data = await res.json();
-    allItems   = data.items || [];
+    const res = await fetch(ITEMS_URL, {
+      headers: { apikey: SUPABASE_KEY, Authorization: `Bearer ${SUPABASE_KEY}` },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    allItems = await res.json();
 
-    const ts = data.updated_at && data.updated_at !== 'never'
-      ? new Date(data.updated_at).toLocaleString('en-US', {
-          month: 'long', day: 'numeric', year: 'numeric',
-          hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+    const latestDate = allItems.reduce((max, i) => i.last_seen > max ? i.last_seen : max, '');
+    const ts = latestDate
+      ? new Date(latestDate).toLocaleString('en-US', {
+          month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC'
         })
       : 'never';
 
@@ -170,7 +174,7 @@ async function loadData() {
     filterAndSort();
   } catch (e) {
     document.getElementById('loading').innerHTML =
-      '<span class="glyph">✦</span><p>Could not load plaza_items.json</p>';
+      '<span class="glyph">✦</span><p>Could not load item data</p>';
     console.error(e);
   }
 }
@@ -185,4 +189,4 @@ document.getElementById('filter-shop').addEventListener('change', filterAndSort)
 initSortHeaders();
 loadData();
 
-setInterval(() => location.reload(), 10 * 60 * 1000);
+setInterval(loadData, 10 * 60 * 1000);
