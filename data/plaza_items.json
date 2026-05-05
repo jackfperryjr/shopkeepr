@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T12:11:07Z",
-  "item_count": 4374,
+  "updated_at": "2026-05-05T12:11:35Z",
+  "item_count": 4373,
   "items": [
     {
       "town": "Crossing",
@@ -20700,21 +20700,6 @@
       "cost_copper": 500060,
       "price": "50 platinum Kronars",
       "description": "Rough blows from a hammer have shaped this silvery disk into a decent approximation of a moon.",
-      "last_seen": "2026-05-05"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Lodge Room",
-      "shop": "KLS Metalwork And Leather Goods",
-      "owner": "Karvonen",
-      "hours": "10am and 4pm",
-      "name": "a steel lockpick ring",
-      "short": "a lockpick ring",
-      "tap": "a steel lockpick ring",
-      "worn": "Worn attached to a belt.",
-      "cost_copper": 100025,
-      "price": "10 platinum Kronars",
-      "description": "You see nothing unusual.",
       "last_seen": "2026-05-05"
     },
     {
