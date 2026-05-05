@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T13:57:38Z",
-  "item_count": 4383,
+  "updated_at": "2026-05-05T13:58:21Z",
+  "item_count": 4379,
   "items": [
     {
       "town": "Crossing",
@@ -3353,21 +3353,6 @@
       "shop": "Archi's Place",
       "owner": "Archipelago",
       "hours": "8am and 4am",
-      "name": "a cooking pot lid painted with a brown and white spotted cow",
-      "short": "a cooking pot lid",
-      "tap": "a cooking pot lid painted with a brown and white spotted cow",
-      "worn": "Shoulder-worn.",
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "The brown and white bovine stares stupidly from the cooking pot lid as it chews its cud.",
-      "last_seen": "2026-05-05"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "River Room",
-      "shop": "Archi's Place",
-      "owner": "Archipelago",
-      "hours": "8am and 4am",
       "name": "a deeply-cowled black samite mantle with a tenebrous crimson velvet lining",
       "short": "a deeply-cowled black samite mantle",
       "tap": "a deeply-cowled black samite mantle with a tenebrous crimson velvet lining",
@@ -3390,21 +3375,6 @@
       "cost_copper": 500000,
       "price": "50 platinum Kronars",
       "description": "As you move the globe, you see hundreds of miniature dolphins and seahorses swirling in an ever-shifting pattern about a miniature coral replica of Andreshlew.",
-      "last_seen": "2026-05-05"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "River Room",
-      "shop": "Archi's Place",
-      "owner": "Archipelago",
-      "hours": "8am and 4am",
-      "name": "a heavy sledgehammer",
-      "short": "a heavy sledgehammer",
-      "tap": null,
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "The heavy sledgehammer is basically no more than a large block of steel sitting atop a heavy wooden shaft.",
       "last_seen": "2026-05-05"
     },
     {
@@ -3488,21 +3458,6 @@
       "shop": "Archi's Place",
       "owner": "Archipelago",
       "hours": "8am and 4am",
-      "name": "a scallop-edged chain balaclava",
-      "short": "a scallop-edged chain balaclava",
-      "tap": null,
-      "worn": "Helm-worn.",
-      "cost_copper": 1500000,
-      "price": "150 platinum Kronars",
-      "description": "A generous splashing of diamond dust coats the scalloped edges of this balaclava.",
-      "last_seen": "2026-05-05"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "River Room",
-      "shop": "Archi's Place",
-      "owner": "Archipelago",
-      "hours": "8am and 4am",
       "name": "a sleek ghostspine case inlaid with a trio of shadowbloom amethysts",
       "short": "a sleek ghostspine case",
       "tap": "a sleek ghostspine case inlaid with a trio of shadowbloom amethysts",
@@ -3555,21 +3510,6 @@
       "cost_copper": 5000000,
       "price": "500 platinum Kronars",
       "description": "Similar in nature to a pitchfork, this surprisingly effective weapon features two parallel tines of black metal protruding from a polished shaft of felwood.  An unkindness of ravens carved down the length of purple wood adds a touch of mystery, their obsidian eyes glistening ominously in the light.",
-      "last_seen": "2026-05-05"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "River Room",
-      "shop": "Archi's Place",
-      "owner": "Archipelago",
-      "hours": "8am and 4am",
-      "name": "a watered-steel katar with a chain-wrapped hilt",
-      "short": "a watered-steel katar",
-      "tap": "a watered-steel katar with a chain-wrapped hilt",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "Tiny silver chains wrap around the hilt of the katar, ensuring a tight grip in the heat of battle.",
       "last_seen": "2026-05-05"
     },
     {
