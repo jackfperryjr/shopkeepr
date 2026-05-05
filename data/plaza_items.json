@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T19:41:59Z",
-  "item_count": 4340,
+  "updated_at": "2026-05-04T19:43:05Z",
+  "item_count": 4338,
   "items": [
     {
       "town": "Crossing",
@@ -22511,36 +22511,6 @@
       "name": "a miniature Idon doll dressed in caramel robes",
       "short": "a miniature Idon doll",
       "tap": "a miniature Idon doll dressed in caramel robes",
-      "worn": null,
-      "cost_copper": 880000,
-      "price": "88 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Volcano Room",
-      "shop": "Krazy Karakhan's Kombat Krafts",
-      "owner": "Karakhan",
-      "hours": "3pm and 1am",
-      "name": "a miniature Kerenhappuch doll dressed in midnight-blue robes",
-      "short": "a miniature Kerenhappuch doll",
-      "tap": "a miniature Kerenhappuch doll dressed in midnight-blue robes",
-      "worn": null,
-      "cost_copper": 1070000,
-      "price": "107 platinum Kronars",
-      "description": "You see nothing unusual.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Volcano Room",
-      "shop": "Krazy Karakhan's Kombat Krafts",
-      "owner": "Karakhan",
-      "hours": "3pm and 1am",
-      "name": "a miniature Kuniyo doll dressed in blue-green robes",
-      "short": "a miniature Kuniyo doll",
-      "tap": "a miniature Kuniyo doll dressed in blue-green robes",
       "worn": null,
       "cost_copper": 880000,
       "price": "88 platinum Kronars",
