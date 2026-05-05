@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T19:32:27Z",
-  "item_count": 4341,
+  "updated_at": "2026-05-04T19:33:07Z",
+  "item_count": 4340,
   "items": [
     {
       "town": "Crossing",
@@ -285,21 +285,6 @@
       "cost_copper": 1000000,
       "price": "100 platinum Kronars",
       "description": "It is labeled \"Divine Guidance.\" | The writing is too small.  You'll have to hold the scroll to read it.",
-      "last_seen": "2026-05-04"
-    },
-    {
-      "town": "Crossing",
-      "hub_room": "Forest Room",
-      "shop": "Affordable Treasures",
-      "owner": "Malbog",
-      "hours": "6am and 2am",
-      "name": "a crumpled paper scroll labeled with Innocence",
-      "short": "a crumpled paper scroll",
-      "tap": "a crumpled paper scroll labeled with Innocence",
-      "worn": null,
-      "cost_copper": 1000000,
-      "price": "100 platinum Kronars",
-      "description": "It is labeled \"Innocence.\" | The writing is too small.  You'll have to hold the scroll to read it.",
       "last_seen": "2026-05-04"
     },
     {
