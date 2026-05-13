@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>shopkeepr — Elanthipedia Link Builder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style-ff4.css">
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>
+  .pastebin-wrap {
+    background: linear-gradient(160deg, #0e2870 0%, #082060 55%, #061848 100%);
+    border: 1px solid rgba(100,150,255,0.45);
+    box-shadow:
+      inset 1px 1px 0 rgba(160,200,255,0.3),
+      inset -1px -1px 0 rgba(0,5,50,0.85),
+      0 0 0 1px rgba(0,0,20,0.9);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .pastebin-label {
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    color: var(--ff-label);
+    text-transform: uppercase;
+  }
+
+  textarea {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 0.95rem;
+    background: var(--ff-win-deep);
+    color: var(--ff-white);
+    border: 1px solid rgba(100,150,255,0.35);
+    box-shadow:
+      inset 1px 1px 0 rgba(0,5,50,0.9),
+      inset -1px -1px 0 rgba(140,190,255,0.12);
+    padding: 0.5rem 0.75rem;
+    width: 100%;
+    outline: none;
+    border-radius: 0;
+    resize: vertical;
+    min-height: 160px;
+    line-height: 1.6;
+  }
+
+  textarea:focus {
+    border-color: rgba(180,210,255,0.7);
+  }
+
+  textarea::placeholder { color: var(--ff-dim); }
+
+  .btn-convert {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--ff-white);
+    background: var(--ff-win-deep);
+    border: 1px solid rgba(100,150,255,0.5);
+    box-shadow:
+      inset 1px 1px 0 rgba(160,200,255,0.2),
+      inset -1px -1px 0 rgba(0,5,50,0.85);
+    padding: 0.5rem 1.25rem;
+    cursor: pointer;
+    align-self: flex-start;
+  }
+
+  .btn-convert:hover {
+    border-color: rgba(180,210,255,0.8);
+    background: rgba(14,40,112,0.9);
+  }
+
+  .btn-convert:active {
+    box-shadow:
+      inset 2px 2px 0 rgba(0,5,50,0.9),
+      inset -1px -1px 0 rgba(160,200,255,0.1);
+  }
+
+  .link-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .link-list li {
+    border-bottom: 1px solid rgba(80,120,220,0.18);
+    padding: 0.45rem 0.9rem;
+    font-size: 0.92rem;
+  }
+
+  .link-list li:hover {
+    background: var(--ff-hover);
+  }
+
+  .link-list li::before {
+    content: '► ';
+    color: var(--ff-white);
+    visibility: hidden;
+  }
+
+  .link-list li:hover::before {
+    visibility: visible;
+  }
+
+  .link-list a {
+    color: var(--ff-white);
+    text-decoration: none;
+  }
+
+  .link-list a:hover {
+    color: var(--ff-label);
+  }
+
+  .output-header {
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--ff-label);
+    background: var(--ff-win-deep);
+    padding: 0.6rem 0.9rem;
+    border-bottom: 1px solid rgba(100,150,255,0.45);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="header-ornament">DragonRealms Prime</p>
+  <h1 class="h1-ornament">shopkeepr</h1>
+  <p class="header-sub">Elanthipedia Link Builder</p>
+</header>
+
+<div class="pastebin-wrap">
+  <label class="pastebin-label" for="item-input">Paste items — one per line</label>
+  <textarea id="item-input" placeholder="steel shield&#10;oak longbow&#10;leather gloves&#10;…"></textarea>
+  <button class="btn-convert" id="btn-convert">Build Links</button>
+</div>
+
+<div class="table-wrap" id="output-wrap" style="display:none;">
+  <div class="output-header" id="output-header"></div>
+  <ul class="link-list" id="link-list"></ul>
+</div>
+
+<footer>
+  Links open searches on <a href="https://elanthipedia.play.net" target="_blank">Elanthipedia</a>.
+  Not affiliated with <a href="https://www.play.net/dr/" target="_blank">Simutronics</a>.
+</footer>
+
+<script>
+  document.getElementById('btn-convert').addEventListener('click', buildLinks);
+  document.getElementById('item-input').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) buildLinks();
+  });
+
+  function buildLinks() {
+    const raw = document.getElementById('item-input').value;
+    const items = raw.split('\n')
+      .map(s => s.trim())
+      .filter(s => s.startsWith('-') || (/^(?:a|an|the)\s/i.test(s) && !s.endsWith('.')))
+      .map(s => s
+        .replace(/^-+\s*/, '')
+        .replace(/\s*[–—].*$/, '')
+        .replace(/\s+-.*$/, '')
+        .replace(/,\s*\d[\d,.]*\s*(?:pk|k)\b.*/i, '')
+        .replace(/,$/, '')
+        .replace(/^(?:a|an|the)\s+/i, '')
+        .trim()
+      )
+      .filter(Boolean);
+
+    const wrap = document.getElementById('output-wrap');
+    const list = document.getElementById('link-list');
+    const header = document.getElementById('output-header');
+
+    if (items.length === 0) {
+      wrap.style.display = 'none';
+      return;
+    }
+
+    list.innerHTML = items.map(item => {
+      const query = encodeURIComponent(item);
+      const url   = `https://elanthipedia.play.net/index.php?search=${query}`;
+      return `<li><a href="${url}" target="_blank" rel="noopener">${escHtml(item)}</a></li>`;
+    }).join('');
+
+    header.textContent = `${items.length} item${items.length === 1 ? '' : 's'}`;
+    wrap.style.display = 'block';
+  }
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+</script>
+</body>
+</html>
